@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-05
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1157,6 +1157,32 @@ jusqu'à 60 kilomètres par des arrêtés du ministre de l'économie et des fina
 	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
 
 
+###### Article 44 bis
+
+Dans une zone contiguë comprise entre douze et vingt-quatre milles marins mesurés à partir des lignes de base de la mer
+territoriale et sous réserve d'accords de délimitation avec les Etats voisins, le service des douanes peut exercer les
+contrôles nécessaires en vue de :
+
+a) prévenir les infractions aux lois et règlements que l'administration des douanes est chargée d'appliquer sur le territoire
+douanier ;
+
+b) poursuivre les infractions à ces mêmes lois et règlements commises sur le territoire douanier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°87-1157 du 31 décembre 1987 - art. 9 () JORF 5 janvier 1988
+
+	**Cité par**:
+
+	  - Code des douanes - art. 62 (V)
+
+
 ###### Article 45
 
 Le tracé de la limite intérieure de la zone terrestre du rayon est fixé par des arrêtés du ministre de l'économie et des
@@ -1522,8 +1548,8 @@ ne s'arrêtent pas à leurs injonctions.
 
 ###### Article 62
 
-Les agents des douanes peuvent visiter tous navires au-dessous de 100 tonneaux de jauge nette ou 500 tonneaux de jauge brute
-se trouvant dans la zone maritime du rayon des douanes.
+Les agents des douanes peuvent visiter tout navire en dessous de 1.000 tonneaux de jauge brute se trouvant dans la zone
+maritime du rayon des douanes et dans la zone définie à l'article 44 bis dans les conditions prévues à cet article.
 
 **Liens relatifs à cet article**
 
@@ -1533,12 +1559,16 @@ se trouvant dans la zone maritime du rayon des douanes.
 
 	**Modifié par**:
 
-	  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
+	  - Loi n°87-1157 du 31 décembre 1987 - art. 11 () JORF 5 janvier 1988
 
 	**Cité par**:
 
 	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
 	  - Code des douanes - art. 67 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 44 bis (V)
 
 
 ###### Article 63
