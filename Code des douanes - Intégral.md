@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-07-12
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -6950,14 +6950,6 @@ mer.
 
 	  - Code des douanes - art. 216 (V)
 	  - Code général des collectivités territoriales - art. L4425-1 (M)
-
-
-### Section 6 : Droit d'escale
-
-###### Article 240 bis
-
-(texte abrogé)
-
 
 
 ### Section 7 : Hypothèques maritimes
