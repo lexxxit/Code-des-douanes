@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1992-02-08
+Version Consolidée au 1992-04-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9602,9 +9602,17 @@ La contrainte doit comporter copie du titre qui établit la créance.
 
 ###### Article 349
 
-Les contraintes sont signifiées dans les conditions prévues à l'article 362 ci-après.
+Les contraintes sont notifiées dans les conditions prévues à l'article 362 ci-après.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
 
 	**Cité par**:
 
@@ -9615,10 +9623,6 @@ Les contraintes sont signifiées dans les conditions prévues à l'article 362 c
 	**Cite**:
 
 	  - Code des douanes - art. 362 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ### Section 3 : Extinction des droits de poursuite et de répression
@@ -9659,14 +9663,18 @@ droits auraient dû être payés.
 ###### Article 355
 
 1. Les prescriptions visées par les articles 352, 353 et 354 ci-dessus n'ont pas lieu et deviennent trentenaires quand il y
-a, avant les termes prévus, contrainte décernée et signifiée, demande formée en justice, condamnation, promesse, convention
-ou obligation particulière et spéciale relative à l'objet qui est répété.
+a, avant les termes prévus, contrainte décernée et notifiée, demande formée en justice, condamnation, promesse, convention ou
+obligation particulière et spéciale relative à l'objet qui est répété.
 
 2. Il en est de même à l'égard de la prescription visée à l'article 354 lorsque c'est par un acte frauduleux du redevable que
 l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui compétait pour en
 poursuivre l'exécution.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
 
 	**Cite**:
 
@@ -10961,29 +10969,25 @@ la contestation, ce chapitre pouvant être indifféremment celui de l'espèce d�
 la désignation ne peut être faite dans ces conditions, les assesseurs peuvent être choisis dans les listes correspondant aux
 chapitres afférents aux marchandises qui présentent le plus d'analogie avec celles faisant l'objet de la contestation.
 
-4. Les dispositions des article 378 et 379 du code de procédure civile sont applicable aux assesseurs et à leurs suppléants ;
-tout membre de la commission qui saura cause récusation en sa personne sera tenu de la déclarer immédiatement au président ;
-il sera remplacé par le suppléant désigné.
+4. Les dispositions de l'article 341 du code de procédure civile sont applicables aux assesseurs et à leurs suppléants ; tout
+membre de la commission qui saura cause de récusation en sa personne sera tenu de la déclarer immédiatement au président ; il
+sera remplacé par le suppléant désigné.
 
 5. Les assesseurs sont tenus au secret professionnel.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°71-209 1971-03-18
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
 	  - Décret n°89-315 du 11 mai 1989 - art. 3 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de procédure civile 378, 379
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
 
 
 ###### Article 445
