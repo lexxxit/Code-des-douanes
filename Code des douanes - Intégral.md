@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-05-14
 
 # Titre Ier : Principes généraux du régime des douanes
 
