@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1959-05-16
+Version Consolidée au 1960-12-24
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5064,29 +5064,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 	  - Décret n°2013-956 du 24 octobre 2013 (V)
 
 
-# Titre XII : Contentieux et recouvrement
-
-## Chapitre III : Procédure devant les tribunaux
-
-### Section 2 : Procédure devant les juridictions civiles
-
-#### Paragraphe 1 : Citation à comparaître.
-
-###### Article 359
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°60-1384 du 23 décembre 1960, v. init.
-
-
 # Titre XII : Contentieux
 
 ## Chapitre Ier : Constatations des infractions douanières
@@ -5146,6 +5123,30 @@ procès-verbal contienne la mention de la réquisition et du refus.
 
 
 ## Chapitre II : Poursuites
+
+### Section 1 : Dispositions générales.
+
+###### Article 343
+
+1. L'action pour l'application des peines est exercée par le ministère public.
+
+2. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut
+l'exercer accessoirement à l'action publique.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°60-1384 1960-12-23 art. 96 JORF 24 décembre 1960
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 28-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ### Section 2 : Poursuite par voie de contrainte
 
@@ -5260,6 +5261,29 @@ poursuivre l'exécution.
 
 ### Section 1 : Tribunaux compétents en matière de douane
 
+#### Paragraphe 1 : Compétence "ratione materiae".
+
+###### Article 357 bis
+
+Les tribunaux d'instance connaissent des contestations concernant le paiement ou le remboursement des droits, des oppositions
+à contrainte et des autres affaires de douane n'entrant pas dans la compétence des juridictions répressives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
+
+	**Cité par**:
+
+	  - Décret n°2011-991 du 23 août 2011 - art. 22 (V)
+	  - Code des douanes - art. 389 bis (VD)
+
+
 #### Paragraphe 2 : Compétence "ratione loci".
 
 ###### Article 358
@@ -5285,23 +5309,6 @@ douane où la contrainte a été décernée.
 
 
 ### Section 2 : Procédure devant les juridictions civiles
-
-#### Paragraphe 1 : Citation à comparaître.
-
-###### Article 359
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
-
 
 #### Paragraphe 4 : Signification des jugements et autres actes de procédure.
 
