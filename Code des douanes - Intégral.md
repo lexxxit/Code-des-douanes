@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-07-14
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1636,61 +1636,6 @@ l'intérieur des zones de sécurité prévues par la loi et dans la zone maritim
 	**Anciens textes**:
 
 	  - Loi n°68-1181 du 30 décembre 1968 - art. 17 (V)
-
-
-### Section 2 : Visites domiciliaires.
-
-###### Article 64
-
-1. Pour la recherche des marchandises détenues frauduleusement dans le rayon des douanes, à l'exception des agglomérations
-dont la population s'élève au moins à 2 000 habitants, ainsi que pour la recherche en tous lieux des marchandises soumises
-aux dispositions de l'article 215 ci-après, les agents des douanes peuvent procéder à des visites domiciliaires en se faisant
-accompagner d'un officier municipal du lieu ou d'un officier de police judiciaire.
-
-2. En aucun cas, ces visites ne peuvent être faites pendant la nuit.
-
-3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier municipal du lieu ou d'un officier de police
-judiciaire :
-
-a) Pour opérer les visites, recensements et contrôles à domicile chez les titulaires d'un compte ouvert d'animaux ou d'un
-titre de pacage ;
-
-b) Pour la recherche des marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 332
-ci-après, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon.
-
-4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier municipal
-du lieu ou d'un officier de police judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
-	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 10 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 11 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 12 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 13 (V)
-	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 14 (V)
-	  - Loi n°2011-267 du 14 mars 2011 - art. 126
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Décret n°2016-1443 du 26 octobre 2016 - art. 7 (V)
-	  - Décret n°2016-1443 du 26 octobre 2016 - art. 9 (V)
-	  - Code des douanes - art. 330 (V)
-	  - Code des douanes - art. 403 (V)
-	  - Code des douanes - art. 413 ter (V)
-	  - Code des douanes - art. 454 (V)
-	  - Code des douanes - art. 67 bis (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 215 (M)
-	  - Code des douanes - art. 332 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ### Section 3 : Droit de communication
@@ -9975,6 +9920,36 @@ fait mention dans le procès-verbal d'apposition des scellés.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 386 bis
+
+En cas d'inculpation du chef de l'infraction prévue à l'article 415 et afin de garantir le paiement des amendes encourues,
+des frais de justice et la confiscation, le président du tribunal de grande instance peut ordonner, à la demande de
+l'administration des douanes et après avis du procureur de la République, aux frais avancés du Trésor et selon les modalités
+prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée.
+
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
+
+**Nota:**
+
+NOTA : Loi 93-1013 du 24 août 1993 art. 46 :
+
+Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à
+la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°90-614 du 12 juillet 1990 - art. 19 () JORF 14 juillet 1990
 
 
 ###### Article 387
