@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7271,7 +7271,7 @@ Cette opération administrative est constatée par l'acte de francisation.
 
 1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation soumis à un visa annuel.
 
-2. Toutefois, les navires et bateaux de plaisance ou de sport d'un tonnage brut égal ou inférieur à deux tonneaux sont
+2. Toutefois, les navires et bateaux de plaisance ou de sport d'un tonnage brut égal ou inférieur à trois tonneaux sont
 dispensés de l'obligation de la formalité de francisation s'ils ne se rendent pas dans les eaux territoriales étrangères.
 
 **Liens relatifs à cet article**
@@ -7280,16 +7280,14 @@ dispensés de l'obligation de la formalité de francisation s'ils ne se rendent 
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 I JORF 6 mai 1972
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 2 (Ab) JORF 29 décembre 1967
-	  - Loi n°70-1199 1970-12-21 art. 21 Finances pour 1971 JORF 22 décembre 1970
-
 	**Cité par**:
 
 	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Modifié par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
@@ -7551,9 +7549,12 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 ###### Article 224
 
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat, ou, lorsqu'il est perçu au titre des navires de
-plaisance visés au dernier alinéa de l'article 223, au profit de la collectivité territoriale de Corse un prélèvement pour
-frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de
+plaisance visés au dernier alinéa de l'article 223, au profit de la collectivité territoriale de Corse.
+
+L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
+Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
+affecté au budget général.
 
 Il est recouvré par année civile.
 
@@ -7570,19 +7571,15 @@ relèvent d'associations agréées par le ministère de la jeunesse et des sport
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
-- 25 % pour les bateaux de 10 à 20 ans ;
+- 25 % pour les bateaux de 10 à 20 ans,
 
-- 50 % pour les bateaux de 20 à 25 ans ;
+- 50 % pour les bateaux de 20 à 25 ans,
 
 - 75 % pour le bateaux de plus de 25 ans.
 
-5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 50 F.
+5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 500 F.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 6 (V) JORF 31 décembre 1995
 
 	**Cité par**:
 
@@ -7597,6 +7594,10 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 	  - Arrêté du 30 mai 2016 (V)
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
@@ -9996,16 +9997,23 @@ opérations pour le compte des maisons établies en France.
 
 ###### Article 284 bis
 
-Les véhicules circulant sur la voie publique et désignés à l'article 284 ter, à l'exclusion de ceux qui sont spécialement
-conçus pour le transport des personnes, sont soumis à une taxe spéciale.
+Les véhicules immatriculés en France circulant sur la voie publique et désignés à l'article 284 ter, à l'exclusion de ceux
+qui sont spécialement conçus pour le transport des personnes, sont soumis à une taxe spéciale.
 
-Cette taxe est assise sur le poids total autorisé en charge de ces véhicules. Elle est exigible dès leur mise en circulation.
+Les dispositions de l'alinéa précédent sont applicables aux véhicules immatriculés dans un autre Etat qu'un Etat membre de la
+Communauté européenne.
+
+Cette taxe est assise sur le poids total autorisé en charge de ces véhicules ou sur leur poids total roulant autorisé
+lorsqu'il est supérieur. Elle est exigible dès leur mise en circulation.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
-	  - Code des douanes - art. 284 sexies bis (V)
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 (V)
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 5 (V)
 	  - Décret n°99-723 du 3 août 1999 - art. 5 (Ab)
@@ -10016,21 +10024,16 @@ Cette taxe est assise sur le poids total autorisé en charge de ces véhicules. 
 	  - Décret n°2016-958 du 12 juillet 2016 - art. 1
 	  - Décret n°2016-1576 du 23 novembre 2016 (V)
 	  - Décret n°2016-1988 du 30 décembre 2016 - art. 1
+	  - Code des douanes - art. 284 sexies bis (V)
 	  - Code des douanes - art. 284 ter (V)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 87 IV, V (dispositions transitoires)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
-
-	**Anciens textes**:
-
-	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
-	  - Loi n°70-601 1970-07-09 art. 6
-	  - Loi n°70-1199 1970-12-21 art. 25
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
 
 
 ###### Article 284 quater
@@ -10098,13 +10101,19 @@ Ces décrets fixent notamment les modalités de déclaration des véhicules ains
 la taxe ; ils déterminent également les conditions dans lesquelles les dispositions du présent chapitre sont adaptées en vue
 de l'imposition :
 
-Des véhicules de transport exceptionnel visés à l'article R. 48 du code de la route ;
+- des véhicules de transport exceptionnel visés à l'article R. 48 du code de la route ;
 
-Des véhicules immatriculés en France qui effectuent des parcours à l'étranger ;
-
-Des véhicules qui sont immatriculés à l'étranger et qui effectuent des parcours en France.
+- des véhicules immatriculés en France qui effectuent des parcours à l'étranger.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 87 IV, V (dispositions transitoires)
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
 
 	**Cite**:
 
@@ -10113,16 +10122,6 @@ Des véhicules qui sont immatriculés à l'étranger et qui effectuent des parco
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
-
-	**Anciens textes**:
-
-	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
-	  - Loi n°70-601 1970-07-09 art. 6
-	  - Loi n°70-1199 1970-12-21 art. 25
 
 
 ###### Article 284 sexies bis
@@ -10192,126 +10191,73 @@ particulier les traités instituant les communautés européennes.
 I. - 1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par trimestre ou par fraction de trimestre
 civil :
 
-catégorie de véhicules, poids total autorisé en charge ou poids total roulant, tarif par trimestre.
+catégorie de véhicules, poids total autorisé en charge ou poids total roulant autorisé (en tonnes), tarifs par trimestres en
+francs (tarif pour suspension pneumatique de l'(des) essieu(x) moteur(s) et tarif pour d'autres systèmes de suspension de
+l'(des) essieu(x) moteur(s)) :
 
-Véhicule automobile à deux essieux :
+Véhicules automobiles porteurs :
 
-- poids 16 à 16,500 tonnes, tarif 100 F.
+a) à deux essieux :
 
-- poids 16,501 à 17,500 tonnes, tarif 350 F.
+poids de 12 à 18, tarifs : 450 et 650.
 
-- poids 17,501 à 18,500 tonnes, tarif 750 F.
+poids égal ou supérieur à 18, tarifs : 600 et 900.
 
-- poids 18,501 à 19 tonnes, tarif 1 250 F.
+b) à trois essieux :
 
-Véhicule automobile à trois essieux :
+poids égal ou supérieur à 12, tarifs : 450 et 650.
 
-- poids 25,500 à 26 tonnes, tarif 225 F.
+c) à quatre essieux :
 
-Ensemble composé d'une semi-remorque à un essieu attelée à un tracteur à deux essieux :
+poids de 12 à 27, tarifs : 450 et 650.
 
-- poids 25 à 25,500 tonnes, tarif 50 F.
+poids égal ou supérieur à 27, tarifs : 600 et 890.
 
-- poids 25,501 à 26,500 tonnes, tarif 225 F.
+Véhicules articulés composés d'un tracteur et d'une semi-remorque :
 
-- poids 26,501 à 27,500 tonnes, tarif 650 F.
+a) semi-remorque à un essieu :
 
-- poids 27,501 à 28,500 tonnes, tarif 1 100 F.
+poids de 12 à 20, tarifs : 620 et 860.
 
-- poids 28,501 à 29,500 tonnes, tarif 1 650 F.
+poids de 20 à 27, tarifs : 950 et 1160.
 
-- poids 29,501 à 30,500 tonnes, tarif 2 250 F.
+poids égal ou supérieur à 27, tarifs : 1450 et 1650.
 
-- poids 30,501 à 31,500 tonnes, tarif 2 400 F.
+b) semi-remorque à deux essieux :
 
-- poids 31,501 à 32 tonnes, tarif 3 600 F.
+poids de 12 à 27, tarifs : 620 et 860.
 
-Ensemble composé d'une semi-remorque à un essieu attelée à un tracteur à trois essieux :
+poids de 27 à 33, tarifs : 770 et 1070.
 
-- poids 31,501 à 32,500 tonnes, tarif 225 F.
+poids de 33 à 39, tarifs : 950 et 1270.
 
-- poids 32,501 à 33,500 tonnes, tarif 550 F.
+poids égal ou supérieur à 39, tarifs : 1040 et 1540.
 
-- poids 33,501 à 34,500 tonnes, tarif 950 F.
+c) semi-remorque à trois essieux :
 
-- poids 34,501 à 35 tonnes, tarif 1 400 F.
+poids de 12 à 27, tarifs : 620 et 860.
 
-Ensemble composé d'une semi-remorque à deux essieux attelée à un tracteur à deux essieux :
+poids de 27 à 38, tarifs : 770 et 1070.
 
-- poids 35,501 à 36,500 tonnes, tarif 400 F.
+poids égal ou supérieur à 38, tarifs : 860 et 1160.
 
-- poids 36,501 à 37,500 tonnes, tarif 850 F.
+Remorques :
 
-- poids 37,501 à 38 tonnes, tarif 1 300 F.
+poids égal ou supérieur à 16, tarifs : 450.
 
-Remorque à deux essieux :
-
-- poids 17,500 à 18,500 tonnes, tarif 550 F.
-
-- poids 18,501 à 19 tonnes, tarif 800 F.
+Les tarifs prévus pour les véhicules équipés de suspension pneumatique de l'essieu moteur sont applicables aux véhicules dont
+l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92/7/CEE du
+Conseil du 10 février 1992, modifiant la directive 85/3/CEE relative aux poids, aux dimensions et à certaines autres
+caractéristiques techniques de certains véhicules routiers.
 
 La taxe peut être payée sur la base d'un tarif journalier égal au vingt-cinquième du tarif trimestriel.
 
-Pour les véhicules immatriculés à l'étranger et dont le poids total autorisé en charge excède la limite maximale de la
-catégorie d'imposition dans laquelle ils sont rangés, le tarif applicable est le tarif maximal prévu pour cette catégorie.
+2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route.
 
-2. Les tarifs applicables aux véhicules dont le poids total en charge excède les maxima autorisés par le Code de la route et
-qui bénéficient des autorisations prévues au même code sont les suivants :
-
-Véhicules automobiles à deux essieux : 1 250.
-
-Véhicules automobiles à trois essieux : 250.
-
-Ensembles articulés et ensembles comportant une ou plusieurs remorques :
-
-Par véhicule tracteur à deux essieux : 750 ;
-
-Par véhicule tracteur à trois essieux : 1 000.
-
-3. Les tarifs de la taxe sont majorés de 15 % lorsque cette dernière est acquittée pour un véhicule d'un poids total autorisé
-en charge déterminé, entrant dans l'une des catégories visées au I et dont le numéro d'immatriculation n'est pas mentionné
-sur la déclaration fiscale.
-
-4. Les tarifs de la taxe, majorés, le cas échéant, dans les conditions fixées au 3, sont réduits de :
-
-10 % pour les véhicules servant exclusivement à des transports pour le compte propre et exploités sous le régime de la
-location ;
-
-20 % pour les autres véhicules de transport pour compte propre.
-
-5. Les tarifs de la taxe résultant, le cas échéant, des dispositions des 3 et 4 sont réduits de :
-
-75 % pour les véhicules ne circulant pas en dehors des limites de la zone de camionnage à laquelle ils sont rattachés pour
-l'application du présent article, ainsi que pour les véhicules utilisant les systèmes mixtes rail-route ;
-
-50 % pour les véhicules en circulation dans les limites de la zone courte à laquelle ils sont rattachés pour l'application du
-présent article et circulant en dehors des limites de leur zone de camionnage ;
-
-50 % pour les véhicules articulés et ensembles comportant une ou plusieurs remorques, visés au 2, lorsque l'un au moins des
-essieux de l'élément tracté est constitué par des demi-essieux en ligne.
-
-II. - Les véhicules dont le poids total en charge effectif excède de plus de 5 % leur poids total en charge autorisé sont
-assujettis au paiement de la taxe qui correspond à ce poids total en charge effectif.
-
-Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge maximal
-de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils ont
-acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
+II. - Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge
+maximal de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils
+ont acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
 autorisé défini ci-dessus.
-
-III. - 1. Les véhicules, ensembles de véhicules et remorques entrant dans le champ d'application de la présente taxe et
-circulant en France sur des autoroutes à péage peuvent bénéficier d'une réduction du montant de la taxe acquittée l'année
-précédente sur la base du tarif trimestriel.
-
-2. Tout parcours sur autoroute à péage ouvre droit à une réduction de 5 % du montant de la taxe pour chaque tranche entière
-de 3 500 km parcourus par l'ensemble des véhicules d'une même catégorie appartenant au même redevable.
-
-3. Pour l'application de cette disposition, la réduction est calculée forfaitairement sur le total des taxes acquittées par
-les véhicules de la catégorie considérée, qu'ils aient ou non circulé sur autoroute à péage, le résultat obtenu étant divisé
-par le nombre de ces véhicules.
-
-Toutefois, lorsque les véhicules ne circulent pas tous dans les limites de la zone longue, le chiffre qui doit figurer au
-diviseur est obtenu en ajoutant au nombre de véhicules circulant en zone longue le nombre de véhicules circulant en zone
-courte affecté du coefficient 0,5 et le nombre de véhicules circulant en zone de camionnage affecté du coefficient 0,25.
 
 **Liens relatifs à cet article**
 
@@ -10319,22 +10265,20 @@ courte affecté du coefficient 0,5 et le nombre de véhicules circulant en zone 
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
-
-	**Anciens textes**:
-
-	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
-	  - Loi n°70-601 1970-07-09 art. 6
-	  - Loi n°70-1199 1970-12-21 art. 25
-
 	**Cité par**:
 
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 (V)
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 bis (V)
 	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 	  - Code des douanes - art. 284 bis (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 87 IV, V (dispositions transitoires)
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
 
 
 ## Chapitre VI : Droits et taxes divers.
@@ -10561,22 +10505,27 @@ Elles est recouvrée par le service des douanes selon les mêmes règles, sous l
 de droits de douane. Les infractions sont constatées et réprimées, et les instances instruites et jugées conformément aux
 dispositions du code des douanes.
 
-3. Le montant de la redevance est fixé à 40 F par tonne de marchandise, avec un minimum de 200 F et, pour les produits autres
-que les viandes fraîches, réfrigérées ou congelées, un maximum de 2 000 F par lot.
+3. Les taux de redevance sont fixés par tonne de produits, avec un montant minimal par lot, dans la limite de 150 % des
+niveaux forfaitaires définis en écus par décision du Conseil de l'Union européenne.
 
-Pour l'application de cette disposition, un lot est une quantité d'animaux de même espèce ou de produits de même nature,
-couverte par un même certificat ou document vétérinaire, transportée dans le même moyen de transport provenant ou originaire
-d'un même pays ou d'une même partie de pays n'appartenant pas à la Communauté européenne.
+Ces taux de redevance sont fixés par arrêté conjoint du ministre chargé des douanes et du ministre chargé de l'agriculture.
+
+4. Pour les animaux et produits non concernés par les niveaux forfaitaires mentionnés au 3, le montant de la redevance est
+fixé à 40 F par tonne de marchandises, avec un minimum de 200 F et un maximum de 3 000 F par lot.
+
+5. Pour l'application des dispositions mentionnées aux 3 et 4, un lot est une quantité d'animaux de même espèce ou de
+produits de même nature, couverte par un même certificat ou document vétérinaire, transportée dans le même moyen de
+transport, provenant ou originaire d'un même pays ou d'une même partie de pays n'appartenant pas à la Communauté européenne.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 26 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°95-95 du 1 février 1995 - art. 80 () JORF 2 février 1995
 
 
 ###### Article 285 ter
