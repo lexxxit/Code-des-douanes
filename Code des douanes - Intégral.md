@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1998-06-25
+Version Consolidée au 1998-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8744,6 +8744,103 @@ dégrèvement institué à l'article 265 quater.
 	  - Code des douanes - art. 265 quater (M)
 
 
+###### Article 265 septies
+
+Les entreprises propriétaires ou, en leur lieu et place, les entreprises titulaires des contrats cités à l'article 284 bis
+A :
+
+a) De véhicules routiers à moteur destinés au transport de marchandises et dont le poids total autorisé en charge est égal ou
+supérieur à 12 tonnes ;
+
+b) De véhicules tracteurs routiers dont le poids total roulant est égal ou supérieur à 12 tonnes,
+
+peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la taxe intérieure de consommation sur le
+gazole.
+
+Ce remboursement est égal à la différence entre la taxe intérieure de consommation sur le gazole exigible au cours de l'année
+et celle calculée sur la base d'un taux spécifique qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à
+244,64 F par hectolitre. Pour les périodes ultérieures, ce taux spécifique est relevé, le 11 janvier de chaque année, du
+produit du dernier taux de la taxe intérieure de consommation appliqué au supercarburant sans plomb au cours de la période
+précédente par le taux prévisionnel d'évolution des prix à la consommation des ménages de l'année précédente associé au
+projet de loi de finances de l'année du remboursement.
+
+Le remboursement est plafonné à 40 000 litres de gazole par an et par véhicule. Il est accordé aux entreprises établies dans
+l'Union européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte
+par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et immatriculés dans
+l'un des Etats membres.
+
+La période couverte par le remboursement s'entend de la période comprise entre le 11 janvier d'une année et le 10 janvier de
+l'année suivante.
+
+Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 12 janvier de
+l'année suivant la période au titre de laquelle le remboursement est sollicité.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 1 (VT)
+	  - Décret n°99-723 du 3 août 1999 - art. 3 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 5 bis (VT)
+	  - Décret n°99-723 du 3 août 1999 - art. 8 (Ab)
+	  - Arrêté du 5 octobre 1999 - art. 1 (Ab)
+	  - Loi - art. 12 (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V)
+	  - Arrêté du 8 avril 2010 - art. 1 (V)
+	  - Arrêté du 12 mai 2011 - art. 1 (V)
+	  - Arrêté du 23 avril 2012 - art. 1 (Ab)
+	  - Arrêté du 7 février 2013 - art. 1 (V)
+	  - Arrêté du 5 juin 2014 - art. 1 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 18 décembre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 (VT)
+	  - Décret n°2015-418 du 14 avril 2015 (V)
+	  - Arrêté du 18 décembre 2015 (VT)
+	  - Arrêté du 25 avril 2016 (V)
+	  - Arrêté du 6 janvier 2017 (V)
+	  - Code des douanes - art. 265 octies (M)
+
+	**Créé par**:
+
+	  - Loi - art. 26 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 bis (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 ter (V)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 10 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 11 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 12 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 4 (M)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 5 bis (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 7 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 1 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
+	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
+	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
+
+	**Cite**:
+
+	  - Code des douanes - art. 284 bis A (M)
+
+
 ###### Article 265 sexies
 
 Le taux de la taxe intérieure sur les produits pétroliers perçu sur les carburants utilisés par les chauffeurs de taxi est
@@ -8760,7 +8857,14 @@ en commun de voyageurs, dans la limite de 12 000 litres par véhicule et par an.
 A compter du 1er janvier 1997, la limite visée au premier alinéa est fixée à 6 500 litres pour le gaz naturel véhicules et la
 taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant.
 
+A compter du 1er janvier 1999, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
+produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de transport public en commun
+de voyageurs, dans la limite de 40 000 litres par an et par véhicule.
+
 Les modalités d'application de ces mesures sont fixées par décret.
+
+A compter du 1er janvier 1999, la limite visée au premier alinéa est fixée à 9 000 litres pour le gaz naturel véhicules et la
+taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant.
 
 **Liens relatifs à cet article**
 
@@ -8814,7 +8918,8 @@ Les modalités d'application de ces mesures sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 26 () JORF 1er janvier 1997
+	  - Loi - art. 26 (V) JORF 31 décembre 1998
+	  - Loi - art. 28 () JORF 31 décembre 1998
 
 
 ###### Article 265 ter
@@ -8946,6 +9051,220 @@ trouvant dans les cuves des stations-services.
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
+
+
+###### Article 266 decies
+
+1. Les lubrifiants mentionnés au a du 4 du I de l'article 266 sexies, donnent lieu sur demande des redevables à remboursement
+de la taxe afférente lorsque l'utilisation particulière des lubrifiants ne produit pas d'huiles usagées ou lorsque ces
+lubrifiants sont expédiés à destination d'un Etat membre de la Communauté européenne, exportés ou livrés à l'avitaillement.
+
+2. Les personnes mentionnées au 2 du I de l'article 266 sexies, membres des organismes de surveillance de la qualité de l'air
+prévus par l'article 3 de la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie, sont
+autorisées à déduire des cotisations de taxe dues par elles au titre de leurs installations situées dans la zone surveillée
+par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci au titre de
+l'année civile précédente. Cette déduction s'exerce dans la limite de 1 million de francs ou à concurrence de 25 % des
+cotisations de taxe dues.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 3 (Ab)
+	  - Code des douanes - art. 266 sexies (M)
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Loi - art. 45 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 6 (V)
+	  - Arrêté du 14 juin 2002 - art. 2 (Ab)
+	  - Arrêté du 27 septembre 2009 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 (V)
+	  - Arrêté du 14 avril 2015 - art. 1 (V)
+	  - Arrêté du 19 avril 2017 - art. 1 (V)
+	  - Code des douanes - art. 266 undecies (VD)
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 11 avril 2000
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 duodecies
+
+Sans préjudice des dispositions du III de l'article 45 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), la
+taxe mentionnée à l'article 266 sexies est déclarée, contrôlée et recouvrée selon les règles, garanties, privilèges et
+sanctions prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Cite**:
+
+	  - Loi n°98-1266 1998-12-30 art. 45 finances
+	  - Code des douanes - art. 266 sexies (M)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 266 terdecies (M)
+
+
+###### Article 266 nonies
+
+1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
+
+Désignation des matières ou opérations imposables :
+
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, unité de perception, tonne, quotité
+(en francs) : 60.
+
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
+du plan d'élimination des déchets, élaboré en vertu de l'article 10-2 de la loi n° 75-633 du 15 juillet 1975, dans lequel est
+située l'installation de stockage : 90.
+
+Déchets réceptionnés dans une installation d'élimination de déchets industriels spéciaux : 60.
+
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux : 120.
+
+Substances émises dans l'atmosphère, oxydes de soufre et autres composés soufrés : 180.
+
+Acide chlorhydrique : 180.
+
+Oxydes d'azote et autres composés oxygénés de l'azote : 250.
+
+Hydrocarbures non méthaniques, solvants et autres composés organiques volatils : 250.
+
+Décollage d'aéronefs, aérodromes du groupe 1 : 68.
+
+Décollage d'aéronefs, aérodromes du groupe 2 : 25.
+
+Décollage d'aéronefs, aérodromes du groupe 3 : 5.
+
+Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées, lubrifiants, huiles et
+préparations lubrifiantes : 200.
+
+2. Le montant minimal annuel de la taxe relative aux déchets est de 3000 F par installation.
+
+3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
+s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
+
+4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
+le protoxyde d'azote.
+
+5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
+sont répartis dans les trois groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
+de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus au I de
+l'article 19 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
+
+6. La masse des aéronefs est prise en compte par son logarithme décimal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-633 du 15 juillet 1975 - art. 10-2 (M)
+	  - Loi n°92-1444 1992-12-31 art. 19
+	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
+	  - Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
+	  - Arrêté du 14 juin 2002 - art. 2 (Ab)
+	  - Décret n°2006-216 du 22 février 2006 - art. 1 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
+	  - Arrêté du 18 mars 2009 - art. 4 (V)
+	  - Décret n°2009-1573 du 16 décembre 2009 - art. 1 (V)
+	  - Décret n°2010-576 du 31 mai 2010 - art. 1 (V)
+	  - Décret n°2010-1173 du 5 octobre 2010 - art. 1 (V)
+	  - Décret n°2011-767 du 28 juin 2011 (V)
+	  - Décret n°2011-767 du 28 juin 2011 - art. 1 (V)
+	  - Décret n°2011-767 du 28 juin 2011 - art. 2 (V)
+	  - Décret n°2011-767 du 28 juin 2011 - art. 3 (V)
+	  - Arrêté du 25 juillet 2011 (V)
+	  - Arrêté du 25 juillet 2011 - art. 1 (V)
+	  - Décret n°2011-1563 du 17 novembre 2011 - art. 1 (V)
+	  - Décret n°2014-219 du 24 février 2014 - art. 1 (V)
+	  - Code de l'environnement - art. R151-2 (V)
+	  - Code des douanes - art. 266 undecies (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. Annexe (Ab)
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 octies
+
+La taxe mentionnée à l'article 266 sexies est assise sur :
+
+1. Le poids des déchets reçus par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+
+2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
+
+3. Le logarithme décimal de la masse maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des
+coefficients de modulation prennent en compte, dans un rapport de un à cinquante, l'heure du décollage et les
+caractéristiques acoustiques de l'appareil ;
+
+4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Loi - art. 45 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 4 (Ab)
+	  - Décret n°99-508 du 17 juin 1999 - art. Annexe III (Ab)
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
 
 
 ###### Article 266 quater
@@ -9155,6 +9474,176 @@ l'article 265.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 266 septies
+
+Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
+
+1. La réception de déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+
+2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
+autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
+méthaniques, solvants et autres composés organiques volatils ;
+
+3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements
+d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20 000 ;
+
+4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
+intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
+
+b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
+	  - Loi - art. 45 (V)
+	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
+	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
+	  - Code de l'aviation civile - art. L227-10 (M)
+	  - Code de l'aviation civile - art. L227-5 (M)
+	  - Code de l'environnement - art. L151-2 (Ab)
+	  - Code de l'environnement - art. L571-13 (M)
+	  - Code de l'environnement - art. L571-15 (M)
+	  - Code de l'urbanisme - art. L147-3 (M)
+	  - Code de l'urbanisme - art. L147-5 (M)
+	  - Code de l'urbanisme - art. R147-8 (M)
+	  - Code des douanes - art. 266 nonies (V)
+	  - Code des douanes - art. 266 octies (M)
+	  - Code des douanes - art. 266 sexies (V)
+	  - Code des douanes - art. 266 undecies (M)
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 sexies
+
+I. - Il est institué à compter du 1er janvier 1999 une taxe générale sur les activités polluantes qui est due par les
+personnes physiques ou morales suivantes :
+
+1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
+d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
+biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
+
+2. Tout exploitant d'une installation soumise à autorisation au titre de la loi n° 76-663 du 19 juillet 1976 relative aux
+installations classées pour la protection de l'environnement dont la puissance thermique maximale lorsqu'il s'agit
+d'installations de combustion, la capacité lorsqu'il s'agit d'installations d'incinération d'ordures ménagères, ou le poids
+des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les
+catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
+
+3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+
+4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
+cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
+usagées ;
+
+b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
+le rejet dans le milieu naturel est interdit.
+
+II. - La taxe ne s'applique pas :
+
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ;
+
+2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
+
+b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°76-663 1976-07-19
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°99-508 du 17 juin 1999 - art. 1 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 2 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 3 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 7 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 7 bis (Ab)
+	  - Décret n°99-508 du 17 juin 1999 - art. 8 (V)
+	  - Arrêté du 11 avril 2000 - art. 1 (Ab)
+	  - Arrêté du 11 avril 2000 - art. 2 (Ab)
+	  - Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2001-172 du 21 février 2001 - art. 1 (V)
+	  - Décret n°2001-172 du 21 février 2001 - art. 2 (V)
+	  - Arrêté du 14 juin 2002 - art. 1 (Ab)
+	  - Arrêté du 14 juin 2002 - art. 3 (Ab)
+	  - Loi - art. 19 (V)
+	  - Décret n°2006-216 du 22 février 2006 - art. 1 (V)
+	  - Décret n°2006-239 du 1 mars 2006 - art. 2 (Ab)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 39 (V)
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 47 (V)
+	  - Décret n°2009-1441 du 24 novembre 2009 - art. 1 (V)
+	  - Décret n°2009-1441 du 24 novembre 2009 - art. 3 (V)
+	  - Décret n°2009-1573 du 16 décembre 2009 - art. 1 (V)
+	  - Décret n°2010-576 du 31 mai 2010 - art. 1 (V)
+	  - Décret n°2010-1173 du 5 octobre 2010 - art. 1 (V)
+	  - Décret n°2011-767 du 28 juin 2011 - art. 1 (V)
+	  - Décret n°2011-1563 du 17 novembre 2011 - art. 1 (V)
+	  - Arrêté du 16 août 2012 - art. Annexe (V)
+	  - Décret n°2013-1300 du 27 décembre 2013 (V)
+	  - Décret n°2014-219 du 24 février 2014 - art. 1 (V)
+	  - Décret n°2014-1666 du 29 décembre 2014 (V)
+	  - Arrêté du 30 décembre 2015 (V)
+	  - Code de l'environnement - art. D151-3 (V)
+	  - Code de l'environnement - art. D543-208 (V)
+	  - Code de l'environnement - art. D543-208-2 (VT)
+	  - Code de l'environnement - art. L131-5-1 (V)
+	  - Code de l'environnement - art. L151-1 (V)
+	  - Code de l'environnement - art. L541-10-1 (V)
+	  - Code de l'environnement - art. R151-1 (V)
+	  - Code de l'environnement - art. R151-2 (V)
+	  - Code de l'environnement - art. R543-228 (V)
+	  - Code des douanes - art. 266 decies (V)
+	  - Code des douanes - art. 266 duodecies (V)
+	  - Code des douanes - art. 266 nonies (M)
+	  - Code des douanes - art. 266 octies (V)
+	  - Code des douanes - art. 266 quaterdecies (Ab)
+	  - Code des douanes - art. 266 septies (V)
+	  - Code des douanes - art. 266 terdecies (V)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 268 ter (M)
+	  - Code des douanes - art. 285 sexies (V)
+	  - Code général des collectivités territoriales - art. L2333-92 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. Annexe (Ab)
+	  - TXT_SOURCE: Décret n°2001-172 du 21 février 2001
+	  - TXT_SOURCE: Décret n°2001-172 du 21 février 2001 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2001-172 du 21 février 2001 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2003-152 du 18 février 2003
+	  - TXT_SOURCE: Décret n°2003-152 du 18 février 2003 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
+
+
 ###### Article 266 ter
 
 1. Les supercarburants, l'essence normale et le gazole, identifiés aux indices II, II bis, 12 et 22 du tableau B du 1 de
@@ -9196,6 +9685,58 @@ du tableau B de l'article 265-1, ainsi que les mêmes produits mis à la consomm
 	  - Code des douanes - art. 190 (V)
 	  - Code des douanes - art. 195 (V)
 	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 undecies
+
+Toute personne physique ou morale assujettie à la taxe mentionnée à l'article 266 sexies adresse au comptable public chargé
+de son recouvrement les déclarations qui comprennent tous les éléments nécessaires au contrôle et à l'établissement de la
+taxe.
+
+Ces déclarations sont accompagnées du paiement de la taxe due, sauf en cas de mise en place par l'assujetti d'un crédit
+d'enlèvement ou d'un crédit de droits auprès du comptable public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 45 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Loi - art. 45 (V)
+	  - Décret n°99-508 du 17 juin 1999 - art. 7 (V)
+	  - Loi - art. 19 (V)
+	  - Arrêté du 30 décembre 2015 (V)
+	  - Code des douanes - art. 266 octies (M)
+	  - Code des douanes - art. 266 quindecies (V)
+	  - Code des douanes - art. 266 terdecies (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 11 avril 2000
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 1 (M)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 3 (M)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 4 (M)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 11 février 2004
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
 
 	**Codifié par**:
 
