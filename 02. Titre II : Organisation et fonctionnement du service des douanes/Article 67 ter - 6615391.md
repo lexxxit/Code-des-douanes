@@ -1,14 +1,11 @@
 # Article 67 ter
 
-Aux fins de mise à disposition et sur demande d'un officier de police judiciaire, les agents des douanes procèdent à la
-retenue provisoire des personnes qu'ils contrôlent lorsque celles-ci font l'objet d'un signalement par application des
-articles 95, 97 et 99 de la convention d'application de l'accord de Schengen du 14 juin 1985, ou lorsqu'elles sont
-détentrices d'objets signalés en vertu de l'article 100 de la même convention. Les objets signalés en application de ce
-dernier article sont remis sans délai à l'officier de police judiciaire territorialement compétent.
+Les agents des douanes sont destinataires des informations enregistrées dans le système d'information Schengen, le fichier
+des personnes recherchées et le fichier des véhicules volés.
 
-Les agents des douanes procèdent à la retenue provisoire aux fins de mise à disposition d'un officier de police judiciaire et
-en avisent aussitôt ce dernier lorsqu'ils découvrent sur le territoire une personne signalée en application de l'article 96
-de la même convention.
+A l'occasion des contrôles qui relèvent de leurs attributions, aux fins de mise à disposition d'un officier de police
+judiciaire, les agents des douanes peuvent procéder à la retenue provisoire des personnes qui font l'objet d'un signalement
+dans l'un de ces fichiers ou qui sont détentrices d'une marchandise faisant l'objet d'un tel signalement.
 
 Les agents des douanes informent sans délai le procureur de la République de la retenue provisoire. Au cours de la retenue
 provisoire,la personne est conduite devant l'officier de police judiciaire territorialement compétent ou maintenue à sa
@@ -29,20 +26,14 @@ le jour et l'heure du début et de la fin de la retenue provisoire ; ces mention
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Accord 1985-06-14, signé à Schengen
-	  - Code des douanes - art. 323 (M)
-	  - Convention 1990-06-19, signée à Schengen art. 95, art. 97, art. 99, art. 100
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 35 () JORF 5 janvier 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994
+	  - Loi n°2003-239 2003-03-18 art. 23 II JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code des douanes - art. 323 (M)

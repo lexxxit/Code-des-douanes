@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-01-21
+Version Consolidée au 2003-03-19
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2754,15 +2754,12 @@ le jour et l'heure du début et de la fin de la retenue provisoire.
 
 ###### Article 67 ter
 
-Aux fins de mise à disposition et sur demande d'un officier de police judiciaire, les agents des douanes procèdent à la
-retenue provisoire des personnes qu'ils contrôlent lorsque celles-ci font l'objet d'un signalement par application des
-articles 95, 97 et 99 de la convention d'application de l'accord de Schengen du 14 juin 1985, ou lorsqu'elles sont
-détentrices d'objets signalés en vertu de l'article 100 de la même convention. Les objets signalés en application de ce
-dernier article sont remis sans délai à l'officier de police judiciaire territorialement compétent.
+Les agents des douanes sont destinataires des informations enregistrées dans le système d'information Schengen, le fichier
+des personnes recherchées et le fichier des véhicules volés.
 
-Les agents des douanes procèdent à la retenue provisoire aux fins de mise à disposition d'un officier de police judiciaire et
-en avisent aussitôt ce dernier lorsqu'ils découvrent sur le territoire une personne signalée en application de l'article 96
-de la même convention.
+A l'occasion des contrôles qui relèvent de leurs attributions, aux fins de mise à disposition d'un officier de police
+judiciaire, les agents des douanes peuvent procéder à la retenue provisoire des personnes qui font l'objet d'un signalement
+dans l'un de ces fichiers ou qui sont détentrices d'une marchandise faisant l'objet d'un tel signalement.
 
 Les agents des douanes informent sans délai le procureur de la République de la retenue provisoire. Au cours de la retenue
 provisoire,la personne est conduite devant l'officier de police judiciaire territorialement compétent ou maintenue à sa
@@ -2783,23 +2780,17 @@ le jour et l'heure du début et de la fin de la retenue provisoire ; ces mention
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Accord 1985-06-14, signé à Schengen
-	  - Code des douanes - art. 323 (M)
-	  - Convention 1990-06-19, signée à Schengen art. 95, art. 97, art. 99, art. 100
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 35 () JORF 5 janvier 1993
-
 	**Modifié par**:
 
-	  - Loi n°94-6 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994
+	  - Loi n°2003-239 2003-03-18 art. 23 II JORF 19 mars 2003
+
+	**Cite**:
+
+	  - Code des douanes - art. 323 (M)
 
 
 # Titre III : Conduite des marchandises en douane
@@ -12603,8 +12594,8 @@ immédiatement après le transport et le dépôt des objets saisis.
 
 3. a) Le procès-verbal peut être rédigé au lieu de dépôt des objets saisis ou au lieu de la constatation de l'infraction.
 
-Il peut être également rédigé au siège de la brigade de gendarmerie, au bureau d'un fonctionnaire des finances, ou à la
-mairie du lieu.
+Il peut être également rédigé dans les locaux de police, au siège de la brigade de gendarmerie, au bureau d'un fonctionnaire
+des finances ou à la mairie du lieu.
 
 b) En cas de saisie dans une maison, le procès-verbal peut y être valablement rédigé.
 
@@ -12616,13 +12607,13 @@ b) En cas de saisie dans une maison, le procès-verbal peut y être valablement 
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
-	  - Ordonnance 58-1238 1958-12-12 art. 6 JORF 18 décembre 1958
+	  - Loi n°2003-239 du 18 mars 2003 - art. 15 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 15
 
 	**Cité par**:
 
-	  - Code des douanes - art. 338 (V)
 	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 1 (V)
+	  - Code des douanes - art. 338 (V)
 
 
 ###### Article 325
@@ -15357,6 +15348,11 @@ fois la valeur de l'objet de fraude, tout fait de contrebande ainsi que tout fai
 déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
 fortement taxées au sens du présent code.
 
+La peine d'emprisonnement est portée à une durée maximale de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de
+l'objet de la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises
+dangereuses pour la santé, la moralité ou la sécurité publiques, dont la liste est fixée par arrêté du ministre chargé des
+douanes, soit lorsqu'ils sont commis en bande organisée.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -15398,7 +15394,7 @@ fortement taxées au sens du présent code.
 
 	**Modifié par**:
 
-	  - Loi - art. 39 () JORF 31 décembre 2002
+	  - Loi n°2003-239 du 18 mars 2003 - art. 14 () JORF 19 mars 2003
 
 	**Anciens textes**:
 
