@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1978-12-31
+Version Consolidée au 1980-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -6384,6 +6384,64 @@ Le service des douanes procède au jaugeage des navires dont on demande la franc
 
 
 #### Paragraphe 4 : Droit de francisation et de navigation.
+
+###### Article 224
+
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat.
+
+Il est recouvré par année civile.
+
+En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
+une majoration de 10 % du montant de ce droit est automatiquement appliquée.
+
+2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
+le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année.
+
+3. Sont exonérées du droit de francisation et de navigation les embarcations appartenant à des écoles de sports nautiques qui
+relèvent d'associations agréées par le ministère de la jeunesse et des sports.
+
+4. La quotité du droit comme il est dit au tableau de l'article 223 ci-dessus fait l'objet, pour les navires de plaisance ou
+de sport, d'un abattement pour vétusté égal à :
+
+- 25 % pour les bateaux de 10 à 20 ans ;
+
+- 50 % pour les bateaux de 20 à 25 ans ;
+
+- 75 % pour le bateaux de plus de 25 ans.
+
+5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 30 F.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 3 (Ab) JORF 29 décembre 1967
+	  - Loi n°70-1199 1970-12-21 art. 21 Finances pour 1971 JORF 22 décembre 1970 en vigueur le 1er janvier 1971
+	  - Décret n°72-357 1972-04-28 art. 1 III JORF 6 mai 1979
+	  - Loi n°80-1094 1980-12-29 art. 18 Finances pour 1981 JORF 30 décembre 1980
+
+	**Cité par**:
+
+	  - Loi - art. 6 (V)
+	  - Décret n°2007-1262 du 21 août 2007 - art. 1 (V)
+	  - Décret n°2007-1262 du 21 août 2007 - art. 16 (V)
+	  - Arrêté du 29 mai 2012 - art. 1 (Ab)
+	  - Arrêté du 12 avril 2013 - art. 1 (V)
+	  - Décret n°2014-1536 du 18 décembre 2014 (V)
+	  - Décret n°2014-1536 du 18 décembre 2014 - art. 14
+	  - Arrêté du 17 avril 2015 (V)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Arrêté du 30 mai 2016 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 223 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 225
 
