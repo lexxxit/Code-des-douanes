@@ -2,87 +2,87 @@
 
 1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
 
-Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en francs.
+Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en euros.
 
 Déchets.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 60.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 9,15.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
 du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement, dans lequel est située
-l'installation de stockage, 90.
+l'installation de stockage, 13,72.
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 60.
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 120.
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 18,29.
 
 Substances émises dans l'atmosphère.
 
-Oxydes de soufre et autres composés soufrés, 250.
+Oxydes de soufre et autres composés soufrés, 38,11.
 
-Acide chlorhydrique, 250.
+Acide chlorhydrique, 38,11.
 
-Protoxyde d'azote, 375.
+Protoxyde d'azote, 57,17.
 
-Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 300.
+Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 45,73.
 
-Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 250.
+Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 38,11.
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 68.
+Aérodromes du groupe 1, 10,37.
 
-Aérodromes du groupe 2, 25.
+Aérodromes du groupe 2, 3,81.
 
-Aérodromes du groupe 3, 5.
+Aérodromes du groupe 3, 0,76.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
-Lubrifiants, huiles et préparations lubrifiantes, 250.
+Lubrifiants, huiles et préparations lubrifiantes, 38,11.
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour
 le linge.
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 470.
+- dont la teneur en phosphates est inférieure à 5 % du poids, 71,65.
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 520.
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 79,27.
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 570.
+- dont la teneur en phosphates est supérieur à 30 % du poids, 86,90.
 
 Matériaux d'extraction.
 
-Matériaux d'extraction, 0,60.
+Matériaux d'extraction, 0,09.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
 
 Catégorie 1, 0.
 
-Catégorie 2, 2500.
+Catégorie 2, 381,12.
 
-Catégorie 3, 4000.
+Catégorie 3, 609,80.
 
-Catégorie 4, 5500.
+Catégorie 4, 838,47.
 
-Catégorie 5, 7000.
+Catégorie 5, 1067,14.
 
-Catégorie 6, 9000.
+Catégorie 6, 1372,04.
 
-Catégorie 7, 11000.
+Catégorie 7, 1676,94.
 
 Installations classées.
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 2900.
+- artisan n'employant pas plus de deux salariés, 442,10.
 
-- autres entreprises inscrites au répertoire des métiers, 7000.
+- autres entreprises inscrites au répertoire des métiers, 1067,14.
 
-- autres entreprises, 14600.
+- autres entreprises, 2225,76.
 
-Exploitation au cours d'une année civile (tarif de base), 2200.
+Exploitation au cours d'une année civile (tarif de base), 335,39.
 
-2. Le montant minimal annuel de la taxe relative aux déchets est de 3000 F par installation.
+2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
@@ -160,10 +160,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -186,6 +182,12 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - Code de l'environnement - art. R151-2 (V)
 	  - Code des douanes - art. 266 undecies (V)
 
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
@@ -196,7 +198,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°48-1985 1948-12-08

@@ -1,7 +1,7 @@
 # Article 265 quinquies
 
 Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
-réfaction de 6,63 F par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
+réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
 territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
 
 <table>
@@ -9,14 +9,14 @@ territoire de la Corse ou livrés dans les ports de ce département à l'avitail
     <tr>
       <td width="166">
 
-NUMEROS
+NUMÉROS
 
 du tarif des douanes
 
 </td>
       <td width="237">
 
-DESIGNATION DES PRODUITS
+DÉSIGNATION DES PRODUITS
 
 </td>
       <td width="202">
@@ -28,17 +28,17 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td valign="top" width="166">
+      <td width="166" valign="top">
 
 27.10.00
 
 </td>
-      <td valign="top" width="237">
+      <td width="237" valign="top">
 
 Supercarburants
 
 </td>
-      <td valign="top" width="202">
+      <td width="202" valign="top">
 
 11 et 11 bis
 
@@ -55,9 +55,8 @@ Supercarburants
 
 	**Modifié par**:
 
-	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
-	  - Loi n°99-1172 1999-12-30 art. 39 VIII, IX Finances pour 2000 JORF 31 décembre 1999
+	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 

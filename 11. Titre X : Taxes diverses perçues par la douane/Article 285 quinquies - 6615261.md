@@ -25,7 +25,7 @@ niveaux forfaitaires définis en écus par décision du Conseil de l'Union europ
 Ces taux de redevance sont fixés par arrêté conjoint du ministre chargé des douanes et du ministre chargé de l'agriculture.
 
 4. Pour les animaux et produits non concernés par les niveaux forfaitaires mentionnés au 3, le montant de la redevance est
-fixé à 40 F par tonne de marchandises, avec un minimum de 200 F et un maximum de 3 000 F par lot.
+fixé à 6,10 euros par tonne de marchandises, avec un minimum de 30,49 euros et un maximum de 457,35 euros par lot.
 
 5. Pour l'application des dispositions mentionnées aux 3 et 4, un lot est une quantité d'animaux de même espèce ou de
 produits de même nature, couverte par un même certificat ou document vétérinaire, transportée dans le même moyen de
@@ -35,7 +35,8 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 
 	**Modifié par**:
 
-	  - Loi - art. 26 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 

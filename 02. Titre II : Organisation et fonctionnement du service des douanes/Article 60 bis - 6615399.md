@@ -14,7 +14,7 @@ Les résultats de l'examen communiqués par le médecin, les observations de la 
 procédure doivent être consignés dans un procès-verbal transmis au magistrat.
 
 Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits par le magistrat sera punie d'une peine
-d'emprisonnement d'un an et d'une amende de 25 000 F.
+d'emprisonnement d'un an et d'une amende de 3750 euros.
 
 **Liens relatifs à cet article**
 
@@ -22,14 +22,10 @@ d'emprisonnement d'un an et d'une amende de 25 000 F.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 10 () JORF 5 janvier 1988
-
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 114 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
