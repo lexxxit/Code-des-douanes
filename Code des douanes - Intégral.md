@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-04-24
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2489,32 +2489,35 @@ en correspondance directe avec l'extérieur, pour y rechercher, en présence des
 d'origine intérieure ou extérieure, à l'exception des envois en transit, renfermant ou paraissant renfermer des objets de la
 nature de ceux visés au présent article.
 
-2. L'administration des postes est autorisée à soumettre au contrôle douanier, dans les conditions prévues par les
-conventions et arrangements de l'Union postale universelle, les envois frappés de prohibition à l'importation, passibles de
-droits ou taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à l'entrée.
+2. La Poste est autorisée à soumettre au contrôle douanier, dans les conditions prévues par les conventions et arrangements
+de l'Union postale universelle, les envois frappés de prohibition à l'importation, passibles de droits ou taxes perçus par le
+service des douanes ou soumis à des restrictions ou formalités à l'entrée.
 
-3. L'administration des postes est également autorisée à soumettre au contrôle douanier les envois frappés de prohibition à
-l'exportation, passibles de droits en taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à la
-sortie.
+3. La Poste est également autorisée à soumettre au contrôle douanier les envois frappés de prohibition à l'exportation,
+passibles de droits en taxes perçus par le service des douanes ou soumis à des restrictions ou formalités à la sortie.
 
 4. Il ne peut, en aucun cas, être porté atteinte au secret des correspondances.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code des postes et télécommunications L6
+	  - PILOTE_SUIVEUR: Code des postes et des communications électroni... - art. L6-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 	  - Code des postes et des communications électroni... - art. L6-1 (V)
 	  - Code des postes et des communications électronique - art. L6 (T)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code des postes et des communications électroni... - art. L6-1 (V)
-	  - TXT_ASSOCIE: Code des postes et télécommunications L6
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 66 bis
@@ -8895,22 +8898,14 @@ supercarburant plombé.
 
 ###### Article 266
 
-1. Les tarifs des taxes intérieures de consommation visés à l'article 265 peuvent être modifiés par arrêté du ministre de
-l'économie et des finances sauf en ce qui concerne les produits pétroliers.
-
-2. Si un projet de loi tendant à modifier les tarifs prévus par l'article 265 ci-dessus est déposé par le Gouvernement avec
+1. Si un projet de loi tendant à modifier les tarifs prévus par l'article 265 ci-dessus est déposé par le Gouvernement, avec
 la procédure d'urgence, celui-ci est autorisé à interdire par décret la mise à la consommation des produits visés par ce
-projet jusqu'à la mise en vigueur des nouveaux tarifs ou jusqu'à la décision de rejet du projet de loi par le Parlement.
+projet jusqu'à la mise en vigueur des nouveaux tarifs ou jusqu'à la décision de rejet du projet de loi par le Parlement. 
 
-3. Une disposition spéciale de ce décret doit en ordonner l'exécution immédiate conformément aux dispositions du décret du 5
+2. Une disposition spéciale de ce décret doit en ordonner l'exécution immédiate conformément aux dispositions du décret du 5
 novembre 1870.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1870-11-05
-	  - Code des douanes - art. 265 (M)
 
 	**Codifié par**:
 
@@ -8927,12 +8922,11 @@ novembre 1870.
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 23 II Finances pour 1985 JORF 30 décembre 1984
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 22 () JORF 31 décembre 1985
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
-	  - Loi n°89-935 1989-12-29 art. 28 I Finances pour 1990 JORF 30 décembre 1989
-	  - Loi - art. 14 () JORF 30 décembre 1990
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 25 () JORF 31 décembre 1993
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
 
 
 ###### Article 266 bis
@@ -9119,14 +9113,9 @@ l'article 265.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à l'utilisateur final est relevé conformément aux
-dispositions du 4 de l'article 266.
+5. (alinéa supprimé).
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 22 () JORF 31 décembre 1992
 
 	**Cité par**:
 
@@ -9171,13 +9160,13 @@ dispositions du 4 de l'article 266.
 	  - Code des douanes - art. 427 (V)
 	  - Code rural - art. L723-43 (V)
 
+	**Modifié par**:
+
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 (M)
 
 
 ###### Article 266 ter
@@ -12359,16 +12348,20 @@ Les dispositions du présent titre XIV sont applicables dans les territoires d'o
 Les agents ci-après désignés sont habilités à constater les infractions à la législation et à la réglementation des relations
 financières avec l'étranger :
 
-1° Les agents des douanes ;
+1° les agents des douanes ;
 
-2° Les autres agents de l'administration des finances ayant au moins le grade d'inspecteur ;
+2° les autres agents de l'administration des finances ayant au moins le grade de contrôleur ;
 
-3° Les officiers de police judiciaire.
+3° les officiers de police judiciaire.
 
 Les procès-verbaux de constatation dressés par les officiers de police judiciaire sont transmis au ministre de l'économie et
 de finances qui saisit le parquet s'il le juge à propos.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 	**Cité par**:
 
@@ -12379,9 +12372,29 @@ de finances qui saisit le parquet s'il le juge à propos.
 
 	  - Décret n°48-1985 1948-12-08
 
+
+###### Article 454
+
+Les agents visés à l'article précédent sont habilités à effectuer en tous lieux des visites domiciliaires dans les conditions
+prévues par l'article 64 du présent code pour les agents des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Créé par**:
 
 	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+	**Modifié par**:
+
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+
+	**Cite**:
+
+	  - Code des douanes - art. 64 (M)
 
 
 ###### Article 455
@@ -12389,12 +12402,11 @@ de finances qui saisit le parquet s'il le juge à propos.
 Les divers droits de communication prévus au bénéfice des administrations fiscales peuvent être exercés pour le contrôle de
 l'application de la législation et de la réglementation des relations financières avec l'étranger.
 
-Les mêmes droits appartiennent aux fonctionnaires ayant au moins le grade d'inspecteur, chargés spécialement par le ministre
+Les mêmes droits appartiennent aux fonctionnaires ayant au moins le grade de contrôleur, chargés spécialement par le ministre
 de l'économie et des finances de s'assurer, par des vérifications auprès des assujettis, de la bonne application de la
-législation et de la réglementation des relations financières avec l'étranger.
-
-Ces agents peuvent demander à tous les services publics les renseignements qui leur sont nécessaires pour l'accomplissement
-de leur mission, sans que le secret professionnel puisse leur être opposé.
+législation et de la réglementation des relations financières avec l'étranger. Ces agents peuvent demander à tous les
+services publics les renseignements qui leur sont nécessaires pour l'accomplissement de leur mission, sans que le secret
+professionnel puisse leur être opposé.
 
 **Liens relatifs à cet article**
 
@@ -12407,9 +12419,9 @@ de leur mission, sans que le secret professionnel puisse leur être opposé.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
 ###### Article 456
@@ -12439,8 +12451,8 @@ faisant l'objet de la plainte ou sur des faits connexes.
 
 ###### Article 457
 
-L'administration des postes est autorisée à soumettre au contrôle douanier, en vue de l'application de la législation et de
-la réglementation des relations financières avec l'étranger, les envois postaux tant à l'exportation qu'à l'importation.
+La Poste est autorisée à soumettre au contrôle douanier, en vue de l'application de la législation et de la réglementation
+des relations financières avec l'étranger, les envois postaux tant à l'exportation qu'à l'importation.
 
 **Liens relatifs à cet article**
 
@@ -12448,9 +12460,9 @@ la réglementation des relations financières avec l'étranger, les envois posta
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
 ## Chapitre III : Poursuite des infractions.
