@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-21
+Version Consolidée au 1958-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2590,6 +2590,182 @@ exigibles, compte tenu notamment de la destination qu'ils doivent recevoir.
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+
+### Section 3 : Autres usines
+
+###### Article 168 bis
+
+1. Les conditions d'application du régime défini à l'article 163 ci-dessus aux produits autres que ceux repris à la section
+II du présent chapitre sont fixées, notamment en ce qui concerne la nature de ces produits et des fabrications dans
+lesquelles ils doivent être utilisés ainsi que la destination des produits fabriqués, selon la procédure prévue par l'article
+169-1 ci-après pour l'octroi de l'admission temporaire.
+
+2. En cas de mise à la consommation des produits fabriqués, et sauf disposition spéciale du tarif des droits de douane
+d'importation, la valeur à déclarer et les droits et taxes exigibles sont déterminés dans les conditions et selon la
+procédure prévues aux articles 155-2, 3 et 4 et 156-1 et 3 ci-dessus pour ce qui concerne les marchandises mises à la
+consommation en suite d'entrepôt. Les droits et taxes éventuellement perçus à l'entrée en usine exercée sont déduits de ceux
+exigibles lors de la mise à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 163 (M)
+	  - Code des douanes 163, 169-1, 155-2, 156-1, 155-3, 155-4, 156-3
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+	**Abrogé par**:
+
+	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+
+## Chapitre VI bis : Exportation préalable, drawback
+
+### Section 1 : Exportation préalable.
+
+###### Article 174 bis
+
+L'importation en franchise totale ou partielle des droits et taxes de douane est accordée, selon la procédure prévue à
+l'article 169-1 ci-dessus pour l'octroi de l'admission temporaire, aux produits de même espèce que ceux pris à la
+consommation qui ont été utilisés à la fabrication de marchandises préalablement exportés.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+	**Cité par**:
+
+	  - Code des douanes - art. 174 ter (Ab)
+
+	**Cite**:
+
+	  - Code des douanes 169-1
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 174 ter
+
+Pour bénéficier de la franchise prévue à l'article 174 bis ci-dessus, les importateurs doivent :
+
+a) Justifier de la réalisation de l'exportation préalable ;
+
+b) Satisfaire aux obligations particulières qui seront prescrites par le directeur général des douanes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 174 bis (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+
+### Section 2 : Drawback.
+
+###### Article 174 quater
+
+Le remboursement, total ou partiel, des droits et taxes de douane supportés par les produits entrant dans la fabrication des
+marchandises exportées est accordé selon la procédure prévue par l'article 169-1 ci-dessus pour l'octroi de l'admission
+temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+	**Cité par**:
+
+	  - Code des douanes - art. 174 quinquies (Ab)
+
+	**Cite**:
+
+	  - Code des douanes 169-1
+
+
+###### Article 174 quinquies
+
+Pour bénéficier du remboursement prévu à l'article 174 quater ci-dessus, les exportateurs doivent :
+
+a) Justifier de l'importation préalable pour la consommation des produits mis en oeuvre :
+
+b) Satisfaire aux obligations particulières qui seront prescrites par le directeur général des douanes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 174 quater (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+
+### Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback.
+
+###### Article 174 septies
+
+Le texte accordant l'exportation préalable ou le drawback peut décider que l'exportation doit avoir lieu obligatoirement à
+destination de pays déterminés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+
+###### Article 174 sexies
+
+Les constatations des laboratoires du ministère des finances concernant la composition des marchandises faisant l'objet
+d'exportation préalable ou donnant droit au bénéfice du drawback en vertu des articles 174 bis à 174 quinquies ci-dessus,
+ainsi que celle concernant l'espèce des produits mis en oeuvre pour la fabrication desdites marchandises, sont définitives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+
+	**Cite**:
+
+	  - Code des douanes 174 bis à 174 quinquies
 
 
 ## Chapitre VIII : Dépôts spéciaux.
