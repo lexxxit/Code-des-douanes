@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1967-12-30
+Version Consolidée au 1968-02-04
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4040,6 +4040,34 @@ détenues ou acquises dans le territoire douanier antérieurement à la date de 
 ## Chapitre Ier : Régime administratif des navires
 
 ### Section 2 : Francisation des navires
+
+#### Paragraphe 1 : Généralités.
+
+###### Article 217
+
+La francisation confère au navire le droit de porter le pavillon de la République française avec les avantages qui s'y
+attachent.
+
+Cette opération administrative est constatée par l'acte de francisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 2 (V) JORF 4 janvier 1967 en vigueur le 4 février 1968
+
+	**Cité par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
+	  - Loi n°2016-816 du 20 juin 2016 - art. 12
+	  - Code des transports - art. L5112-1-3 (V)
+	  - Code des transports - art. R5114-9 (V)
+	  - Code des transports - art. R5791-4 (V)
+
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
 
