@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1975-09-20
+Version Consolidée au 1975-12-28
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -712,6 +712,33 @@ délai dans lequel la demande de remboursement doit être déposée après l'imp
 
 
 ### Section 2 : Espèce des marchandises
+
+#### Paragraphe 1 : Définition, assimilation et classement.
+
+###### Article 28
+
+L'espèce des marchandises est la dénomination qui leur est attribuée par le tarif douanier commun.
+
+Des arrêtés du ministre de l'économie et des finances peuvent prescrire, pour la déclaration de l'espèce tarifaire des
+marchandises, l'utilisation des éléments de codification de la nomenclature de dédouanement des produits. Cette nomenclature
+fait l'objet d'une publication par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°71-753 du 10 septembre 1971 - art. 14 (Ab)
+	  - Code des douanes - art. 29 (Ab)
+	  - Code des douanes - art. 99 (V)
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 1975-12-27 art. 8 Finances rectificative pour 1975 JORF 28 décembre 1975
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 #### Paragraphe 2 : Réclamations contre les décisions d'assimilation et de classement.
 
@@ -2525,6 +2552,43 @@ marchandises sont déterminées par arrêté du directeur général des douanes 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 99
+
+1. Les déclarations en détail reconnues recevables par les agents des douanes sont immédiatement enregistrées par eux. 
+
+2. Sont considérées comme irrecevables les déclarations irrégulières dans la forme ou qui ne sont pas accompagnées des
+documents dont la production est obligatoire. 
+
+3. Lorsqu'il existe dans une déclaration contradiction entre une mention, en lettres ou en chiffres, libellée conformément à
+la terminologie douanière et une mention non conforme à cette terminologie, cette dernière mention est nulle. 
+
+Lorsque l'espèce est déclarée, par simple référence aux éléments de codification de la nomenclature de dédouanement des
+produits, conformément aux dispositions du deuxième alinéa du 1 de l'article 28 ci-dessus, les mentions en lettres
+contredisant ces éléments de codification sont nulles. 
+
+En tout autre cas, sont nulles les mentions en chiffres contredisant les mentions en lettres de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 15 JORF 3 janvier 1964
+	  - Loi n°68-1247 1968-12-31 art. 21 JORF 3 janvier 1969
+	  - Loi n°75-1242 1975-12-27 art. 8 Finances rectificative pour 1975 JORF 28 décembre 1975
+
+	**Cité par**:
+
+	  - Arrêté du 5 juillet 1983 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 28 (V)
 
 
 ###### Article 99 bis
