@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1989-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7646,6 +7646,94 @@ Il ne sera fait aucune attribution pour les droits représentant un total annuel
 	  - Loi - art. 29 (V) JORF 30 décembre 1990
 
 
+###### Article 265 quinquies
+
+1. Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
+réfaction de 6,63 F par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
+territoire du département de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance
+et de sport : 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="166">
+
+NUMERO
+
+de la nomenclature
+
+du système harmonisé
+
+</td>
+      <td width="237">
+
+DESIGNATION DES PRODUITS
+
+</td>
+      <td width="202">
+
+INDICE
+
+d'identification
+
+</td>
+    </tr>
+    <tr>
+      <td width="166" valign="top" rowspan="2">
+
+27.10.00
+
+</td>
+      <td width="237" valign="top">
+
+Supercarburants
+
+</td>
+      <td valign="top" width="202">
+
+11 et 11 bis
+
+</td>
+    </tr>
+    <tr>
+      <td width="237" valign="top">
+
+Essence normale
+
+</td>
+      <td valign="top" width="202">
+
+indice 12
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+2. En ce qui concerne l'essence utilisée pour les travaux agricoles, la réfaction prévue au 1 ci-dessus s'ajoute au
+dégrèvement institué à l'article 265 quater.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°67-1114 1967-12-21 art. 20 IV Finances pour 1968 JORF 22 décembre 1967
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 quater (M)
+
+
 ###### Article 265 ter
 
 1. Sont interdites l'utilisation à la carburation, la vente ou la mise en vente pour la carburation de produits dont
@@ -7793,52 +7881,68 @@ taxe spéciale de consommation sur les produits désignés ci-après :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="205">
+      <td width="154">
 
 Numéro du tarif douanier
 
 </td>
-      <td valign="top" width="205">
+      <td width="154">
 
 Désignation des produits
 
 </td>
-      <td width="205" valign="top">
+      <td width="154">
 
 Unité de perception
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="205">
+      <td width="154" valign="top">
 
-Ex 27-07
-
-</td>
-      <td width="205" valign="top">
-
-Essences et supercarburant
+27 10 50
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="154">
+
+Essences et supercarburants à forte teneur en hydrocarbures aromatiques
+
+</td>
+      <td width="154" valign="top">
 
 Hectolitre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="205">
+      <td valign="top" width="154">
 
-Ex 27-10
-
-</td>
-      <td valign="top" width="205">
-
-Gas-oil (autres que ceux destinés à la carburation du gaz de houille ou du gaz à l'eau, sous conditions d'emploi fixées par
-décret)
+27 10 00
 
 </td>
-      <td width="205" valign="top">
+      <td valign="top" width="154">
+
+Essences et supercarburants
+
+</td>
+      <td valign="top" width="154">
+
+Hectolitre
+
+</td>
+    </tr>
+    <tr>
+      <td width="154" valign="top">
+
+27 10 00
+
+</td>
+      <td width="154" valign="top">
+
+Gazole présentant un point d'éclair inférieur à 120 °C
+
+</td>
+      <td width="154" valign="top">
 
 Hectolitre
 
@@ -7849,28 +7953,31 @@ Hectolitre
 
 2. Le taux de cette taxe est fixé par arrêté du préfet sur proposition du conseil général. Ce taux ne peut excéder :
 
-a) pour les essences et le supercarburant, le taux de la taxe intérieure de consommation visée au tableau B annexé à
-l'article 265, 1 ci-dessus applicable au supercarburant ;
+a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
+l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
 b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
 
+2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
+régional aux conditions qu'il fixe.
+
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
 s'applique aux produits déclarés pour la consommation avant la date du changement de tarif et existant en stock à cette date
-chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés à l'exception
-des produits se trouvant dans les cuves des stations-service.
+chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
+l'exception des produits se trouvant dans les cuves des stations-service.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1988-02-05 art. 4 JORF 28 février 1988
+	  - Loi n°88-15 du 5 janvier 1988 - art. 52 (V) JORF 6 janvier 1988
+	  - Loi n°88-1149 1988-12-23 art. 27 IV, V Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er juillet 1989
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°68-690 1968-07-31 art. 19 JORF 1er août 1968
-	  - Loi n°77-1467 1977-12-30 art. 83 Finances pour 1978 JORF 31 décembre 1977
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 18 () JORF 1er janvier 1982
-	  - Loi n°84-747 1984-08-02 art. 41 JORF 3 août 1984
 
 	**Cité par**:
 
