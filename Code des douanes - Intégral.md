@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1983-02-10
+Version Consolidée au 1983-12-24
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -391,31 +391,6 @@ entrent en vigueur à la date du Journal officiel contenant l'avis, sauf disposi
 	**Créé par**:
 
 	  - Loi n°61-1396 1961-12-21 art. 3 Finances pour 1962 JORF 22 décembre 1961
-
-
-###### Article 20
-
-Lorsqu'un pays applique des mesures discriminatoires de nature à porter préjudice à l'exploitation des navires battant
-pavillon français, le gouvernement est autorisé à prendre par décret en conseil des ministres toutes dispositions appropriées
-aux circonstances à l'encontre des navires battant pavillon de ce pays ainsi qu'à l'encontre des cargaisons transportées par
-ces navires ou en provenance de ce pays.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V) JORF 24 décembre 1983
-	  - Loi n°83-1119 du 23 décembre 1983 - art. 4 (V) JORF 24 décembre 1983
-	  - Loi n°83-1119 du 23 décembre 1983 - art. 9 (V) JORF 24 décembre 1983
-
-	**Cité par**:
-
-	  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V)
-	  - Code des douanes - art. 67 D (V)
 
 
 ### Section 5 : Contrôle du commerce extérieur et prohibitions
