@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-01-05
+Version Consolidée au 2001-01-17
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7346,73 +7346,62 @@ dispensés de l'obligation de la formalité de francisation s'ils ne se rendent 
 
 ###### Article 219
 
-I. - Pour être francisé, le navire doit répondre aux conditions suivantes :
+I. - Pour être francisé, un navire armé au commerce ou à la plaisance, qui a fait l'objet d'un contrôle de sécurité
+conformément à la réglementation en vigueur, doit répondre aux conditions suivantes :
 
-1. Avoir été construit dans le territoire de la République française dans lequel il doit être francisé ou y avoir acquitté
-les droits et taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué
-pour infractions aux lois françaises.
+1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
+taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour infractions
+aux lois françaises ;
 
-2. A. Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou, s'agissant
-des navires armés au commerce ou à la plaisance, d'un Etat partie à l'accord sur l'Espace économique européen qui, s'ils
-résident sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour
-toutes les affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire.
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
+partie à l'accord sur l'Espace économique européen qui, s'ils résident sur le territoire de la République française moins de
+six mois par an, doivent y faire élection de domicile pour toutes les affaires administratives ou judiciaires se rapportant à
+la propriété et à l'état du navire ;
 
-B. Soit appartenir pour le tout à des sociétés ayant leur siège social sur le territoire de la République française ou d'un
-autre Etat membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat
-partie à l'accord sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que l'exploitation et
-l'utilisation du navire soient dirigées et contrôlées à partir d'un établissement stable situé sur le territoire français.
+B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
+territoire de la République française ou d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que le navire soit dirigé et contrôlé à
+partir d'un établissement stable situé sur le territoire français.
 
 Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne ou n'étant pas partie à
 l'accord sur l'Espace économique européen lorsque, en application d'une convention conclue entre la France et cet Etat, une
 société constituée conformément à la loi française peut régulièrement exercer son activité sur le territoire dudit Etat et y
-avoir son siège social. L'exploitation et l'utilisation du navire doivent alors être également dirigées et contrôlées à
-partir d'un établissement stable situé sur le territoire français.
+avoir son siège social. Le navire doit alors être également dirigé et contrôlé à partir d'un établissement stable situé sur
+le territoire français ;
 
-En outre, quel que soit le lieu du siège social, doivent être ressortissants d'un Etat membre de la Communauté européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen :
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
+partie à l'accord sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les
+conditions prévues au B ;
 
-a) dans les sociétés anonymes : le président du conseil d'administration, les directeurs généraux et la majorité des membres
-du conseil d'administration, ou bien les membres du directoire et la majorité des membres du conseil de surveillance, selon
-le cas ;
-
-b) dans les sociétés en commandite par actions : les gérants et la majorité des membres du conseil de surveillance ;
-
-c) dans les sociétés en commandite simple, les sociétés à responsabilité limité, les sociétés en nom collectif et les
-sociétés civiles : les gérants et les associés détenant au moins la moitié du capital social ;
-
-C. Soit appartenir pour le tout, sans condition de proportion dans la répartition de la propriété, à des ressortissants d'un
-Etat membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat partie à
-l'accord sur l'Espace économique européen remplissant les conditions prévues au paragraphe A ci-dessus et à des sociétés
-remplissant les conditions prévues au paragraphe B ;
-
-D. Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
+D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
 crédit-bail :
 
-a) ou pour moitié au moins, et quels que soient les titulaires de la propriété du reliquat, à des ressortissants d'un Etat
-membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat partie à
-l'accord sur l'Espace économique européen remplissant les conditions prévues au paragraphe A ci-dessus ;
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
+sur l'Espace économique européen remplissant les conditions prévues au A ;
 
-b) ou pour le tout à des sociétés remplissant les conditions prévues au paragraphe B ci-dessus ;
+b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
 
-c) ou pour le tout, sans condition de proportion dans la répartition de la propriété, à des français remplissant les
-conditions prévues au paragraphe A et à des sociétés remplissant les conditions prévues au paragraphe B.
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
+sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les conditions prévues
+au B ;
 
-3. Indépendamment des cas prévus au paragraphe 2 ci-dessus, la francisation d'un navire peut être accordée par agrément
-spécial du ministre chargé de la marine marchande et du ministre de l'économie et des finances dans les deux cas ci-après :
+3° Indépendamment des cas prévus au 2°, la francisation d'un navire de commerce ou de plaisance peut être accordée par
+agrément spécial dans des conditions fixées par décret :
 
-1° lorsque, dans l'une des hypothèses prévues aux paragraphes 2 B, 2 C, 2 D b ou c, les droits des personnes physiques ou
-morales remplissant les conditions de nationalité, de résidence ou de siège social définies par lesdites dispositions ne
-s'étendent pas à la totalité mais à la moitié au moins du navire et, en outre, à la condition que la gestion du navire soit
-assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant les conditions prévues au
-paragraphe 2 A ou 2 B ci-dessus ;
+A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
+conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
+s'étendent pas à la moitié mais au quart au moins du navire et, en outre, à la condition que la gestion du navire soit
+assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant les conditions prévues au 2° A
+ou au 2° B ;
 
-2° lorsque le navire a été affrété, coque nue, par une personne physique ou par une personne morale, répondant aux conditions
-prévues respectivement aux paragraphes A et B du 2 ci-dessus, qui en assure le contrôle, l'armement, l'exploitation et la
-gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse, l'abandon du pavillon étranger.
+B. - Lorsqu'un navire de commerce ou de plaisance a été affrété, coque nue, par une personne physique ou par une personne
+morale répondant aux conditions prévues respectivement au 2° A ou au 2° B, qui en assure le contrôle, l'armement,
+l'exploitation et, le cas échéant, la gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse,
+l'abandon du pavillon étranger.
 
-II. - Les navires étrangers peuvent être également francisés lorsque, à la suite d'un naufrage sur les côtes du territoire où
-la francisation doit avoir lieu, ils sont devenus entièrement propriété française et sont montés par des français, après
-réparations s'élevant au quadruple au moins de leur prix d'achat.
+II. - Lorsqu'il est frété coque nue, un navire de commerce ou de plaisance francisé ne peut conserver le pavillon français
+qu'à la condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable
+situé sur le territoire français.
 
 **Liens relatifs à cet article**
 
@@ -7443,7 +7432,86 @@ réparations s'élevant au quadruple au moins de leur prix d'achat.
 
 	**Modifié par**:
 
-	  - Loi n°96-151 du 26 février 1996 - art. 2 () JORF 27 février 1996
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
+
+
+###### Article 219 bis
+
+I. - Pour être francisé, un navire armé à la pêche doit répondre aux conditions suivantes :
+
+1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
+taxes d'importation exigibles, à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour
+infractions aux lois françaises ;
+
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne qui, s'ils
+résident sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour
+toutes les affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire ;
+
+B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
+territoire de la République française ou d'un autre Etat membre de la Communauté européenne sous réserve, dans ce dernier
+cas, que le navire soit dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français.
+
+Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne lorsque, en application
+d'une convention conclue entre la France et cet Etat, une société constituée conformément à la loi française peut
+régulièrement exercer son activité sur le territoire dudit Etat et y avoir son siège social. Le navire doit alors être
+également dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français ;
+
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les
+conditions prévues au A et à des sociétés remplissant les conditions prévues au B ;
+
+D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
+crédit-bail :
+
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
+prévues au A ;
+
+b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
+
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
+prévues au A et à des sociétés remplissant les conditions prévues au B ;
+
+3° Indépendamment des cas prévus au 2°, la francisation d'un navire armé à la pêche peut être accordée par agrément spécial
+dans des conditions fixées par décret :
+
+A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
+conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
+s'étendent pas à la moitié mais au quart au moins du navire ;
+
+B. - Lorsqu'un navire a été affrété coque nue, en vue d'être armé à la pêche, par une personne physique ou par une personne
+morale répondant aux conditions prévues respectivement au 2° A ou au 2° B et si la loi de l'Etat du pavillon permet, en
+pareille hypothèse, l'abandon du pavillon étranger.
+
+II. - Lorsqu'il est frété coque nue, un navire francisé et armé à la pêche ne peut conserver le pavillon français qu'à la
+condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable situé sur le
+territoire français.
+
+III. - Le navire francisé et armé à la pêche doit avoir un lien économique réel avec le territoire français.
+
+Le mandataire social de l'armement ou son représentant doit résider sur le territoire français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 3 (V)
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
+	  - Décret n°2017-974 du 10 mai 2017 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 1 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 6 (V)
+	  - Code des douanes - art. 251 (V)
+	  - Code des transports - art. R5232-7 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°67-5 du 3 janvier 1967 - art. 3 (M)
+
+	**Créé par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
 
 
 ###### Article 220
@@ -8298,25 +8366,23 @@ leur imposer en raison des actes visés à la présente section, sont fixés par
 	  - Loi n°46-2294 1946-09-19 art. 2
 
 
-## Chapitre II : Navigation réservée.
+## Chapitre II : Dispositions particulières.
 
 ###### Article 257
 
-1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français. Toutefois, le
-ministre chargé de la marine marchande peut autoriser un navire étranger à assurer un transport déterminé.
+Les transports effectués entre les ports de la France métropolitaine sont réservés aux navires exploités par des armateurs
+ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen et immatriculés dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen et battant pavillon de ce même Etat.
 
-2. (dénonciation de l'accord franco-algérien relatif aux transports maritimes ; la dénonciation a pris effet le 1er août
-1988).
+Toutefois, l'autorité administrative peut, dans des conditions fixées par décret, autoriser un navire ne satisfaisant pas à
+ces conditions à assurer un transport déterminé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -8330,34 +8396,37 @@ ministre chargé de la marine marchande peut autoriser un navire étranger à as
 	  - Code des douanes - art. 260 (V)
 	  - Code des douanes - art. 276 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
 
 ###### Article 258
 
-1. Sont également réservés au pavillon français les transports effectués :
+1° Sont également réservés aux navires exploités par des armateurs ressortissants d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, immatriculés dans un Etat membre de la
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et battant pavillon de ce même
+Etat, les transports effectués :
 
-a) entre les ports d'un même département français d'outre-mer ;
+a) Entre les ports d'un même département français d'outre-mer ;
 
-b) entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
+b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
 
-2. Des arrêtés du ministre chargé de la marine marchande, pris après avis du ministre de l'économie et des finances, peuvent
-réserver aux navires français les transports de certaines marchandises effectués :
+2° L'autorité administrative peut réserver, dans des conditions fixées par décret, aux navires mentionnés au 1°, les
+transports de certaines marchandises effectués :
 
-a) entre les ports des départements français d'outre-mer et ceux de la France métropolitaine ;
+a) Entre les ports des départements français d'outre-mer et ceux de la France métropolitaine ;
 
-b) entre les ports de la Réunion et des autres départements français d'outre-mer.
+b) Entre les ports de la Réunion et des autres départements français d'outre-mer.
 
-3. Il peut être dérogé aux dispositions prévues par le paragraphe 1er et par le paragraphe 2 du présent article par des
-décisions de l'administration locale des affaires maritimes.
+3° Toutefois, par dérogation aux dispositions prévues aux 1° et 2°, les services des affaires maritimes locaux concernés
+peuvent autoriser un navire ne satisfaisant pas aux conditions du 1° à assurer un transport déterminé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 	**Cité par**:
 
@@ -8368,37 +8437,83 @@ décisions de l'administration locale des affaires maritimes.
 	  - Code des transports - art. L5734-2 (VD)
 	  - Code des transports - art. L5744-2 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
 
 ###### Article 259
 
-1. En cas d'événements exceptionnels ayant pour effet d'interrompre temporairement les relations maritimes réservées au
-pavillon français, le Gouvernement peut suspendre par décret pris en conseil des ministres et pendant tout le temps que dure
-cette interruption, l'application de l'article 257 ci-dessus.
+En cas d'événements exceptionnels ayant pour effet d'interrompre temporairement les relations maritimes réservées aux navires
+exploités par des armateurs ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen, immatriculés dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen et battant pavillon de ce même Etat, le Gouvernement peut suspendre par décret
+délibéré en conseil des ministres après avis du Conseil d'Etat, et pendant tout le temps que dure cette interruption,
+l'application de l'article 257 et autoriser ainsi les navires battant pavillon d'un Etat autre que ceux précités à effectuer
+des transports entre les ports de la France métropolitaine. 
 
-2. Il peut également, dans la même forme et durant la même période, admettre exceptionnellement au bénéfice de leur origine
-les produits qui, par suite de l'interruption des relations normales, ne peuvent être importés dans les conditions
-réglementaires. Le bénéfice de ce régime est réservé aux seuls produits accompagnés d'un certificat d'origine, dans les
-conditions fixées par l'administration des douanes.
-
-3. Le retour au régime normal est prononcé dans la même forme aussitôt que les circonstances le permettent.
-
-4. Restent admissibles au bénéfice de leur origine les marchandises en cours de route qui sont justifiées avoir été expédiées
-avant la publication du décret au Journal officiel.
+Le retour au régime normal est prononcé dans la même forme aussitôt que les circonstances le permettent.
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Code des douanes - art. 412 (V)
-
 	**Cite**:
 
-	  - Code des douanes - art. 257 (M)
+	  - Code des douanes - art. 257 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 412 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
+
+###### Article 260
+
+1. Sont également réservées au pavillon français, dans les conditions prévues aux articles 257 à 259 qui précèdent, les
+opérations de remorquage effectuées :
+
+a) à l'intérieur des ports ou des eaux territoriales de la métropole et des départements français d'outre-mer ;
+
+b) entre les ports d'un de ces mêmes territoires ;
+
+c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
+
+2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins
+qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises
+représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût
+excède 3 F par tonneau de jauge brute totale.
+
+3. Toutefois, le pavillon étranger peut être admis à pratiquer les opérations de remorquage susvisées dans le cas où il
+n'existerait pas de remorqueur français disponible ou suffisant sur place ni dans les ports français plus proches que les
+ports d'attache des remorqueurs étrangers qui pourraient être requis.
+
+4. Les remorqueurs étrangers sont admis à pénétrer dans les ports français, soit lorsqu'ils remorquent des navires ou
+chalands, à partir d'un port étranger ou du large au-delà de la limite des eaux territoriales, soit lorsqu'ils viennent
+prendre à la remorque des navires ou chalands pour les conduire dans un port étranger ou au-delà de la limite des eaux
+territoriales, leurs opérations à l'intérieur des ports devant se borner à la conduite ou à la prise du navire à son poste
+d'amarrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
+	  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
+	**Cite**:
+
+	  - Code des douanes 257 à 259
 
 
 ## Chapitre III : Relâches forcées.
@@ -12267,59 +12382,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 
 # Titre XII : Contentieux
 
-## Chapitre Ier : Constatation des infractions douanières
-
-### Section 01 : Droit de consignation.
-
-###### Article 322 bis
-
-Les agents des douanes peuvent consigner les marchandises visées au 4 de l'article 38 ci-dessus ou susceptibles d'appartenir
-à l'une des catégories de marchandises énumérées dans cette même disposition, et éventuellement les véhicules qui les
-transportent, dans les locaux professionnels ou dans tout autre lieu autorisé par le service, aux frais du propriétaire, du
-destinataire, de l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération d'importation ou
-d'exportation, pendant une durée de dix jours, renouvelable sur autorisation du procureur de la République dans la limite de
-vingt et un jours au total, aux fins de vérification pour laquelle ils peuvent procéder ou faire procéder au prélèvement
-d'échantillons pour analyse. Ils peuvent, le cas échéant, contraindre le transporteur à se rendre sur un lieu approprié.
-
-Les marchandises et les véhicules consignés sont confiés à la garde du détenteur ou de toute autre personne sur les lieux de
-la consignation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°55-989 1955-07-27 art. 1 JORF 28 juillet 1955
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 25 () JORF 5 janvier 1993
-	  - Loi n°94-114 du 10 février 1994 - art. 14 () JORF 11 février 1994
-
-	**Cité par**:
-
-	  - Loi n°95-877 du 3 août 1995 - art. 22 (Ab)
-	  - Code des douanes - art. 468 (VD)
-	  - Code des douanes - art. 65 A bis (V)
-	  - Code du patrimoine. - art. L112-22 (V)
-	  - Code rural - art. L251-18 (M)
-	  - Code rural - art. L936-6 (T)
-	  - Code rural - art. L951-18 (T)
-	  - Code rural ancien - art. 275-6 (Ab)
-	  - Code rural ancien - art. 363-1 (Ab)
-	  - Code rural ancien - art. 364 (M)
-	  - Code rural et  de la pêche maritime - art. L236-6 (V)
-	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 38 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°55-594 1955-05-20 art. 29 JORF 21 mars 1955
-
-
 ## Chapitre II : Poursuites
 
 ### Section 2 : Poursuite par voie de contrainte
@@ -13242,97 +13304,6 @@ Les infractions portant sur des marchandises non prohibées, dont la valeur n'ex
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 5 : Importations et exportations sans déclaration.
-
-###### Article 426
-
-Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
-
-1° toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
-délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
-déclarations ou par tous autres moyens frauduleux ;
-
-2° toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
-marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
-qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
-est demandée restent en France ;
-
-3° les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
-réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
-documents faux, inexacts, incomplets ou non applicables ;
-
-4° les fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
-exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
-infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
-remboursement, une exonération, un droit réduit ou un avantage financier ;
-
-5° le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
-de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
-préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
-marchandises sortant du territoire douanier français ou y entrant ;
-
-6° les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
-compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus ;
-
-7° tout mouvement de marchandises visées au 4 de l'article 38, effectué en infraction aux dispositions portant prohibition
-d'exportation ou d'importation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 23 () JORF 5 janvier 1993
-	  - Loi n°94-114 du 10 février 1994 - art. 19 () JORF 11 février 1994
-
-	**Cité par**:
-
-	  - Arrêté du 11 juillet 2012 - art. 2 (V)
-	  - Code des douanes - art. 436 (V)
-	  - Code des douanes - art. 438 bis (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 19 bis (P)
-	  - Code des douanes - art. 38 (M)
-	  - Code des douanes 19 bis, 38, 38-3
-
-
-###### Article 428
-
-1. Est réputée exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit législatives,
-soit réglementaires portant prohibition d'exportation ou de réexpédition ou bien subordonnant l'exportation ou la
-réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières lorsque la fraude a été
-faite ou tentée par les bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du présent code.
-
-2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
-déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportateur est passible des peines de
-l'exportation sans déclaration s'il est établi que cette réexpédition a été effectuée sur ses instructions, à son instigation
-ou avec sa complicité, ou encore s'il est démontré qu'il en a tiré profit ou qu'il avait connaissance de la réexpédition
-projetée au moment de l'exportation.
-
-3. Les dispositions du 1 ci-dessus ne sont pas applicables aux infractions aux règles de qualité ou de conditionnement
-imposées à l'exportation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 11 juillet 2012 - art. 2 (V)
-	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
 ### Section 2 : Peines complémentaires
