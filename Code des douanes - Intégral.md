@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1991-12-20
+Version Consolidée au 1991-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4783,6 +4783,27 @@ Des arrêtés du directeur général des douanes et droits indirects déterminen
 	  - Code des douanes - art. 179 (V)
 
 
+## Chapitre X : Intérêt compensatoire du régime du perfectionnement actif.
+
+###### Article 181 bis
+
+1. Les intérêts compensatoires perçus dans les conditions prévues par la réglementation communautaire applicable au régime du
+perfectionnement actif dans le cadre du système de la suspension sont liquidés et recouvrés comme en matière de droits de
+douane.
+
+2. Le produit de ces intérêts est affecté au budget de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 30 () JORF 31 décembre 1991
+
+
 # Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux
 
 ## Chapitre III : Entrepôt de douane (entrepôt de stockage)
@@ -6463,99 +6484,68 @@ droit.
 
 I. - Navires de commerce.
 
-De moins de 100 tonneaux de jauge brute : 0,25 F par tonneau ou fraction de tonneau.
-
-De 100 à 3.000 tonneaux de jauge brute exclusivement : 25 F par navire et 0,18 F pour chaque tonneau ou fraction de tonneau
-au-dessus de 100 tonneaux.
-
-De 3.000 à 10.000 tonneaux de jauge brute exclusivement : 547 F par navire et 0,12 F pour chaque tonneau ou fraction de
-tonneau au-dessus de 3.000 tonneaux.
-
-De 10.000 à 40.000 tonneaux de jauge brute exclusivement : 1.387 F par navire et 0,08 F pour chaque tonneau ou fraction de
-tonneau au-dessus de 10.000 tonneaux.
-
-De 40.000 et plus : 3.787 F par navire et 0,05 F pour chaque tonneau ou fraction de tonneau au-dessus de 40.000 tonneaux.
+De tout tonnage : exonération.
 
 II. - Navires de pêche.
 
-Moins de 5 tonneaux : 10 F par navire.
-
-De 5 à 10 tonneaux exclusivement : 10 F par navire plus 5 F par tonneau ou fraction de tonneau au-dessus de 5 tonneaux.
-
-De 10 à 50 tonneaux exclusivement : 35 F par navire plus 2 F par tonneau ou fraction de tonneau au-dessus de 10 tonneaux.
-
-De 50 à 500 tonneaux exclusivement : 115 F par navire plus 1 F par tonneau ou fraction de tonneau au-dessus de 50 tonneaux.
-
-De 500 tonneaux et au-dessus : 565 F par navire plus 0,50 F par tonneau ou fraction de tonneau au-dessus de 500 tonneaux.
+De tout tonnage : exonération.
 
 III. - Navires de plaisance ou de sport.
 
 a) Droit sur la coque.
 
-Jusqu'à 2 tonneaux inclusivement : exonération.
+Jusqu'à 3 tonneaux inclusivement : exonération.
 
-De plus de 2 tonneaux à 3 tonneaux inclusivement : 150 F par navire.
-
-De plus de 3 tonneaux à 5 tonneaux inclusivement : 150 F par navire plus 102 F par tonneau ou fraction de tonneau au-dessus
+De plus de 3 tonneaux à 5 tonneaux inclusivement : 222 F par navire plus 151 F par tonneau ou fraction de tonneau au-dessus
 de 3 tonneaux.
 
-De plus de 5 tonneaux à 8 tonneaux inclusivement : 150 F par navire plus 72 F par tonneau ou fraction de tonneau au-dessus de
-3 tonneaux.
+De plus de 5 tonneaux à 8 tonneaux inclusivement : 222 F par navire plus 106 F par tonneau ou fraction de tonneau au-dessus
+de 3 tonneaux.
 
 De plus de 8 tonneaux à 10 tonneaux inclusivement :
 
-- de plus de 10 ans : 150 F par navire plus 72 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 222 F par navire plus 106 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 150 F par navire plus 140 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 De plus de 10 tonneaux à 20 tonneaux inclusivement :
 
-- de plus de 10 ans : 150 F par navire plus 66 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 222 F par navire plus 98 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 150 F par navire plus 140 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 De plus de 20 tonneaux inclusivement :
 
-- de plus de 10 ans : 150 F par navire plus 63 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 222 F par navire plus 93 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 150 F par navire plus 140 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 b) Droit sur le moteur (puissance administrative).
 
 Jusqu'à 5 CV inclusivement : exonération.
 
-6 à 8 CV : 37 F par CV au-dessus du cinquième ;
+6 à 8 CV : 54 F par CV au-dessus du cinquième ;
 
-9 à 10 CV : 46 F par CV au-dessus du cinquième ;
+9 à 10 CV : 68 F par CV au-dessus du cinquième ;
 
-11 à 20 CV : 92 F par CV au-dessus du cinquième ;
+11 à 20 CV : 136 F par CV au-dessus du cinquième ;
 
-21 à 25 CV : 102 F par CV au-dessus du cinquième ;
+21 à 25 CV : 151 F par CV au-dessus du cinquième ;
 
-26 à 50 CV : 116 F par CV au-dessus du cinquième ;
+26 à 50 CV : 172 F par CV au-dessus du cinquième ;
 
-51 à 99 CV : 128 F par CV au-dessus du cinquième.
+51 à 99 CV : 190 F par CV au-dessus du cinquième.
 
 c) Taxe spéciale.
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b ci-dessus est remplacé
-par une taxe spéciale de 200 F par CV.
+par une taxe spéciale de 297 F par CV.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 3 (Ab) JORF 29 décembre 1967
-	  - Loi n°70-1199 1970-12-21 art. 21 Finances pour 1971 JORF 22 décembre 1970 en vigueur le 1er janvier 1971
-	  - Loi n°76-1232 1976-12-29 art. 15 I Finances pour 1977 JORF 30 décembre 1976
-	  - Loi n°80-30 du 18 janvier 1980 - art. 14 (Ab) JORF 19 janvier 1980
-	  - Loi n°81-734 du 3 août 1981 - art. 10 () JORF 4 août 1981
-	  - Loi n°83-1179 1983-12-29 art. 31 Finances pour 1984 JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -6567,6 +6557,12 @@ par une taxe spéciale de 200 F par CV.
 	  - Code des douanes - art. 238 (V)
 	  - Code des ports maritimes - art. L221-1 (VT)
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 44 () JORF 31 décembre 1986
+	  - Loi - art. 44 () JORF 31 décembre 1991
+	  - Loi n°84-1208 1984-12-19 art. 24 Finances pour 1985 JORF 30 décembre 1984
 
 
 ###### Article 224
@@ -7823,19 +7819,15 @@ Les modalités d'application de cette mesure sont fixées par décret.
 
 1. Sont interdites l'utilisation à la carburation, la vente ou la mise en vente pour la carburation de produits dont
 l'utilisation et la vente pour cet usage n'ont pas été spécialement autorisés par des arrêtés du ministre de l'économie et
-des finances et du ministre chargé de l'industrie.
+des finances et du ministre de l'industrie.
 
 2. Sans préjudice des interdictions ou pénalités qui pourraient résulter d'autres dispositions législatives, les produits
-utilisés ou destinés à être utilisés en violation des prescriptions du 1 ci-dessus sont passibles des taxes applicables à
-l'essence.
+utilisés ou destinés à être utilisés en violation des prescriptions du 1 ci-dessus sont passibles des taxes applicables au
+supercarburant plombé.
 
 3. Les conditions d'application du 2 ci-dessus sont fixées par un arrêté du ministre de l'économie et des finances.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 5 JORF 15 décembre 1966
 
 	**Liens**:
 
@@ -7878,6 +7870,10 @@ l'essence.
 	  - Arrêté du 28 février 2017 (V)
 	  - Code des douanes - art. 265 quater (V)
 	  - Décret n°2016-649 du 20 mai 2016 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 28 () JORF 31 décembre 1991
 
 	**Codifié par**:
 
