@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-08-10
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -6986,6 +6986,34 @@ territoire douanier en conformité avec les dispositions portant prohibition d'e
 	  - Code des douanes - art. 38 (M)
 
 
+###### Article 215 ter
+
+Par dérogation à l'article 215 bis, ceux qui détiennent ou transportent les biens culturels ou les trésors nationaux visés au
+4 de l'article 38 doivent, à première réquisition des agents des douanes, produire soit des documents attestant que ces
+marchandises peuvent quitter le territoire douanier en conformité avec les dispositions portant prohibition d'exportation,
+soit toute justification d'origine émanant de personnes ou de sociétés régulièrement établies à l'intérieur du territoire
+douanier communautaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°94-679 du 8 août 1994 - art. 60 () JORF 10 août 1994
+
+	**Cite**:
+
+	  - Code des douanes - art. 215 bis (M)
+	  - Code des douanes - art. 38 (M)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 419 (V)
+
+
 # Titre IX : Navigation
 
 ## Chapitre Ier : Régime administratif des navires
@@ -9067,14 +9095,15 @@ L'impôt est exigible dès la réalisation du transport.
 
 ###### Article 268
 
-1. Les cigarettes, les cigares et cigarillos, le tabac à fumer, le tabac à mâcher et le tabac à priser, destinés à être
-consommés dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un droit
-de consommation.
+1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler
+les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
 
 Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
 taux permettant leur vente au détail à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion à des prix égaux aux deux
-tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes et de tabac à fumer, à mâcher et à priser,
-et aux 85 p. 100 des prix de vente au détail en France continentale, s'il s'agit de cigares et de cigarillos.
+tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser,
+de tabacs fine coupe destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail
+en France continentale, s'il s'agit de cigares et de cigarillos.
 
 Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
 présentant la plus grande analogie avec les produits considérés.
@@ -9094,36 +9123,39 @@ modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°94-679 1994-08-08 art. 55 I, II JORF 10 août 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
+
 	**Cité par**:
 
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
 	  - Code des douanes - art. 268 ter (M)
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-	  - Loi n°66-1011 1966-12-28 art. 1, art. 3, art. 4 JORF 29 décembre 1966
-
 
 ###### Article 268 bis
 
-1. Les cigarettes, les cigares, les cigarillos, les tabacs à fumer, les tabacs à mâcher et les tabacs à priser destinés à
-être consommés en Corse sont passibles d'un droit de consommation.
+1. Les cigarettes, les cigares, les cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à
+rouler les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de Corse, sont passibles
+d'un droit de consommation.
 
 Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
-taux permettant leur vente au détail en Corse à des prix égaux aux deux tiers des prix de vente au détail en France
-continentale, s'il s'agit de cigarettes et de tabacs à fumer, à mâcher ou à priser, et aux 85 p. 100 des prix de vente au
-détail en France continentale, s'il s'agit de cigares et de cigarillos.
+taux permettant leur vente au détail dans les départements de Corse à des prix égaux aux deux tiers des prix de vente au
+détail en France continentale, s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser, de tabacs fine coupe
+destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail en France
+continentale, s'il s'agit de cigares et de cigarillos.
 
 Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
 présentant la plus grande analogie avec les produits considérés.
 
-2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
+2. Le droit de consommation est exigible soit à l'importation, soit à la cessation du bénéfice du régime suspensif d'accise,
+soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
 les instances instruites et jugées conformément aux dispositions du titre XII du code des douanes.
@@ -9131,9 +9163,9 @@ les instances instruites et jugées conformément aux dispositions du titre XII 
 4. Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à
 concurrence :
 
-D'un quart au budget du département de la Corse ;
+- d'un quart au budget des départements de la Corse,
 
-De trois quarts à un compte spécial du Trésor.
+- de trois quarts au budget de la collectivité territoriale de Corse.
 
 5. Des arrêtés du ministre de l'économie et des finances fixent les taux du droit de consommation visé au paragraphe 1 ci-
 dessus et déterminent les autres modalités d'application des dispositions des paragraphes 1 à 4 ci-dessus.
@@ -9142,11 +9174,14 @@ dessus et déterminent les autres modalités d'application des dispositions des 
 
 	**Modifié par**:
 
-	  - Loi n°67-1114 1967-12-21 art. 20 JORF 22 décembre 1967
-	  - Loi n°76-448 1976-05-24 art. 14 JORF 25 mai 1976
-	  - Loi n°82-659 1982-07-30 art. 23, art. 24 JORF 31 juillet 1982
-	  - Loi n°83-1179 1983-12-29 art. 124 JORF 30 décembre 1983 en vigueur le 1er janvier 1984
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°92-677 du 17 juillet 1992 - art. 103 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°94-679 1994-08-08 art. 55 III, IV JORF 10 août 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
+
+	**Abrogé par**:
+
+	  - Loi - art. 40 (V) JORF 31 décembre 2002 en vigueur le 6 janvier 2003
+	  - Loi n°2002-1576 2002-12-30 art. 40 II, III Finances rectificative pour 2002 JORF 31 décembre 2002 en vigueur le 6 janvier 2003
 
 	**Cité par**:
 
@@ -11125,29 +11160,6 @@ non distribués à la date de publication desdits arrêtés au Journal officiel.
 
 
 ## Chapitre V : Responsabilité et solidarité
-
-### Section 1 : Responsabilité pénale
-
-#### Paragraphe 6 : Complices.
-
-###### Article 398
-
-Les dispositions des articles 59 et 60 du code pénal sont applicables aux complices de délits douaniers.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal 59, 60
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
 
 ### Section 2 : Responsabilité civile
 
