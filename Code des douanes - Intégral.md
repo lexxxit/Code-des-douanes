@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-12-31
+Version Consolidée au 2001-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8661,6 +8661,38 @@ Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'é
 carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
 température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
 
+d) Lorsque le cours moyen du pétrole dénommé "brent daté" varie de plus de 10 % dans les conditions précisées au deuxième
+alinéa, les tarifs prévus au 1 pour les supercarburants mentionnés aux indices 11 et 11 bis, le gazole mentionné à l'indice
+22 et le fioul domestique mentionné à l'indice 20 sont corrigés d'un montant égal au produit de la variation en valeur
+absolue de la moyenne des prix hors taxe de ces produits pétroliers et du taux de 16,388 %. Cette correction est effectuée à
+la baisse en cas de hausse des prix hors taxe et à la hausse dans le cas contraire.
+
+Cette modification est effectuée le 1er octobre 2000 pour la période du 1er octobre au 30 novembre 2000 si la variation
+cumulée du cours moyen du pétrole "brent daté" constatée sur la période du 1er au 15 septembre 2000 est supérieure de 10 % au
+cours moyen du mois de janvier 2000. La modification est effectuée le 1er décembre 2000 pour la période du 1er décembre 2000
+au 20 janvier 2001 si la variation cumulée du cours moyen du pétrole "brent daté" constatée sur la période du 1er octobre au
+9 novembre 2000 est supérieure de 10 % au cours moyen de la période du mois de septembre 2000. La modification est effectuée
+le 21 janvier 2001 pour la période du 21 janvier au 20 mars 2001 si la variation cumulée du cours moyen du pétrole "brent
+daté" constatée sur la période du 10 novembre au 31 décembre 2000 est supérieure de 10 % au cours moyen de la période du 1er
+octobre au 9 novembre 2000. Elle est effectuée pour les périodes ultérieures, lorsque la variation cumulée constatée au cours
+des bimestres suivants est supérieure de 10 % à la moyenne des prix du "brent daté" qui a entraîné la modification
+précédente.
+
+Ces modifications s'appliquent à compter du 21 du premier mois du bimestre suivant celui au titre duquel une variation de 10
+% du cours du "brent daté" a été constatée.
+
+Les cours moyens du pétrole "brent daté" et les prix moyens hors taxe des supercarburants, du gazole et du fioul domestique
+sont calculés, pour chacune des périodes mentionnées au présent d, par l'autorité administrative compétente.
+
+Les modifications prévues au premier alinéa ne peuvent pas avoir pour effet de porter les tarifs à un niveau supérieur à
+celui fixé par la loi de finances au tableau B du 1. Ces modifications ne sont plus appliquées lorsque le cours moyen
+bimestriel du "brent daté" est redevenu inférieur à la moyenne constatée au titre du mois de janvier 2000.
+
+Le ministre chargé du budget constate par arrêté les modifications de tarifs de la taxe intérieure de consommation résultant
+des alinéas précédents.
+
+Un décret fixe les modalités d'application de ces dispositions. 
+
 Tableau C : Autres huiles minérales.
 
 1. Définition (division abrogée).
@@ -9052,24 +9084,7 @@ hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, 
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 22 Finances pour 1985 JORF 30 décembre 1984
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 22 () JORF 31 décembre 1985
-	  - Loi n°87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987
-	  - Loi n°87-1061 1987-12-30 Finances rectificative pour 1987 JORF 31 décembre 1987
-	  - Loi - art. 43 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-	  - Loi n°92-1476 1992-12-31 art. 43 I, II, IV, V, VII, VII, IX, X, XII Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-	  - Loi - art. 20 (V) JORF 31 décembre 1995 en vigueur le 11 janvier 1996
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 26 () JORF 31 décembre 1996 en vigueur le 11 janvier 1997
-	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
-	  - Loi - art. 16 () JORF 31 décembre 1997
-	  - Loi - art. 26 (V) JORF 31 décembre 1998
-	  - Loi - art. 27 () JORF 31 décembre 1998
-	  - Loi - art. 39 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
-	  - Loi n°99-1172 1999-12-30 art. 39 I, II, III, IX Finances pour 2000 JORF 31 décembre 1999 en vigueur le 1er janvier 2000
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2000-1352 du 30 décembre 2000 - art. 12 (V)
 
 
 ###### Article 265 A
@@ -9763,15 +9778,31 @@ l'année civile précédente. Cette déduction s'exerce dans la limite de 1 mill
 cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
-assouplissants pour le linge, les grains minéraux naturels, les produits antiparasitaires à usage agricole et les produits
+assouplissants pour le linge, les matériaux d'extraction, les produits antiparasitaires à usage agricole et les produits
 assimilés mentionnés respectivement aux 5, 6 et 7 du I de l'article 266 sexies donnent lieu, sur demande, à remboursement de
-la taxe afférente lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
+la taxe acquittée lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
 
 4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales dont ils réceptionnent les déchets.
 
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
+
+6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5, 6 et 7 du I de l'article 266 sexies
+sont autorisées à acquérir ou importer, en suspension de la taxe générale sur les activités polluantes, ces mêmes produits
+qu'elles destinent à une livraison à l'exportation ou vers un autre Etat membre de la Communauté européenne, dans la limite
+de la taxe générale sur les activités polluantes qui aurait été acquittée au cours de l'année précédente si les livraisons
+avaient été soumises à la taxe.
+
+Pour bénéficier des dispositions du premier alinéa, les intéressés doivent, selon le cas, adresser à leurs fournisseurs ou
+remettre au service des douanes et droits indirects dont ils dépendent une attestation visée par ledit service, certifiant
+que les produits sont destinés à faire l'objet, en l'état ou après transformation, d'une livraison à l'exportation ou vers un
+autre Etat membre de la Communauté européenne. Cette attestation doit comporter l'engagement d'acquitter la taxe générale sur
+les activités polluantes au cas où les produits ne recevraient pas la destination qui a motivé la suspension.
+
+Pour l'application du deuxième alinéa, toute personne qui a été autorisée à acquérir ou importer des produits visés ci-dessus
+en suspension de la taxe générale sur les activités polluantes est tenue au paiement de tout ou partie de la taxe, lorsque
+les conditions auxquelles est subordonné l'octroi de cette suspension ne sont pas remplies.
 
 **Liens relatifs à cet article**
 
@@ -9795,7 +9826,6 @@ avec les personnes physiques ou morales auxquelles elles vendent les produits co
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
@@ -9805,7 +9835,8 @@ avec les personnes physiques ou morales auxquelles elles vendent les produits co
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
@@ -9889,9 +9920,9 @@ le linge.
 
 - dont la teneur en phosphates est supérieur à 30 % du poids, 570.
 
-Grains minéraux naturels.
+Matériaux d'extraction.
 
-Grains minéraux naturels, 0,60.
+Matériaux d'extraction, 0,60.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
@@ -10028,7 +10059,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -10039,17 +10069,8 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
-	  - Code de l'environnement - art. L541-14 (M)
-	  - Code de l'environnement - art. L571-15 (M)
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 
 ###### Article 266 octies
@@ -10069,13 +10090,19 @@ caractéristiques acoustiques de l'appareil ;
 5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
 assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
-6. Le poids des grains minéraux naturels mentionnés au 6 du I de l'article 266 sexies ;
+6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
 
 7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
 l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
+	  - Code des douanes - art. 266 septies (M)
 
 	**Codifié par**:
 
@@ -10089,19 +10116,10 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 
 ###### Article 266 quater
@@ -10413,6 +10431,10 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
@@ -10440,17 +10462,13 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L512-1 (M)
 	  - Code de l'environnement - art. L512-8 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 sexies
@@ -10482,9 +10500,14 @@ achat, importation ou fabrication dans un autre Etat membre de la Communauté eu
 préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
 pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
 
-6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches
+concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
+caractéristiques et usages sont fixés par décret ;
+
+b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des
+matériaux mentionnés au a, pour les besoins de sa propre utilisation ;
 
 7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -10495,7 +10518,7 @@ les critères définis par les arrêtés pris pour l'application de l'article R.
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
 commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
-l'environnement.
+l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
@@ -10513,19 +10536,12 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
-assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole et aux produits
+assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits
 assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication
 nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
 exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
-
-**Nota:**
-
-Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
-réserve énoncée au considérant, les dispositions du 1 et du 8 du paragraphe I de l'article 266 sexies du code des douanes,
-dans sa rédaction issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à
-la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -10588,7 +10604,6 @@ la Constitution.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -10605,8 +10620,8 @@ la Constitution.
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 
@@ -10699,11 +10714,13 @@ taxe.
 Ces déclarations sont accompagnées du paiement de la taxe due, sauf en cas de mise en place par l'assujetti d'un crédit
 d'enlèvement ou d'un crédit de droits auprès du comptable public.
 
+Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la
+Banque de France, lorsque son montant excède 50 000 F.
+
+La méconnaissance de l'obligation prévue à l'alinéa précédent entraîne l'application d'une majoration de 0,2 % du montant des
+sommes dont le versement a été effectué selon un autre moyen de paiement.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -10732,6 +10749,11 @@ d'enlèvement ou d'un crédit de droits auprès du comptable public.
 	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 6 (Ab)
 	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 7 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 février 2004
+
+	**Modifié par**:
+
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 V, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 
@@ -10949,8 +10971,9 @@ dessus et déterminent les autres modalités d'application des dispositions des 
 
 ###### Article 268 ter
 
-Pour l'application du droit prévu à l'article 268 ci-dessus, les échanges entre la France métropolitaine et chacun des
-départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
+Pour l'application de la taxe prévue à l'article 266 sexies et du droit prévu à l'article 268 ci-dessus, les échanges entre
+la France métropolitaine et chacun des départements d'outre-mer sont assimilés à des opérations d'importation ou
+d'exportation.
 
 Il en est de même pour les échanges réalisés entre ces départements sauf entre la Guadeloupe et la Martinique.
 
@@ -10958,9 +10981,8 @@ Il en est de même pour les échanges réalisés entre ces départements sauf en
 
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 102 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-	  - Loi - art. 29 () JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -10968,6 +10990,7 @@ Il en est de même pour les échanges réalisés entre ces départements sauf en
 
 	**Cite**:
 
+	  - Code des douanes - art. 266 sexies (M)
 	  - Code des douanes - art. 268 (M)
 
 	**Codifié par**:
@@ -11558,6 +11581,32 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 285 sexies
+
+Il n'est procédé au recouvrement, au remboursement ou à la remise des taxes prévues par les articles 266 sexies et 266 sexies
+A que si le montant à recouvrer, à rembourser ou à remettre excède 400 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 VI, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L151-1 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes 266 sexies, 266 sexies A
 
 
 ###### Article 285 ter

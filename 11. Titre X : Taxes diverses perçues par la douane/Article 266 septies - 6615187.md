@@ -40,6 +40,10 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
@@ -67,14 +71,10 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L512-1 (M)
 	  - Code de l'environnement - art. L512-8 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08

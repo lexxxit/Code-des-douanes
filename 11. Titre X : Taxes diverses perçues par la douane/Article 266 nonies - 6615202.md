@@ -49,9 +49,9 @@ le linge.
 
 - dont la teneur en phosphates est supérieur à 30 % du poids, 570.
 
-Grains minéraux naturels.
+Matériaux d'extraction.
 
-Grains minéraux naturels, 0,60.
+Matériaux d'extraction, 0,60.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
@@ -188,7 +188,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -199,14 +198,5 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
-	  - Code de l'environnement - art. L541-14 (M)
-	  - Code de l'environnement - art. L571-15 (M)
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001

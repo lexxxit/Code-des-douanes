@@ -15,13 +15,19 @@ caractéristiques acoustiques de l'appareil ;
 5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
 assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
-6. Le poids des grains minéraux naturels mentionnés au 6 du I de l'article 266 sexies ;
+6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
 
 7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
 l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
+	  - Code des douanes - art. 266 septies (M)
 
 	**Codifié par**:
 
@@ -35,16 +41,7 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001

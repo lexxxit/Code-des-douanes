@@ -27,9 +27,14 @@ achat, importation ou fabrication dans un autre Etat membre de la Communauté eu
 préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
 pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
 
-6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches
+concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
+caractéristiques et usages sont fixés par décret ;
+
+b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des
+matériaux mentionnés au a, pour les besoins de sa propre utilisation ;
 
 7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -40,7 +45,7 @@ les critères définis par les arrêtés pris pour l'application de l'article R.
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
 commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
-l'environnement.
+l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
@@ -58,19 +63,12 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
-assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole et aux produits
+assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits
 assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication
 nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
 exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
-
-**Nota:**
-
-Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
-réserve énoncée au considérant, les dispositions du 1 et du 8 du paragraphe I de l'article 266 sexies du code des douanes,
-dans sa rédaction issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à
-la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -133,7 +131,6 @@ la Constitution.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -150,8 +147,8 @@ la Constitution.
 
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 

@@ -7,11 +7,13 @@ taxe.
 Ces déclarations sont accompagnées du paiement de la taxe due, sauf en cas de mise en place par l'assujetti d'un crédit
 d'enlèvement ou d'un crédit de droits auprès du comptable public.
 
+Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la
+Banque de France, lorsque son montant excède 50 000 F.
+
+La méconnaissance de l'obligation prévue à l'alinéa précédent entraîne l'application d'une majoration de 0,2 % du montant des
+sommes dont le versement a été effectué selon un autre moyen de paiement.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -40,6 +42,11 @@ d'enlèvement ou d'un crédit de droits auprès du comptable public.
 	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 6 (Ab)
 	  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 7 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 février 2004
+
+	**Modifié par**:
+
+	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi n°2000-1353 2000-12-30 art. 36 V, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cite**:
 
