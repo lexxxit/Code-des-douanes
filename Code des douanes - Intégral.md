@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1981-08-04
+Version Consolidée au 1981-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2828,6 +2828,22 @@ l'autorisation prévue à l'article 113 n'a pas encore été donnée.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 109
+
+Les droits et taxes exigibles pour chaque article d'une même déclaration et les droits et taxes perçus comme en matière de
+douane sont arrondis au franc inférieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 42 () JORF 31 décembre 1981
 
 
 ### Section 2 : Paiement au comptant.
@@ -7481,6 +7497,47 @@ l'essence.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 266
+
+1. Les tarifs des taxes intérieures de consommation visés à l'article 265 peuvent être modifiés par arrêté du ministre de
+l'économie et des finances sauf en ce qui concerne les produits pétroliers.
+
+2. Si un projet de loi tendant à modifier les tarifs prévus par l'article 265 ci-dessus est déposé par le Gouvernement avec
+la procédure d'urgence, celui-ci est autorisé à interdire par décret la mise à la consommation des produits visés par ce
+projet jusqu'à la mise en vigueur des nouveaux tarifs ou jusqu'à la décision de rejet du projet de loi par le Parlement.
+
+3. Une disposition spéciale de ce décret doit en ordonner l'exécution immédiate conformément aux dispositions du décret du 5
+novembre 1870.
+
+4. Le tarif de la taxe intérieure de consommation sur les produits pétroliers et assimilés visés au tableau B annexé à
+l'article 265 ci-dessus est relevé chaque année au cours de la première semaine de janvier, dans la même proportion que la
+limite inférieure de la septième tranche du barème de l'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1870-11-05
+	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 25 () JORF 31 décembre 1981
+
+	**Cité par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 23 (P)
+	  - Ordonnance n°83-392 du 18 mai 1983 - art. 1 (V)
+	  - Loi - art. 27 (V)
+	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (V)
+	  - Code des douanes - art. 266 quinquies (M)
+
+
 ###### Article 266 bis
 
 En cas de relèvement des taux de la taxe intérieure de consommation prévue au tableau B (produits pétroliers et assimilés) du
@@ -7511,6 +7568,67 @@ trouvant dans les cuves des stations-services.
 
 	**Cite**:
 
+	  - Code des douanes - art. 265 (M)
+
+
+###### Article 266 ter
+
+1. Les produits repris au tableau ci-après sont passibles d'une redevance perçue au profit du fonds de soutien aux
+hydrocarbures ; le tarif de cette redevance est fixé comme suit :
+
+Numéro du tarif douanier (passibles d'une redevance perçue au profit du fonds de soutien aux hydrocarbures), produits visés,
+indices d'identification, unité de perception, taux de la redevance.
+
+Ex. 27-10 A : essences d'aviation (1) (2), indice 9, unité =
+
+hectolitre (3), taux 0,08 (4) (5).
+
+Ex. 27-10 A : supercarburant et huiles légères assimilées, essence et autres huiles légères non dénommées (1) (2), indice 10
+et 11, unité = hectolitre (3), taux 1,50 (4) (5).
+
+2. Sont exonérés de la redevance visée au 1 ci-dessus les produits visés audit tableau exemptés de la taxe intérieure de
+consommation par application des articles 189, 190 et 195 ci-dessus, ainsi que les mêmes produits mis à la consommation dans
+les départements d'outre-mer.
+
+(1) A l'exception des huiles de pétrole ou de minéraux bitumineux à base de produits hétérocycliques.
+
+(2) La redevance s'applique aux produits du tableau B de l'article 265 du code des douanes pour lesquels les taxes
+intérieures de consommation sont fixées dans ledit tableau par référence à l'un des produits visés sous la présente rubrique.
+
+(3) Le volume imposable est le volume mesuré à l'état liquide, à la température de 15° C.
+
+(4) La redevance est perçue sur la totalité du produit y compris les produits d'addition.
+
+(5) Les carburéacteurs bénéficiant du taux réduit de la taxe intérieure de consommation prévu au renvoi (5) du tableau B de
+l'article 265 du présent code ne sont pas soumis à la redevance.
+
+(6) La masse imposable est la masse commerciale (masse dans l'air).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°69-1161 1969-12-24 art. 19 I, II, III Finances pour 1970 JORF 27 décembre 1969
+	  - Loi n°73-1150 1973-12-27 art. 75 Finances pour 1974 JORF 28 décembre 1973
+	  - Loi n°75-1278 1975-12-30 art. 10 II Finances pour 1976 JORF 31 décembre 1975
+	  - Loi n°77-1467 1977-12-30 art. 22 Finances pour 1978 JORF 31 décembre 1977
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 50 () JORF 31 décembre 1981
+
+	**Cité par**:
+
+	  - Décret n°70-333 du 9 avril 1970 - art. 1 (Ab)
+	  - Code des douanes - art. 265 bis (M)
+	  - Code des douanes - art. 267 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 189 (P)
+	  - Code des douanes - art. 190 (V)
+	  - Code des douanes - art. 195 (V)
 	  - Code des douanes - art. 265 (M)
 
 
@@ -9214,6 +9332,41 @@ recouvrement observées par eux à l'égard de ce tiers.
 
 ### Section 2 : Voies d'exécution
 
+#### Paragraphe 1 : Règles générales.
+
+###### Article 382
+
+1. L'exécution des jugements et arrêts rendus en matière de douane peut avoir lieu par toutes voies de droit.
+
+2. Les jugements et arrêts portant condamnation pour infraction aux lois de douane sont, en outre, exécutés par corps.
+
+3. Les contraintes sont exécutoires par toutes voies de droit, sauf par corps. L'exécution des contraintes ne peut être
+suspendue par aucune opposition ou autre acte.
+
+4. Lorsqu'un contrevenant vient à décéder avant d'avoir effectué le règlement des amendes, confiscations et autres
+condamnations pécuniaires prononcées contre lui par jugement définitif, ou stipulées dans les transactions ou soumissions
+contentieuses acceptées par lui, le recouvrement peut en être poursuivi contre la succession par toutes voies de droit, sauf
+par corps.
+
+5. Les amendes et confiscations douanières, quel que soit le tribunal qui les a prononcées, se prescrivent dans les mêmes
+délais que les peines correctionnelles de droit commun et dans les mêmes conditions que les dommages-intérêts.
+
+6. En cas de condamnation à une pénalité pécuniaire prévue au présent code, lorsque l'administration dispose d'éléments
+permettant de présumer que le condamné a organisé son insolvabilité, elle peut demander au juge de condamner à la solidarité
+de paiement des sommes dues les personnes qui auront participé à l'organisation de cette insolvabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 11 JORF 18 décembre 1958
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 98 () JORF 31 décembre 1981
+
+
 #### Paragraphe 2 : Droits particuliers réservés à la douane.
 
 ###### Article 383
@@ -9508,6 +9661,63 @@ circonstances de la visite peuvent éventuellement donner lieu.
 
 #### Paragraphe 2 : Contraventions douanières
 
+##### A. - Première classe.
+
+###### Article 410
+
+1. Est passible d'une amende de 1.000 F à 10.000 F toute infraction aux dispositions des lois et règlements que
+l'administration des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
+présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
+
+a) Toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
+l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+
+b) Toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
+
+c) Toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
+pour l'application de l'article 24-2 du présent code ;
+
+d) Toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
+n'a pas pour but ou jour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 19 I JORF 3 janvier 1969
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
+	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2001 - art. 6 (V)
+	  - Code des douanes - art. 370 (V)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural - art. L936-7 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural ancien - art. 275-7 (Ab)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+	  - Code rural et de la pêche maritime - art. L236-7 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 232 (V)
+	  - Code des douanes - art. 236 (V)
+	  - Code des douanes - art. 261 (V)
+	  - Code des douanes - art. 72 (V)
+	  - Code des douanes - art. 92 (V)
+	  - Code des douanes 24-2, 72, 77-1, 92, 232, 236, 261
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ##### B. - Deuxième classe.
 
 ###### Article 411
@@ -9575,6 +9785,63 @@ recouvrement de droits de port ou de redevances d'équipement.
 	  - Code des douanes - art. 122 (V)
 
 
+##### C. - Troisième classe.
+
+###### Article 412
+
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 1 000 F à 10 000 F :
+
+1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
+sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
+taxes de consommation intérieure, ni prohibées ou taxés à la sortie ;
+
+2° toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
+
+3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
+
+4° toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions prévues par la réglementation
+communautaire en matière de franchises ;
+
+5° tout détournement de marchandises non prohibées de leur destination privilégiée ;
+
+6° la présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
+quelque manière que ce soit ;
+
+7° le transport de marchandises par navires étrangers d'un port français à un autre port français, hors les cas prévus à
+l'article 259 ci-dessus ;
+
+8° l'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
+manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
+sommairement ;
+
+9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
+non autorisées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 189 (P)
+	  - Code des douanes - art. 259 (M)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 387 (V)
+	  - Loi n°74-1114 du 27 décembre 1974 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
+
+
 ##### D. - Quatrième classe.
 
 ###### Article 413
@@ -9615,6 +9882,55 @@ dessus lorsqu'elles se rapportent à des marchandises de la catégorie de celles
 	**Cite**:
 
 	  - Code des douanes 411-2
+
+
+##### E. - Cinquième classe.
+
+###### Article 413 bis
+
+1. Est passible d'un emprisonnement d'un mois et d'une amende de 600 F à 3 000 F, toute infraction aux dispositions des
+articles 53-1, 61-1, 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
+pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus.
+
+2. Tombent également sous le coup des dispositions de l'alinéa précédent :
+
+a) toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
+respectivement aux articles 87-3 et 88 ci-dessus, continue, soit à accomplir pour autrui, directement ou indirectement, les
+formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
+de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ;
+
+b) toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
+l'autorisation de dédouaner ceux qui en auraient été atteints.
+
+3. En cas de récidive des contraventions mentionnées au présent article, la peine de prison pourra être portée à deux mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 19 II JORF 3 janvier 1969
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 65 (M)
+	  - Code des douanes - art. 69 (V)
+	  - Code des douanes - art. 71 (V)
+	  - Code des douanes - art. 88 (Ab)
+	  - Code des douanes - art. 92 (V)
+	  - Code des douanes - art. 93 (V)
+	  - Code des douanes 53-1, 61-1, 65, 69, 71, 87-3, 88, 92, 93, 117-2
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 3 : Délits douaniers
@@ -9949,6 +10265,40 @@ de 100.000 F ou de l'une de ces deux peines seulement.
 	**Créé par**:
 
 	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
+### Section 3 : Cas particuliers d'application des peines
+
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.
+
+###### Article 437
+
+Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 1 000 F ou 2 000 F selon qu'elles sont
+définies en fonction des droits ou de la valeur.
+
+Dans les cas visés à l'article 411-2 a et b relatif aux déficits dans le nombre des colis et sur les quantités de
+marchandises et dans les cas visés à l'article 417-2 c relatif aux soustractions ou substitutions en cours de transport de
+marchandises, le taux minimal des amendes prononcées est fixé à 200 F par colis, ou, s'il s'agit de marchandises en vrac, par
+tonne ou fraction de tonne.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 369 (V)
+
+	**Cite**:
+
+	  - Code des douanes 411-2, 417-2
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
 # Titre XIII : La commission de conciliation et d'expertise douanière.
@@ -10453,6 +10803,77 @@ exercée que sur la plainte du ministre de l'économie et des finances ou de l'u
 	**Créé par**:
 
 	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+## Chapitre IV : Dispositions répressives.
+
+###### Article 459
+
+1. Quiconque aura contrevenu ou tenté de contrevenir à la législation et à la réglementation des relations financières avec
+l'étranger, soit en ne respectant pas les obligations de déclaration ou de rapatriement, soit en n'observant pas les
+procédures prescrites ou les formalités exigées, soit en ne se munissant pas des autorisations requises ou en ne satisfaisant
+pas aux conditions dont ces autorisations sont assorties sera puni d'une peine d'emprisonnement de un à cinq ans, de la
+confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude et d'une amende égale au
+minimum au montant et au maximum au quintuple de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+
+2. Lorsque, pour une cause quelconque, les objets passibles de confiscation n'ont pu être saisis ou ne sont pas représentés
+par le délinquant ou lorsque le ministre de l'économie et des finances ou son représentant en fait la demande, le tribunal
+doit, pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
+
+3. Sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de 3.000 F à 1.800.000 F toute personne qui aura incité
+par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
+suivie d'effet.
+
+4. Les personnes condamnées pour infractions à la législation et à la réglementation relatives aux relations financières avec
+l'étranger sont, en outre, déclarées incapables d'exercer les fonctions d'agents de change, d'être électeurs ou élus aux
+chambres de commerce, tribunaux de commerce et conseils de prud'hommes, tant et aussi longtemps qu'elles n'auront pas été
+relevées de cette incapacité.
+
+5. Les tribunaux ordonneront, en outre, que leurs décisions portant condamnation seront, aux frais des personnes condamnées,
+insérées en entier ou par extraits dans les journaux qu'ils désigneront.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (Ab)
+	  - Décret n°79-800 du 17 septembre 1979 - art. 11 (V)
+	  - Décret n°79-800 du 17 septembre 1979 - art. 3 (V)
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 101 (P)
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 11 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 12 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 13 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 104 (Ab)
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 85 (V)
+	  - Arrêté du 16 septembre 2013 (V)
+	  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
+	  - Code des douanes - art. 387 (V)
+	  - Code des douanes - art. 416 (V)
+	  - Code des douanes - art. 432 bis (V)
+	  - Code des douanes - art. 64 (V)
+	  - Code des douanes - art. 67 bis-1 A (V)
+	  - Code des douanes - art. 67 sexies (V)
+	  - Code du travail - art. R513-34 (M)
+	  - Code monétaire et financier - art. L165-1 (V)
+	  - Code monétaire et financier - art. L574-3 (VD)
+	  - Loi n°87-502 du 8 juillet 1987 - art. 24 (M)
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 # Titre XV : Le comité du contentieux fiscal, douanier et des changes.
