@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1962-01-01
+Version Consolidée au 1962-06-27
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1722,26 +1722,6 @@ ouvrir droit à indemnité ou dommages-intérêts.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 90
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 24 décembre 1986 - art. 42 (Ab)
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Décret n°62-695 1962-06-22 art. 1 JORF 27 juin 1962
 
 
 ###### Article 91
