@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1960-12-24
+Version Consolidée au 1961-12-22
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -230,6 +230,21 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 19 ter
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°61-1396 1961-12-21 art. 3 Finances pour 1962 JORF 22 décembre 1961
 
 
 ###### Article 20
@@ -4411,6 +4426,38 @@ opérations pour le compte des maisons établies en France.
 	**Cité par**:
 
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+## Chapitre VI : Droits et taxes divers.
+
+###### Article 285 bis
+
+Les produits assujettis à des droits, taxes, surtaxes ou autres redevances, qui sont contenues dans des marchandises
+importées, sont soumis à des taxes de compensation qui sont destinées à établir l'équilibre des charges fiscales avec les
+produits similaires d'origine nationale.
+
+Des arrêtés du ministre de l'économie et des finances fixent par nature de marchandises les modalités d'application de cette
+disposition.
+
+Les taxes de compensation prévues ci-dessus sont perçues dans les mêmes conditions et suivant les mêmes règles que les droits
+de douane.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°61-1396 1961-12-21 art. 2 JORF 22 décembre 1961
+
+	**Cité par**:
+
+	  - Arrêté du 7 mai 2009 (Ab)
+	  - Arrêté du 29 avril 2010 (Ab)
+	  - Arrêté du 10 mai 2011 (Ab)
+	  - Arrêté du 25 avril 2012 (V)
 
 	**Codifié par**:
 
