@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-06-16
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2064,17 +2064,14 @@ des douanes habilités à cet effet par le directeur général des douanes et dr
 tous lieux, même privés, où les marchandises et documents se rapportant à ces délits sont susceptibles d'être détenus et
 procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
 
-2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du président du tribunal de
-grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure, ou d'un juge délégué par
-lui.
+2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la
+détention du tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure.
 
 L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce
 pourvoi n'est pas suspensif. Les délais de pourvoi courent à compter de la notification ou de la signification de
 l'ordonnance.
 
 L'ordonnance comporte :
-
-- le cas échéant, mention de la délégation du président du tribunal de grande instance ;
 
 - l'adresse des lieux à visiter ;
 
@@ -2096,8 +2093,8 @@ doit comporter tous les éléments d'information en possession de l'administrati
 Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
 
 La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a lieu en dehors du ressort de son tribunal de
-grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au président du tribunal de grande instance
-dans le ressort duquel s'effectue la visite.
+grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la détention du
+tribunal de grande instance dans le ressort duquel s'effectue la visite.
 
 Le juge peut se rendre dans les locaux pendant l'intervention.
 
@@ -2169,16 +2166,14 @@ judiciaire.
 	  - Code des douanes - art. 454 (V)
 	  - Code des douanes - art. 67 bis (V)
 
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 80 I, II Finances pour 1987 JORF 31 décembre 1986
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986
-	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P) JORF 30 décembre 1989
-	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°2000-516 2000-06-15 art. 140 (dérogations)
+	  - SPEC_APPLI: Loi n°2000-516 2000-06-15 art. 142 (champ d'application à la Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans la collectivité territoriale de Mayotte)
+
+	**Modifié par**:
+
+	  - Loi n°2000-516 2000-06-15 art. 49 VII, art. 140 JORF 16 juin 2000 en vigueur le 16 juin 2002
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
 
 	**Cite**:
 
