@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1978-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5537,6 +5537,29 @@ pris au départ ; les vivres ou provisions restants sont déchargés, après dé
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+### Section 2 : Dispositions spéciales aux aéronefs.
+
+###### Article 195
+
+Sont exemptés des droits de douane et des taxes intérieures les produits pétroliers destinés à l'avitaillement des aéronefs
+qui effectuent des liaisons commerciales au-delà du territoire douanier de la France continentale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 266 ter (Ab)
+	  - Loi n°80-30 du 18 janvier 1980 - art. 15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 31 décembre 1978
 
 
 ### Section 3 : Dispositions communes aux navires et aux aéronefs.
