@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2005-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2047,9 +2047,10 @@ ressources naturelles, à l'intérieur des zones de sécurité prévues par la l
 ###### Article 63 ter
 
 Afin de procéder aux investigations nécessaires à la recherche et à la constatation des infractions prévues au présent code,
-les agents des douanes ayant au moins le grade de contrôleur ont accès aux locaux et lieux à usage professionnel, ainsi
-qu'aux terrains et aux entrepôts où les marchandises et documents se rapportant à ces infractions sont susceptibles d'être
-détenus. Aux mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+les agents des douanes de catégorie A ou B et les agents de catégorie C pour autant qu'ils soient accompagnés de l'un des
+agents précités ont accès aux locaux et lieux à usage professionnel, ainsi qu'aux terrains et aux entrepôts où les
+marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus quel qu'en soit le support. Aux
+mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
 
 Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
 sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
@@ -2061,7 +2062,7 @@ procès-verbal de constat relatant le déroulement des opérations de contrôle 
 
 Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
 d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
-besoins de l'enquête ou en prendre copie.
+besoins de l'enquête ou en prendre copie quel qu'en soit le support.
 
 Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres
 de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à
@@ -2072,11 +2073,6 @@ Le présent article ne s'applique pas à la partie des locaux et lieux cités au
 domicile privé.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-314 1996-04-12 art. 38 I, II JORF 13 avril 1996
-	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
 
 	**Liens**:
 
@@ -2107,6 +2103,10 @@ domicile privé.
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
@@ -2117,7 +2117,7 @@ domicile privé.
 1. Pour la recherche et la constatation des délits douaniers, visés aux articles 414 à 429 et 459 du présent code, les agents
 des douanes habilités à cet effet par le directeur général des douanes et droits indirects peuvent procéder à des visites en
 tous lieux, même privés, où les marchandises et documents se rapportant à ces délits sont susceptibles d'être détenus et
-procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la
 détention du tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure.
@@ -2221,23 +2221,9 @@ judiciaire.
 	  - Code des douanes - art. 454 (V)
 	  - Code des douanes - art. 67 bis (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2000-516 2000-06-15 art. 142 (champ d'application à la Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans la collectivité territoriale de Mayotte)
-
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 49 VII, art. 140 JORF 16 juin 2000 en vigueur le 16 juin 2002
-	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000 en vigueur le 16 juin 2002
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 550 (M)
-	  - CODE DE PROCEDURE PENALE - art. 56 (M)
-	  - CODE DE PROCEDURE PENALE - art. 58 (M)
-	  - Code des douanes - art. 332 (V)
-	  - Code des douanes - art. 459 (M)
-	  - Code des douanes 332, 414 à 429, 459
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
@@ -2252,13 +2238,14 @@ judiciaire.
 
 1. En aucun cas, les administrations de l'Etat, les départements et les communes, ainsi que les entreprises concédées par
 l'Etat, les départements et les communes, de même que tous les établissements ou organismes quelconques soumis au contrôle de
-l'autorité administrative, ne peuvent opposer le secret professionnel aux agents de l'administration des finances ayant au
-moins le grade d'inspecteur qui, pour établir les impôts institués par les lois existantes, leur demandent communication des
-documents de service qu'ils détiennent.
+l'autorité administrative ainsi que les organismes et caisses de sécurité sociale et les organismes gestionnaires du régime
+d'assurance-chômage, ne peuvent opposer le secret professionnel aux agents des douanes ayant au moins le grade de contrôleur
+qui, pour établir les impôts institués par les lois existantes, leur demandent communication des documents de service qu'ils
+détiennent, quel qu'en soit le support.
 
-Les agents ayant qualité pour exercer le droit de communication susvisé peuvent se faire assister par des fonctionnaires d'un
-grade inférieur, astreints comme eux et sous les mêmes sanctions au secret professionnel, en vue de leur confier des travaux
-de pointage, relevés et copies de documents.
+Les agents des douanes de catégorie C peuvent exercer le droit de communication susvisé lorsqu'ils agissent sur ordre écrit
+d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux autorités visées à l'alinéa ci-
+dessus.
 
 2. Les renseignements individuels d'ordre économique ou financier recueillis au cours d'enquêtes statistiques faites dans le
 cadre de la loi n° 51-711 du 7 juin 1951 ne peuvent en aucun cas être utilisés à des fins de contrôle fiscal ou de répression
@@ -2266,6 +2253,10 @@ cadre de la loi n° 51-711 du 7 juin 1951 ne peuvent en aucun cas être utilisé
 du 1 ci-dessus.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cite**:
 
@@ -2278,19 +2269,9 @@ du 1 ci-dessus.
 	  - Code des douanes - art. 65 bis (V)
 	  - Code des douanes - art. 67 E (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Anciens textes**:
-
-	  - Loi n°1920-07-31 art. 31
-	  - Loi n°1933-02-28 art. 38
-	  - Loi n°45-1095 1945-12-31 art. 30
+	  - Loi n°2004-1485 2004-12-30 art. 91 C Finances rectificative pour 2004 JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 64 B
@@ -2321,8 +2302,8 @@ demande, aux fonctionnaires des douanes.
 
 ###### Article 65
 
-1° Les agents des douanes ayant au moins le grade d'inspecteur ou d'officier et ceux chargés des fonctions de receveur
-peuvent exiger la communication des papiers et documents de toute nature relatifs aux opérations intéressant leur service :
+1° Les agents des douanes ayant au moins le grade de contrôleur peuvent exiger la communication des papiers et documents de
+toute nature relatifs aux opérations intéressant leur service, quel qu'en soit le support ;
 
 a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ;
 
@@ -2354,12 +2335,9 @@ derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommuni
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
 
-2° Les agents des douanes ayant au moins le grade de contrôleur disposent également du droit de communication prévu par le 1°
-ci-dessus, lorsqu'ils agissent sur ordre écrit d'un agent ayant au moins le grade d'inspecteur. Cet ordre, qui doit être
-présenté aux assujettis, doit indiquer le nom des assujettis intéressés.
-
-Les agents ayant qualité pour exercer le droit de communication prévu par le 1° ci-dessus peuvent se faire assister par des
-fonctionnaires d'un grade moins élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
+2° Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu au 1° lorsqu'ils agissent sur ordre
+écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux personnes envers
+lesquelles le droit de communication est mis en oeuvre.
 
 3° Les divers documents visés au 1° du présent article doivent être conservés par les intéressés pendant un délai de trois
 ans, à compter de la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les
@@ -2370,7 +2348,8 @@ activité professionnelle durant 3 années civiles à compter de la fin de l'ann
 Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle.
 
 b) Par documents, on entend l'ensemble des livres, registres, notes et pièces justificatives (comptabilité, registres,
-factures, correspondances, copies de lettres, etc.) relatives à l'activité professionnelle de l'entreprise.
+factures, correspondances, copies de lettres, etc.) relatives à l'activité professionnelle de l'entreprise, quel qu'en soit
+le support.
 
 5° Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés visées au 1° du présent article, les agents
 des douanes désignés par ce même paragraphe peuvent procéder à la saisie des documents de toute nature (comptabilité,
@@ -2379,7 +2358,7 @@ leur mission.
 
 6° L'administration des douanes est autorisée, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays
 étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
-et règlements applicables à l'entrée ou à la sortie de leur territoire.
+et règlements applicables à l'entrée ou à la sortie de leur territoire, quel qu'en soit le support.
 
 7° Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats
 membres de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés
@@ -2439,7 +2418,28 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 8
 
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 119 () JORF 10 juillet 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 65 bis
+
+Le droit de communication prévu aux articles 64 A et 65 est étendu au profit des agents des douanes chargés du recouvrement
+de toutes sommes perçues selon les modalités prescrites par le présent code et aux conditions mentionnées à ces mêmes
+articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code des douanes - art. 64 A (V)
 
 	**Codifié par**:
 
@@ -2585,6 +2585,51 @@ applicables en ce qui concerne les produits mentionnés au 4 et au 5 de l'articl
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 65 D
+
+En matière de droits indirects grevant les huiles minérales, lorsque la situation d'un ou de plusieurs redevables présente un
+intérêt commun ou complémentaire pour plusieurs Etats membres de la Communauté européenne, l'administration des douanes et
+des droits indirects peut convenir avec les administrations des autres Etats membres de procéder à des contrôles simultanés,
+chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les renseignements ainsi obtenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+
+###### Article 65 E
+
+Pour l'application de la législation en matière de droits indirects grevant les huiles minérales, l'administration des
+douanes, sur demande d'un Etat membre de la Communauté européenne, procède ou fait procéder à la notification de tout acte ou
+décision émanant de cet Etat selon les règles en vigueur en France pour la notification d'actes ou de décisions. Elle peut
+également demander à un Etat membre de la Communauté européenne de procéder ou de faire procéder à la notification d'actes ou
+de décisions afférents aux mêmes droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ### Section 5 : Contrôles douaniers des envois par la poste.
@@ -3410,27 +3455,21 @@ article.
 
 ###### Article 85
 
-1. La déclaration en détail doit être déposée dans un bureau de douane ouvert à l'opération douanière envisagée.
+1. La déclaration doit être déposée dans un bureau de douane ouvert à l'opération douanière envisagée.
 
-2. La déclaration en détail doit être déposée au plus tard avant l'expiration d'un délai fixé par le directeur général des
-douanes et droits indirects, à compter de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des
-douanes. Ce dépôt doit avoir lieu pendant les heures fixées par le directeur général des douanes et droits indirects.
+2. La déclaration doit être déposée au plus tard avant l'expiration d'un délai fixé par le directeur général des douanes et
+droits indirects, à compter de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des douanes. Ce
+dépôt doit avoir lieu pendant les heures fixées par le directeur général des douanes et droits indirects.
 
-3. Le directeur général des douanes et droits indirects peut autoriser le dépôt des déclarations en détail avant l'arrivée
-des marchandises au bureau ou dans les lieux désignés par le service des douanes. Des arrêtés du directeur général des
-douanes et droits indirects fixent les conditions d'application de cette disposition, et notamment les conditions et délais
-dans lesquels il doit être justifié de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des
-douanes.
+3. Le directeur général des douanes et droits indirects peut autoriser le dépôt des déclarations avant l'arrivée des
+marchandises au bureau ou dans les lieux désignés par le service des douanes. Des arrêtés du directeur général des douanes et
+droits indirects fixent les conditions d'application de cette disposition, et notamment les conditions et délais dans
+lesquels il doit être justifié de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des douanes.
+
+4. Pour l'application des 1, 2 et 3, la déclaration transmise par voie électronique est considérée comme déposée au moment de
+sa réception par les autorités douanières.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°63-1351 1963-12-31 art. 3 JORF 3 janvier 1964
 
 	**Cité par**:
 
@@ -3439,6 +3478,14 @@ douanes.
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 	  - Code des douanes - art. 100 ter (V)
 	  - Code des douanes - art. 99 bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 88 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.
@@ -3589,23 +3636,30 @@ Les conditions d'application des dispositions des articles 86 à 93 sont fixées
 
 ###### Article 95
 
-1. Les déclarations en détail doivent être faites par écrit.
+1. Les déclarations doivent être faites par écrit sauf lorsqu'en application des règlements communautaires en vigueur, il
+leur est substitué une déclaration verbale.
+
+1 bis. Dans les cas dont la liste et les conditions d'application sont fixées par arrêtés du ministre chargé du budget, les
+déclarations peuvent être faites par voie électronique. Ces arrêtés fixent notamment les conditions d'identification des
+déclarants et les modalités d'archivage des documents qui ne sont pas annexés aux déclarations.
 
 2. Elles doivent contenir toutes les indications nécessaires pour l'application des mesures douanières et pour
 l'établissement des statistiques de douane.
 
-3. Elles doivent être signés par le déclarant. Celui-ci est la personne qui fait la déclaration en douane en son nom propre
-ou celle au nom de laquelle une déclaration en douane est faite.
+3. Sauf dans les cas prévus au 1 bis, les déclarations doivent être signés par le déclarant. Pour les déclarations en douane
+régies par les règlements communautaires, le déclarant est la personne qui fait la déclaration en douane en son nom propre ou
+celle au nom de laquelle une déclaration en douane est faite.
 
-4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations, les énonciations
-qu'elles doivent contenir et les documents qui doivent y être annexés. Il peut autoriser, dans certains cas, le remplacement
-de la déclaration écrite par une déclaration verbale.
+4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations applicables aux
+opérations mentionnées à l'article 2 ter ainsi que la forme des déclarations autres que celles prévues par les règlements
+communautaires en vigueur. Il fixe également les énonciations qu'elles doivent contenir et les documents qui doivent y être
+annexés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 26 () JORF 30 décembre 1997
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 88 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -5527,6 +5581,47 @@ limite forfaitaire aux pertes admissibles en franchise pour chacun des produits 
 	**Cité par**:
 
 	  - Code des douanes - art. 158 D (V)
+
+
+###### Article 158 D
+
+I.-Est dénommé entrepôt fiscal de produits énergétiques l'établissement dans lequel les produits énergétiques destinés à être
+utilisés comme carburant ou combustible, autres que les produits pétroliers, le gaz naturel, la houille, les lignites et le
+coke, sont produits, détenus, reçus ou expédiés en suspension des taxes de consommation mentionnées aux articles 265 et 266
+quater. 
+
+II.-Seules les personnes ayant la qualité d'entrepositaire agréé peuvent exploiter un entrepôt fiscal de produits
+énergétiques. 
+
+III.-L'entrepôt fiscal de produits énergétiques est créé, modifié et géré selon les principes prévus aux articles 158 B et
+158 C. L'entrepositaire agréé, titulaire de l'autorisation d'exploiter, est soumis aux mêmes obligations que celles prévues
+auxdits articles. Un décret fixe les conditions d'application du présent III.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2016-649 du 20 mai 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+
+	**Créé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 93 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 B (V)
+	  - Code des douanes - art. 158 C (V)
+	  - Code des douanes - art. 265 (V)
+	  - Code des douanes - art. 266 quater (V)
 
 
 ## Chapitre IV : Entrepôt de douane (Entrepôt industriel)
@@ -9393,34 +9488,41 @@ l'identification.
 
 2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
 privilégié, ainsi que les opérateurs introduisant ces produits sur le territoire national, doivent se conformer aux mesures
-prescrites par le directeur général des douanes et droits indirects en vue de contrôler la vente, la détention, le transport
-et l'utilisation desdits produits.
+prescrites par arrêté du ministre chargé du budget en vue de contrôler la vente, la détention, le transport et l'utilisation
+desdits produits. A la première réquisition du service des douanes, les distributeurs doivent notamment pouvoir lui
+communiquer les noms de leurs acheteurs ainsi que les volumes de produits cédés.
 
 3. L'utilisation de produits pétroliers à des usages ou dans des conditions n'ouvrant plus droit au régime privilégié dont
-ils ont bénéficié, donne lieu à l'exigibilité du supplément des taxes et redevances applicables.
+ils ont bénéficié ainsi que l'absence de justification de la destination donnée à ces produits, donnent lieu à l'exigibilité
+du supplément des taxes et redevances applicables.
 
-En cas de détournement des produits de leur destination privilégiée, le supplément de taxes et redevances est exigible sur
-les quantités détournées, sans préjudice des pénalités encourues.
+En cas de détournement des produits de leur destination privilégiée ou d'absence de justification par les distributeurs de la
+destination donnée aux produits, le supplément de taxes et redevances est exigible sur les quantités détournées ou non
+justifiées, sans préjudice des pénalités encourues.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Décret n°99-723 du 3 août 1999 - art. 4 (V)
 	  - Loi n°2004-639 du 2 juillet 2004 - art. 7-1 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code des douanes - art. 265 (M)
+	  - SPEC_APPLI: Loi n°2004-1485 2004-12-30 art. 92 II finances rectificative pour 2004 (date d'effet)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 92 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi - art. 45 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Code des douanes - art. 265 (M)
 
 
 ###### Article 265 bis
@@ -9524,13 +9626,18 @@ d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agré�
 ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au
 Journal officiel des Communautés européennes.
 
+2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
+lancés par appel d'offres communautaire.
+
 3. La durée de validité des agréments délivrés ne peut excéder six ans.
 
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
-consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Il est également
-tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la
-réduction de la taxe intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la
-consommation au cours de la même année en application de la décision d'agrément.
+consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une
+partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur.
+Ce transfert donne lieu à accord préalable de l'administration des douanes. L'opérateur est également tenu de mettre en place
+auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe
+intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la
+même année en application de la décision d'agrément.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
 quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
@@ -9546,13 +9653,13 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 38 () JORF 31 décembre 2003
 
 	**Liens**:
 
@@ -9562,6 +9669,7 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
+	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 31 II finances pour 2005 (date d'effet)
 
 	**Cité par**:
 
@@ -9574,35 +9682,32 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - Décret n°2008-93 du 29 janvier 2008 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 31 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article 265 octies
 
-Jusqu'au 31 décembre 2005, les exploitants de transport public routier en commun de voyageurs peuvent obtenir, sur demande de
-leur part, un remboursement de la taxe intérieure de consommation sur le gazole dans la limite de 15 000 litres par semestre
-et par véhicule affecté à ce transport.
+Les exploitants de transport public routier en commun de voyageurs peuvent obtenir, sur demande de leur part, le
+remboursement d'une fraction de la taxe intérieure de consommation sur le gazole, identifié à l'indice 22 et mentionné au
+tableau B du 1 de l'article 265.
 
-Le montant du remboursement est fixé à 2,13 euros par hectolitre pour le gazole utilisé à compter du 21 janvier 2003.
+Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
+affectés à ce transport la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation applicable
+audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
 
-La période couverte par le remboursement s'entend de la période comprise entre le 21 janvier d'une année et le 20 janvier de
-l'année suivante. Pour les consommations de gazole réalisées en 2005, la période couverte par le remboursement s'entend de la
-période comprise entre le 21 janvier 2005 et le 31 décembre 2005.
+Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
+ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
+qui suivent.
 
-Les exploitants de transport public routier en commun de voyageurs concernés adressent leur demande de remboursement au
-service des douanes à partir du 22 juillet et du 22 janvier suivant respectivement le premier et le second semestre de la
-période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent à compter de ces
-dates.
+Le remboursement est également accordé aux entreprises établies dans un autre Etat membre de la Communauté européenne qui
+sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et
+que ce gazole a été utilisé comme carburant dans des véhicules affectés au transport public routier en commun de voyageurs.
 
 Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -9649,11 +9754,15 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi - art. 26 (V) JORF 31 décembre 2002 en vigueur le 21 janvier 2003
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 septies (M)
+	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 265 quater
@@ -9806,27 +9915,19 @@ supérieur à 7,5 tonnes ;
 b) De véhicules tracteurs routiers dont le poids total roulant est égal ou supérieur à 7,5 tonnes,
 
 peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la taxe intérieure de consommation sur le
-gazole.
+gazole, identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265.
 
-Ce remboursement est égal à la différence entre le taux de la taxe intérieure de consommation sur les produits pétroliers
-visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique qui est
-fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 37,30 euros (244,64 F) par hectolitre. Ce taux spécifique est
-fixé à 35,09 euros par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre pour
-la période du 21 janvier 2002 au 31 décembre 2002, et 37,06 euros par hectolitre pour la période du 1er janvier 2003 au 28
-février 2003. Le taux spécifique est fixé à 38 euros par hectolitre pour la période du 1er mars 2003 au 31 décembre 2004.
+Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
+définis aux a et b ci-dessus la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation
+applicable audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
 
-Le remboursement est plafonné à 20 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
-dans la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
-couverte par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et
-immatriculés dans l'un des Etats membres.
+Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
+ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
+qui suivent.
 
-La période couverte par le remboursement s'entend de la période comprise entre le 21 janvier d'une année et le 20 janvier de
-l'année suivante. Pour les consommations de gazole réalisées en 2004, la période couverte par le remboursement s'entend de la
-période comprise entre le 21 janvier 2004 et le 31 décembre 2004.
-
-Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 22 juillet et du
-22 janvier suivant respectivement le premier et le second semestre de la période au titre de laquelle le remboursement est
-sollicité et au plus tard dans les trois ans qui suivent à compter de ces dates.
+Le remboursement est également accordé aux entreprises établies dans un autre Etat membre de la Communauté européenne qui
+sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et
+que ce gazole a été utilisé comme carburant dans des véhicules définis aux a et b ci-dessus.
 
 Les modalités d'application du présent article sont fixées par décret.
 
@@ -9884,13 +9985,15 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
+	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 30 II finances pour 2005 (date d'effet)
 
 	**Modifié par**:
 
-	  - Loi - art. 23 () JORF 31 décembre 2003
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 30 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
+	  - Code des douanes - art. 265 (M)
 	  - Code des douanes - art. 284 bis A (M)
 
 
@@ -10245,12 +10348,6 @@ Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du prot
 
 Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 38,11.
 
-Décollage d'aéronefs.
-
-Aérodromes du groupe 1, 22.
-
-Aérodromes du groupe 2, 8.
-
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
 Lubrifiants, huiles et préparations lubrifiantes, 38,11.
@@ -10297,6 +10394,11 @@ Délivrance d'autorisation :
 
 Exploitation au cours d'une année civile (tarif de base), 335,39.
 
+Imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
+décembre 2003) mis à disposition ou distribués gratuitement aux particuliers, sans demande préalable de leur part, dans les
+boîtes aux lettres, dans les parties communes des habitations collectives, dans les locaux commerciaux, dans les lieux
+publics ou sur la voie publique, unité kilogramme, 0,15.
+
 2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
@@ -10310,12 +10412,7 @@ autorisées au titre du titre Ier du livre V du même code.
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
 
-5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
-sont répartis dans les deux groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
-de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus à
-l'article L. 571-15 du code de l'environnement.
-
-6. La masse des aéronefs est prise en compte par son logarithme décimal.
+5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
 
 7. Les substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies sont réparties en sept catégories affectées d'un taux
@@ -10372,10 +10469,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -10410,8 +10503,12 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-	  - Loi - art. 27 () JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 octies
@@ -10422,9 +10519,7 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
 
-3. Sauf en cas de taxation d'office prévue au cinquième alinéa de l'article 266 undecies, le logarithme décimal de la masse
-maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des coefficients de modulation prennent en
-compte, dans un rapport de 0,5 à 120, l'heure du décollage et les caractéristiques acoustiques de l'appareil ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
 
@@ -10435,16 +10530,13 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
 l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
-produits assimilés mentionnés au 7 du I de l'article 266 sexies.
+produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
+
+8. La masse annuelle, exprimée en kilogrammes, pour sa part excédant 2 500 kilogrammes, des imprimés mentionnés à la première
+phrase du premier alinéa de l'article L. 541-10-1 du code de l'environnement, mis à disposition ou distribués par les
+personnes mentionnées au même article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code des douanes - art. 266 undecies (M)
-	  - Code du travail - art. R231-51 (M)
 
 	**Codifié par**:
 
@@ -10460,7 +10552,14 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
+	  - Code de l'environnement - art. L541-10-1 (M)
 
 
 ###### Article 266 quater
@@ -10686,6 +10785,87 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 266 quindecies
+
+I. - Les personnes qui mettent à la consommation sur le marché intérieur des essences reprises aux indices 11 et 11 bis du
+tableau B du 1 de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement
+supplémentaire de la taxe générale sur les activités polluantes.
+
+II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
+chaque carburant concerné.
+
+III. - Son taux est fixé à 1,2 %. Il est majoré de 0,3 % en 2006, de 1,5 % en 2007, de 1 % en 2008, de 1 % en 2009, puis de
+0,75 % en 2010. Il est diminué de la proportion de l'énergie exprimée en pouvoir calorifique inférieur, issue :
+
+1° Pour les essences, des produits mentionnés aux b et c du 1 de l'article 265 bis A du présent code qui y sont incorporés ;
+
+2° Pour le gazole, des produits mentionnés au a du 1 de ce même article qui y sont incorporés.
+
+IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation.
+
+V. - Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
+la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et de tous les éléments nécessaires au
+contrôle et à l'établissement de ce prélèvement supplémentaire. La forme de la déclaration et son contenu sont fixés
+conformément aux dispositions du 4 de l'article 95.
+
+En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
+undecies.
+
+Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
+privilèges que ceux prévus par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 32 II finances pour 2005 (date d'effet)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 32 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Arrêté du 26 avril 2010 (Ab)
+	  - Arrêté du 30 septembre 2011 (Ab)
+	  - Arrêté du 17 janvier 2012 (Ab)
+	  - Arrêté du 17 janvier 2012 - art. 1 (Ab)
+	  - Arrêté du 13 mars 2013 (Ab)
+	  - Arrêté du 13 mars 2013 - art. 1 (Ab)
+	  - Arrêté du 21 mars 2014 (V)
+	  - Arrêté du 21 mars 2014 - art. 1 (V)
+	  - Arrêté du 21 mars 2014 - art. 10 (V)
+	  - Arrêté du 10 avril 2017 (V)
+	  - Arrêté du 10 avril 2017 - art. 1
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
+	  - Code de l'énergie - art. L661-2 (VD)
+
+	**Cite**:
+
+	  - CGI 298
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 bis (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 95 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 266 quinquies
 
 1. Le gaz naturel repris à la position 2711.21.00 du tarif douanier est soumis à une taxe intérieure de consommation lors de
@@ -10813,8 +10993,7 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants et autres composés organiques volatils ;
 
-3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements
-d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
@@ -10841,7 +11020,11 @@ mentionnés au 7 du I de l'article 266 sexies ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
+
+9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés (Dispositions déclarées non conformes à la
+Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
+du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -10876,8 +11059,8 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -10900,7 +11083,7 @@ d'incinération d'ordures ménagères, ou le poids des substances mentionnées a
 lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
 d'Etat ;
 
-3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
 cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
@@ -10936,16 +11119,19 @@ l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement.
+particuliers à l'environnement ;
+
+9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
+année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
+déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans
+les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
 
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
 aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
-2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
-
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+2. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
@@ -11041,7 +11227,8 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -14710,14 +14897,14 @@ sociétés pour les dettes de ces sociétés constituant une créance douanière
 	  - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.
+#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.
 
 ###### Article 388
 
 Par décision expresse du tribunal, celui qui est condamné pour un délit douanier ou une infraction en matière de
 contributions indirectes peut, nonobstant appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait
 acquitté le montant des sanctions fiscales prononcées contre lui ; sauf dans le cas de trafic de stupéfiants, la durée de la
-détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte par corps prononcée
+détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte judiciaire prononcée
 par le tribunal et ne peut excéder le minimum prévu par le code de procédure pénale pour une condamnation pécuniaire de même
 montant que celui des sanctions fiscales prononcées.
 
@@ -14729,7 +14916,11 @@ montant que celui des sanctions fiscales prononcées.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
 #### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane

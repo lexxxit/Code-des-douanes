@@ -8,8 +8,7 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants et autres composés organiques volatils ;
 
-3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements
-d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
@@ -36,7 +35,11 @@ mentionnés au 7 du I de l'article 266 sexies ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
+
+9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés (Dispositions déclarées non conformes à la
+Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
+du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -71,8 +74,8 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 	**Cite**:
 

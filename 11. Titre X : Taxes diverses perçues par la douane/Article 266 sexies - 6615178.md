@@ -13,7 +13,7 @@ d'incinération d'ordures ménagères, ou le poids des substances mentionnées a
 lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
 d'Etat ;
 
-3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
 cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
@@ -49,16 +49,19 @@ l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement.
+particuliers à l'environnement ;
+
+9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
+année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
+déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans
+les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
 
 II. - La taxe ne s'applique pas :
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
 aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
-2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
-
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+2. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
@@ -154,7 +157,8 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
 
 	**Cite**:
 

@@ -1,9 +1,10 @@
 # Article 63 ter
 
 Afin de procéder aux investigations nécessaires à la recherche et à la constatation des infractions prévues au présent code,
-les agents des douanes ayant au moins le grade de contrôleur ont accès aux locaux et lieux à usage professionnel, ainsi
-qu'aux terrains et aux entrepôts où les marchandises et documents se rapportant à ces infractions sont susceptibles d'être
-détenus. Aux mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+les agents des douanes de catégorie A ou B et les agents de catégorie C pour autant qu'ils soient accompagnés de l'un des
+agents précités ont accès aux locaux et lieux à usage professionnel, ainsi qu'aux terrains et aux entrepôts où les
+marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus quel qu'en soit le support. Aux
+mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
 
 Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
 sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
@@ -15,7 +16,7 @@ procès-verbal de constat relatant le déroulement des opérations de contrôle 
 
 Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
 d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
-besoins de l'enquête ou en prendre copie.
+besoins de l'enquête ou en prendre copie quel qu'en soit le support.
 
 Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres
 de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à
@@ -26,11 +27,6 @@ Le présent article ne s'applique pas à la partie des locaux et lieux cités au
 domicile privé.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°96-314 1996-04-12 art. 38 I, II JORF 13 avril 1996
-	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
 
 	**Liens**:
 
@@ -60,6 +56,10 @@ domicile privé.
 	  - Code rural ancien - art. 363-1 (Ab)
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Codifié par**:
 

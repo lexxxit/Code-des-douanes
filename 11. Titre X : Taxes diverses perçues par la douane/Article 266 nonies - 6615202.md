@@ -34,12 +34,6 @@ Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du prot
 
 Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 38,11.
 
-Décollage d'aéronefs.
-
-Aérodromes du groupe 1, 22.
-
-Aérodromes du groupe 2, 8.
-
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
 Lubrifiants, huiles et préparations lubrifiantes, 38,11.
@@ -86,6 +80,11 @@ Délivrance d'autorisation :
 
 Exploitation au cours d'une année civile (tarif de base), 335,39.
 
+Imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
+décembre 2003) mis à disposition ou distribués gratuitement aux particuliers, sans demande préalable de leur part, dans les
+boîtes aux lettres, dans les parties communes des habitations collectives, dans les locaux commerciaux, dans les lieux
+publics ou sur la voie publique, unité kilogramme, 0,15.
+
 2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
@@ -99,12 +98,7 @@ autorisées au titre du titre Ier du livre V du même code.
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
 
-5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
-sont répartis dans les deux groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
-de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus à
-l'article L. 571-15 du code de l'environnement.
-
-6. La masse des aéronefs est prise en compte par son logarithme décimal.
+5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
 
 7. Les substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies sont réparties en sept catégories affectées d'un taux
@@ -161,10 +155,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -199,5 +189,9 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-	  - Loi - art. 27 () JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
