@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1965-07-04
+Version Consolidée au 1966-12-15
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2918,7 +2918,98 @@ douanier et les territoires d'outre-mer de la République.
 
 ## Chapitre V : Usines exercées par la douane
 
+### Section 1 : Généralités.
+
+###### Article 163 A
+
+Les modalités de l'exercice sont fixées par des arrêtés du ministre de l'économie et des finances qui déterminent notamment
+les conditions auxquelles doivent satisfaire les établissements ou installations placés sous le régime de l'usine exercée
+ainsi que les obligations et éventuellement les charges qui en résultent pour les exploitants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 1 JORF 15 décembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+	**Abrogé par**:
+
+	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+
 ### Section 2 : Usines exercées pétrolières et pétroléochimiques
+
+#### Paragraphe 1 : Installations d'extraction.
+
+###### Article 164 A
+
+La suspension des droits et taxes prévue à l'article 163-2 ci-dessus est réservée, dans ces usines exercées, aux produits qui
+y sont extraits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°92-677 du 17 juillet 1992 - art. 99 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des douanes 163-2
+
+
+#### Paragraphe 2 : Installations de production.
+
+###### Article 165 B
+
+1. Dans les usines visées à l'article 165, la suspension des taxes et redevances prévue à l'article 163-2 ci-dessus est
+réservée aux produits visés aux tableaux B et C annexés à l'article 265 ci-après.
+
+2. Lorsque, dans ces usines, les produits visés au 1 du présent article sont destinés ou utilisés à des usages autres que les
+fabrications prévues à l'article 165 ci-dessus ou autres que la production de l'énergie nécessaire à ces fabrications, ces
+produits doivent être pris à la consommation sur le marché intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 1 JORF 15 décembre 1966
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+	**Cité par**:
+
+	  - Décret n°97-201 du 5 mars 1997 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 165 (M)
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes 165, 163-2, 265
+
 
 #### Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques.
 
@@ -2954,27 +3045,6 @@ exigibles, compte tenu notamment de la destination qu'ils doivent recevoir.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.
-
-###### Article 168
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 1 JORF 15 décembre 1966
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
 ### Section 3 : Autres usines
@@ -4140,6 +4210,203 @@ Ces marchandises ou épaves sont placées sous double surveillance des services 
 
 
 # Titre X : Taxes diverses perçues par la douane
+
+## Chapitre Ier : Taxes intérieures.
+
+###### Article 265 A
+
+1. Lorsqu'elles ne sont pas précisées par le tarif des droits de douane d'importation, les caractéristiques des produits
+visés au tableau B annexé à l'article 265 ci-dessus sont déterminées par des arrêtés du ministre de l'économie et des
+finances et du ministre de l'industrie. 
+
+2. Il est institué auprès du ministre de l'industrie (direction des hydrocarbures) une commission permanente. 
+
+Cette commission comprend en nombre égal des représentants de l'industrie du pétrole et des représentants de
+l'administration. Son président qui, en cas de partage, a voix prépondérante, et ses membres sont désignés et ses conditions
+de fonctionnement sont fixées par arrêté du ministre de l'économie et des finances et du ministre de l'industrie. 
+
+3. Cette commission formule des avis sur les textes pris en application du 1 ci-dessus. Elle se prononce sur les
+contestations relatives à l'espèce et à l'origine des huiles brutes de pétrole et des minéraux bitumineux. L'autorité
+judiciaire éventuellement saisie, si elle décide de procéder à une expertise sur ces questions, ne peut la confier qu'à cette
+commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 3 JORF 15 décembre 1966
+
+	**Cité par**:
+
+	  - Arrêté du 19 janvier 2016 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 265 B
+
+1. Si les produits visés au tableau B annexé à l'article 265 ci-dessus bénéficient d'un régime fiscal privilégié sous
+conditions d'emploi, les usages autorisés sont fixés par des arrêtés du ministre de l'économie et des finances et du ministre
+de l'industrie.
+
+Ces arrêtés peuvent prescrire l'adjonction auxdits produits de colorants et d'agents traceurs pour en permettre
+l'identification.
+
+2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
+privilégié, doivent se conformer aux mesures prescrites par le directeur général des douanes et droits indirects en vue de
+contrôler la vente, la détention, le transport et l'utilisation desdits produits.
+
+3. En cas de détournement des produits de leur destination privilégiée, le supplément de taxes et redevances est exigible sur
+les quantités détournées, sans préjudice des pénalités encourues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 3 JORF 15 décembre 1966
+
+	**Cité par**:
+
+	  - Décret n°99-723 du 3 août 1999 - art. 4 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 7-1 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+
+
+###### Article 265 ter
+
+1. Sont interdites l'utilisation à la carburation, la vente ou la mise en vente pour la carburation de produits dont
+l'utilisation et la vente pour cet usage n'ont pas été spécialement autorisés par des arrêtés du ministre de l'économie et
+des finances et du ministre chargé de l'industrie.
+
+2. Sans préjudice des interdictions ou pénalités qui pourraient résulter d'autres dispositions législatives, les produits
+utilisés ou destinés à être utilisés en violation des prescriptions du 1 ci-dessus sont passibles des taxes applicables à
+l'essence.
+
+3. Les conditions d'application du 2 ci-dessus sont fixées par un arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 5 JORF 15 décembre 1966
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 5 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 9 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 22 décembre 1978 - art. 9 ter (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mars 2000
+	  - TXT_SOURCE: Arrêté du 9 mars 2000 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 mars 2001
+	  - TXT_SOURCE: Arrêté du 14 janvier 2002
+	  - TXT_SOURCE: Arrêté du 14 janvier 2002 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 8 avril 2003
+	  - TXT_SOURCE: Arrêté du 8 avril 2003 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 1978 - art. 9 (Ab)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2007-446 du 25 mars 2007 - art. 10 (V)
+	  - Décret n°2007-446 du 25 mars 2007 - art. 9 (V)
+	  - Arrêté du 10 novembre 2011 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Arrêté du 3 juin 2015 (V)
+	  - Arrêté du 19 janvier 2016 - art. 10
+	  - Arrêté du 29 mars 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Arrêté du 28 février 2017 (V)
+	  - Code des douanes - art. 265 quater (V)
+	  - Décret n°2016-649 du 20 mai 2016 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 267
+
+1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter et 266 quater
+ci-dessus sont perçues comme en matière de douane ; les infractions sont constatées et réprimées, les poursuites sont
+effectuées et les instances sont instruites et jugées comme en matière de douane et par les tribunaux compétents en cette
+matière.
+
+Les taxes ou redevances dont sont passibles les produits visés aux articles énumérés ci-dessus sont exigibles lors de la mise
+à la consommation de ces produits sur le marché intérieur.
+
+2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes et
+redevances dont il s'agit.
+
+3. La taxe intérieure de consommation applicable aux produits pétroliers ou assimilés repris au tableau de l'article 265 ci-
+dessus, les redevances destinées au fonds de soutien aux hydrocarbures ou assimilés prévues à l'article 266 ter ci-dessus et
+la taxe spéciale de consommation mentionnée à l'article 266 quater ci-dessus sont perçues suivant les caractéristiques du
+produit au moment de la mise à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°51-592 1951-05-24 art. 19 JORF 25 mai 1951
+	  - Décret n°52-152 1952-02-13 art. 22 JORF 14 février 1952
+	  - Loi n°66-923 1966-12-14 art. 6 JORF 15 décembre 1966
+
+	**Cité par**:
+
+	  - Décret n°83-285 du 8 avril 1983 - art. 6 (P)
+	  - Décret n°88-1271 du 30 décembre 1988 - art. 5 (V)
+	  - Décret n°89-649 du 31 août 1989 - art. 4 (P)
+	  - Décret n°90-132 du 12 février 1990 - art. 6 (V)
+	  - Décret n°91-285 du 19 mars 1991 - art. 6 (V)
+	  - Décret n°92-98 du 29 janvier 1992 - art. 6 (V)
+	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (VT)
+	  - Décret n°93-80 du 19 janvier 1993 - art. 5 (V)
+	  - Arrêté du 9 septembre 1993 - art. 1 (V)
+	  - Arrêté du 6 décembre 1993 - art. 1 (V)
+	  - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
+	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
+	  - Décret n°94-753 du 31 août 1994 - art. 4 (V)
+	  - Décret n°94-1214 du 30 décembre 1994 - art. 6 (V)
+	  - Décret n°97-201 du 5 mars 1997 - art. 6 (V)
+	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 266 quater (M)
+	  - Code des douanes - art. 266 ter (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ## Chapitre II : Droit de timbre douanier.
 
