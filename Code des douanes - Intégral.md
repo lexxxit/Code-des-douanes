@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-31
+Version Consolidée au 1959-05-16
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5087,14 +5087,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 	  - Loi n°60-1384 du 23 décembre 1960, v. init.
 
 
-#### Paragraphe 2 : Jugement.
-
-###### Article 360
-
-(texte abrogé)
-
-
-
 # Titre XII : Contentieux
 
 ## Chapitre Ier : Constatations des infractions douanières
@@ -5311,17 +5303,28 @@ douane où la contrainte a été décernée.
 	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
 
 
-#### Paragraphe 2 : Jugement.
+#### Paragraphe 4 : Signification des jugements et autres actes de procédure.
 
-###### Article 360
+###### Article 362
 
-(texte abrogé).
+1. Les significations à l'administration des douanes sont faites à l'agent qui la représente.
+
+2. Les significations à l'autre partie sont faites conformément aux règles du code de procédure civile.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 349 (M)
+	  - Code des douanes - art. 389 bis (VD)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°59-625 1959-05-12 art. 3, art. 5 JORF 16 mai 1959
 
 
 ### Section 3 : Procédure devant les juridictions répressives.
