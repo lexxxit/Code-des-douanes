@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2002-06-16
+Version Consolidée au 2002-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5228,9 +5228,9 @@ verser une astreinte mensuelle s'élevant à 1 % de la valeur des marchandises n
 indiquée au 1 du présent article jusqu'à celle de l'évacuation ou de la vente d'office des marchandises dans les conditions
 fixées au 3 du présent article.
 
-3. Si la sommation reste sans effet dans le délai d'un mois, contrainte est décernée à l'encontre de l'entrepositaire pour le
-recouvrement de l'astreinte visée au 2 du présent article et les marchandises non évacuées de l'entrepôt peuvent être vendues
-d'office aux enchères publiques par l'administration des douanes.
+3. Si la sommation reste sans effet dans le délai d'un mois, avis de mise en recouvrement est décerné à l'encontre de
+l'entrepositaire pour le recouvrement de l'astreinte visée au 2 du présent article et les marchandises non évacuées de
+l'entrepôt peuvent être vendues d'office aux enchères publiques par l'administration des douanes.
 
 **Liens relatifs à cet article**
 
@@ -5238,14 +5238,13 @@ d'office aux enchères publiques par l'administration des douanes.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Loi n°65-525 1965-07-03 art. 1 JORF 4 juillet 1965
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ###### Article 158
@@ -9401,6 +9400,78 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 	  - Code des douanes - art. 265 (M)
 
 
+###### Article 265 bis A
+
+1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
+bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation sur les
+produits pétroliers, dont les tarifs sont fixés au tableau B du 1 de l'article 265. Pour l'année 2003, cette réduction est
+fixée à :
+
+a) 35 euros par hectolitre pour les esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique ;
+
+b) 38 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
+composante alcool est d'origine agricole.
+
+2. Pour bénéficier de la réduction de la taxe intérieure de consommation sur les produits pétroliers, les unités de
+production des esters méthyliques d'huile végétale et dérivés de l'alcool éthylique doivent être agréées avant le 31 décembre
+2003 par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie,
+sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
+
+3. La durée de validité des agréments délivrés ne peut excéder six ans. Ces agréments ne sont pas renouvelables.
+
+4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
+consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Il est également
+tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la
+réduction de la taxe intérieure de consommation sur les produits pétroliers correspondant à la quantité de biocarburants
+qu'il doit mettre à la consommation au cours de la même année en application de la décision d'agrément.
+
+En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
+quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
+
+5. La réduction de la taxe intérieure de consommation sur les produits pétroliers est accordée lors de la mise à la
+consommation en France des carburants et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés
+dans la Communauté européenne aux produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité
+désignée par l'Etat membre de production et d'un certificat de mélange délivré par l'administration chargée du contrôle des
+accises sur les huiles minérales.
+
+6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à
+candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 22 () JORF 31 décembre 2002
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2004-506 du 7 juin 2004 - art. 1 (V)
+	  - Décret n°2004-506 du 7 juin 2004 - art. 2 (V)
+	  - Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
+	  - Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
+	  - Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
+	  - Décret n°2006-127 du 6 février 2006 - art. 1 (V)
+	  - Décret n°2008-93 du 29 janvier 2008 (V)
+	  - Code de l'énergie - art. L661-2 (VD)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+
+
 ###### Article 265 octies
 
 Les exploitants de transport public routier en commun de voyageurs peuvent obtenir, sur demande de leur part, un
@@ -12467,38 +12538,130 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 	  - Décret n°2013-956 du 24 octobre 2013 (V)
 
 
-# Titre XII : Contentieux
+# Titre XII : Contentieux et recouvrement
 
-## Chapitre II : Poursuites
+## Chapitre Ier : Constatation des infractions douanières
 
-### Section 2 : Poursuite par voie de contrainte
+### Section 01 : Droit de consignation.
 
-#### Paragraphe 1 : Emploi de la contrainte.
+###### Article 322 bis
 
-###### Article 345
+Les agents des douanes peuvent consigner les marchandises visées au 4 et au 5 de l'article 38 ci-dessus ou susceptibles
+d'appartenir à l'une des catégories de marchandises énumérées dans ces mêmes dispositions, et éventuellement les véhicules
+qui les transportent, dans les locaux professionnels ou dans tout autre lieu autorisé par le service, aux frais du
+propriétaire, du destinataire, de l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération
+d'importation ou d'exportation, pendant une durée de dix jours, renouvelable sur autorisation du procureur de la République
+dans la limite de vingt et un jours au total, aux fins de vérification pour laquelle ils peuvent procéder ou faire procéder
+au prélèvement d'échantillons pour analyse. Ils peuvent, le cas échéant, contraindre le transporteur à se rendre sur un lieu
+approprié.
 
-Les directeurs et les receveurs des douanes peuvent décerner contrainte pour le recouvrement des droits et taxes de toute
-nature que l'administration des douanes est chargée de percevoir, pour le paiement des droits, amendes et autres sommes dues
-en cas d'inexécution des engagements contenus dans les acquits-à-caution et soumissions et, d'une manière générale, dans tous
-les cas où ils sont en mesure d'établir qu'une somme quelconque est due à l'administration des douanes.
+Les marchandises et les véhicules consignés sont confiés à la garde du détenteur ou de toute autre personne sur les lieux de
+la consignation.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°95-877 du 3 août 1995 - art. 22 (Ab)
+	  - Code des douanes - art. 468 (VD)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code du patrimoine. - art. L112-22 (V)
+	  - Code rural - art. L251-18 (M)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural - art. L951-18 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural ancien - art. 363-1 (Ab)
+	  - Code rural ancien - art. 364 (M)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 38 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
+
+### Section 1 : Constatation par procès-verbal de saisie
+
+#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.
+
+###### Article 323
+
+1. Les infractions aux lois et règlements douaniers peuvent être constatées par un agent des douanes ou de toute autre
+administration.
+
+2. Ceux qui constatent une infraction douanière ont le droit de saisir tous objets passibles de confiscation, de retenir les
+expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
+la sûreté des pénalités.
+
+3. Ils ne peuvent procéder à la capture des prévenus qu'en cas de flagrant délit.
+
+Le procureur de la République en est immédiatement informé.
+
+La durée de la retenue ne peut excéder vingt-quatre heures sauf prolongation d'une même durée autorisée par le procureur de
+la République.
+
+Pendant la retenue, le procureur de la République peut se transporter sur les lieux pour vérifier les modalités de la retenue
+et se faire communiquer les procès-verbaux et registres prévus à cet effet. S'il l'estime nécessaire, il peut désigner un
+médecin.
+
+Les agents mentionnent, par procès-verbal de constat, la durée des interrogatoires et des repos qui ont séparé ces
+interrogatoires, le jour et l'heure du début et de la fin de la retenue.
+
+Ces mentions figurent également sur un registre spécial tenu dans les locaux de douane.
+
+Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée
+de la garde à vue.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 22 JORF 9 juillet 1987
+	  - Loi - art. 44 (V) JORF décembre 2002
+
 	**Cité par**:
 
-	  - Décret n°2017-277 du 2 mars 2017 (V)
-	  - Décret n°2017-277 du 2 mars 2017 - art. 1 (V)
-	  - Code des douanes - art. 67 D (M)
+	  - Arrêté du 6 janvier 2014 - art. 2 (V)
+	  - Code des douanes - art. 67 quater (VD)
+	  - Code des douanes - art. 67 ter (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
-###### Article 346
+#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.
 
-Ils peuvent décerner contrainte dans le cas prévu à l'article 57 ci-dessus ainsi que dans le cas d'inobservation totale ou
-partielle des obligations mentionnées à l'article 122 ci-dessus.
+###### Article 324
+
+1. a) Autant que les circonstances le permettent, les marchandises et moyens de transport saisis sont conduits et déposés au
+bureau ou poste de douane le plus proche du lieu de la saisie.
+
+Lorsqu'il existe dans une même localité plusieurs bureaux ou postes de douane, les objets saisis peuvent être transportés
+indifféremment dans l'un quelconque d'entre eux.
+
+b) Lorsqu'on ne peut les conduire immédiatement au bureau ou au poste ou lorsqu'il n'y a pas de bureau ou de poste de douane
+dans la localité, les objets saisis peuvent être confiés à la garde du prévenu ou d'un tiers sur les lieux de la saisie ou
+dans une autre localité.
+
+2. Les agents qui ont constaté une infraction rédigent le procès-verbal sans divertir à d'autres actes et au plus tard
+immédiatement après le transport et le dépôt des objets saisis.
+
+3. a) Le procès-verbal peut être rédigé au lieu de dépôt des objets saisis ou au lieu de la constatation de l'infraction.
+
+Il peut être également rédigé au siège de la brigade de gendarmerie, au bureau d'un fonctionnaire des finances, ou à la
+mairie du lieu.
+
+b) En cas de saisie dans une maison, le procès-verbal peut y être valablement rédigé.
 
 **Liens relatifs à cet article**
 
@@ -12508,24 +12671,21 @@ partielle des obligations mentionnées à l'article 122 ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°63-1351 1963-12-31 art. 7 JORF 3 janvier 1964 rectificatif JORF 14 janvier 1964
-
-	**Cite**:
-
-	  - Code des douanes - art. 122 (V)
-	  - Code des douanes - art. 57 (V)
+	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Ordonnance 58-1238 1958-12-12 art. 6 JORF 18 décembre 1958
 
 	**Cité par**:
 
-	  - Code des douanes - art. 345 (V)
-	  - Code des douanes - art. 348 (V)
+	  - Code des douanes - art. 338 (V)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 1 (V)
 
 
-#### Paragraphe 2 : Titres.
+###### Article 325
 
-###### Article 347
-
-La contrainte doit comporter copie du titre qui établit la créance.
+Les procès-verbaux énoncent la date et la cause de la saisie ; la déclaration qui a été faite au prévenu ; les nom, qualité
+et demeure des saisissants et de la personne chargée des poursuites ; la nature des objets saisis et leur quantité ; la
+présence du prévenu à leur description ou la sommation qui lui a été faite d'y assister ; le nom et la qualité du gardien ;
+le lieu de la rédaction du procès-verbal et l'heure de sa clôture.
 
 **Liens relatifs à cet article**
 
@@ -12533,12 +12693,122 @@ La contrainte doit comporter copie du titre qui établit la créance.
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
 
-###### Article 349
+	  - Loi - art. 44 (V) JORF décembre 2002
 
-Les contraintes sont notifiées dans les conditions prévues à l'article 362 ci-après.
+
+###### Article 326
+
+1. Lorsque les marchandises saisies ne sont pas prohibées, il est offert mainlevée des moyens de transport sous caution
+solvable ou sous consignation de la valeur.
+
+2. Cette offre, ainsi que la réponse, sont mentionnées au procès-verbal.
+
+3. La mainlevée du moyen de transport est accordée sans caution ni consignation au propriétaire de bonne foi, lorsqu'il a
+conclu le contrat de transport, de location ou de crédit-bail le liant au contrevenant conformément aux lois et règlements en
+vigueur et selon les usages de la profession. Toutefois, cette mainlevée est subordonnée au remboursement des frais
+éventuellement engagés par le service des douanes pour assurer la garde et la conservation du moyen de transport saisi.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 17 () JORF 1er janvier 1982
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 327
+
+1. Si le prévenu est présent, le procès-verbal énonce qu'il lui en a été donné lecture, qu'il a été interpellé de le signer
+et qu'il en a reçu tout de suite copie.
+
+2. Lorsque le prévenu est absent la copie est affichée dans les vingt-quatre heures à la porte du bureau ou du poste de
+douane, ou à la mairie du lieu de rédaction du procès-verbal s'il n'existe dans ce lieu ni bureau, ni poste de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 7 JORF 18 décembre 1958
+	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 328
+
+1. Les procès-verbaux sont affirmés devant le juge d'instance dans le délai donné pour comparaître ; l'affirmation énonce
+qu'il en a été donné lecture à l'affirmant.
+
+2. En matière correctionnelle ou criminelle, les saisissants ont trois jours pour affirmer leurs procès-verbaux.
+
+3. Les agents des douanes et les fonctionnaires assermentés des autres administrations sont toutefois dispensés de la
+formalité de l'affirmation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 4 () JORF 20 décembre 2003
+
+
+#### Paragraphe 3 : Formalités relatives à quelques saisies particulières
+
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.
+
+###### Article 329
+
+1. Si le motif de la saisie porte sur le faux ou l'altération des expéditions, le procès-verbal énonce le genre de faux, les
+altérations ou surcharges.
+
+2. Lesdites expéditions, signées et paraphées ne varietur par les saisissants, sont annexées au procès-verbal qui contient la
+sommation faite au prévenu de les signer et sa réponse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+##### B. - Saisies à domicile.
+
+###### Article 330
+
+1. En cas de saisie à domicile, les marchandises non prohibées ne sont pas déplacées, sous réserve que le prévenu donne
+caution solvable de leur valeur. Si le prévenu ne fournit pas de caution, ou s'il s'agit d'objets prohibés, les marchandises
+sont transportées au plus prochain bureau ou confiées à un tiers gardien constitué soit sur les lieux de la saisie, soit dans
+une autre localité. 
+
+2. L'officier de police judiciaire, intervenu dans les conditions prévues à l'article 64 ci-dessus, doit assister à la
+rédaction du procès-verbal ; en cas de refus, il suffit, pour la régularité des opérations, que le procès-verbal contienne la
+mention de la réquisition et du refus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 64 (V)
 
 	**Codifié par**:
 
@@ -12547,6 +12817,579 @@ Les contraintes sont notifiées dans les conditions prévues à l'article 362 ci
 	**Modifié par**:
 
 	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+##### C. - Saisies sur les navires et bateaux pontés.
+
+###### Article 331
+
+A l'égard des saisies faites sur les navires et bateaux pontés, lorsque le déchargement ne peut avoir lieu tout de suite, les
+saisissants apposent les scellés sur les panneaux et écoutilles des bâtiments. Le procès-verbal, qui est dressé au fur et à
+mesure du déchargement, fait mention du nombre, des marques et des numéros des ballots, caisses et tonneaux. La description
+en détail n'est faite qu'au bureau, en présence du prévenu ou après sommation d'y assister ; il lui est donné copie à chaque
+vacation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+##### D. - Saisies en dehors du rayon.
+
+###### Article 332
+
+1. En dehors du rayon, les dispositions des articles précédents sont applicables aux infractions relevées dans les bureaux,
+entrepôts et autres lieux soumis à la surveillance du service des douanes.
+
+2. Des saisies peuvent également être pratiquées en tous lieux dans le cas de poursuite à vue, d'infraction flagrante,
+d'infraction à l'article 215 ci-dessus ou de découverte inopinée de marchandises dont l'origine frauduleuse ressort
+manifestement des déclarations de leur détenteur ou de documents probants trouvés en sa possession.
+
+3. En cas de saisie après poursuite à vue, le procès-verbal doit constater :
+
+a) s'il s'agit de marchandises assujetties à la formalité du passavant, que lesdites marchandises ont été suivies sans
+interruption depuis leur franchissement de la limite intérieure du rayon jusqu'au moment de leur saisie et qu'elles étaient
+dépourvues de l'expédition nécessaire à leur transport dans le rayon des douanes ;
+
+b) s'il s'agit d'autres marchandises, que lesdites marchandises ont été suivies sans interruption depuis leur franchissement
+de la frontière jusqu'au moment de leur saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 8 JORF 18 décembre 1958
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 215 (M)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 64 (V)
+
+
+#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.
+
+###### Article 333
+
+1. Après affirmation s'il y a lieu, les procès-verbaux constatant les délits de douane sont remis au procureur de la
+République et les prévenus capturés sont traduits devant ce magistrat.
+
+2. A cet effet, les autorités civiles et militaires sont tenues de prêter main-forte aux agents des douanes à la première
+réquisition.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 363 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+### Section 2 : Constatation par procès-verbal de constat.
+
+###### Article 334
+
+1. Les résultats des contrôles opérés dans les conditions prévues à l'article 65 ci-dessus et, d'une manière générale, ceux
+des enquêtes et interrogatoires effectués par les agents des douanes sont consignés dans les procès-verbaux de constat. 
+
+2. Ces procès-verbaux énoncent la date et le lieu des contrôles et des enquêtes effectués, la nature des constatations faites
+et des renseignements recueillis, la saisie des documents, s'il y a lieu, ainsi que les noms, qualité et résidence
+administrative des agents verbalisateurs. 
+
+Ils indiquent, en outre, que ceux chez qui l'enquête ou le contrôle a été effectué ont été informés de la date et du lieu de
+la rédaction de ce rapport et que sommation leur a été faite d'assister à cette rédaction ; si ces personnes sont présentes à
+la rédaction, ils précisent que lecture leur en a été faite et qu'elles ont été interpellées de le signer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°71-209 du 18 mars 1971 - art. 25 (Ab)
+	  - Décret n°96-866 du 27 septembre 1996 - art. 7 (Ab)
+	  - Décret n°2002-1110 du 30 août 2002 - art. 5 (V)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 9 (V)
+	  - Décret n°2012-945 du 1er août 2012 - art. 2 (V)
+	  - Décret n°2012-945 du 1er août 2012 - art. 5 (V)
+	  - Décret n°2012-945 du 1er août 2012 - art. 8 (V)
+	  - Décret n°2015-427 du 15 avril 2015 - art. 1
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 9 (V)
+	  - Décret n°2016-1845 du 23 décembre 2016 - art. 1 (V)
+	  - Code de la propriété intellectuelle - art. R523-6 (Ab)
+	  - Code de la propriété intellectuelle - art. R716-11 (Ab)
+	  - Code des douanes - art. 338 (V)
+	  - Code des douanes - art. 450 (Ab)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 65 (V)
+
+
+### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat
+
+#### Paragraphe 1 : Timbre et enregistrement.
+
+###### Article 335
+
+Les procès-verbaux de douane ainsi que les soumissions et transactions en tenant lieu sont dispensés des formalités de timbre
+et d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.
+
+###### Article 336
+
+1. Les procès-verbaux de douane rédigés par deux agents des douanes ou de toute autre administration font foi jusqu'à
+inscription de faux des constatations matérielles qu'ils relatent.
+
+2. Ils ne font foi que jusqu'à preuve contraire de l'exactitude et de la sincérité des aveux et déclarations qu'ils
+rapportent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 337
+
+1. Les procès-verbaux de douane rédigés par un seul agent font foi jusqu'à preuve contraire.
+
+2. En matière d'infractions constatées par procès-verbal de constat à la suite d'un contrôle d'écritures, la preuve contraire
+ne peut être rapportée qu'au moyen de documents de date certaine antérieure à celle de l'enquête effectuée par les agents
+verbalisateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 338
+
+1. Les tribunaux ne peuvent admettre contre les procès-verbaux de douane d'autres nullités que celles résultant de l'omission
+des formalités prescrites par les articles 323-1,324 à 332 et 334 ci-dessus. 
+
+2. Toutefois, sera nulle et de nul effet toute saisie de marchandises non prohibées à l'importation ou à l'exportation ou non
+fortement taxées qui auraient dépassé un bureau de douane sur la façade duquel le tableau prévu à l'article 48 ci-dessus
+n'aurait pas été apposé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 323-1 (V)
+	  - Code des douanes - art. 324 (V)
+	  - Code des douanes - art. 334 (V)
+	  - Code des douanes - art. 48 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 339
+
+1. Celui qui veut s'inscrire en faux contre un procès-verbal est tenu d'en faire déclaration par écrit, en personne ou par un
+fondé de pouvoir spécial passé devant notaire, au plus tard à l'audience indiqué par la sommation de comparaître devant le
+tribunal qui doit connaître de l'infraction.
+
+2. Il doit, dans les trois jours suivants, faire au greffe dudit tribunal le dépôt des moyens de faux et des noms et qualités
+des témoins qu'il veut faire entendre ; le tout sous peine de déchéance de l'inscription de faux.
+
+3. Cette déclaration est reçue et signée par le juge et le greffier, dans le cas où le déclarant ne sait ni écrire ni signer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 341 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 340
+
+1. Dans le cas d'une inscription de faux contre un procès-verbal constatant la fraude, si l'inscription est faite dans le
+délai et suivant la forme prescrits par l'article précédent et en supposant que les moyens de faux, s'ils étaient prouvés,
+détruisent l'existence de la fraude à l'égard de l'inscrivant, le procureur de la République fait les diligences convenables
+pour y faire statuer sans délai. 
+
+2. Il pourra être sursis, conformément à l'article 646 du code de procédure pénale, au jugement de l'infraction jusqu'après
+le jugement de l'inscription de faux ; dans ce cas, le tribunal saisi de l'infraction ordonne provisoirement la vente des
+marchandises sujettes à dépérissement et des animaux qui auront servi au transport.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Décret n°59-625 1959-05-12 art. 6 JORF 16 mai 1959
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 646 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 341
+
+Lorsqu'une inscription de faux n'a pas été faite dans le délai et suivant les formes déterminées par l'article 339 ci-dessus,
+il est, sans y avoir aucun égard, procédé à l'instruction et au jugement de l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 339 (V)
+
+
+###### Article 341 bis
+
+1. Les procès-verbaux de douane, lorsqu'ils font foi jusqu'à inscription de faux, valent titre pour obtenir, conformément au
+droit commun, l'autorisation de prendre toutes mesures conservatoires utiles à l'encontre des personnes pénalement ou
+civilement responsables, à l'effet de garantir les créances douanières de toute nature résultant desdits procès-verbaux.
+
+2. Le juge compétent pour connaître de la procédure, y compris les demandes en validité, en mainlevée, en réduction ou
+cantonnement des saisies est le juge d'instance du lieu de rédaction du procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 17 JORF 3 janvier 1964
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+## Chapitre II : Poursuites et recouvrement
+
+### Section 1 : Dispositions générales.
+
+###### Article 342
+
+Tous délits et contraventions prévus par les lois sur les douanes peuvent être poursuivis et prouvés par toutes les voies de
+droit alors même qu'aucune saisie n'aurait pu être effectuée dans le rayon des douanes ou hors de ce rayon ou que les
+marchandises ayant fait l'objet d'une déclaration n'auraient donné lieu à aucune observation.
+
+A cet effet, il pourra être valablement fait état, à titre de preuve, des renseignements, certificats, procès-verbaux et
+autres documents fournis ou établis par les autorités des pays étrangers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°60-1356 1960-12-17 art. 12 Finances rectificative pour 1960 JORF 18 décembre 1960
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 343
+
+1. L'action pour l'application des peines est exercée par le ministère public.
+
+2. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut
+l'exercer accessoirement à l'action publique.
+
+3. L'administration des douanes ne peut exercer l'action pour l'application des sanctions fiscales dans les procédures dont
+ses agents ont été saisis en application des I et II de l'article 28-1 du code de procédure pénale. Cette action est, dans
+ces cas, exercée par le ministère public, et les dispositions de l'article 350 ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°99-515 du 23 juin 1999 - art. 28 (V) JORF 24 juin 1999 en vigueur le 1er janvier 2000
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. 28-1 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 350 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 343 bis
+
+Qu'il s'agisse d'une instance civile ou commerciale ou d'une information, même terminée par un non-lieu, l'autorité
+judiciaire doit donner connaissance au service des douanes de toutes indications qu'elle peut recueillir de nature à faire
+présumer une fraude commise en matière douanière ou une manœuvre quelconque ayant eu pour objet ou ayant eu pour résultat
+d'enfreindre les dispositions soit législatives, soit réglementaires se rattachant à l'application du code des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1278 1964-12-23 art. 39 JORF 24 décembre 1964
+
+	**Modifié par**:
+
+	  - Loi n°2002-1576 du 30 décembre 2002 - art. 44 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 16 janvier 2008 (V)
+	  - Arrêté du 16 janvier 2008 - art. 4 (V)
+	  - Code des douanes - art. 67 E (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 344
+
+Lorsque l'auteur d'une infraction douanière vient à décéder avant intervention d'un jugement définitif ou d'une transaction,
+l'Administration est fondée à exercer contre la succession une action tendant à faire prononcer par le tribunal d'instance la
+confiscation des objets passibles de cette sanction ou, si ceux-ci n'ont pu être saisis, la condamnation au paiement d'une
+somme égale à la valeur desdits objets et calculée d'après le cours du marché intérieur à l'époque où la fraude a été
+commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+### Section 2 : Recouvrement.
+
+###### Article 345
+
+Les créances de toute nature constatées et recouvrées par l'administration des douanes font l'objet d'un avis de mise en
+recouvrement sous réserve, le cas échéant, de la saisine du juge judiciaire. 
+
+L'avis de mise en recouvrement est signé et rendu exécutoire par le directeur régional des douanes ou le comptable des
+douanes ainsi que, sous l'autorité et la responsabilité de ce dernier, par un agent ayant au moins le grade de contrôleur. 
+
+L'avis de mise en recouvrement indique le fait générateur de la créance ainsi que sa nature, son montant et les éléments de
+sa liquidation. Une copie est notifiée au redevable. 
+
+Les recours prévus aux articles 346 et 347 ne suspendent pas l'exécution de l'avis de mise en recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cité par**:
+
+	  - Décret n°2017-277 du 2 mars 2017 (V)
+	  - Décret n°2017-277 du 2 mars 2017 - art. 1 (V)
+	  - Code des douanes - art. 67 D (M)
+
+	**Cite**:
+
+	  - Code des douanes - art. 346 (V)
+
+
+###### Article 346
+
+Toute contestation de la créance doit être adressée à l'autorité qui a signé l'avis de mise en recouvrement dans les trois
+ans qui suivent sa notification, sans préjudice des délais prévus, en matière de remise des droits, par le règlement (CEE) n°
+2913/92 du Conseil, du 12 octobre 1992, établissant le code des douanes communautaire.
+
+Le directeur régional des douanes statue sur la contestation dans un délai de six mois à compter de sa réception. En cas de
+saisine de la commission de conciliation et d'expertise douanière, ce delai part du jour de la notification aux parties de
+l'avis rendu par la commission. En cas d'introduction d'une demande de remise fondée sur le code des douanes communautaire et
+qui entre dans les compétences de la Commission des Communautés européennes, ce délai part du jour de la notification à
+l'administration des douanes de la décision de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 345 (V)
+	  - Code des douanes - art. 348 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 347
+
+Dans le délai de deux mois suivant la réception de la réponse du directeur régional des douanes ou, à défaut de réponse, à
+l'expiration du délai de six mois prévu à l'article précédent, le redevable peut saisir le tribunal d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 348
+
+Si le redevable en formule la demande dans sa contestation, il peut être autorisé à différer le paiement de la créance
+jusqu'à l'issue du litige. 
+
+Le sursis de paiement est accordé au redevable si la contestation est accompagnée de garanties destinées à assurer le
+recouvrement de la créance contestée. Ces garanties prennent la forme d'une caution ou d'une consignation. Elles peuvent
+également être constituées par des valeurs mobilières, par des affectations hypothécaires, par des nantissements de fonds de
+commerce. A défaut de garanties ou si le comptable des douanes chargé du recouvrement estime ne pas pouvoir accepter les
+garanties offertes par le redevable, il lui demande, dans le délai d'un mois, de constituer des garanties nouvelles. A
+l'issue de ce délai, le comptable des douanes peut prendre des mesures conservatoires pour la créance contestée, nonobstant
+toute contestation éventuelle portant sur les garanties, formulée conformément à l'article 349. 
+
+Des garanties peuvent ne pas être exigées lorsqu'elles sont de nature, en raison de la situation du redevable, à susciter de
+graves difficultés d'ordre économique ou social. 
+
+Au cas où le sursis de paiement est accordé ou si des mesures conservatoires sont prises, l'exigibilité de la créance et la
+prescription de l'action en recouvrement sont suspendues jusqu'à ce qu'une décision définitive ait été prise sur la
+contestation de la créance soit par l'autorité administrative désignée à l'article 346, soit par le tribunal compétent. 
+
+Si la contestation de la créance aboutit à l'annulation de l'avis de mise en recouvrement, les frais occasionnés par la
+garantie sont remboursés au redevable. 
+
+Les dispositions du présent article ne font pas obstacle à ce que le directeur régional des douanes ou le comptable des
+douanes sollicitent des mesures conservatoires du juge compétent, dès la constatation de la créance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002 rectificatif 31 janvier 2003
+
+	**Cité par**:
+
+	  - Décret n°2007-568 du 17 avril 2007 - art. 2 (V)
+	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
+	  - Arrêté du 12 avril 2013 - art. (V)
+	  - Code des douanes - art. 349 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 346 (V)
+	  - Code des douanes - art. 349 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 349
+
+Toute contestation des décisions du comptable des douanes relatives aux garanties exigées du redevable peut être portée, dans
+un délai de quinze jours à compter de la notification de la réponse du comptable des douanes ou de l'expiration du délai
+imparti pour répondre, devant le juge d'instance, statuant en référé. Le juge, saisi par simple demande écrite, statue dans
+un délai d'un mois. Dans un délai de quinze jours suivant la décision du juge ou l'expiration du délai laissé à ce dernier
+pour statuer, le redevable et le comptable des douanes peuvent faire appel devant la cour d'appel.
+
+Lorsque des garanties suffisantes n'ont pas été constituées et que le comptable des douanes a mis en place des mesures
+conservatoires, le redevable peut, par simple demande écrite, demander au juge d'instance, statuant en référé, de prononcer
+dans un délai d'un mois la limitation ou l'abandon de ces mesures. Les délais de saisine du juge d'instance et du juge
+d'appel sont les mêmes que ceux définis à l'alinéa précédent.
+
+Les recours dirigés contre la régularité des mesures conservatoires relèvent du juge de l'exécution, dans les conditions de
+droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -12554,27 +13397,272 @@ Les contraintes sont notifiées dans les conditions prévues à l'article 362 ci
 	  - Code des douanes - art. 348 (V)
 	  - Code des douanes - art. 349 bis (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 349 bis
+
+En matière de recouvrement et de garantie des créances recouvrées par l'administration des douanes, le comptable des douanes
+peut déléguer sa signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des
+pouvoirs qu'il tient des articles 348, 349 et 387 bis de la loi n° 66-1007 du 28 décembre 1966 relative à la publicité du
+privilège du Trésor en matière fiscale, des dispositions du code de commerce relatives aux difficultés des entreprises et à
+la vente du fonds de commerce, de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution,
+ainsi que pour l'inscription des hypothèques et autres sûretés.
+
+**Nota:**
+
+L'insertion d'une virgule après la citation de l'article 387 bis fera l'objet d'un rectificatif au Journal officiel.
+
+**Liens relatifs à cet article**
+
 	**Cite**:
 
-	  - Code des douanes - art. 362 (M)
+	  - Loi n°66-1007 1966-12-28
+	  - Loi n°91-650 1991-07-09
+	  - Code des douanes - art. 348 (Ab)
+	  - Code des douanes - art. 349 (M)
+	  - Code des douanes - art. 387 bis (M)
+
+	**Créé par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ### Section 3 : Extinction des droits de poursuite et de répression
 
+#### Paragraphe 1 : Droit de transaction.
+
+###### Article 350
+
+L'administration des douanes est autorisée à transiger avec les personnes poursuivies pour infraction douanière ou pour
+infraction à la législation et à la réglementation relatives aux relations financières avec l'étranger sous réserve de
+l'application des dispositions suivantes : 
+
+a) lorsqu'aucune action judiciaire n'est engagée, les transactions excédant les limites de compétence des services extérieurs
+de l'administration des douanes doivent être soumises pour avis au comité du contentieux fiscal, douanier et des changes
+prévu à l'article 460 du présent code. 
+
+b) après mise en mouvement par l'administration des douanes ou le ministère public d'une action judiciaire, l'administration
+des douanes ne peut transiger que si l'autorité judiciaire admet le principe d'une transaction. 
+
+L'accord de principe est donné par le ministère public lorsque l'infraction est passible à la fois de sanctions fiscales et
+de peines, par le président de la juridiction saisie, lorsque l'infraction est passible seulement de sanctions fiscales. 
+
+c) après jugement définitif, les sanctions fiscales prononcées par les tribunaux ne peuvent faire l'objet de transaction.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 1977-12-29 art. 16, art. 20 JORF 30 décembre 1977
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 16 (V) JORF 30 décembre 1977
+	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 6 juin 1992 - art. 2 (Ab)
+	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
+	  - Décret n°2008-835 du 22 août 2008 (V)
+	  - Arrêté du 25 février 2010 - art. 4 (V)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 10 (M)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 8 (M)
+	  - Arrêté du 14 janvier 2011 - art. 5 (V)
+	  - Décret n°2012-1264 du 14 novembre 2012 (V)
+	  - Décret n°2013-741 du 14 août 2013 (V)
+	  - Décret n°2013-956 du 24 octobre 2013 - art. 1 (V)
+	  - Décret n°2016-1256 du 27 septembre 2016 (V)
+	  - Code des douanes - art. 283 bis (V)
+	  - Code des douanes - art. 343 (V)
+	  - Code des douanes - art. 460 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 2 : Prescription de l'action.
+
+###### Article 351
+
+L'action de l'administration des douanes en répression des infractions douanières se prescrit dans les mêmes délais et dans
+les mêmes conditions que l'action publique en matière de délits de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 9 JORF 18 décembre 1958
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cité par**:
+
+	  - Décret n°71-209 du 18 mars 1971 - art. 20 (Ab)
+	  - Code des douanes - art. 354 quater (V)
+	  - Code des douanes - art. 450 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
+
+
 #### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables
 
-##### B. - Prescription contre l'administration.
+##### A. - Prescription contre les redevables.
 
-###### Article 354
+###### Article 352
 
-L'administration des douanes est non recevable à former aucune demande en paiement des droits, trois ans après que lesdits
-droits auraient dû être payés.
+Aucune personne n'est recevable à former, contre l'administration des douanes, des demandes en restitution de droits et de
+marchandises et paiements de loyers, trois ans après l'époque que les réclamateurs donnent aux paiements des droits, dépôts
+des marchandises et échéances des loyers.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°68-1247 1968-12-31 art. 13 JORF 3 janvier 1969
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 25 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 28 (V)
+	  - Décret n°2014-913 du 18 août 2014 - art. 5 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 3 (VD)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Code des douanes - art. 265 octies (VT)
+	  - Code des douanes - art. 265 septies (VT)
+	  - Code des douanes - art. 265 sexies (VT)
+	  - Code des douanes - art. 266 decies (M)
+	  - Code des douanes - art. 266 quinquies (VD)
+	  - Code des douanes - art. 266 quinquies B (VD)
+	  - Code des douanes - art. 266 quinquies C (VD)
+	  - Code des douanes - art. 352 ter (V)
+	  - Code des douanes - art. 355 (V)
+	  - Code des douanes - art. 358 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 352 bis
+
+Lorsqu'une personne a indûment acquitté des droits et taxes nationaux recouvrés selon les procédures du présent code, elle
+peut en obtenir le remboursement, à moins que les droits et taxes n'aient été répercutés sur l'acheteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°80-1094 1980-12-30 art. 13 V
+
+	**Créé par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 24 () JORF 3 décembre 1986
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Code des douanes - art. 352 ter (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 352 ter
+
+Lorsque le défaut de validité d'un texte fondant la perception d'une taxe recouvrée par les agents de la direction générale
+des douanes et des droits indirects a été révélé par une décision juridictionnelle, l'action en restitution mentionnée à
+l'article 352 ne peut porter, sans préjudice des dispositions de l'article 352 bis, que sur la période postérieure au 1er
+janvier de la troisième année précédant celle au cours de laquelle cette décision est intervenue.
+
+Les dispositions du précédent alinéa sont applicables aux litiges engagés par des réclamations présentées après le 20
+novembre 1991.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 37 () JORF 31 décembre 1991
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 352 bis (V)
+
+
+###### Article 353
+
+L'administration est déchargée envers les redevables, trois ans après chaque année expirée, de la garde des registres de
+recettes et autres de ladite année, sans pouvoir être tenue de les représenter, s'il y avait des instances encore
+subsistantes pour les instructions et jugements desquelles lesdits registres et pièces fussent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+	**Cité par**:
+
+	  - Code des douanes - art. 355 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+##### B. - Prescription contre l'administration.
+
+###### Article 354
+
+Le droit de reprise de l'administration s'exerce pendant un délai de trois ans, à compter du fait générateur, à l'exclusion
+des droits communiqués en application du 3 de l'article 221 du code des douanes communautaire. 
+
+La prescription est interrompue par la notification d'un procès-verbal de douane.
+
+**Liens relatifs à cet article**
 
 	**Cité par**:
 
@@ -12587,6 +13675,10 @@ droits auraient dû être payés.
 	  - Code des douanes - art. 355 (V)
 	  - Code des douanes - art. 450 (Ab)
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF décembre 2002
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
@@ -12597,18 +13689,21 @@ droits auraient dû être payés.
 ###### Article 355
 
 1. Les prescriptions visées par les articles 352, 353 et 354 ci-dessus n'ont pas lieu et deviennent trentenaires quand il y
-a, avant les termes prévus, contrainte décernée et notifiée, demande formée en justice, condamnation, promesse, convention ou
-obligation particulière et spéciale relative à l'objet qui est répété.
+a, avant les termes prévus, demande formée en justice, condamnation, promesse, convention ou obligation particulière et
+spéciale relative à l'objet qui est répété.
 
 2. Il en est de même à l'égard de la prescription visée à l'article 354 lorsque c'est par un acte frauduleux du redevable que
 l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui compétait pour en
 poursuivre l'exécution.
 
+3. A compter de la notification de l'avis de mise en recouvrement, l'administration des douanes dispose d'un délai de quatre
+ans pour recouvrer la créance.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+	  - Loi - art. 44 (V) JORF décembre 2002
 
 	**Cite**:
 
@@ -12627,10 +13722,10 @@ poursuivre l'exécution.
 
 #### Paragraphe 1 : Compétence "ratione materiae".
 
-###### Article 357 bis
+###### Article 356
 
-Les tribunaux d'instance connaissent des contestations concernant le paiement ou le remboursement des droits, des oppositions
-à contrainte et des autres affaires de douane n'entrant pas dans la compétence des juridictions répressives.
+Les tribunaux de police connaissent des contraventions douanières et de toutes les questions douanières soulevées par voie
+d'exception.
 
 **Liens relatifs à cet article**
 
@@ -12638,9 +13733,47 @@ Les tribunaux d'instance connaissent des contestations concernant le paiement ou
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
 	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 357
+
+1. Les tribunaux correctionnels connaissent de tous les délits de douane et de toutes les questions douanières soulevées par
+voie d'exception.
+
+2. Ils connaissent pareillement des contraventions de douane connexes, accessoires ou se rattachant à un délit de douane ou
+de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 10 JORF 18 décembre 1958
+	  - Loi - art. 44 (V) JORF décembre 2002
+
+
+###### Article 357 bis
+
+Les tribunaux d'instance connaissent des contestations concernant le paiement, la garantie ou le remboursement des créances
+de toute nature recouvrées par l'administration des douanes et des autres affaires de douane n'entrant pas dans la compétence
+des juridictions répressives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Cité par**:
 
@@ -12655,8 +13788,9 @@ Les tribunaux d'instance connaissent des contestations concernant le paiement ou
 1. Les instances résultant d'infractions douanières constatées par procès-verbal de saisie sont portées devant le tribunal
 dans le ressort duquel est situé le bureau de douane le plus proche du lieu de constatation de l'infraction.
 
-2. Les oppositions à contrainte sont formées devant le tribunal d'instance dans le ressort duquel est situé le bureau de
-douane où la contrainte a été décernée.
+2. Les litiges relatifs à la créance et ceux relatifs aux décisions en matière de garantie sont portés devant le tribunal
+d'instance dans le ressort duquel est situé le bureau de douane ou la direction régionale des douanes où la créance a été
+constatée.
 
 3. Les règles ordinaires de compétence en vigueur sur le territoire sont applicables aux autres instances.
 
@@ -12671,8 +13805,395 @@ douane où la contrainte a été décernée.
 	  - Décret n°71-360 du 6 mai 1971 - art. 24 (V)
 	  - Code des douanes - art. 352 (V)
 
+	**Modifié par**:
 
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 2 : Procédure devant les juridictions civiles
+
+#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.
+
+###### Article 361
+
+Tous jugements rendus par les juges d'instance en matière douanière sont susceptibles, quelle que soit l'importance du
+litige, d'appel devant la cour d'appel, conformément aux règles du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°59-625 1959-05-12 art. 2 JORF 16 mai 1959
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
+
+
+#### Paragraphe 4 : Notification des jugements et autres actes de procédure.
+
+###### Article 362
+
+1. Les notifications à l'administration des douanes sont faites à l'agent qui la représente.
+
+2. Les notifications à l'autre partie sont faites conformément aux règles du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 349 (M)
+	  - Code des douanes - art. 389 bis (VD)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 3 : Procédure devant les juridictions répressives.
+
+###### Article 363
+
+Les dispositions de droit commun sur l'instruction des flagrants délits devant les tribunaux correctionnels sont applicables
+dans le cas prévu par l'article 333 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 333 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 365
+
+Les règles de procédure en vigueur sur le territoire sont applicables aux citations, jugements, oppositions et appels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°60-1384 1960-12-23 art. 96 Finances pour 1961 JORF 24 décembre 1960
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 4 : Pourvois en cassation.
+
+###### Article 366
+
+Les règles en vigueur sur le territoire concernant les poursuites en cassation en matière civile et en matière criminelle
+sont applicables aux affaires de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 5 : Dispositions diverses
+
+#### Paragraphe 1 : Règles de procédure communes à toutes les instances
+
+##### A. - Instruction et frais.
+
+###### Article 367
+
+En première instance et sur l'appel, l'instruction est verbale sur simple mémoire et sans frais de justice à répéter de part
+ni d'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+##### B. - Exploits.
+
+###### Article 368
+
+Les agents des douanes peuvent faire, en matière de douane, tous exploits et autres actes de justice que les huissiers ont
+accoutumé de faire ; ils peuvent, toutefois, se servir de tel huissier que bon leur semblera notamment pour les ventes
+d'objets saisis, confisqués ou abandonnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.
+
+###### Article 369
+
+1. S'il retient les circonstances atténuantes, le tribunal peut :
+
+a) libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
+dans les cas où les actes de contrebande ou assimilés ont été commis par dissimulation dans des cachettes spécialement
+aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
+
+b) libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
+
+c) réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
+marchandises ;
+
+d) réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
+437 ci-après ;
+
+e) en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus, limiter ou supprimer la solidarité de certains
+condamnés.
+
+Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains co-prévenus pour un même fait de fraude, le
+tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
+seront solidairement tenus. Il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
+fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
+
+S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut : dispenser le prévenu des sanctions
+pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
+soit pas mentionnée au bulletin n° 2 du casier judiciaire.
+
+2. (paragraphe abrogé).
+
+3. Lorsque les marchandises saisies ne sont pas explicitement prohibées au titre de la réglementation douanière, les
+tribunaux peuvent en donner mainlevée avant de juger définitivement le tout, moyennant caution solvable ou consignation de la
+valeur.
+
+4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues ni de la confiscation
+des marchandises dangereuses pour la santé ou la moralité et la sécurité publiques, des marchandises contrefaites, ainsi que
+de celles qui sont soumises à des restrictions quantitatives.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 23, art. 26 JORF 9 juillet 1987
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Code des douanes - art. 377 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 437 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 370
+
+1. Si le contrevenant aux dispositions des articles 410,411,412,414 du présent code commet dans les cinq ans qui suivent une
+transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des sanctions prévues par
+les articles précités, le taux maximal des pénalités encourues est doublé. 
+
+2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
+autrui les formalités de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 410 (V)
+
+
+#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières
+
+##### A. - Preuves de non-contravention.
+
+###### Article 373
+
+Dans toute action sur une saisie, les preuves de non-contravention sont à la charge du saisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+##### B. - Action en garantie.
+
+###### Article 374
+
+1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants sans que
+l'administration des douanes soit tenue de mettre en cause les propriétaires quand même ils lui seraient indiqués.
+
+2. Toutefois, si les propriétaires intervenaient ou étaient appelés en garantie par ceux sur lesquels les saisies ont été
+faites, les tribunaux statueront, ainsi que de droit, sur les interventions ou sur les appels en garantie.
+
+**Nota:**
+
+Dans sa décision n° 2011-208 QPC du 13 janvier 2012 (NOR : CSCX1201292S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article 374 du code des douanes. La déclaration d'insconstitutionnalité prend effet le 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
+
+
+##### C. - Confiscation des objets saisis sur inconnus et des minutes.
+
+###### Article 375
+
+1. L'administration des douanes peut demander au tribunal d'instance sur simple requête la confiscation en nature des objets
+saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu d'importance de la
+fraude.
+
+2. Il est statué sur ladite demande par une seule ordonnance, même si la requête se rapporte à plusieurs saisies faites
+séparément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2002-1576 du 30 décembre 2002 - art. 44 (V)
+
+
+##### D. - Revendication des objets saisis.
+
+###### Article 376
+
+1. Les objets saisis ou confisqués ne peuvent être revendiqués par les propriétaires, ni le prix, qu'il soit consigné ou non,
+réclamé par les créanciers même privilégiés, sauf leur recours contre les auteurs de la fraude.
+
+2. Les délais d'appel, de tierce opposition et de vente expirés, toutes répétitions et actions sont non recevables.
+
+**Nota:**
+
+Dans sa décision n° 2011-208 QPC du 13 janvier 2012 (NOR : CSCX1201292S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article 376 du code des douanes. La déclaration d'insconstitutionnalité prend effet le 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 441 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+##### E. - Fausses déclarations.
+
+###### Article 377
+
+Sous réserve des dispositions des 1 et 2 de l'article 100 ci-dessus, la vérité ou fausseté des déclarations doit être jugée
+sur ce qui a été premièrement déclaré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 JORF 3 janvier 1964
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 100 (V)
+
+
+##### F. - Paiement des sommes fraudées ou indûment obtenues.
+
+###### Article 377 bis
+
+1. En sus des pénalités fiscales, les tribunaux ordonnent le paiement des sommes fraudées ou indûment obtenues. 
+
+2. Même quand elle ne prononce aucune condamnation, la juridiction répressive est compétente pour se prononcer sur les
+dispositions du 4 de l'article 369 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Code des douanes - art. 343 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 369 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière
 
 ### Section 1 : Sûretés garantissant l'exécution
 
@@ -12690,6 +14211,10 @@ ou versé consignation du montant desdites pénalités.
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 
 #### Paragraphe 2 : Privilèges et hypothèques, subrogation.
 
@@ -12702,7 +14227,7 @@ propriétaires des marchandises en nature qui sont encore emballées.
 
 2. L'administration a pareillement hypothèque sur les immeubles des redevables mais pour les droits seulement.
 
-3. Les contraintes douanières emportent hypothèque de la même manière et aux mêmes conditions que les condamnations émanées
+3. L'avis de mise en recouvrement emporte hypothèque de la même manière et aux mêmes conditions que les condamnations émanées
 de l'autorité judiciaire.
 
 **Liens relatifs à cet article**
@@ -12717,6 +14242,10 @@ de l'autorité judiciaire.
 	  - Code des douanes - art. 379 bis (V)
 	  - Code des douanes - art. 381 bis (Ab)
 	  - Code des douanes - art. 387 bis (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Codifié par**:
 
@@ -12733,9 +14262,13 @@ l'administration des douanes, et avant celui qui est fondé sur le nantissement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 (V)
 
 	**Codifié par**:
 
@@ -12758,47 +14291,7 @@ recouvrement observées par elle à l'égard de ce tiers.
 
 	**Modifié par**:
 
-	  - Loi - art. 26 () JORF 30 décembre 1997
-
-
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
-
-###### Article 381 bis
-
-Les créances résultant d'opérations faisant partie du système de financement du fonds européen d'orientation et de garantie
-agricole, de prélèvements agricoles et de droits de douane, ainsi que la taxe sur la valeur ajoutée, des droits indirects
-dits "accises" visés à l'article 55 de la loi n° 92-677 du 17 juillet 1992, et de toutes sommes accessoires nées dans un Etat
-membre de la Communauté européenne, sont recouvrées dans les mêmes conditions que les créances similaires nées sur le
-territoire national. Le recouvrement de ces créances ne bénéficie d'aucun privilège.
-
-Sur demande de l'autorité compétente d'un Etat membre de la Communauté européenne, l'administration des douanes et droits
-indirects peut communiquer les renseignements et les documents utiles au recouvrement des créances nées dans cet Etat membre.
-Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°92-677 1992-07-17 art. 55
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
-
-	**Cité par**:
-
-	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
-	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ### Section 2 : Voies d'exécution
@@ -12811,8 +14304,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 2. Les jugements et arrêts portant condamnation pour infraction aux lois de douane sont, en outre, exécutés par corps.
 
-3. Les contraintes sont exécutoires par toutes voies de droit, sauf par corps. L'exécution des contraintes ne peut être
-suspendue par aucune opposition ou autre acte.
+3. (alinéa abrogé).
 
 4. Lorsqu'un contrevenant vient à décéder avant d'avoir effectué le règlement des amendes, confiscations et autres
 condamnations pécuniaires prononcées contre lui par jugement définitif, ou stipulées dans les transactions ou soumissions
@@ -12834,8 +14326,7 @@ de paiement des sommes dues les personnes qui auront participé à l'organisatio
 
 	**Modifié par**:
 
-	  - Ordonnance 58-1238 1958-12-17 art. 11 JORF 18 décembre 1958
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 98 () JORF 31 décembre 1981
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 #### Paragraphe 2 : Droits particuliers réservés à la douane.
@@ -12852,6 +14343,10 @@ suffisante caution pour sûreté des sommes à eux adjugées.
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 
 ###### Article 384
 
@@ -12866,6 +14361,10 @@ desquels lesdits jugements ont été rendus que sous bonne et suffisante caution
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 
 ###### Article 385
 
@@ -12878,6 +14377,10 @@ sommes par eux dues.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ###### Article 386
@@ -12893,54 +14396,62 @@ fait mention dans le procès-verbal d'apposition des scellés.
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 
 ###### Article 386 bis
 
 En cas d'inculpation du chef de l'infraction prévue à l'article 415 et afin de garantir le paiement des amendes encourues,
 des frais de justice et la confiscation, le président du tribunal de grande instance peut ordonner, à la demande de
 l'administration des douanes et après avis du procureur de la République, aux frais avancés du Trésor et selon les modalités
-prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée.
+prévues par le code de procédure civile, des mesures conservatoires sur les biens de la personne inculpée. 
 
-La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
+La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés. 
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
 ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 **Nota:**
 
-NOTA : Loi 93-1013 du 24 août 1993 art. 46 :
+Loi 93-1013 du 24 août 1993 art. 46 : 
 
 Dans les dispositions de nature législative, toute mention relative à l'inculpation est remplacée par une mention relative à
 la mise en examen et toute mention relative à l'inculpé est remplacée par une mention relative à la personne mise en examen.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 415 (V)
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 19 () JORF 14 juillet 1990
-
 
 ###### Article 387
 
-1. Lorsque les infractions visées aux articles 412, 1° à 5°, 414 et 459 ont été régulièrement constatées par un fonctionnaire
+1. Lorsque les infractions visées aux articles 412,1° à 5°, 414 et 459 ont été régulièrement constatées par un fonctionnaire
 habilité à cet effet, le président du tribunal de grande instance peut ordonner, sur requête de l'administration des douanes,
 en cas d'urgence, au vu de l'importance des sommes à garantir, et afin de garantir le paiement des droits et taxes, amendes
 et confiscations, toutes mesures conservatoires utiles, aux frais avancés du Trésor et selon les modalités prévues au code de
-procédure civile, sur les biens du responsable de l'infraction.
+procédure civile, sur les biens du responsable de l'infraction. 
 
-2. L'ordonnance du président du tribunal de grande instance est exécutoire nonobstant opposition ou appel.
+2. L'ordonnance du président du tribunal de grande instance est exécutoire nonobstant opposition ou appel. 
 
-Toutefois, il peut être donné mainlevée des mesures conservatoires si l'intéressé fournit une caution jugée suffisante.
+Toutefois, il peut être donné mainlevée des mesures conservatoires si l'intéressé fournit une caution jugée suffisante. 
 
 3. Les demandes en validité ou en mainlevée des mesures conservatoires sont de la compétence du président du tribunal de
-grande instance.
+grande instance. 
 
 La condamnation ou l'acceptation d'une transaction par l'intéressé vaut validation des saisies conservatoires et inscription
-définitive des sûretés.
+définitive des sûretés. 
 
 La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
 ordonnées. Il en est de même en cas d'extinction de l'action publique.
@@ -12949,13 +14460,13 @@ ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 58 () JORF 30 décembre 1990
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Cite**:
 
-	  - Code des douanes - art. 412 (M)
-	  - Code des douanes - art. 414 (M)
-	  - Code des douanes - art. 459 (M)
+	  - Code des douanes - art. 412 (V)
+	  - Code des douanes - art. 414 (V)
+	  - Code des douanes - art. 459 (V)
 
 	**Codifié par**:
 
@@ -12966,19 +14477,19 @@ ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 379-1
 ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
-qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers.
+qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers. 
 
 Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
-leur sont allouées en compte.
+leur sont allouées en compte. 
 
 Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
 sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°63-1351 1963-12-31 art. 18 JORF 3 janvier 1963
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Cité par**:
 
@@ -12987,7 +14498,7 @@ sociétés pour les dettes de ces sociétés constituant une créance douanière
 
 	**Cite**:
 
-	  - Code des douanes 379-1
+	  - Code des douanes - art. 379 (V)
 
 	**Codifié par**:
 
@@ -13013,7 +14524,7 @@ montant que celui des sanctions fiscales prononcées.
 
 	**Modifié par**:
 
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 #### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane
@@ -13036,11 +14547,17 @@ attendu le péril en la demeure.
 4. Le produit de la vente sera déposé dans la caisse de la douane pour en être disposé ainsi qu'il sera statué en définitive
 par le tribunal chargé de se prononcer sur la saisie.
 
+**Nota:**
+
+Dans sa décision n° 2011-203 QPC du 2 décembre 2011 (NOR : CSCX11322871S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article 389 du code des douanes. La déclaration d'inconstitutionnalité prend effet à compter du 1er janvier
+2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 72 () JORF 29 décembre 2001
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Codifié par**:
 
@@ -13084,10 +14601,6 @@ constatée par procès-verbal de constat.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi - art. 72 () JORF 29 décembre 2001
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002
@@ -13103,6 +14616,10 @@ constatée par procès-verbal de constat.
 	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 3 (V)
 	  - Décret n°2013-750 du 14 août 2013 (V)
 	  - Code des douanes - art. 390 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Cite**:
 
@@ -13126,17 +14643,17 @@ l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétitio
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Arrêté du 4 mars 2013 (V)
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
 	**Modifié par**:
 
-	  - Loi - art. 72 () JORF 29 décembre 2001
-
-	**Cité par**:
-
-	  - Arrêté du 4 mars 2013 (V)
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ### Section 3 : Droit de remise.
@@ -13158,17 +14675,9 @@ prononcé la condamnation.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°78-712 1978-06-21
-
-	**Créé par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-
-	**Anciens textes**:
-
-	  - Loi n°77-1453 1977-12-29 art. 16
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ### Section 4 : Répartition du produit des amendes et confiscations.
@@ -13188,10 +14697,644 @@ non distribués à la date de publication desdits arrêtés au Journal officiel.
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+## Chapitre V : Responsabilité et solidarité
+
+### Section 1 : Responsabilité pénale
+
+#### Paragraphe 1 : Détenteurs.
+
+###### Article 392
+
+1. Le détenteur de marchandises de fraude est réputé responsable de la fraude.
+
+2. Toutefois, les transporteurs publics ne sont pas considérés, eux et leurs préposés ou agents, comme contrevenants lorsque,
+par une désignation exacte et régulière de leurs commettants, ils mettent l'administration en mesure d'exercer utilement des
+poursuites contre les véritables auteurs de la fraude.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 2 (V)
+
+
+#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.
+
+###### Article 393
+
+1. Les capitaines de navires, bateaux, embarcations et les commandants d'aéronefs sont réputés responsables des omissions et
+inexactitudes relevées dans les manifestes et, d'une manière générale, des infractions commises à bord de leur bâtiment.
+
+2. Toutefois, les peines d'emprisonnement édictées par le présent code ne sont applicables aux commandants des navires de
+commerce ou de guerre ou des aéronefs militaires ou commerciaux qu'en cas de faute personnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 394
+
+Le capitaine est déchargé de toute responsabilité : 
+
+a) dans le cas d'infraction visé à l'article 424,2°, ci-après, s'il administre la preuve qu'il a rempli tous ses devoirs de
+surveillance ou si le délinquant est découvert ; 
+
+b) dans le cas d'infraction visé à l'article 424,3°, ci-après, s'il justifie que des avaries sérieuses ont nécessité le
+déroutement du navire et à condition que ces événements aient été consignés au journal de bord avant la visite du service des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 424 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 3 : Déclarants.
+
+###### Article 395
+
+1. Les signataires de déclarations sont responsables des omissions, inexactitudes et autres irrégularités relevées dans les
+déclarations, sauf leur recours contre leurs commettants.
+
+2. Lorsque la déclaration a été rédigée en conformité des instructions données par le commettant, ce dernier est passible des
+mêmes peines que le signataire de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 14 JORF 3 janvier 1969
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 4 : Commissionnaires en douane agréés.
+
+###### Article 396
+
+1. Les commissionnaires en douane agréés sont responsables des opérations en douane effectuées par leurs soins.
+
+2. Les peines d'emprisonnement édictées par le présent code ne leur sont applicables qu'en cas de faute personnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 5 : Soumissionnaires.
+
+###### Article 397
+
+1. Les soumissionnaires sont responsables de l'inexécution des engagements souscrits, sauf leur recours contre les
+transporteurs et autres mandataires.
+
+2. A cet effet, le service auquel les marchandises sont représentées ne donne décharge que pour les quantités à l'égard
+desquelles les engagements ont été remplis dans le délai et les pénalités réprimant l'infraction sont poursuivies au bureau
+d'émission contre les soumissionnaires et leurs cautions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 6 : Complices.
+
+###### Article 398
+
+Les dispositions des articles 121-6 et 121-7 du code pénal sont applicables aux complices de délits douaniers.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 332 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 7 : Intéressés à la fraude.
+
+###### Article 399
+
+1. Ceux qui ont participé comme intéressés d'une manière quelconque à un délit de contrebande ou à un délit d'importation ou
+d'exportation sans déclaration sont passibles des mêmes peines que les auteurs de l'infraction et, en outre, des peines
+privatives de droits édictées par l'article 432 ci-après. 
+
+2. Sont réputés intéressés : 
+
+a) les entrepreneurs, membres d'entreprise, assureurs, assurés, bailleurs de fonds, propriétaires de marchandises, et, en
+général, ceux qui ont un intérêt direct à la fraude ; 
+
+b) ceux qui ont coopéré d'une manière quelconque à un ensemble d'actes accomplis par un certain nombre d'individus agissant
+de concert, d'après un plan de fraude arrêté pour assurer le résultat poursuivi en commun ; 
+
+c) ceux qui ont, sciemment, soit couvert les agissements des fraudeurs ou tenté de leur procurer l'impunité, soit acheté ou
+détenu, même en dehors du rayon, des marchandises provenant d'un délit de contrebande ou d'importation sans déclaration. 
+
+3. L'intérêt à la fraude ne peut être imputé à celui qui a agi en état de nécessité ou par suite d'erreur invincible.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 13 JORF 18 décembre 1958
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 2 (V)
+	  - Code des douanes - art. 67 bis (V)
+	  - Code des douanes - art. 67 bis-1 (V)
+	  - Code des douanes - art. 67 bis-1 A (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 432 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 400
+
+Ceux qui ont acheté ou détenu, même en dehors du rayon, des marchandises importées en contrebande ou sans déclaration, en
+quantité supérieure à celle des besoins de leur consommation familiale, sont passibles des sanctions contraventionnelles de
+la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 2 : Responsabilité civile
+
+#### Paragraphe 1 : Responsabilité de l'administration.
+
+###### Article 401
+
+L'administration des douanes est responsable du fait de ses employés, dans l'exercice et pour raison de leurs fonctions
+seulement, sauf son recours contre eux ou leurs cautions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 402
+
+Lorsqu'une saisie opérée en vertu de l'article 323-2 ci-dessus n'est pas fondée, le propriétaire des marchandises a droit à
+un intérêt d'indemnité, à raison de 1 % par mois de la valeur des objets saisis, depuis l'époque de la retenue jusqu'à celle
+de la remise ou de l'offre qui lui en a été faite.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 323-2 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 448 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 403
+
+S'il n'est point constaté qu'il y ait motif de saisie, il doit être payé la somme de 0,76 euro à celui au domicile duquel les
+recherches ont été faites, en vertu de l'article 64 ci-dessus, sauf plus grands dommages et intérêts auxquels les
+circonstances de la visite peuvent éventuellement donner lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 64 (V)
+
+
+#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.
+
+###### Article 404
+
+Les propriétaires des marchandises sont responsables civilement du fait de leurs employés en ce qui concerne les droits,
+confiscations, amendes et dépens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 3 : Responsabilité solidaire des cautions.
+
+###### Article 405
+
+Les cautions sont tenues, au même titre que les principaux obligés, de payer les droits et taxes, pénalités pécuniaires et
+autres sommes dues par les redevables qu'elles ont cautionnés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 3 : Solidarité.
+
+###### Article 406
+
+1. Les condamnations contre plusieurs personnes pour un même fait de fraude sont solidaires, tant pour les pénalités
+pécuniaires tenant lieu de confiscation que pour l'amende et les dépens. 
+
+2. Il n'en est autrement qu'à l'égard des infractions aux articles 53-1 et 61-1 ci-dessus qui sont sanctionnés par des
+amendes individuelles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 53 (V)
+	  - Code des douanes - art. 61 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 407
+
+Les propriétaires des marchandises de fraude, ceux qui se sont chargés de les importer ou de les exporter, les intéressés à
+la fraude, les complices et adhérents sont tous solidaires et contraignables par corps pour le paiement de l'amende, des
+sommes tenant lieu de confiscation et des dépens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
 
 ## Chapitre VI : Dispositions répressives
 
 ### Section 1 : Classification des infractions douanières et peines principales
+
+#### Paragraphe 1 : Généralités.
+
+###### Article 408
+
+Il existe cinq classes de contraventions douanières et trois classes de délits douaniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 409
+
+Toute tentative de délit douanier est considérée comme le délit même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 2 : Contraventions douanières
+
+##### A. - Première classe.
+
+###### Article 410
+
+1. Est passible d'une amende de 300 euros à 3000 euros toute infraction aux dispositions des lois et règlements que
+l'administration des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
+présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
+
+a) toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
+l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+
+b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
+
+c) toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
+pour l'application de l'article 24-2 du présent code ;
+
+d) toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
+n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2001 - art. 6 (V)
+	  - Code des douanes - art. 370 (V)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural - art. L936-7 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural ancien - art. 275-7 (Ab)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+	  - Code rural et de la pêche maritime - art. L236-7 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 232 (V)
+	  - Code des douanes - art. 236 (V)
+	  - Code des douanes - art. 261 (V)
+	  - Code des douanes - art. 72 (V)
+	  - Code des douanes - art. 92 (V)
+	  - Code des douanes 24-2, 72, 77-1, 92, 232, 236, 261
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+##### B. - Deuxième classe.
+
+###### Article 411
+
+1. Est passible d'une amende comprise entre une et deux fois le montant des droits et taxes éludés ou compromis toute
+infraction aux dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette
+irrégularité a pour but ou pour résultat d'éluder ou de compromettre le recouvrement d'un droit ou d'une taxe quelconque et
+qu'elle n'est pas spécialement réprimée par le présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent, les infractions ci-après quand elles se
+rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes :
+
+a) les déficits dans le nombre des colis déclarés, manifestés ou transportés sous acquit-à-caution ou document en tenant
+lieu :
+
+b) les déficits sur la quantité des marchandises placées sous un régime suspensif, en magasins et aires de dédouanement ou en
+magasins et aires d'exportation ;
+
+c) la non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ;
+
+d) la présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ;
+
+e) l'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ;
+
+f) les excédents sur le poids, le nombre ou la mesure déclarés ;
+
+g) toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
+d'un dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits pétroliers ;
+
+h) l'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus.
+
+3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le
+recouvrement de droits de port ou de redevances d'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
+	  - Décret n°90-317 du 9 avril 1990 - art. 6 (V)
+	  - Décret n°97-1279 du 23 décembre 1997 - art. 9 (V)
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 430 (V)
+	  - Code des douanes - art. 436 (V)
+	  - Code des instruments monétaires et des médailles - art. 20 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 II JORF 9 juillet 1987
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 122 (V)
+
+
+##### C. - Troisième classe.
+
+###### Article 412
+
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 euros à 1500 euros :
+
+1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
+sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
+taxes de consommation intérieure, ni prohibées ou taxés à la sortie ;
+
+2° toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
+
+3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
+
+4° toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions prévues par la réglementation
+communautaire en matière de franchises ;
+
+5° tout détournement de marchandises non prohibées de leur destination privilégiée ;
+
+6° la présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
+quelque manière que ce soit ;
+
+7° le transport de marchandises par navires étrangers d'un port français à un autre port français, hors les cas prévus à
+l'article 259 ci-dessus ;
+
+8° l'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
+manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
+sommairement ;
+
+9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
+non autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°74-1114 du 27 décembre 1974 - art. 10 (V)
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 387 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 189 (P)
+	  - Code des douanes - art. 259 (M)
+
+
+##### E. - Cinquième classe.
+
+###### Article 413 bis
+
+1. Est passible d'un emprisonnement d'un mois et d'une amende de 90 euros à 450 euros, toute infraction aux dispositions des
+articles 53-1, 61-1, 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
+pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus.
+
+2. Tombent également sous le coup des dispositions de l'alinéa précédent :
+
+a) toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
+respectivement aux articles 87-3 et 88 ci-dessus, continue, soit à accomplir pour autrui, directement ou indirectement, les
+formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
+de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ;
+
+b) toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
+l'autorisation de dédouaner ceux qui en auraient été atteints.
+
+3. En cas de récidive des contraventions mentionnées au présent article, la peine de prison pourra être portée à deux mois.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 65 (M)
+	  - Code des douanes - art. 69 (V)
+	  - Code des douanes - art. 71 (V)
+	  - Code des douanes - art. 88 (Ab)
+	  - Code des douanes - art. 92 (V)
+	  - Code des douanes - art. 93 (V)
+	  - Code des douanes 53-1, 61-1, 65, 69, 71, 87-3, 88, 92, 93, 117-2
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 #### Paragraphe 3 : Délits douaniers
 
@@ -13204,9 +15347,6 @@ moyens de transport, de la confiscation des objets servant à masquer la fraude 
 fois la valeur de l'objet de fraude, tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans
 déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
 fortement taxées au sens du présent code.
-
-Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 770 euros, sont passibles d'une
-amende égale à la valeur desdites marchandises.
 
 **Liens relatifs à cet article**
 
@@ -13249,8 +15389,7 @@ amende égale à la valeur desdites marchandises.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 39 () JORF 31 décembre 2002
 
 	**Anciens textes**:
 
@@ -13261,6 +15400,933 @@ amende égale à la valeur desdites marchandises.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+##### B. - Deuxième classe.
+
+###### Article 415
+
+Seront punis d'un emprisonnement de deux à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
+lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté
+l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé
+ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir,
+directement ou indirectement, d'un délit prévu au présent code ou d'une infraction à la législation sur les substances ou
+plantes vénéneuses classées comme stupéfiants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 22 (Ab)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 26 (Ab)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 3 (MMN)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 5 (Ab)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 6 (MMN)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 9 (Ab)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 10 (VT)
+	  - Loi n°96-597 du 2 juillet 1996 - art. 22 (Ab)
+	  - Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 26 (VT)
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V)
+	  - Arrêté du 2 mars 2007 - art. 1 (V)
+	  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 705 (MMN)
+	  - Code de la mutualité - art. L114-21 (V)
+	  - Code de la sécurité intérieure - art. L233-1 (V)
+	  - Code de la sécurité intérieure - art. L251-2 (VD)
+	  - Code de la sécurité sociale. - art. L931-9 (VD)
+	  - Code de procédure pénale - art. 28-1 (V)
+	  - Code de procédure pénale - art. 706-1-1 (V)
+	  - Code des assurances - art. L322-2 (M)
+	  - Code des douanes - art. 323-5 (VD)
+	  - Code des douanes - art. 386 bis (V)
+	  - Code des douanes - art. 415-1 (V)
+	  - Code des douanes - art. 67 bis (V)
+	  - Code des douanes - art. 67 bis-1 A (V)
+	  - Code monétaire et financier - art. D313-27 (V)
+	  - Code monétaire et financier - art. L561-22 (VT)
+	  - Code monétaire et financier - art. L562-4 (V)
+	  - Code monétaire et financier - art. L562-8 (V)
+	  - Code monétaire et financier - art. L564-2 (T)
+	  - Code monétaire et financier - art. L565-2 (T)
+	  - Code monétaire et financier - art. L566-2 (Ab)
+	  - Code monétaire et financier - art. L735-13 (M)
+	  - Code monétaire et financier - art. L745-13 (M)
+	  - Code monétaire et financier - art. L755-13 (M)
+	  - Code monétaire et financier - art. L765-13 (M)
+
+	**Modifié par**:
+
+	  - Loi n°96-392 du 13 mai 1996 - art. 4 () JORF 14 mai 1996
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 4 : Contrebande.
+
+###### Article 417
+
+1. La contrebande s'entend des importations ou exportations en dehors des bureaux ainsi que de toute violation des
+dispositions légales ou réglementaires relatives à la détention et au transport des marchandises à l'intérieur du territoire
+douanier.
+
+2. Constituent, en particulier, des faits de contrebande :
+
+a) la violation des dispositions des articles 75, 76-2, 78-1, 81-1, 83, 198, 199 et 205 ci-dessus ;
+
+b) les versements frauduleux ou embarquements frauduleux effectués soit dans l'enceinte des ports, soit sur les côtes, à
+l'exception des débarquements frauduleux visés à l'article 427, 1° ci-après ;
+
+c) les soustractions ou substitutions en cours de transport de marchandises expédiées sous un régime suspensif,
+l'inobservation sans motif légitime des itinéraires et horaires fixés, les manoeuvres ayant pour but ou pour résultat
+d'altérer ou de rendre inefficaces les moyens de scellement, de sûreté ou d'identification et, d'une manière générale, toute
+fraude douanière relative au transport de marchandises expédiées sous régime suspensif ;
+
+d) la violation des dispositions, soit législatives, soit réglementaires, portant prohibition d'exportation ou de
+réexportation ou bien subordonnant l'exportation ou la réexportation au paiement des droits ou taxes ou à l'accomplissement
+de formalités particulières lorsque la fraude a été faite ou tentée en dehors des bureaux et qu'elle n'est pas spécialement
+réprimée par une autre disposition du présent code.
+
+3. Sont assimilées à des actes de contrebande les importations ou exportations sans déclaration lorsque les marchandises
+passant par un bureau de douane sont soustraites à la visite du service des douanes par dissimulation dans des cachettes
+spécialement aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des
+marchandises.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°61-1396 1961-12-21 art. 77 Finances pour 1962 JORF 22 décembre 1961
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Ordonnance 58-1170 1958-12-05 art. 1 JORF 9 décembre 1958
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Code des douanes - art. 430 (V)
+	  - Code des douanes - art. 436 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 198 (M)
+	  - Code des douanes - art. 199 (V)
+	  - Code des douanes - art. 205 (V)
+	  - Code des douanes - art. 427 (V)
+	  - Code des douanes - art. 75 (V)
+	  - Code des douanes - art. 83 (V)
+	  - Code des douanes 75, 76-2, 78-1, 81-1, 83, 198, 199, 205, 427
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 418
+
+Les marchandises de la catégorie de celles qui sont prohibées à l'entrée ou fortement taxées ou soumises à des taxes de
+consommation intérieure sont réputées avoir été introduites en contrebande et les marchandises de la catégorie de celles dont
+la sortie est prohibée ou assujettie à des droits sont réputées faire l'objet d'une tentative d'exportation en contrebande
+dans tous les cas d'infraction ci-après indiqués :
+
+1° lorsqu'elles sont trouvées dans la zone terrestre du rayon sans être munies d'un acquit de paiement, passavant ou autre
+expédition valable pour la route qu'elles suivent et pour le temps dans lequel se fait le transport, à moins qu'elles ne
+viennent de l'intérieur du territoire douanier par la route qui conduit directement au bureau de douane le plus proche et
+soient accompagnées des documents prévus par l'article 198-2 ci-dessus ;
+
+2° lorsque, même étant accompagnées d'une expédition portant l'obligation expresse de la faire viser à un bureau de passage,
+elles ont dépassé ce bureau sans que ladite obligation ait été remplie ;
+
+3° lorsque, ayant été amenées au bureau, dans le cas prévu à l'article 199-2 ci-dessus, elles se trouvent dépourvues des
+documents indiqués à l'article 198-2 ;
+
+4° lorsqu'elles sont trouvées dans la zone terrestre du rayon en infraction à l'article 206 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 206 (M)
+	  - Code des douanes 198-2, 199-2, 206
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 419
+
+1. Les marchandises visées aux articles 2 ter, 215, 215 bis et 215 ter sont réputées avoir été importées en contrebande à
+défaut soit de justification d'origine, soit de présentation de l'un des documents prévus par ces mêmes articles ou si les
+documents présentés sont faux, inexacts, incomplets ou non applicables.
+
+2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 2 et 3 de l'article 2 ter, aux 1 et 2
+de l'article 215, à l'article 215 bis et à l'article 215 ter sont poursuivies et punies conformément aux dispositions de
+l'article 414 ci-dessus.
+
+3. Lorsqu'ils auront eu connaissance que celui qui leur a délivré les justifications d'origine ne pouvait le faire
+valablement ou que celui qui leur a vendu, cédé, échangé ou confié les marchandises n'était pas en mesure de justifier de
+leur détention régulière, les détenteurs et transporteurs seront condamnés aux mêmes peines et les marchandises seront
+saisies et confisquées dans les mêmes conditions que ci-dessus, quelles que soient les justifications qui auront pu être
+produites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 22 () JORF 5 janvier 1993
+	  - Loi n°94-114 du 10 février 1994 - art. 15 () JORF 11 février 1994
+	  - Loi n°94-679 du 8 août 1994 - art. 60 () JORF 10 août 1994
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 2 ter (V)
+	  - Code des douanes - art. 215 (M)
+	  - Code des douanes - art. 215 bis (M)
+	  - Code des douanes - art. 215 ter (M)
+	  - Code des douanes - art. 414 (M)
+
+
+###### Article 420
+
+Est réputée importée en contrebande toute quantité en excédent au compte ouvert prévu par l'article 207 ci-dessus ou toute
+marchandise non inscrite à ce compte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 207
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+
+###### Article 421
+
+Les animaux de la catégorie de ceux qui sont prohibés ou fortement taxés à l'entrée sont réputés avoir été importés en fraude
+et les animaux de la catégorie de ceux dont la saisie est prohibée ou assujettie à des droits sont réputés faire l'objet
+d'une tentative d'exportation en contrebande dans tous les cas d'infraction ci-après indiqués :
+
+1° Lorsqu'ils sont trouvés dans la zone définie à l'article 208-1 en violation des dispositions des articles 208 et 210 ci-
+dessus et des décrets, arrêtés et règlements pris pour leur application ;
+
+2° En cas de déficit constaté lors des recensements et contrôles prévus par l'article 211 ci-dessus ;
+
+3° En cas de manoeuvre ou fausse déclaration tendant à obtenir indûment la délivrance de titres de circulation, l'inscription
+d'animaux à un compte ouvert ou leur radiation, ou l'annulation des engagements figurant sur les acquits-à-caution ou
+passavants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 208 (V)
+	  - Code des douanes - art. 210 (V)
+	  - Code des douanes - art. 211 (V)
+	  - Code des douanes 208-1, 208, 210, 211
+
+	**Cité par**:
+
+	  - Code des douanes - art. 436 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 422
+
+Hors le cas de mortalité, le défaut de réimportation des animaux envoyés au pacage à l'étranger dans les conditions prévues à
+l'article 180 ci-dessus est réputé exportation en contrebande si les animaux sont de la catégorie de ceux dont la sortie est
+prohibée ou assujettie à des droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 180 (V)
+
+
+#### Paragraphe 5 : Importations et exportations sans déclaration.
+
+###### Article 423
+
+Constituent des importations ou exportations sans déclaration : 
+
+1° Les importations ou exportations par les bureaux de douane, sans déclaration en détail ou sous couvert d'une déclaration
+en détail non applicable aux marchandises présentées ; 
+
+2° Les soustractions ou substitutions de marchandises sous douane ; 
+
+3° Le défaut de dépôt, dans le délai imparti, des déclarations complémentaires prévues à l'article 100 bis ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 4 JORF 3 janvier 1964
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 100 bis (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 430 (V)
+	  - Code des douanes - art. 436 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 424
+
+Sont réputés faire l'objet d'une importation sans déclaration :
+
+1° les marchandises déclarées pour l'exportation temporaire ou pour l'obtention d'un passavant de circulation dans le rayon,
+en cas de non-représentation ou de différence dans la nature ou l'espèce entre lesdites marchandises et celles présentées au
+départ ;
+
+2° les objets prohibés ou fortement taxés à l'entrée ou passibles de taxes intérieures découverts à bord des navires se
+trouvant dans les limites des ports et rades de commerce indépendamment des objets régulièrement manifestés ou composant la
+cargaison et des provisions de bord dûment représentées avant visite ;
+
+3° les marchandises spécialement désignées par arrêté du ministre de l'économie et des finances découvertes à bord des
+navires de moins de 100 tonneaux de jauge nette ou 500 tonneaux de jauge brute naviguant ou se trouvant à l'ancre dans la
+zone maritime du rayon des douanes ;
+
+4° les marchandises trouvées dans les zones franches en infraction aux articles 287-1, 288-2 à 4 et 289 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
+	  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
+	  - Loi n°71-545 1971-07-08 art. 5 JORF 9 juillet 1971
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 22 (V)
+	  - Code des douanes - art. 394 (V)
+	  - Code des douanes - art. 427 (V)
+	  - Code des douanes - art. 430 (V)
+	  - Code des douanes - art. 434 (M)
+
+	**Cite**:
+
+	  - Code des douanes - art. 289 (V)
+	  - Code des douanes 287-1, 288-2 à 288-4, 289
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 425
+
+Sont réputés importés ou exportés sans déclaration les colis excédant le nombre déclaré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 426
+
+Sont réputés importation ou exportation sans déclaration de marchandises prohibées : 
+
+1° toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
+délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
+déclarations ou par tous autres moyens frauduleux ; 
+
+2° toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
+marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
+qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
+est demandée restent en France ; 
+
+3° les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
+réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
+documents faux, inexacts, incomplets ou non applicables ; 
+
+4° les fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
+exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
+infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
+remboursement, une exonération, un droit réduit ou un avantage financier ; 
+
+5° le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
+de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
+préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
+marchandises sortant du territoire douanier français ou y entrant ; 
+
+6° les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
+compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus ; 
+
+7° tout mouvement de marchandises visées au 4 et au 5 de l'article 38, effectué en infraction aux dispositions portant
+prohibition d'exportation ou d'importation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Code des douanes - art. 436 (V)
+	  - Code des douanes - art. 438 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 38 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 427
+
+Sont réputés importations sans déclaration de marchandises prohibées :
+
+1° le débarquement en fraude des objets visés à l'article 424-2° ci-dessus ;
+
+2° le défaut de dépôt, dans les délais impartis, de la déclaration prévue par l'article 230-2, ci-dessus ;
+
+3° la francisation frauduleuse des navires ainsi que le fait pour les navires de se trouver, sous couvert de documents de
+bord ou de titre de nationalité faux, falsifiés ou inapplicables, dans les eaux territoriales, rades et ports, s'il s'agit de
+navires de tout tonnage, et, dans la zone maritime du rayon des douanes, s'il s'agit de navires de moins de 100 tonneaux de
+jauge nette ou de 500 tonneaux de jauge brute ;
+
+4° l'immatriculation, frauduleuse ou non, sans accomplissement préalable des formalités douanières, d'automobiles, de
+motocyclettes ou d'aéronefs ;
+
+5° le détournement de marchandises prohibées de leur destination privilégiée ;
+
+6° le détournement de produits pétroliers d'une destination privilégiée au point de vue fiscal et notamment l'utilisation de
+carburants agricoles à des usages autres que ceux qui sont fixés par la loi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
+	  - Loi n°68-1247 1968-12-31 art. 15, art. 16, art. 17, art. 18 JORF 3 janvier 1969
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Code des douanes - art. 417 (V)
+	  - Code des douanes - art. 434 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 424 (V)
+	  - Code des douanes 424, 230-2
+
+
+###### Article 428
+
+1. Est réputée importation ou exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit
+législatives, soit réglementaires portant prohibition d'importation sous tous régimes douaniers, d'exportation ou de
+réexportation ou bien subordonnant l'exportation ou la réexportation au paiement de droits, de taxes ou à l'accomplissement
+de formalités particulières lorsque la fraude a été faite ou tentée par les bureaux et qu'elle n'est pas spécialement
+réprimée par une autre disposition du présent code.
+
+2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
+déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportateur est passible des peines de
+l'exportation sans déclaration s'il est établi que cette réexpédition a été effectuée sur ses instructions, à son instigation
+ou avec sa complicité, ou encore s'il est démontré qu'il en a tiré profit ou qu'il avait connaissance de la réexpédition
+projetée au moment de l'exportation.
+
+3. Les dispositions du 1 ci-dessus ne sont pas applicables aux infractions aux règles de qualité ou de conditionnement
+imposées à l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 16 () JORF 8 février 1994
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cité par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 429
+
+1. Lorsqu'il est fait application des dispositions de l'article 119 bis ci-dessus, l'exportation ou la tentative
+d'exportation sans déclaration donne lieu, indépendamment des sanctions prévues par la législation du territoire de départ, à
+l'application des pénalités édictées en cas d'importation sans déclaration dans le territoire de destination, sous réserve
+qu'il s'agisse de marchandises prohibées, assujetties à des droits de consommation intérieure, ou fortement taxées à l'entrée
+dans le territoire de destination. 
+
+2. Le service des douanes du territoire de départ est autorisé à percevoir, au profit du budget du territoire de destination,
+le montant des réparations pécuniaires ainsi encourues. 
+
+3. Les dispositions du présent article ne sont applicables dans les relations directes entre le territoire douanier, d'une
+part, les territoires d'outre-mer de la République française, d'autre part, que sous réserve de l'accord des autorités
+qualifiées de ces derniers territoires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 119 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+### Section 2 : Peines complémentaires
+
+#### Paragraphe 1 : Confiscation.
+
+###### Article 430
+
+Indépendamment des autres sanctions prévues par le présent code, sont confisqués : 
+
+1° les marchandises qui ont été ou devaient être substituées dans les cas prévus aux articles 411-2 a, 417-2 c et 423-2° ; 
+
+2° les marchandises présentées au départ dans le cas prévu par l'article 424-1° ci-dessus ; 
+
+3° les moyens de transport lorsque le conducteur refuse d'obéir aux injonctions visées à l'article 61-1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 411 (V)
+	  - Code des douanes - art. 417 (V)
+	  - Code des douanes - art. 423 (V)
+	  - Code des douanes - art. 424 (V)
+	  - Code des douanes - art. 61 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 2 : Astreinte.
+
+###### Article 431
+
+Indépendamment de l'amende encourue pour refus de communication dans les conditions prévues aux articles 65 et 92 ci-dessus,
+les contrevenants doivent être condamnés à représenter les livres, pièces ou documents non communiqués, sous une astreinte de
+1,50 euro au minimum par chaque jour de retard. 
+
+Cette astreinte commence à courir du jour même de la signature par les parties ou de la notification du procès-verbal dressé
+pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
+moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres de la société ou de l'établissement, que
+l'administration a été mise à même d'obtenir la communication ordonnée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 65 (V)
+	  - Code des douanes - art. 92 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 3 : Peines privatives de droits.
+
+###### Article 432
+
+1. En sus des sanctions prévues par le présent code, ceux qui sont jugés coupables d'avoir participé comme intéressés d'une
+manière quelconque à un délit de contrebande ou à un délit d'importation ou exportation sans déclaration sont déclarés
+incapables de se présenter à la bourse, d'exercer les fonctions d'agent de change ou de courtier, d'être électeurs ou élus
+aux chambres de commerce, tribunaux de commerce et conseils de prud'hommes tant et aussi longtemps qu'ils n'auront pas été
+relevés de cette incapacité.
+
+2. A cet effet, des extraits des jugements ou arrêtés relatifs à ces individus sont envoyés par le procureur de la République
+près le tribunal correctionnel ou par le procureur général près la cour d'appel, aux procureurs généraux ainsi qu'à tous les
+directeurs des douanes pour être affichés et rendus publics dans tous les auditoires, bourses et places de commerce, et pour
+être publiés aux frais du condamné conformément à l'article 243 de la loi n° 85-98 du 25 janvier 1985 relative au
+redressement et à la liquidation judiciaire des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 399 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 17 JORF 3 janvier 1969
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 243 (Ab)
+
+
+###### Article 432 bis
+
+1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
+prévues aux articles 414 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne interposée,
+pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du permis de
+conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la suspension
+ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
+faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues pour
+l'application du 1° de l'article 131-6 du code pénal.
+
+2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
+de 15000 euros ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code pénal - art. 131-6 (M)
+	  - Code des douanes - art. 459 (M)
+	  - Code des douanes 431-1, 459
+
+
+###### Article 433
+
+1. Quiconque sera judiciairement convaincu d'avoir abusé d'un régime suspensif pourra, par décision du directeur général des
+douanes et droits indirects, être exclu du bénéfice du régime de l'admission temporaire et être privé de la faculté du
+transit et de l'entrepôt ainsi que de tout crédit de droits.
+
+2. Celui qui prêterait son nom pour soustraire aux effets de ces dispositions ceux qui en auraient été atteints encourra les
+mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+### Section 3 : Cas particuliers d'application des peines
+
+#### Paragraphe 1 : Confiscation.
+
+###### Article 434
+
+1. Dans les cas d'infraction visés aux articles 424-2° et 427-1°, la confiscation ne peut être prononcée qu'à l'égard des
+objets de fraude. Toutefois, les marchandises masquant la fraude et les moyens de transport ayant servi au débarquement et à
+l'enlèvement des objets frauduleux sont confisqués lorsqu'il est établi que le possesseur de ces moyens de transport est
+complice des fraudeurs. 
+
+2. Dans le cas de nouvel établissement d'un bureau les marchandises non prohibées à l'importation ou à l'exportation ou non
+fortement taxées ne sont sujettes à confiscation, pour n'y avoir pas été conduites ou déclarées, que deux mois après la
+publication ordonnée par l'article 47-2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 424 (V)
+	  - Code des douanes - art. 427 (V)
+	  - Code des douanes - art. 47 (V)
+
+
+###### Article 435
+
+Lorsque les objets susceptibles de confiscation n'ont pu être saisis ou lorsque, ayant été saisis, la douane en fait la
+demande, le tribunal prononce, pour tenir lieu de la confiscation, la condamnation au paiement d'une somme égale à la valeur
+représentée par lesdits objets et calculée d'après le cours du marché intérieur à l'époque où la fraude a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.
+
+###### Article 436
+
+Lorsqu'il n'est pas possible de déterminer le montant des droits et taxes réellement exigibles ou la valeur réelle des
+marchandises litigieuses, en particulier dans les cas d'infraction prévus par les articles 411-2 a, 417-2 c, 421-3°, 423-2°
+et 426-1°, les pénalités sont liquidées sur la base du tarif le plus élevé applicable à la catégorie la plus fortement taxée
+des marchandises de même nature et d'après la valeur moyenne indiquée par la dernière statistique douanière mensuelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 411 (V)
+	  - Code des douanes - art. 417 (V)
+	  - Code des douanes - art. 421 (V)
+	  - Code des douanes - art. 423 (V)
+	  - Code des douanes - art. 426 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 437
+
+Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 150 euros ou 300 euros selon qu'elles
+sont définies en fonction des droits ou de la valeur.
+
+Dans les cas visés à l'article 411-2 a et b relatif aux déficits dans le nombre des colis et sur les quantités de
+marchandises et dans les cas visés à l'article 417-2 c relatif aux soustractions ou substitutions en cours de transport de
+marchandises, le taux minimal des amendes prononcées est fixé à 30 euros par colis, ou, s'il s'agit de marchandises en vrac,
+par tonne ou fraction de tonne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 40
+
+	**Cité par**:
+
+	  - Code des douanes - art. 369 (V)
+
+
+###### Article 438
+
+Lorsque le tribunal a acquis la conviction que des offres, propositions d'achat ou de vente, conventions de toute nature,
+portant sur les objets de fraude ont été faites ou contractées à un prix supérieur au cours du marché intérieur à l'époque où
+la fraude a été commise, il peut se fonder sur ce prix pour le calcul des peines fixées par le présent code en fonction de la
+valeur desdits objets.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 438 bis
+
+Dans les cas d'infraction prévus à l'article 426-4° ci-dessus, les pénalités sont déterminées d'après la valeur attribuée
+pour le calcul du remboursement, de l'exonération du droit réduit ou de l'avantage recherchés ou obtenus, si cette valeur est
+supérieure à la valeur réelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+	**Cite**:
+
+	  - Code des douanes - art. 426 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 3 : Concours d'infractions.
+
+###### Article 439
+
+1. Tout fait tombant sous le coup des dispositions répressives distinctes édictées par le présent code doit être envisagé
+sous la plus haute acception pénale dont il est susceptible.
+
+2. En cas de pluralité de contraventions ou de délits douaniers, les condamnations pécuniaires sont prononcées pour chacune
+des infractions dûment établies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+###### Article 440
+
+Sans préjudice de l'application des pénalités édictées par le présent code, les délits d'injures, voies de fait, rébellion,
+corruption ou prévarication et ceux de contrebande avec attroupement et port d'armes sont poursuivis, jugés et punis
+conformément au droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 44 (V) JORF 31 décembre 2002
+
+
+# Titre XII : Contentieux
+
+## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
+
+### Section 1 : Sûretés garantissant l'exécution
+
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
+
+###### Article 381 bis
+
+Les créances résultant d'opérations faisant partie du système de financement du fonds européen d'orientation et de garantie
+agricole, de prélèvements agricoles et de droits de douane, ainsi que la taxe sur la valeur ajoutée, des droits indirects
+dits "accises" visés à l'article 55 de la loi n° 92-677 du 17 juillet 1992, et de toutes sommes accessoires nées dans un Etat
+membre de la Communauté européenne, sont recouvrées dans les mêmes conditions que les créances similaires nées sur le
+territoire national. Le recouvrement de ces créances ne bénéficie d'aucun privilège.
+
+Sur demande de l'autorité compétente d'un Etat membre de la Communauté européenne, l'administration des douanes et droits
+indirects peut communiquer les renseignements et les documents utiles au recouvrement des créances nées dans cet Etat membre.
+Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 55
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
+
+	**Cité par**:
+
+	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
+	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
 
 
 # Titre XIII : La commission de conciliation et d'expertise douanière.
