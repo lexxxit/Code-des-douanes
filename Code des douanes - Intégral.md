@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1971-07-09
+Version Consolidée au 1972-05-06
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4109,6 +4109,31 @@ Cette opération administrative est constatée par l'acte de francisation.
 	  - Code des transports - art. R5791-4 (V)
 
 
+###### Article 218
+
+1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation soumis à un visa annuel.
+
+2. Toutefois, les navires et bateaux de plaisance ou de sport d'un tonnage brut égal ou inférieur à deux tonneaux sont
+dispensés de l'obligation de la formalité de francisation s'ils ne se rendent pas dans les eaux territoriales étrangères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 I JORF 6 mai 1972
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 2 (Ab) JORF 29 décembre 1967
+	  - Loi n°70-1199 1970-12-21 art. 21 Finances pour 1971 JORF 22 décembre 1970
+
+	**Cité par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
 
 ###### Article 220
@@ -4184,6 +4209,33 @@ les poursuites sont effectuées et les instances sont instruites et jugées comm
 	  - Loi n°67-1175 du 28 décembre 1967 - art. 20 (V)
 
 
+###### Article 226
+
+Les dispositions relatives au droit de francisation et de navigation sont applicables dans les ports de la Corse, dans les
+ports des départements d'outre-mer, dans les ports du Rhin et de la Moselle, dans les ports fluviaux ouverts au trafic par
+bâtiments de mer, ainsi qu'aux bateaux de plaisance ou de sport utilisés en navigation intérieure en France continentale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 23 (Ab) JORF 29 décembre 1967
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 24 (VT) JORF 29 décembre 1967
+	  - Loi n°70-1199 1970-12-21 art. 21 III Finances pour 1971 JORF 22 décembre 1970 en vigueur le 1er janvier 1971
+	  - Décret n°72-357 1972-04-28 art. 1 IV JORF 6 mai 1972
+
+	**Cité par**:
+
+	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
+	  - Loi - art. 124 (M)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 #### Paragraphe 5 : Acte de francisation.
 
 ###### Article 227
@@ -4242,6 +4294,51 @@ Les noms sous lesquels les navires sont francisés ne peuvent être changés san
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+
+#### Paragraphe 6 : Réparations de navires français hors du territoire douanier.
+
+###### Article 230
+
+Sous réserve des dispositions du 2 ci-dessous, les articles incorporés à des navires français hors du territoire douanier
+sont traités comme s'ils étaient importés directement dans la partie du territoire douanier où se trouve le port d'attache,
+pour y recevoir la même affectation.
+
+Toutefois, il y a exonération, sous réserve des dispositions relatives à la taxe sur la valeur ajoutée, de tous droits et
+taxes lorsque le montant des réparations n'excède pas 40 F par tonneau de jauge brute ou, quel que soit le montant de celles-
+ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du territoire douanier. Dans ce dernier cas, il doit
+être justifié de la nécessité invoquée au moyen d'une attestation du consul français du port de radoub, délivrée, le cas
+échéant, sur rapport d'expert provoqué par ledit consul.
+
+Lorsqu'il s'agit de transformations, d'aménagements ou d'incorporations n'ayant pas le caractère de réparations, les
+dispositions de l'alinéa précédent ne s'appliquent pas.
+
+2. En vue de la liquidation des droits et taxes éventuellement exigibles, une déclaration du détail et du coût des
+réparations effectuées hors de la partie du territoire douanier dans laquelle est situé le port d'attache doit être déposée,
+par le propriétaire du navire, au bureau de douane dudit port d'attache dans un délai de 15 ou 30 jours à compter de la
+sortie du port où sont effectuées les réparations, selon que ce dernier port est ou non situé dans les limites du cabotage
+international. Toutefois si, avant l'expiration de ce délai, le navire vient à toucher un port de la partie du territoire
+douanier dans laquelle il est attaché, la déclaration doit être déposée au bureau de douane de ce port dans les trois jours
+de l'arrivée.
+
+3. Le rapport prévu au 1 du présent article doit, le cas échéant, être annexé à la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 V JORF 6 mai 1972
+	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 27 () JORF 31 décembre 1958
+	  - Loi n°66-10 1966-01-06 art. 8 JORF 7 janvier 1966
+	  - Loi n°71-1025 1971-12-24 art. 7 JORF 25 décembre 1971
+
+	**Cité par**:
+
+	  - Code des douanes - art. 427 (V)
 
 
 #### Paragraphe 7 : Ventes de navires francisés.
@@ -5234,6 +5331,257 @@ opérations pour le compte des maisons établies en France.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.
+
+###### Article 284 bis
+
+Les véhicules circulant sur la voie publique et désignés à l'article 284 ter, à l'exclusion de ceux qui sont spécialement
+conçus pour le transport des personnes, sont soumis à une taxe spéciale.
+
+Cette taxe est assise sur le poids total autorisé en charge de ces véhicules. Elle est exigible dès leur mise en circulation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 284 sexies bis (V)
+	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 (V)
+	  - Décret n°70-1285 du 23 décembre 1970 - art. 5 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 5 (Ab)
+	  - Décret n°99-723 du 3 août 1999 - art. 7 (M)
+	  - Arrêté du 5 octobre 1999 - art. 2 (Ab)
+	  - Arrêté du 14 avril 2015 - art. 3 (VT)
+	  - Arrêté du 25 avril 2016 - art. 3 (V)
+	  - Décret n°2016-958 du 12 juillet 2016 - art. 1
+	  - Décret n°2016-1576 du 23 novembre 2016 (V)
+	  - Décret n°2016-1988 du 30 décembre 2016 - art. 1
+	  - Code des douanes - art. 284 ter (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
+
+	**Anciens textes**:
+
+	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
+	  - Loi n°70-601 1970-07-09 art. 6
+	  - Loi n°70-1199 1970-12-21 art. 25
+
+
+###### Article 284 quinquies
+
+Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à première réquisition, aux agents des
+administrations fiscales et aux agents habilités à constater les infractions en matière de police de la circulation et du
+roulage et en matière de coordination des transports, tous documents susceptibles de justifier la régularité de la
+circulation desdits véhicules. Ils doivent, en outre, à la demande de ces mêmes agents, conduire ces véhicules à la bascule
+publique la plus proche en vue de leur pesée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
+
+	**Anciens textes**:
+
+	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
+	  - Loi n°70-601 1970-07-09 art. 6
+	  - Loi n°70-1199 1970-12-21 art. 25
+
+
+###### Article 284 sexies
+
+Les conditions d'application du présent chapitre sont fixées par décrets en Conseil d'Etat.
+
+Ces décrets fixent notamment les modalités de déclaration des véhicules ainsi que les règles de liquidation et de contrôle de
+la taxe ; ils déterminent également les conditions dans lesquelles les dispositions du présent chapitre sont adaptées en vue
+de l'imposition :
+
+Des véhicules de transport exceptionnel visés à l'article R. 48 du code de la route ;
+
+Des véhicules immatriculés en France qui effectuent des parcours à l'étranger ;
+
+Des véhicules qui sont immatriculés à l'étranger et qui effectuent des parcours en France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la route R48
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
+
+	**Anciens textes**:
+
+	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
+	  - Loi n°70-601 1970-07-09 art. 6
+	  - Loi n°70-1199 1970-12-21 art. 25
+
+
+###### Article 284 ter
+
+I. - 1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par trimestre ou par fraction de trimestre
+civil :
+
+catégorie de véhicules, poids total autorisé en charge ou poids total roulant, tarif par trimestre.
+
+Véhicule automobile à deux essieux :
+
+- poids 16 à 16,500 tonnes, tarif 100 F.
+
+- poids 16,501 à 17,500 tonnes, tarif 350 F.
+
+- poids 17,501 à 18,500 tonnes, tarif 750 F.
+
+- poids 18,501 à 19 tonnes, tarif 1 250 F.
+
+Véhicule automobile à trois essieux :
+
+- poids 25,500 à 26 tonnes, tarif 225 F.
+
+Ensemble composé d'une semi-remorque à un essieu attelée à un tracteur à deux essieux :
+
+- poids 25 à 25,500 tonnes, tarif 50 F.
+
+- poids 25,501 à 26,500 tonnes, tarif 225 F.
+
+- poids 26,501 à 27,500 tonnes, tarif 650 F.
+
+- poids 27,501 à 28,500 tonnes, tarif 1 100 F.
+
+- poids 28,501 à 29,500 tonnes, tarif 1 650 F.
+
+- poids 29,501 à 30,500 tonnes, tarif 2 250 F.
+
+- poids 30,501 à 31,500 tonnes, tarif 2 400 F.
+
+- poids 31,501 à 32 tonnes, tarif 3 600 F.
+
+Ensemble composé d'une semi-remorque à un essieu attelée à un tracteur à trois essieux :
+
+- poids 31,501 à 32,500 tonnes, tarif 225 F.
+
+- poids 32,501 à 33,500 tonnes, tarif 550 F.
+
+- poids 33,501 à 34,500 tonnes, tarif 950 F.
+
+- poids 34,501 à 35 tonnes, tarif 1 400 F.
+
+Ensemble composé d'une semi-remorque à deux essieux attelée à un tracteur à deux essieux :
+
+- poids 35,501 à 36,500 tonnes, tarif 400 F.
+
+- poids 36,501 à 37,500 tonnes, tarif 850 F.
+
+- poids 37,501 à 38 tonnes, tarif 1 300 F.
+
+Remorque à deux essieux :
+
+- poids 17,500 à 18,500 tonnes, tarif 550 F.
+
+- poids 18,501 à 19 tonnes, tarif 800 F.
+
+La taxe peut être payée sur la base d'un tarif journalier égal au vingt-cinquième du tarif trimestriel.
+
+Pour les véhicules immatriculés à l'étranger et dont le poids total autorisé en charge excède la limite maximale de la
+catégorie d'imposition dans laquelle ils sont rangés, le tarif applicable est le tarif maximal prévu pour cette catégorie.
+
+2. Les tarifs applicables aux véhicules dont le poids total en charge excède les maxima autorisés par le Code de la route et
+qui bénéficient des autorisations prévues au même code sont les suivants :
+
+Véhicules automobiles à deux essieux : 1 250.
+
+Véhicules automobiles à trois essieux : 250.
+
+Ensembles articulés et ensembles comportant une ou plusieurs remorques :
+
+Par véhicule tracteur à deux essieux : 750 ;
+
+Par véhicule tracteur à trois essieux : 1 000.
+
+3. Les tarifs de la taxe sont majorés de 15 % lorsque cette dernière est acquittée pour un véhicule d'un poids total autorisé
+en charge déterminé, entrant dans l'une des catégories visées au I et dont le numéro d'immatriculation n'est pas mentionné
+sur la déclaration fiscale.
+
+4. Les tarifs de la taxe, majorés, le cas échéant, dans les conditions fixées au 3, sont réduits de :
+
+10 % pour les véhicules servant exclusivement à des transports pour le compte propre et exploités sous le régime de la
+location ;
+
+20 % pour les autres véhicules de transport pour compte propre.
+
+5. Les tarifs de la taxe résultant, le cas échéant, des dispositions des 3 et 4 sont réduits de :
+
+75 % pour les véhicules ne circulant pas en dehors des limites de la zone de camionnage à laquelle ils sont rattachés pour
+l'application du présent article, ainsi que pour les véhicules utilisant les systèmes mixtes rail-route ;
+
+50 % pour les véhicules en circulation dans les limites de la zone courte à laquelle ils sont rattachés pour l'application du
+présent article et circulant en dehors des limites de leur zone de camionnage ;
+
+50 % pour les véhicules articulés et ensembles comportant une ou plusieurs remorques, visés au 2, lorsque l'un au moins des
+essieux de l'élément tracté est constitué par des demi-essieux en ligne.
+
+II. - Les véhicules dont le poids total en charge effectif excède de plus de 5 % leur poids total en charge autorisé sont
+assujettis au paiement de la taxe qui correspond à ce poids total en charge effectif.
+
+Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge maximal
+de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils ont
+acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
+autorisé défini ci-dessus.
+
+III. - 1. Les véhicules, ensembles de véhicules et remorques entrant dans le champ d'application de la présente taxe et
+circulant en France sur des autoroutes à péage peuvent bénéficier d'une réduction du montant de la taxe acquittée l'année
+précédente sur la base du tarif trimestriel.
+
+2. Tout parcours sur autoroute à péage ouvre droit à une réduction de 5 % du montant de la taxe pour chaque tranche entière
+de 3 500 km parcourus par l'ensemble des véhicules d'une même catégorie appartenant au même redevable.
+
+3. Pour l'application de cette disposition, la réduction est calculée forfaitairement sur le total des taxes acquittées par
+les véhicules de la catégorie considérée, qu'ils aient ou non circulé sur autoroute à péage, le résultat obtenu étant divisé
+par le nombre de ces véhicules.
+
+Toutefois, lorsque les véhicules ne circulent pas tous dans les limites de la zone longue, le chiffre qui doit figurer au
+diviseur est obtenu en ajoutant au nombre de véhicules circulant en zone longue le nombre de véhicules circulant en zone
+courte affecté du coefficient 0,5 et le nombre de véhicules circulant en zone de camionnage affecté du coefficient 0,25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
+
+	**Anciens textes**:
+
+	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
+	  - Loi n°70-601 1970-07-09 art. 6
+	  - Loi n°70-1199 1970-12-21 art. 25
+
+	**Cité par**:
+
+	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 (V)
+	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 bis (V)
+	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
+	  - Code des douanes - art. 284 bis (V)
 
 
 ## Chapitre VI : Droits et taxes divers.
@@ -7016,5 +7364,167 @@ l'Etat.
 	**Abrogé par**:
 
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+
+# Titre XIV : Contentieux des relations financières avec l'étranger
+
+## Chapitre Ier : Dispositions communes.
+
+###### Article 451
+
+Les dispositions du titre XII du présent code sont applicables à la législation et à la réglementation des relations
+financières avec l'étranger sous réserve des articles 453 à 459 ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes 453 à 459
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L165-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+###### Article 452
+
+Les dispositions du présent titre XIV sont applicables dans les territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+## Chapitre II : Constatation des infractions.
+
+###### Article 453
+
+Les agents ci-après désignés sont habilités à constater les infractions à la législation et à la réglementation des relations
+financières avec l'étranger :
+
+1° Les agents des douanes ;
+
+2° Les autres agents de l'administration des finances ayant au moins le grade d'inspecteur ;
+
+3° Les officiers de police judiciaire.
+
+Les procès-verbaux de constatation dressés par les officiers de police judiciaire sont transmis au ministre de l'économie et
+de finances qui saisit le parquet s'il le juge à propos.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 451 (V)
+	  - Code monétaire et financier - art. L574-3 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+###### Article 455
+
+Les divers droits de communication prévus au bénéfice des administrations fiscales peuvent être exercés pour le contrôle de
+l'application de la législation et de la réglementation des relations financières avec l'étranger.
+
+Les mêmes droits appartiennent aux fonctionnaires ayant au moins le grade d'inspecteur, chargés spécialement par le ministre
+de l'économie et des finances de s'assurer, par des vérifications auprès des assujettis, de la bonne application de la
+législation et de la réglementation des relations financières avec l'étranger.
+
+Ces agents peuvent demander à tous les services publics les renseignements qui leur sont nécessaires pour l'accomplissement
+de leur mission, sans que le secret professionnel puisse leur être opposé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Code des douanes - art. 67 E (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+###### Article 456
+
+Sont tenues au secret professionnel et passibles des peines prévues par l'article 378 du code pénal, toutes personnes
+appelées à l'occasion de leurs fonctions ou de leurs attributions à intervenir dans l'application de la législation et de la
+réglementation des relations financières avec l'étranger.
+
+Toutefois, lorsqu'une poursuite régulière a été engagée sur la plainte du ministre de l'économie et de finances, ces mêmes
+personnes ne peuvent opposer le secret professionnel au juge d'instruction ou au tribunal qui les interroge sur les faits
+faisant l'objet de la plainte ou sur des faits connexes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+###### Article 457
+
+L'administration des postes est autorisée à soumettre au contrôle douanier, en vue de l'application de la législation et de
+la réglementation des relations financières avec l'étranger, les envois postaux tant à l'exportation qu'à l'importation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+## Chapitre III : Poursuite des infractions.
+
+###### Article 458
+
+La poursuite des infractions à la législation et à la réglementation des relations financières avec l'étranger ne peut être
+exercée que sur la plainte du ministre de l'économie et des finances ou de l'un de ses représentants habilités à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
