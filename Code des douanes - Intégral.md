@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1973-12-23
+Version Consolidée au 1975-09-20
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1116,6 +1116,45 @@ des douanes.
 	  - Loi n°63-1351 1963-12-31 art. 2 JORF 3 janvier 1964
 
 
+###### Article 44
+
+1. Le rayon des douanes comprend une zone maritime et une zone terrestre.
+
+2. La zone maritime est comprise entre le littoral et une limite extérieure située en mer à 12 milles marins mesurés à partir
+des lignes de base de la mer territoriale.
+
+Les lignes de base sont la laisse de basse mer ainsi que les lignes de base droites et les lignes de fermeture des baies qui
+sont déterminées par décret.
+
+3. La zone terrestre s'étend :
+
+a) sur les frontières maritimes, entre le littoral et une ligne tracée à 20 kilomètres en deçà du rivage de la mer et des
+rives des fleuves, rivières et canaux affluant à la mer jusqu'au dernier bureau de douane situé en amont, ainsi que dans un
+rayon de 20 kilomètres autour dudit bureau ;
+
+b) sur les frontières de terre, entre la limite du territoire douanier et une ligne tracée à 20 kilomètres en deçà.
+
+4. Pour faciliter la répression de la fraude, la profondeur de la zone terrestre peut être portée, sur une mesure variable,
+jusqu'à 60 kilomètres par des arrêtés du ministre de l'économie et des finances.
+
+5. Les distances sont calculées à vol d'oiseau sans égard aux sinuosités des routes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°71-1060 du 24 décembre 1971 - art. 1 (Ab) JORF 30 décembre 1971
+	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+
+	**Cité par**:
+
+	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+
+
 ###### Article 45
 
 Le tracé de la limite intérieure de la zone terrestre du rayon est fixé par des arrêtés du ministre de l'économie et des
@@ -1620,6 +1659,55 @@ du lieu ou d'un officier de police judiciaire.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+### Section 3 : Droit de communication
+
+#### Paragraphe 1 : Droit de communication de l'administration des finances.
+
+###### Article 64 A
+
+1. En aucun cas, les administrations de l'Etat, les départements et les communes, ainsi que les entreprises concédées par
+l'Etat, les départements et les communes, de même que tous les établissements ou organismes quelconques soumis au contrôle de
+l'autorité administrative, ne peuvent opposer le secret professionnel aux agents de l'administration des finances ayant au
+moins le grade d'inspecteur qui, pour établir les impôts institués par les lois existantes, leur demandent communication des
+documents de service qu'ils détiennent.
+
+Les agents ayant qualité pour exercer le droit de communication susvisé peuvent se faire assister par des fonctionnaires d'un
+grade inférieur, astreints comme eux et sous les mêmes sanctions au secret professionnel, en vue de leur confier des travaux
+de pointage, relevés et copies de documents.
+
+2. Les renseignements individuels d'ordre économique ou financier recueillis au cours d'enquêtes statistiques faites dans le
+cadre de la loi n° 51-711 du 7 juin 1951 ne peuvent en aucun cas être utilisés à des fins de contrôle fiscal ou de répression
+économique. Les administrations dépositaires de renseignements de cette nature ne sont pas tenues par l'obligation découlant
+du 1 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°51-711 1951-06-07
+
+	**Cité par**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6 (V)
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Code des douanes - art. 65 bis (V)
+	  - Code des douanes - art. 67 E (V)
+
+	**Créé par**:
+
+	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°1920-07-31 art. 31
+	  - Loi n°1933-02-28 art. 38
+	  - Loi n°45-1095 1945-12-31 art. 30
 
 
 ### Section 5 : Contrôles douaniers des envois par la poste.
@@ -3494,6 +3582,41 @@ pris au départ ; les vivres ou provisions restants sont déchargés, après dé
 	  - Décret n°48-1985 1948-12-08
 
 
+### Section 3 : Dispositions communes aux navires et aux aéronefs.
+
+###### Article 195 bis
+
+Aucun droit de port ou redevance sur les produits pétroliers visés au tableau B de l'article 265 ci-après, livrés à
+l'avitaillement des navires ou des aéronefs, ne peut être institué et perçu au profit soit de collectivités ou organismes
+quelconques (départements, communes, chambres de commerce, ports autonomes, aéroports, etc.), soit de concessionnaires
+d'installations de distribution, sans que la création de ce droit ou de cette redevance ait été autorisée par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 21 (V) JORF 29 décembre 1967
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 6 (Ab) JORF 29 décembre 1967
+
+	**Modifié par**:
+
+	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+
+	**Cité par**:
+
+	  - Code de l'aviation civile - art. L224-1 (VT)
+	  - Code de l'aviation civile - art. R224-2 (M)
+	  - Code des transports - art. L6325-4 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ## Chapitre III : Propriétés limitrophes.
 
 ###### Article 196
@@ -4135,6 +4258,99 @@ dispensés de l'obligation de la formalité de francisation s'ils ne se rendent 
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
+
+###### Article 219
+
+I. - Pour être francisé, le navire doit répondre aux conditions suivantes :
+
+1. Avoir été construit dans le territoire de la République française dans lequel il doit être francisé ou y avoir acquitté
+les droits et taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué
+pour infractions aux lois françaises.
+
+2. A. Soit appartenir pour moitié au moins à des français qui, s'ils résident sur le territoire de la République française
+moins de six mois par an, doivent y faire élection de domicile pour toutes les affaires administratives ou judiciaires se
+rapportant à la propriété et à l'état du navire.
+
+B. Soit appartenir pour le tout à des sociétés ayant leur siège social sur le territoire de la République française.
+
+Toutefois, le siège social peut être situé dans un Etat étranger lorsque, en application d'une convention conclue entre la
+France et cet Etat, une société constituée conformément à la loi française peut régulièrement exercer son activité sur le
+territoire de l'Etat étranger et y avoir son siège social et qu'elle fait élection de domicile en France pour toutes les
+affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire.
+
+En outre, quel que soit le lieu du siège social, doivent être français :
+
+a) Dans les sociétés anonymes : le président du conseil d'administration, les directeurs généraux et la majorité des membres
+du conseil d'administration, ou bien les membres du directoire et la majorité des membres du conseil de surveillance, selon
+le cas ;
+
+b) Dans les sociétés en commandite par actions : les gérants et la majorité des membres du conseil de surveillance ;
+
+c) Dans les sociétés en commandite simple, les sociétés à responsabilité limité, les sociétés en nom collectif et les
+sociétés civiles : les gérants et les associés détenant au moins la moitié du capital social.
+
+C. Soit appartenir pour le tout, sans condition de proportion dans la répartition de la propriété, à des français remplissant
+les conditions prévues au paragraphe A ci-dessus et à des sociétés remplissant les conditions prévues au paragraphe B.
+
+D. Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
+crédit-bail.
+
+a) Ou pour moitié au moins, et quels que soient les titulaires de la propriété du reliquat, à des français remplissant les
+conditions prévues au paragraphe A ci-dessus ;
+
+b) Ou pour le tout à des sociétés remplissant les conditions prévues au paragraphe B ci-dessus ;
+
+c) Ou pour le tout, sans condition de proportion dans la répartition de la propriété, à des français remplissant les
+conditions prévues au paragraphe A et à des sociétés remplissant les conditions prévues au paragraphe B.
+
+3. Indépendamment des cas prévus au paragraphe 2 ci-dessus, la francisation d'un navire peut être accordé par agrément
+spécial du ministre chargé de la marine marchande et du ministre de l'économie et des finances dans les deux cas ci-après :
+
+1° Lorsque, dans l'une des hypothèses prévues aux paragraphes 2-B, 2-C, 2-D b ou c, les droits des personnes physiques ou
+morales remplissant les conditions de nationalité, de résidence ou de siège social définies par lesdites dispositions ne
+s'étendent pas à la totalité mais à la moitié au moins du navire et, en outre, à la condition que la gestion du navire soit
+assuré par ces personnes elles-mêmes ou, à défaut, confié à d'autres personnes remplissant les conditions prévues au
+paragraphe 2 A ou 2 B ci-dessus ;
+
+2° Lorsque le navire a été affrété, coque nue, par un armateur français qui en assure le contrôle, l'armement, l'exploitation
+et la gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse, l'abandon du pavillon étranger.
+
+II. - Les navires étrangers peuvent être également francisés lorsque, à la suite d'un naufrage sur les côtes du territoire où
+la francisation doit avoir lieu, ils sont devenus entièrement propriété française et sont montés par des français, après
+réparations s'élevant au quadruple au moins de leur prix d'achat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 3 (V)
+	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
+	  - Décret n°97-1198 du 19 décembre 1997 - art. Annexe (V)
+	  - Décret n°2014-1272 du 23 octobre 2014 - art. (VD)
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
+	  - Loi n°2016-816 du 20 juin 2016 - art. 3
+	  - Décret n°2017-974 du 10 mai 2017 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 1 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
+	  - Décret n°2017-974 du 10 mai 2017 - art. 5 (V)
+	  - Code des douanes - art. 221 (V)
+	  - Code des douanes - art. 241 (V)
+	  - Code des douanes - art. 251 (V)
+	  - Code des transports - art. R5232-7 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°67-5 du 3 janvier 1967 - art. 3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°75-300 1975-04-29 art. 1, art. 2 JORF 30 avril 1975
+	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+
 
 ###### Article 220
 
