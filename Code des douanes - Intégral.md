@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1950-03-04
+Version Consolidée au 1951-11-04
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4463,6 +4463,25 @@ code des douanes.
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
+
+
+###### Article 301 bis
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°51-1242 1951-10-31 art. 1 JORF 4 novembre 1951
 
 	**Abrogé par**:
 
