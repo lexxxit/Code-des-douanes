@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-01-05
+Version Consolidée au 1994-02-08
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1043,6 +1043,15 @@ titre non applicable.
 cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière générale, d'une transaction quelconque de la part
 des titulaires auxquels ils ont été nominativement accordés.
 
+4. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont applicables aux
+marchandises relevant des articles 2, 3, 4, 5, 16, 17 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits
+soumis à certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de
+douane, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins labiles définis par le code
+de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
+précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de la santé publique et aux déchets relevant de
+la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux et des textes
+pris pour son application.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -1129,6 +1138,18 @@ des titulaires auxquels ils ont été nominativement accordés.
 	  - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 7 (V)
 	  - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 8 (V)
 	  - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 9 (V)
+
+	**Cite**:
+
+	  - Loi n°75-633 1975-07-15
+	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 18, art. 19
+	  - Code des douanes - art. 2 bis (V)
+	  - Code de la santé publique - art. L631 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 20 () JORF 5 janvier 1993
+	  - Loi n°94-102 du 5 février 1994 - art. 16 () JORF 8 février 1994
 
 	**Cité par**:
 
