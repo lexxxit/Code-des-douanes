@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-02-08
+Version Consolidée au 1994-02-11
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2033,6 +2033,68 @@ Les dispositions du présent code relatives aux sommes éludées ou compromises 
 	**Cité par**:
 
 	  - Code des douanes - art. 65 (V)
+
+
+###### Article 65 A bis
+
+1° Au titre des dispositions dérogatoires de l'article 2 bis, l'administration des douanes est habilitée à contrôler la
+quantité, la qualité, les marquages, les emballages, la destination ou l'utilisation des marchandises ayant le statut
+national ou communautaire, pour lesquelles un avantage quelconque alloué par le fonds européen d'orientation et de garantie
+agricole, section garantie, est sollicité.
+
+En outre, elle est habilitée à délivrer les agréments conformément à la réglementation communautaire en vigueur, lorsque
+ceux-ci sont nécessaires pour l'attribution des avantages sollicités, quelle qu'en soit la nature, auprès du fonds européen
+d'orientation et de garantie agricole, section garantie.
+
+2° Les marchandises ayant le statut national ou communautaire, exportées vers un autre Etat membre de la Communauté
+européenne, importées d'un autre Etat membre de la Communauté européenne ou faisant l'objet d'une opération sur le territoire
+douanier et pour lesquelles l'utilisation ou la destination sont contrôlées conformément à la réglementation communautaire,
+sont présentées au service des douanes. Les agents des douanes sont chargés de viser les documents de contrôle relatifs à ces
+marchandises.
+
+Les catégories de marchandises visées à l'alinéa précédent ainsi que les modalités de la présentation en douane sont fixées
+par un arrêté du ministre chargé des douanes.
+
+3° Les contrôles visés au 1, lorsqu'ils portent sur des marchandises faisant l'objet d'opérations à l'intérieur du territoire
+douanier de la Communauté européenne, et les contrôles visés au 2 sont effectués conformément aux dispositions prévues par
+les articles 1er, 2, 3, 322 bis, 468 et 469 ainsi que par le présent titre.
+
+4° Dans tous les cas, les agents des douanes ont accès aux locaux et aux terrains à usage professionnel, à l'exclusion des
+domiciles ou de la partie des locaux qui sert de domicile, entre 8 heures et 20 heures, ou, en dehors de ces heures,
+lorsqu'une activité est en cours.
+
+5° Dans le cadre de leurs contrôles, les agents des douanes peuvent procéder à des prélèvements d'échantillons aux fins
+d'analyse ou d'expertise.
+
+6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412, 414 à 430, et au titre XV sont applicables lorsque
+les agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
+
+7° Les dispositions du titre XII à l'exclusion des articles 410 à 430, les sanctions figurant au premier alinéa de l'article
+414 et les dispositions du titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet d'obtenir, en tout
+ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole, section garantie,
+lorsqu'il s'agit de marchandises faisant l'objet d'opérations à l'intérieur du territoire douanier de la Communauté
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 12 () JORF 11 février 1994
+
+	**Cite**:
+
+	  - Code des douanes - art. 1 (V)
+	  - Code des douanes - art. 2 (V)
+	  - Code des douanes - art. 2 bis (V)
+	  - Code des douanes - art. 3 (V)
+	  - Code des douanes - art. 322 bis (M)
+	  - Code des douanes - art. 468 (M)
+	  - Code des douanes - art. 469 (V)
+	  - Code des douanes 1, 2, 2 bis, 3, 322 bis, 410 à 412, 414 à 430, 468, 469
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 65 B
@@ -6304,6 +6366,45 @@ déterminer les conditions auxquelles cette dispense est subordonnée.
 	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
+###### Article 198
+
+1. Les marchandises soumises à la formalité du passavant provenant de l'intérieur du territoire douanier qui pénètrent dans
+la zone terrestre du rayon des douanes doivent être conduites au bureau de douane le plus proche pour y être déclarées dans
+la même forme que pour l'acquittement des droits.
+
+2. Les transporteurs desdites marchandises doivent présenter aux agents des douanes à la première réquisition :
+
+a) les titres de transport dont ils sont porteurs ;
+
+b) le cas échéant, les titres de régie et autres expéditions accompagnant les marchandises ;
+
+c) des quittances attestant que ces marchandises ont été régulièrement importées ou des factures d'achat, bordereaux de
+fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
+du territoire douanier de la communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 13 () JORF 11 février 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 199 (Ab)
+	  - Code des douanes - art. 200 (Ab)
+	  - Code des douanes - art. 414-1 (V)
+	  - Code des douanes - art. 417 (V)
+
+
 ###### Article 199
 
 1. Les marchandises soumises à la formalité du passavant que l'on désire enlever dans la zone terrestre du rayon des douanes
@@ -6464,6 +6565,41 @@ b) hors des bureaux, à toute réquisition des agents des douanes.
 	**Abrogé par**:
 
 	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+
+### Section 2 : Détention des marchandises.
+
+###### Article 206
+
+Sont interdites dans le rayon des douanes, à l'exception des agglomérations dont la population s'élève au moins à deux mille
+habitants :
+
+a) la détention des marchandises prohibées ou fortement taxées à l'entrée pour lesquelles on ne peut produire à la première
+réquisition des agents des douanes, soit des quittances attestant que ces marchandises ont été régulièrement importées, soit
+des factures d'achat, bordereaux de fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés
+régulièrement établies à l'intérieur du territoire douanier de la communauté européenne ;
+
+b) la détention de stocks de marchandises autres que du cru du pays, prohibées ou taxées à la sortie, non justifiés par les
+besoins normaux de l'exploitation ou dont l'importance excède manifestement les besoins de l'approvisionnement familial
+apprécié selon les usages locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 13 () JORF 11 février 1994
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+	**Cité par**:
+
+	  - Code des douanes - art. 418 (V)
 
 
 ### Section 3 : Compte ouvert des marchandises.
@@ -6719,70 +6855,6 @@ territoire douanier en conformité avec les dispositions portant prohibition d'e
 	**Cite**:
 
 	  - Code des douanes - art. 38 (M)
-
-
-# Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier
-
-## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes
-
-### Section 1 : Circulation des marchandises.
-
-###### Article 198
-
-1. Les marchandises soumises à la formalité du passavant provenant de l'intérieur du territoire douanier qui pénètrent dans
-la zone terrestre du rayon des douanes doivent être conduites au bureau de douane le plus proche pour y être déclarées dans
-la même forme que pour l'acquittement des droits.
-
-2. Les transporteurs desdites marchandises doivent présenter aux agents des douanes à la première réquisition :
-
-a) Les titres de transport dont ils sont porteurs ;
-
-b) Le cas échéant, les titres de régie et autres expéditions accompagnant les marchandises ;
-
-c) Des quittances attestant que ces marchandises ont été régulièrement importées ou des factures d'achat, bordereaux de
-fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
-du territoire douanier.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Code des douanes - art. 199 (Ab)
-	  - Code des douanes - art. 200 (Ab)
-	  - Code des douanes - art. 414-1 (V)
-	  - Code des douanes - art. 417 (V)
-
-
-### Section 2 : Détention des marchandises.
-
-###### Article 206
-
-Sont interdites dans le rayon des douanes, à l'exception des agglomérations dont la population s'élève au moins à deux mille
-habitants :
-
-a) La détention des marchandises prohibées ou fortement taxées à l'entrée pour lesquelles on ne peut produire à la première
-réquisition des agents des douanes, soit des quittances attestant que ces marchandises ont été régulièrement importées, soit
-des factures d'achat, bordereaux de fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés
-régulièrement établies à l'intérieur du territoire douanier ;
-
-b) La détention de stocks de marchandises autres que du cru du pays, prohibées ou taxées à la sortie, non justifiés par les
-besoins normaux de l'exploitation ou dont l'importance excède manifestement les besoins de l'approvisionnement familial
-appréciés selon les usages locaux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 418 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 # Titre IX : Navigation
@@ -10179,6 +10251,59 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 
 # Titre XII : Contentieux
 
+## Chapitre Ier : Constatation des infractions douanières
+
+### Section 01 : Droit de consignation.
+
+###### Article 322 bis
+
+Les agents des douanes peuvent consigner les marchandises visées au 4 de l'article 38 ci-dessus ou susceptibles d'appartenir
+à l'une des catégories de marchandises énumérées dans cette même disposition, et éventuellement les véhicules qui les
+transportent, dans les locaux professionnels ou dans tout autre lieu autorisé par le service, aux frais du propriétaire, du
+destinataire, de l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération d'importation ou
+d'exportation, pendant une durée de dix jours, renouvelable sur autorisation du procureur de la République dans la limite de
+vingt et un jours au total, aux fins de vérification pour laquelle ils peuvent procéder ou faire procéder au prélèvement
+d'échantillons pour analyse. Ils peuvent, le cas échéant, contraindre le transporteur à se rendre sur un lieu approprié.
+
+Les marchandises et les véhicules consignés sont confiés à la garde du détenteur ou de toute autre personne sur les lieux de
+la consignation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°55-989 1955-07-27 art. 1 JORF 28 juillet 1955
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 25 () JORF 5 janvier 1993
+	  - Loi n°94-114 du 10 février 1994 - art. 14 () JORF 11 février 1994
+
+	**Cité par**:
+
+	  - Loi n°95-877 du 3 août 1995 - art. 22 (Ab)
+	  - Code des douanes - art. 468 (VD)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code du patrimoine. - art. L112-22 (V)
+	  - Code rural - art. L251-18 (M)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural - art. L951-18 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural ancien - art. 363-1 (Ab)
+	  - Code rural ancien - art. 364 (M)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 38 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°55-594 1955-05-20 art. 29 JORF 21 mars 1955
+
+
 ## Chapitre II : Poursuites
 
 ### Section 1 : Dispositions générales.
@@ -11256,39 +11381,45 @@ produites.
 
 Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
 
-1° Toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
+1° toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
 délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
 déclarations ou par tous autres moyens frauduleux ;
 
-2° Toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
+2° toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
 marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
 qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
 est demandée restent en France ;
 
-3° Les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
+3° les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
 réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
 documents faux, inexacts, incomplets ou non applicables ;
 
-4° Les fausses déclarations ou manoeuvres ayant pour but ou effet d'obtenir, en tout ou partie, un remboursement, une
+4° les fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
 exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
 infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
 remboursement, une exonération, un droit réduit ou un avantage financier ;
 
-5° Le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
+5° le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
 de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
 préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
 marchandises sortant du territoire douanier français ou y entrant ;
 
-6° Les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
-compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus.
+6° les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
+compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus ;
+
+7° tout mouvement de marchandises visées au 4 de l'article 38, effectué en infraction aux dispositions portant prohibition
+d'exportation ou d'importation.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Modifié par**:
 
-	  - Loi n°60-1356 1960-12-17 art. 12 Finances pour 1961 JORF 18 décembre 1960
-	  - Loi n°66-937 1966-12-17 art. 12 JORF 18 décembre 1966
-	  - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 23 () JORF 5 janvier 1993
+	  - Loi n°94-114 du 10 février 1994 - art. 19 () JORF 11 février 1994
 
 	**Cité par**:
 
@@ -11299,11 +11430,8 @@ compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus.
 	**Cite**:
 
 	  - Code des douanes - art. 19 bis (P)
-	  - Code des douanes 38-3, 19 bis
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 38 (M)
+	  - Code des douanes 19 bis, 38, 38-3
 
 
 ###### Article 428
@@ -12241,5 +12369,96 @@ recours contre les décisions prises par l'administration sont portés devant le
 	  - Arrêté du 16 décembre 2010 (V)
 	  - Arrêté du 16 novembre 2012 (V)
 	  - Livre des procédures fiscales - art. R*247-5 B (V)
+
+
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne
+
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.
+
+###### Article 468
+
+Lors de la présentation en douane des marchandises visées aux articles 2, 3, 16 et 19 de la loi n° 92-1477 du 31 décembre
+1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité entre les services de
+police, de gendarmerie et de douane, le service des douanes effectue le contrôle de ces marchandises en présence du
+détenteur.
+
+Lorsque le détenteur refuse d'assister au contrôle, le service notifie, par lettre recommandée, au destinataire ou à
+l'exportateur des produits selon le cas, son intention de commencer les opérations de contrôle ; si, à l'expiration d'un
+délai de quarante-huit heures après cette notification, celle-ci est restée sans effet, le tribunal d'instance dans le
+ressort duquel est situé le bureau de douane désigne d'office, à la requête du receveur des douanes, une personne pour
+représenter le destinataire ou l'exportateur des marchandises, défaillant.
+
+Lorsque la marchandise fait l'objet, par ailleurs, d'une mesure de consignation, dans les conditions prévues à l'article 322
+bis, celle-ci ne peut être prononcée qu'une fois que les opérations de contrôle ont été effectivement entreprises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 16, art. 19
+	  - Code des douanes - art. 322 bis (M)
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 17 () JORF 11 février 1994
+
+	**Cité par**:
+
+	  - Code des douanes - art. 469 (V)
+	  - Code des douanes - art. 65 A bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 469
+
+Le transport des marchandises visées à l'article 468 sur les lieux du contrôle, le déballage, le remballage et toutes les
+manipulations nécessitées par ce contrôle sont effectués aux frais et sous la responsabilité du propriétaire, du destinataire
+ou de l'exportateur des marchandises ou, à défaut, de toute autre personne qui participe à l'opération d'importation ou
+d'exportation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 17 () JORF 11 février 1994
+
+	**Cite**:
+
+	  - Code des douanes - art. 468 (M)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 65 A bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+## Chapitre III : Renvoi des produits dans le pays d'origine.
+
+###### Article 470
+
+Les marchandises visées au 4 de l'article 38 importées dans le territoire douanier en infraction aux dispositions portant
+prohibition d'importation peuvent être renvoyées dans le pays d'origine. En cas d'inexécution, les agents des douanes peuvent
+prendre toutes dispositions utiles pour assurer ce retour ; les dépenses correspondantes sont alors mises à la charge des
+personnes ayant contribué à l'importation de ces marchandises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 18 () JORF 11 février 1994
+
+	**Cite**:
+
+	  - Code des douanes - art. 38 (M)
 
 
