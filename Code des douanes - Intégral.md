@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1956-08-31
+Version Consolidée au 1958-12-18
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1996,6 +1996,28 @@ mécanographiques et ensuite reliés.
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
+###### Article 111
+
+1. Les droits et taxes ne sont pas dus sur les marchandises dont l'administration des douanes accepte l'abandon à son profit.
+
+2. Les marchandises dont l'abandon est accepté par l'administration des douanes sont vendues dans les mêmes conditions que
+les marchandises abandonnées par transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 2 JORF 18 décembre 1958
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
 ### Section 3 : Crédit des droits et taxes.
 
 ###### Article 112
@@ -3370,6 +3392,32 @@ avant la publication du décret au Journal officiel.
 
 
 ## Chapitre III : Relâches forcées.
+
+###### Article 261
+
+Les capitaines qui sont forcés de relâcher par fortune de mer, poursuite d'ennemis ou autres cas fortuits sont tenus : 
+
+a) dès leur entrée dans la zone maritime du rayon des douanes, de se conformer aux obligations prévues par l'article 69 ci-
+dessus ; 
+
+b) dans les vingt-quatre heures de leur arrivée au port, de justifier, par un rapport, des causes de la relâche et de se
+conformer aux prescriptions de l'article 72 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 410 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 69 (V)
+	  - Code des douanes - art. 72 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 262
 
@@ -5258,6 +5306,34 @@ par le tribunal chargé de se prononcer sur la saisie.
 	**Cite**:
 
 	  - Code des douanes 362-2
+
+
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.
+
+###### Article 390
+
+1. Les objets confisqués ou abandonnés sont aliénés par le service des douanes dans les conditions fixées par arrêté du
+ministre de l'économie et des finances lorsque le jugement de confiscation est passé en force de chose jugée, ou, en cas de
+jugement par défaut, lorsque l'exécution provisoire a été ordonnée par le jugement de confiscation, ou après ratification de
+l'abandon consenti par transaction.
+
+2. Toutefois, les jugements et ordonnances portant confiscation de marchandises saisies sur des particuliers inconnus, et par
+eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle de
+l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétition n'est recevable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 12 JORF 18 décembre 1958
+
+	**Cité par**:
+
+	  - Arrêté du 4 mars 2013 (V)
 
 
 ### Section 4 : Répartition du produit des amendes et confiscations.
