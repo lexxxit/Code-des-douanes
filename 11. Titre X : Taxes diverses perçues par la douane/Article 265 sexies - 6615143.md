@@ -7,7 +7,14 @@ A compter du 1er janvier 1990, la taxe intérieure de consommation sur les carbu
 dont le principal établissement est situé dans une commune de moins de 3.000 habitants et qui réalisent une partie de leur
 chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1.500 litres par an et par entreprise.
 
-Les modalités d'application de cette mesure sont fixées par décret.
+A compter du 1er janvier 1997, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
+produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de réseaux de transport public
+en commun de voyageurs, dans la limite de 12 000 litres par véhicule et par an.
+
+A compter du 1er janvier 1997, la limite visée au premier alinéa est fixée à 6 500 litres pour le gaz naturel véhicules et la
+taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant.
+
+Les modalités d'application de ces mesures sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -58,3 +65,7 @@ Les modalités d'application de cette mesure sont fixées par décret.
 	  - Arrêté du 14 avril 2015 - art. 1 (V)
 	  - Décret n°2015-419 du 14 avril 2015 (V)
 	  - Arrêté du 18 décembre 2015 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 26 () JORF 1er janvier 1997
