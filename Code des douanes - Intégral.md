@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -112,6 +112,34 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 
 	  - Code des douanes - art. 65 A bis (M)
 	  - Code des douanes - art. 65 C (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 2 bis
+
+Sans préjudice de dispositions dérogatoires particulières, le présent code ne s'applique pas :
+
+1. A l'entrée sur le territoire douanier de marchandises communautaires ;
+
+2. A la sortie du territoire douanier de marchandises communautaires à destination des autres Etats membres de la Communauté
+européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 111 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code des douanes - art. 38 (VD)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 
 	**Codifié par**:
 
@@ -1687,6 +1715,152 @@ du 1 ci-dessus.
 	  - Loi n°45-1095 1945-12-31 art. 30
 
 
+#### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.
+
+###### Article 65
+
+1° Les agents des douanes ayant au moins le grade d'inspecteur ou d'officier et ceux chargés des fonctions de receveur
+peuvent exiger la communication des papiers et documents de toute nature relatifs aux opérations intéressant leur service :
+
+a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ;
+
+b) dans les locaux des compagnies de navigation maritimes et fluviales et chez les armateurs, consignataires et courtiers
+maritimes (manifestes de fret, connaissements, billets de bord, avis d'expédition, ordres de livraison, etc.) ;
+
+c) dans les locaux des compagnies de navigation aérienne (bulletins d'expédition, notes et bordereaux de livraison, registres
+de magasins, etc.) ;
+
+d) dans les locaux des entreprises de transport par route (registres de prise en charge, carnets d'enregistrement des colis,
+carnets de livraison, feuilles de route, lettres de voitures, bordereaux d'expédition, etc.) ;
+
+e) dans les locaux des agences, y compris celles dites de "transports rapides", qui se chargent de la réception, du groupage,
+de l'expédition par tous modes de locomotion (fer, route, eau, air) et de la livraison de tous colis (bordereaux détaillés
+d'expéditions collectives, récépissés, carnets de livraison, etc.) ;
+
+f) chez les commissionnaires ou transitaires ;
+
+g) chez les concessionnaires d'entrepôts, docks et magasins généraux (registres et dossiers de dépôt, carnets de warrants et
+de nantissements, registres d'entrée et de sortie des marchandises, situation des marchandises, comptabilité matières,
+etc.) ;
+
+h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
+
+i) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
+régulières ou irrégulières relevant de la compétence du service des douanes.
+
+2° Les agents des douanes ayant au moins le grade de contrôleur disposent également du droit de communication prévu par le 1°
+ci-dessus, lorsqu'ils agissent sur ordre écrit d'un agent ayant au moins le grade d'inspecteur. Cet ordre, qui doit être
+présenté aux assujettis, doit indiquer le nom des assujettis intéressés.
+
+Les agents ayant qualité pour exercer le droit de communication prévu par le 1° ci-dessus peuvent se faire assister par des
+fonctionnaires d'un grade moins élevé, astreints comme eux et sous les mêmes sanctions au secret professionnel.
+
+3° Les divers documents visés au 1° du présent article doivent être conservés par les intéressés pendant un délai de trois
+ans, à compter de la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les
+destinataires.
+
+4° a) Les bénéficiaires ou redevables visés à l'article 65 A ci-dessous doivent conserver les documents relatifs à leur
+activité professionnelle durant 3 années civiles à compter de la fin de l'année civile de l'établissement de ces documents.
+Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle.
+
+b) Par documents, on entend l'ensemble des livres, registres, notes et pièces justificatives (comptabilité, registres,
+factures, correspondances, copies de lettres, etc.) relatives à l'activité professionnelle de l'entreprise.
+
+5° Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés visées au 1° du présent article, les agents
+des douanes désignés par ce même paragraphe peuvent procéder à la saisie des documents de toute nature (comptabilité,
+factures, copies de lettres, carnets de chèques, traites, comptes de banque, etc.) propres à faciliter l'accomplissement de
+leur mission.
+
+6° L'administration des douanes est autorisée, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays
+étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
+et règlements applicables à l'entrée ou à la sortie de leur territoire.
+
+7° Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats
+membres de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés
+à mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
+les autres Etats membres.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°57-985 1957-08-30 art. 4, art. 5 JORF 1er septembre 1957
+	  - Loi n°63-1351 1963-12-31 art. 13 JORF 3 janvier 1964
+	  - Loi n°92-677 du 17 juillet 1992 - art. 112 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 108 (VD)
+	  - Arrêté du 18 juillet 1983 - art. 4 (V)
+	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+	  - Arrêté du 8 juin 1993 - art. 13 (V)
+	  - Arrêté du 9 septembre 1993 - art. 16 (V)
+	  - Arrêté du 26 octobre 1993 - art. 8 (Ab)
+	  - Arrêté du 6 décembre 1993 - art. 9 (V)
+	  - Loi n°95-877 du 3 août 1995 - art. 22 (Ab)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Arrêté du 9 avril 2001 - art. 4 (V)
+	  - Arrêté du 18 juillet 2002 - art. 8 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 36 (V)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 3 (V)
+	  - Arrêté du 21 avril 2005 - art. 8 (V)
+	  - Arrêté du 25 juin 2008 - art. 11 (V)
+	  - Loi n°2010-476 du 12 mai 2010 - art. 59 (V)
+	  - Arrêté du 14 janvier 2011 - art. 5 (V)
+	  - Code des douanes - art. 334 (V)
+	  - Code des douanes - art. 413 bis (V)
+	  - Code des douanes - art. 431 (V)
+	  - Code des douanes - art. 450 (Ab)
+	  - Code des douanes - art. 65 A (V)
+	  - Code des douanes - art. 65 B (M)
+	  - Code du patrimoine. - art. L112-22 (V)
+	  - Code rural - art. L251-18 (M)
+	  - Code rural - art. L936-6 (T)
+	  - Code rural - art. L951-18 (T)
+	  - Code rural ancien - art. 275-6 (Ab)
+	  - Code rural ancien - art. 363-1 (Ab)
+	  - Code rural ancien - art. 364 (M)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+
+	**Cite**:
+
+	  - Code des douanes 65 A
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°46-2294 1946-10-19 art. 2
+
+
+### Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne.
+
+###### Article 65 B
+
+L'administration des douanes peut mettre en oeuvre les dispositions prévues par les articles 60, 61 et 65 afin d'assurer le
+respect des prescriptions spéciales applicables aux échanges de certaines marchandises communautaires avec les autres Etats
+membres de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 113 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cite**:
+
+	  - Code des douanes - art. 60 (V)
+	  - Code des douanes - art. 61 (V)
+	  - Code des douanes - art. 65 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ### Section 5 : Contrôles douaniers des envois par la poste.
 
 ###### Article 66
@@ -2709,6 +2883,35 @@ initiale correspondante.
 	  - Code des douanes - art. 423 (V)
 
 
+###### Article 100 ter
+
+Le placement des produits pétroliers en entrepôt fiscal doit faire l'objet de déclarations ponctuelles, globales ou
+récapitulatives, dans les conditions prévues aux articles 84, 85 et 95 à 100 bis.
+
+La sortie de produits pétroliers d'entrepôts fiscaux, leur mise à la consommation, leur exportation doivent faire l'objet,
+selon le cas, de déclarations ponctuelles, globales ou récapitulatives, dans les conditions prévues aux articles 84, 85 et 95
+à 100 bis. Ces dispositions s'appliquent également aux cas prévus à l'article 267 bis du présent code et au II de l'article
+57 de la loi n° 92-677 du 17 juillet 1992.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 57
+	  - Code des douanes - art. 267 bis (V)
+	  - Code des douanes - art. 84 (V)
+	  - Code des douanes - art. 85 (M)
+	  - Code des douanes 84, 85, 95 à 100 bis, 267 bis
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 96 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ## Chapitre II : Vérification des marchandises
 
 ### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.
@@ -3510,6 +3713,37 @@ d'application des articles 125 à 130 ci-dessus.
 	  - Code des douanes - art. 125 (V)
 
 
+###### Article 131 bis
+
+1. Les produits pétroliers circulent en France en suspension de taxes entre entrepôts fiscaux, sous couvert du document
+d'accompagnement visé à l'article 66 de la loi n° 92-677 du 17 juillet 1992.
+
+L'entrepositaire agréé destinataire des produits renvoie à l'entrepositaire agréé expéditeur l'exemplaire de ce document
+prévu à cet effet dans les quinze jours à compter de la date d'expédition des produits.
+
+L'entrepositaire agréé expéditeur est déchargé de sa responsabilité par l'apurement du régime suspensif dans les conditions
+fixées au I de l'article 69 de la loi n° 92-677 du 17 juillet 1992.
+
+2. A défaut d'apurement dans les deux mois à compter de la date d'expédition, l'expéditeur informe l'administration.
+
+A défaut d'apurement dans les quatre mois à compter de la date d'expédition des produits, l'impôt est liquidé au taux en
+vigueur à la date d'expédition des produits et acquitté par l'expéditeur selon les règles applicables en matière de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 66, art. 69
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 97 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+
 ## Chapitre III : Entrepôt de douane
 
 ### Section 1 : Définition et effets de l'entrepôt.
@@ -4208,6 +4442,110 @@ de besoin, les modalités d'application des dispositions du présent chapitre.
 	  - Loi n°2009-526 du 12 mai 2009 - art. 58
 
 
+## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.
+
+###### Article 158 A
+
+1. L'entrepôt dans lequel les produits pétroliers visés à l'article 265 sont détenus en suspension de taxes est dénommé
+entrepôt fiscal de stockage de produits pétroliers.
+
+2. L'entrepôt fiscal de stockage de produits pétroliers peut également contenir des produits pétroliers placés sous le régime
+de l'entrepôt douanier.
+
+3. Les personnes ayant la qualité d'entrepositaire agréé peuvent seules exploiter un entrepôt fiscal de stockage de produits
+pétroliers, y recevoir, détenir et expédier des produits pétroliers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 10 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 3-1 (V)
+	  - Décret n°2009-805 du 26 juin 2009 - art. 4 (V)
+	  - Arrêté du 23 février 2012 - art. 4 (V)
+	  - Arrêté du 23 juillet 2013 - art. 1 (V)
+	  - Arrêté du 23 juillet 2013 - art. 2 (V)
+	  - Arrêté du 17 décembre 2015 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 158 B
+
+1. La mise en service, l'exploitation ainsi que toute modification substantielle des conditions d'exploitation de l'entrepôt
+fiscal de stockage de produits pétroliers doivent être autorisées par l'administration des douanes dans des conditions fixées
+par décret.
+
+2. Des arrêtés du ministre du budget déterminent les manipulations dont les produits placés en entrepôt fiscal de stockage
+des produits pétroliers peuvent faire l'objet.
+
+3. L'entrepositaire agréé, titulaire de l'autorisation d'exploiter, est responsable auprès de l'administration des douanes de
+toutes les opérations résultant du stockage des produits pétroliers et de l'application de la réglementation douanière et
+fiscale qui s'y rapporte. A ce titre, il est redevable de l'impôt lors de la constatation des manquants. Il est tenu de
+présenter une caution solvable.
+
+4. Il doit dans ce cadre :
+
+a) tenir une comptabilité des stocks et des mouvements de produits ;
+
+b) présenter les produits placés en entrepôt à toute réquisition du service des douanes qui peut procéder à tous contrôles et
+recensements.
+
+5. La cession des produits placés en entrepôt fiscal de stockage de produits pétroliers doit être mentionnée dans la
+comptabilité matières et faire l'objet d'une déclaration auprès de l'administration des douanes. Les obligations de
+l'entrepositaire cédant sont transférées à l'entrepositaire cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Code des douanes - art. 158 D (V)
+
+
+###### Article 158 C
+
+Les pertes de produits placés en entrepôt fiscal de stockage de produits pétroliers ne sont pas soumises à l'impôt s'il est
+justifié auprès de l'administration :
+
+1° qu'elles résultent d'un cas fortuit ou d'un cas de force majeure ;
+
+2° ou qu'elles sont inhérentes à la nature des produits. Des arrêtés du ministre du budget peuvent fixer à ce titre une
+limite forfaitaire aux pertes admissibles en franchise pour chacun des produits et pour chaque mode de transport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code des douanes - art. 158 D (V)
+
+
 ## Chapitre IV : Entrepôt de douane (Entrepôt industriel)
 
 ###### Article 159
@@ -4227,29 +4565,26 @@ de besoin, les modalités d'application des dispositions du présent chapitre.
 
 ## Chapitre V : Production d'huiles minérales en "usine exercée"
 
-### Section 2 : Usines exercées pétrolières et pétroléochimiques
+### Section 1 : Généralités.
 
-#### Paragraphe 2 : Installations de production.
+###### Article 163
 
-###### Article 165 A
+1. La production d'huiles minérales en régime de suspension de taxes et de redevances s'effectue dans un entrepôt fiscal de
+production dit usine exercée. 
 
-1. A l'entrée dans les usines visées à l'article 165, la suspension des droits de douane prévue à l'article 163-2 ci-dessus
-est réservée :
+2. La production d'huiles minérales s'entend de l'extraction et de l'obtention, par tous procédés et à partir de toutes
+matières premières, des huiles minérales visées aux tableaux B et C de l'article 265. 
 
-1° aux huiles brutes de pétrole ou de minéraux bitumineux et aux gaz de pétrole et autres hydrocarbures gazeux, destinés à
-être traités ou raffinés ;
+Ne sont toutefois pas considérées comme production d'huiles minérales les opérations suivantes : 
 
-2° aux produits spécialement désignés par arrêté du ministre de l'économie et des finances et du ministre chargé de
-l'industrie, lorsqu'ils doivent y subir un traitement ou recevoir une destination auxquels est attachée une tarification
-douanière privilégiée.
+a) les opérations au cours desquelles de petites quantités d'huiles minérales sont obtenues accessoirement ; 
 
-2. En cas de mise à la consommation à la sortie de ces usines, les droits de douane suspendus en application du 1 ci-dessus
-sont perçus, compte tenu des règles fixées par la loi tarifaire, d'après la valeur à déclarer et le taux des droits,
-applicables à la date de la déclaration d'entrée en usine exercée.
+b) les opérations par lesquelles l'utilisateur d'une huile minérale rend sa réutilisation possible dans sa propre entreprise
+et pour ses besoins propres, pour autant que les montants de taxe déjà payés sur cette huile ne soient pas inférieurs au
+montant de taxe qui serait dû si l'huile réutilisée était à nouveau soumise à cette imposition. 
 
-3. Lorsque les produits visés au 1 ci-dessus sont utilisés dans ces usines à des fins autres que celles que cette disposition
-prévoit, les droits de douane dont ces produits sont passibles sont immédiatement exigibles selon les règles prévues en cas
-de mise à la consommation.
+3. Les personnes ayant la qualité d'entrepositaire agréé peuvent seules exploiter une usine exercée ; à ce titre, elles
+peuvent seules y recevoir, produire et expédier les huiles minérales visées aux tableaux B et C de l'article 265.
 
 **Liens relatifs à cet article**
 
@@ -4259,11 +4594,128 @@ de mise à la consommation.
 
 	**Modifié par**:
 
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 99 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 42 I, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
-	**Abrogé par**:
+	**Cité par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 99 III
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 4 (V)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 10 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 3-1 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Code des douanes - art. 168 bis (Ab)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
+
+
+### Section 2 : Usines exercées pétrolières et pétroléochimiques
+
+#### Paragraphe 2 : Installations de production.
+
+###### Article 165
+
+1. Doivent être placés sous le régime de l'usine exercée : 
+
+a) les installations d'extraction d'huiles minérales visées aux tableaux B et C de l'article 265 ; 
+
+b) les installations ou les établissements de production qui procèdent :
+
+- soit au traitement ou au raffinage d'huiles brutes de pétrole ou de minéraux bitumeux, de gaz de pétrole et d'autres
+hydrocarbures gazeux, pour obtenir des huiles minérales visés aux tableaux B et C de l'article 265 ;
+
+- soit à la fabrication d'huiles minérales, pour lesquelles un taux de taxe est fixé dans les tableaux B et C de l'article
+265.
+
+2. Peuvent être placés sous le régime de l'usine exercée, sur la demande de la personne qui en assure l'exploitation, les
+installations ou les établissements qui procèdent à la fabrication d'huiles minérales pour lesquelles aucun taux de taxe
+n'est fixé dans les tableaux B et C de l'article 265. A défaut de placement sous le régime de l'usine exercée, les
+exploitants de ces installations ou établissements sont néanmoins tenus d'en déclarer l'existence et la cessation d'activité
+à l'administration des douanes. 
+
+3. Peuvent être effectuées, dans les usines exercées visées au b du 1 et au 2 du présent article, des fabrications connexes
+de produits autres que des huiles minérales, dont la liste est fixée par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 42 II, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 17 (M)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 20 (M)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 21 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 22 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 23 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 5 (M)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 1 (V)
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 13 (V)
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 2 (V)
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 3 (V)
+	  - Arrêté du 23 février 2012 - art. 4 (V)
+	  - Arrêté du 23 juillet 2013 - art. 1 (V)
+	  - Arrêté du 23 juillet 2013 - art. 2 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Arrêté du 17 décembre 2015 - art. 5 (V)
+	  - Décret n°2016-649 du 20 mai 2016 - art. 1 (V)
+	  - Code des douanes - art. 165 A (Ab)
+	  - Code des douanes - art. 165 B (V)
+	  - Code des douanes - art. 166 (Ab)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (V)
+
+
+###### Article 165 B
+
+1. Les huiles minérales visées au tableau B de l'article 265 sont admises dans les usines exercées visées au b du 1 et au 2
+de l'article 165 en suspension des taxes et redevances dont elles sont passibles.
+
+Cette suspension est réservée, dans les usines exercées visées au a du 1 de l'article 165, aux produits qui y sont extraits.
+
+2. Les huiles minérales ne sont pas soumises aux taxes et redevances dont elles sont passibles lorsqu'elles sont consommées
+dans l'enceinte des usines exercées visées au b du 1 et au 2 de l'article 165 aux fins de fabrication d'autres huiles
+minérales et à la production de l'énergie nécessaire à ces fabrications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 42 III, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -4272,7 +4724,35 @@ de mise à la consommation.
 	**Cite**:
 
 	  - Code des douanes - art. 165 (M)
-	  - Code des douanes 165, 163-2
+	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.
+
+###### Article 167
+
+La mise en service, l'exploitation ainsi que toute modification substantielle des conditions d'exploitation de l'usine
+exercée doivent être autorisées par l'administration des douanes dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 42 IV, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
 ## Chapitre VI : Admission temporaire.
@@ -4942,339 +5422,6 @@ vertu de l'article 11 de cette loi.
 	**Modifié par**:
 
 	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-
-## Chapitre V : Usines exercées par la douane
-
-### Section 1 : Généralités.
-
-###### Article 163
-
-1. Les usines exercées sont des établissements ou des installations qui, ayant pour objet de permettre l'extraction, la
-fabrication, la mise en oeuvre ou l'utilisation de produits auxquels s'appliquent :
-
-- soit un régime douanier particulier ;
-
-- soit une taxe ou redevance perçue par l'administration des douanes ;
-
-- soit un avantage douanier ou fiscal sous conditions d'emploi à certains usages ;
-
-- soit d'autres dispositions dont l'application incombe, en tout ou partie, à l'administration des douanes, se trouvent de ce
-fait placés sous le contrôle de l'administration des douanes.
-
-2. Sauf dispositions contraires de la loi, les produits qui sont admis en usines exercées en vertu du présent chapitre, le
-sont en suspension des droits, taxes et redevances dont ils sont passibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Cité par**:
-
-	  - Décret n°96-1023 du 22 novembre 1996 - art. 4 (V)
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
-	  - Loi n°2004-639 du 2 juillet 2004 - art. 10 (V)
-	  - Loi n°2004-639 du 2 juillet 2004 - art. 3-1 (V)
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
-	  - Code des douanes - art. 168 bis (Ab)
-
-
-###### Article 163 A
-
-Les modalités de l'exercice sont fixées par des arrêtés du ministre de l'économie et des finances qui déterminent notamment
-les conditions auxquelles doivent satisfaire les établissements ou installations placés sous le régime de l'usine exercée
-ainsi que les obligations et éventuellement les charges qui en résultent pour les exploitants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 1 JORF 15 décembre 1966
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-
-
-### Section 2 : Usines exercées pétrolières et pétroléochimiques
-
-#### Paragraphe 1 : Installations d'extraction.
-
-###### Article 164
-
-Doivent être effectuées sous le régime de l'usine exercée, l'extraction des huiles brutes de pétrole ou de minéraux
-bitumineux et l'extraction des gaz de pétrole et autres hydrocarbures gazeux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Abrogé par**:
-
-	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-
-	**Cité par**:
-
-	  - Code des douanes - art. 166 (Ab)
-
-
-###### Article 164 A
-
-La suspension des droits et taxes prévue à l'article 163-2 ci-dessus est réservée, dans ces usines exercées, aux produits qui
-y sont extraits.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-	  - Loi n°92-677 du 17 juillet 1992 - art. 99 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-
-	**Cite**:
-
-	  - Code des douanes 163-2
-
-
-#### Paragraphe 2 : Installations de production.
-
-###### Article 165
-
-1. Doivent être placés sous le régime de l'usine exercée :
-
-1° Les installations ou les établissements qui procèdent au traitement ou au raffinage des huiles brutes de pétrole ou de
-minéraux bitumineux et des gaz de pétrole et autres hydrocarbures gazeux, pour obtenir des produits pétroliers et assimilés
-visés au tableau B annexé à l'article 265 ci-après ;
-
-2° Sauf dérogation spéciale prévue par décret, les installations ou les établissements autres que ceux visés au 1° qui
-procèdent à la fabrication de produits visés au tableau B annexé à l'article 265 ci-après.
-
-2. Doivent également être placés sous le régime de l'usine exercée, sauf dérogation spéciale prévue par décret, les
-installations ou les établissements pétroléochimiques qui procèdent à la fabrication de produits chimiques et assimiles
-énumérés au tableau C annexé au même article.
-
-3. Peuvent être effectuées dans les usines exercées visées aux 1 et 2 ci-dessus des fabrications connexes de produits, autres
-que ceux repris aux tableaux B et C annexés à l'article 265 ci-après dont la liste est fixée par décision conjointe du
-directeur général des douanes et droits indirects et, selon le cas, du directeur des carburants ou du directeur des
-industries chimiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 10 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 11 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 12 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 13 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 14 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 15 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 16 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 17 (M)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 18 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 19 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 20 (M)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 21 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 22 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 23 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 5 (M)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°96-1023 du 22 novembre 1996 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Décret n°96-1023 du 22 novembre 1996 - art. 1 (V)
-	  - Décret n°96-1023 du 22 novembre 1996 - art. 13 (V)
-	  - Décret n°96-1023 du 22 novembre 1996 - art. 2 (V)
-	  - Décret n°96-1023 du 22 novembre 1996 - art. 3 (V)
-	  - Arrêté du 23 février 2012 - art. 4 (V)
-	  - Arrêté du 23 juillet 2013 - art. 1 (V)
-	  - Arrêté du 23 juillet 2013 - art. 2 (V)
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Arrêté du 17 décembre 2015 - art. 5 (V)
-	  - Décret n°2016-649 du 20 mai 2016 - art. 1 (V)
-	  - Code des douanes - art. 165 A (Ab)
-	  - Code des douanes - art. 165 B (V)
-	  - Code des douanes - art. 166 (Ab)
-
-	**Cite**:
-
-	  - Code des douanes - art. 265 (M)
-
-
-###### Article 165 B
-
-1. Dans les usines visées à l'article 165, la suspension des taxes et redevances prévue à l'article 163-2 ci-dessus est
-réservée aux produits visés aux tableaux B et C annexés à l'article 265 ci-après.
-
-2. Lorsque, dans ces usines, les produits visés au 1 du présent article sont destinés ou utilisés à des usages autres que les
-fabrications prévues à l'article 165 ci-dessus ou autres que la production de l'énergie nécessaire à ces fabrications, ces
-produits doivent être pris à la consommation sur le marché intérieur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 1 JORF 15 décembre 1966
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Cité par**:
-
-	  - Décret n°97-201 du 5 mars 1997 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 165 (M)
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes 165, 163-2, 265
-
-
-#### Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques.
-
-###### Article 166
-
-1. Des décrets peuvent placer sous le régime de l'usine exercée les installations et les établissements, autres que ceux visé
-aux articles 164 et 165 ci-dessus, où sont effectuées la mise en oeuvre ou l'utilisation des produits visés au tableau B
-annexé à l'article 265 ci-après, lorsque ces produits bénéficient d'un régime douanier ou fiscal particulier.
-
-2. Les produits introduits dans ces usines exercées doivent avoir, au préalable, acquitté les droits et taxes éventuellement
-exigibles, compte tenu notamment de la destination qu'ils doivent recevoir.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-	**Cite**:
-
-	  - Code des douanes - art. 164 (Ab)
-	  - Code des douanes - art. 165 (M)
-	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.
-
-###### Article 167
-
-Les conditions d'application des articles 164 à 166 ci-dessus sont déterminées, en tant que de besoin, par décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes 164 à 166
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°64-732 1964-07-16 art. 1 JORF 22 juillet 1964
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-### Section 3 : Autres usines
-
-###### Article 168 bis
-
-1. Les conditions d'application du régime défini à l'article 163 ci-dessus aux produits autres que ceux repris à la section
-II du présent chapitre sont fixées, notamment en ce qui concerne la nature de ces produits et des fabrications dans
-lesquelles ils doivent être utilisés ainsi que la destination des produits fabriqués, selon la procédure prévue par l'article
-169-1 ci-après pour l'octroi de l'admission temporaire.
-
-2. En cas de mise à la consommation des produits fabriqués, et sauf disposition spéciale du tarif des droits de douane
-d'importation, la valeur à déclarer et les droits et taxes exigibles sont déterminés dans les conditions et selon la
-procédure prévues aux articles 155-2, 3 et 4 et 156-1 et 3 ci-dessus pour ce qui concerne les marchandises mises à la
-consommation en suite d'entrepôt. Les droits et taxes éventuellement perçus à l'entrée en usine exercée sont déduits de ceux
-exigibles lors de la mise à la consommation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 163 (M)
-	  - Code des douanes 163, 169-1, 155-2, 156-1, 155-3, 155-4, 156-3
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Abrogé par**:
-
-	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 
 # Titre VI : Dépôt de douane
@@ -6126,6 +6273,79 @@ terrestre du rayon des douanes lorsqu'il a été constaté par jugement que ces 
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
+## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.
+
+###### Article 215
+
+1. Ceux qui détiennent ou transportent des marchandises dangereuses pour la santé, la sécurité ou la moralité publiques, des
+marchandises contrefaites, des marchandises prohibées au titre d'engagements internationaux ou des marchandises faisant
+l'objet d'un courant de fraude internationale et d'un marché clandestin préjudiciant aux intérêts légitimes du commerce
+régulier et à ceux du Trésor, spécialement désignées par arrêtés du ministre de l'économie et des finances doivent, à
+première réquisition des agents des douanes, produire soit des quittances attestant que ces marchandises ont été
+régulièrement importées dans le territoire douanier de la Communauté européenne, soit des factures d'achat, bordereaux de
+fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
+du territoire douanier de la Communauté européenne.
+
+Le ministre du budget adresse en fin d'année au Parlement un rapport sur les modifications apportées dans l'année en cours
+aux arrêtés visés au 1.
+
+2. Ceux qui ont détenu, transporté, vendu, cédé ou échangé lesdites marchandises et ceux qui ont établi les justifications
+d'origine sont également tenus de présenter les documents visés au 1 ci-dessus à toute réquisition des agents des douanes
+formulée dans un délai de trois ans, soit à partir du moment où les marchandises ont cessé d'être entre leurs mains, soit à
+partir de la délivrance des justifications d'origine.
+
+3. Ne tombent pas sous l'application de ces dispositions les marchandises que les détenteurs, transporteurs, ou ceux qui les
+ont détenues, transportées, vendues, cédées ou échangées prouvent, par la production de leurs écritures, avoir été importées,
+détenues ou acquises dans le territoire douanier antérieurement à la date de publication des arrêtés susvisés.
+
+Toute personne détenant des marchandises désignées pour la première fois par l'arrêté visé au 1 ci-dessus peut, avant
+l'expiration d'un délai de six mois à compter de la publication de l'arrêté, en faire la déclaration écrite au service des
+douanes.
+
+Après avoir vérifié qu'elle est exacte, le service authentifiera cette déclaration qui tiendra lieu de justification.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 21 JORF 9 juillet 1987
+	  - Loi n°92-677 du 17 juillet 1992 - art. 115 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 septembre 1987
+	  - TXT_SOURCE: Arrêté du 24 septembre 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 24 septembre 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 27 novembre 1991
+	  - TXT_SOURCE: Arrêté du 11 décembre 2001
+	  - TXT_SOURCE: Arrêté du 11 décembre 2001 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 décembre 2001 - art. 2 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 septembre 1987 - art. 1 (Ab)
+	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+	  - Arrêté du 11 décembre 2001 - art. 1 (V)
+	  - Arrêté du 11 décembre 2001 - art. 2 (V)
+	  - Arrêté du 17 mars 2008 (V)
+	  - Arrêté du 9 février 2009 (V)
+	  - Arrêté du 8 juin 2009 - art. Annexe (V)
+	  - Arrêté du 21 avril 2011 (V)
+	  - Arrêté du 12 février 2013 (V)
+	  - Arrêté du 19 septembre 2013 (V)
+	  - Arrêté du 25 avril 2015 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code de l'environnement - art. L415-2 (V)
+	  - Code des douanes - art. 2 ter (VT)
+	  - Code des douanes - art. 332 (V)
+	  - Code des douanes - art. 419 (VD)
+	  - Code des douanes - art. 64 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 # Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier
 
 ## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes
@@ -6184,61 +6404,6 @@ appréciés selon les usages locaux.
 	**Cité par**:
 
 	  - Code des douanes - art. 418 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.
-
-###### Article 215
-
-1. Ceux qui détiennent ou transportent les marchandises spécialement désignées par des arrêtés du ministre de l'économie et
-des finances doivent, à première réquisition des agents des douanes, produire soit des quittances attestant que ces
-marchandises ont été régulièrement importées, soit des factures d'achat, bordereaux de fabrication ou toutes autres
-justifications d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur du territoire douanier.
-
-2. Ceux qui ont détenu, transporté, vendu, cédé, ou échangé lesdites marchandises et ceux qui ont établi les justifications
-d'origine sont également tenus de présenter les documents visés au 1 ci-dessus à toute réquisition des agents des douanes
-formulée dans un délai de trois ans, soit à partir du moment où les marchandises ont cessé d'être entre leurs mains, soit à
-partir de la date de délivrance des justifications d'origine.
-
-3. Ne tombent pas sous l'application de ces dispositions les marchandises que les détenteurs, transporteurs, ou ceux qui les
-ont détenues, transportées, vendues, cédées ou échangées prouvent, par la production de leurs écritures, avoir été importées,
-détenues ou acquises dans le territoire douanier antérieurement à la date de publication des arrêtés susvisés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 24 septembre 1987
-	  - TXT_SOURCE: Arrêté du 24 septembre 1987 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 24 septembre 1987 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 27 novembre 1991
-	  - TXT_SOURCE: Arrêté du 11 décembre 2001
-	  - TXT_SOURCE: Arrêté du 11 décembre 2001 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 11 décembre 2001 - art. 2 (V)
-
-	**Cité par**:
-
-	  - Arrêté du 24 septembre 1987 - art. 1 (Ab)
-	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
-	  - Arrêté du 11 décembre 2001 - art. 1 (V)
-	  - Arrêté du 11 décembre 2001 - art. 2 (V)
-	  - Arrêté du 17 mars 2008 (V)
-	  - Arrêté du 9 février 2009 (V)
-	  - Arrêté du 8 juin 2009 - art. Annexe (V)
-	  - Arrêté du 21 avril 2011 (V)
-	  - Arrêté du 12 février 2013 (V)
-	  - Arrêté du 19 septembre 2013 (V)
-	  - Arrêté du 25 avril 2015 (V)
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Code de l'environnement - art. L415-2 (V)
-	  - Code des douanes - art. 2 ter (VT)
-	  - Code des douanes - art. 332 (V)
-	  - Code des douanes - art. 419 (VD)
-	  - Code des douanes - art. 64 (M)
 
 	**Codifié par**:
 
@@ -7476,31 +7641,35 @@ Ces arrêtés peuvent prescrire l'adjonction auxdits produits de colorants et d'
 l'identification.
 
 2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
-privilégié, doivent se conformer aux mesures prescrites par le directeur général des douanes et droits indirects en vue de
-contrôler la vente, la détention, le transport et l'utilisation desdits produits.
+privilégié, ainsi que les opérateurs introduisant ces produits sur le territoire national, doivent se conformer aux mesures
+prescrites par le directeur général des douanes et droits indirects en vue de contrôler la vente, la détention, le transport
+et l'utilisation desdits produits.
 
-3. En cas de détournement des produits de leur destination privilégiée, le supplément de taxes et redevances est exigible sur
+3. L'utilisation de produits pétroliers à des usages ou dans des conditions n'ouvrant plus droit au régime privilégié dont
+ils ont bénéficié, donne lieu à l'exigibilité du supplément des taxes et redevances applicables.
+
+En cas de détournement des produits de leur destination privilégiée, le supplément de taxes et redevances est exigible sur
 les quantités détournées, sans préjudice des pénalités encourues.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 3 JORF 15 décembre 1966
-
 	**Cité par**:
 
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Décret n°99-723 du 3 août 1999 - art. 4 (V)
 	  - Loi n°2004-639 du 2 juillet 2004 - art. 7-1 (V)
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Loi - art. 45 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 
 ###### Article 265 bis
@@ -8224,29 +8393,24 @@ l'article 265 du présent code ne sont pas soumis à la redevance.
 
 ###### Article 267
 
-1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter et 266 quater
-ci-dessus sont perçues comme en matière de douane ; les infractions sont constatées et réprimées, les poursuites sont
-effectuées et les instances sont instruites et jugées comme en matière de douane et par les tribunaux compétents en cette
-matière.
+1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter, 266 quater et
+266 quinquies ci-dessus sont perçues comme en matière de douane ; les infractions sont recherchées, constatées et réprimées,
+les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane et par les tribunaux
+compétents en cette matière.
 
 Les taxes ou redevances dont sont passibles les produits visés aux articles énumérés ci-dessus sont exigibles lors de la mise
-à la consommation de ces produits sur le marché intérieur.
+à la consommation de ces produits sur le marché intérieur et dans les cas prévus au II de l'article 57 de la loi n° 92-677 du
+17 juillet 1992 et à l'article 267 bis.
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes et
 redevances dont il s'agit.
 
-3. La taxe intérieure de consommation applicable aux produits pétroliers ou assimilés repris au tableau de l'article 265 ci-
-dessus, les redevances destinées au fonds de soutien aux hydrocarbures ou assimilés prévues à l'article 266 ter ci-dessus et
-la taxe spéciale de consommation mentionnée à l'article 266 quater ci-dessus sont perçues suivant les caractéristiques du
+3. La taxe intérieure de consommation applicable aux produits pétroliers ou assimilés repris au tableau B de l'article 265
+ci-dessus, les redevances destinées au fonds de soutien aux hydrocarbures ou assimilés prévues à l'article 266 ter ci-dessus
+et la taxe spéciale de consommation mentionnée à l'article 266 quater ci-dessus sont perçues suivant les caractéristiques du
 produit au moment de la mise à la consommation.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°51-592 1951-05-24 art. 19 JORF 25 mai 1951
-	  - Décret n°52-152 1952-02-13 art. 22 JORF 14 février 1952
-	  - Loi n°66-923 1966-12-14 art. 6 JORF 15 décembre 1966
 
 	**Cité par**:
 
@@ -8270,9 +8434,54 @@ produit au moment de la mise à la consommation.
 
 	**Cite**:
 
+	  - Loi n°92-677 1992-07-17 art. 57
 	  - Code des douanes - art. 265 (M)
 	  - Code des douanes - art. 266 quater (M)
+	  - Code des douanes - art. 266 quinquies (M)
 	  - Code des douanes - art. 266 ter (M)
+	  - Code des douanes - art. 267 bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 100 () JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Loi - art. 22 () JORF 31 décembre 1992
+	  - Loi - art. 48 () JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 267 bis
+
+Par dérogation aux dispositions du a du I de l'article 57 de la loi n° 92-677 du 17 juillet 1992, les combustibles visés au
+tableau B de l'article 265 du présent code sont soumis à la taxe intérieure sur les produits pétroliers, s'ils ne l'ont pas
+déjà supportée, lorsqu'ils sont transportés par un particulier ou pour son compte.
+
+Il en est de même des carburants visés au tableau B de l'article 265 du présent code lorsqu'ils sont transportés par un
+particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve.
+
+L'impôt est exigible dès la réalisation du transport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 57
+	  - Code des douanes - art. 265 (M)
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 101 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
+	  - Décret n°94-1214 du 30 décembre 1994 - art. 6 (V)
+	  - Décret n°97-201 du 5 mars 1997 - art. 6 (V)
+	  - Code des douanes - art. 100 ter (V)
+	  - Code des douanes - art. 267 (VD)
 
 	**Codifié par**:
 
@@ -8376,14 +8585,18 @@ dessus et déterminent les autres modalités d'application des dispositions des 
 
 ###### Article 268 ter
 
-Pour l'application du droit prévu aux articles 268 et 268 bis ci-dessus, les échanges entre la France continentale, la région
-de Corse et chacun des départements d'outre-mer, sont assimilés à des opérations d'importation ou d'exportation.
+Pour l'application du droit prévu à l'article 268 ci-dessus, les échanges entre la France métropolitaine et chacun des
+départements d'outre-mer sont assimilés à des opérations d'importation ou d'exportation.
+
+Il en est de même pour les échanges réalisés entre ces départements sauf entre la Guadeloupe et la Martinique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°76-448 1976-05-24 art. 17
+	  - Loi n°92-677 du 17 juillet 1992 - art. 102 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi - art. 29 () JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -8392,15 +8605,10 @@ de Corse et chacun des départements d'outre-mer, sont assimilés à des opérat
 	**Cite**:
 
 	  - Code des douanes - art. 268 (M)
-	  - Code des douanes - art. 268 bis (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
 ## Chapitre IV : Taxes sur les voyageurs de commerce.
