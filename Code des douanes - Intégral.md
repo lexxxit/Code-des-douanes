@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-07-27
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4400,6 +4400,31 @@ l'administration des douanes, à condition que les marchandises soient en bon é
 	  - Loi n°2009-526 du 12 mai 2009 - art. 58
 
 
+###### Article 153
+
+1. Des arrêtés conjoints du ministre de l'économie et des finances et des autres ministres intéressés déterminent les
+manipulations dont les produits placés en entrepôt de stockage peuvent faire l'objet. Les conditions auxquelles ces
+manipulations sont subordonnées sont fixées par le directeur général des douanes et droits indirects.
+
+2. Ces arrêtés peuvent, dans l'intérêt du commerce d'exportation ou de réexportation, déroger aux interdictions prévues par
+des lois spéciales. Les dérogations aux articles L. 213-1 à L. 216-1 du code de la consommation ne peuvent toutefois porter
+que sur les mesures édictées en vertu des articles L. 214-1, L. 215-4 et L. 215-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 58
+
+
 ###### Article 154
 
 En cas d'expédition de marchandises d'un entrepôt sur un autre entrepôt ou sur un bureau de douane sous le couvert d'un titre
@@ -5417,36 +5442,6 @@ douane.
 
 
 # Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux
-
-## Chapitre III : Entrepôt de douane (entrepôt de stockage)
-
-### Section 6 : Dispositions applicables à tous les entrepôts de stockage.
-
-###### Article 153
-
-1. Des arrêtés conjoints du ministre de l'économie et des finances et des autres ministres intéressés déterminent les
-manipulations dont les produits placés en entrepôt de stockage peuvent faire l'objet. Les conditions auxquelles ces
-manipulations sont subordonnées sont fixées par le directeur général des douanes et droits indirects.
-
-2. Ces arrêtés peuvent, dans l'intérêt du commerce d'exportation ou de réexportation, déroger aux interdictions prévues par
-des lois spéciales. Les dérogations à la loi du 1er août 1905 ne peuvent toutefois porter que sur les mesures édictées en
-vertu de l'article 11 de cette loi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°1905-08-01 art. 11
-
-	**Modifié par**:
-
-	  - Loi n°65-525 1965-07-03 art. 1 JORF 4 juillet 1965
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
 
 ## Chapitre IV : Entrepôt de douane (entrepôt industriel).
 
