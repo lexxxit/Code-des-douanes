@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1995-12-31
+Version Consolidée au 1996-01-11
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8948,50 +8948,18 @@ dispositions du 4 de l'article 266.
 
 ###### Article 266 ter
 
-1. Les produits repris au tableau ci-après sont passibles d'une redevance perçue au profit du fonds de soutien aux
-hydrocarbures ; le tarif de cette redevance est fixé comme suit :
+1. Les supercarburants, l'essence normale et le gazole, identifiés aux indices II, II bis, 12 et 22 du tableau B du 1 de
+l'article 265 du présent code, sont passibles d'une redevance, perçue au profit du fonds de soutien aux hydrocarbures, d'un
+montant de 0,39 F par hectolitre.
 
-Numéro du tarif douanier (passibles d'une redevance perçue au profit du fonds de soutien aux hydrocarbures), produits visés,
-indices d'identification, unité de perception, taux de la redevance.
+La redevance est assise, liquidée et recouvrée suivant les mêmes règles que la taxe intérieure de consommation sur les
+produits pétroliers.
 
-Ex. 27-10 A : essences d'aviation (1) (2), indice 9, unité =
-
-hectolitre (3), taux 0,08 (4) (5).
-
-Ex. 27-10 A : supercarburant et huiles légères assimilées, essence et autres huiles légères non dénommées (1) (2), indice 10
-et 11, unité = hectolitre (3), taux 1,50 (4) (5).
-
-2. Sont exonérés de la redevance visée au 1 ci-dessus les produits visés audit tableau exemptés de la taxe intérieure de
-consommation par application des articles 189, 190 et 195 ci-dessus, ainsi que les mêmes produits mis à la consommation dans
-les départements d'outre-mer.
-
-(1) A l'exception des huiles de pétrole ou de minéraux bitumineux à base de produits hétérocycliques.
-
-(2) La redevance s'applique aux produits du tableau B de l'article 265 du code des douanes pour lesquels les taxes
-intérieures de consommation sont fixées dans ledit tableau par référence à l'un des produits visés sous la présente rubrique.
-
-(3) Le volume imposable est le volume mesuré à l'état liquide, à la température de 15° C.
-
-(4) La redevance est perçue sur la totalité du produit y compris les produits d'addition.
-
-(5) Les carburéacteurs bénéficiant du taux réduit de la taxe intérieure de consommation prévu au renvoi (5) du tableau B de
-l'article 265 du présent code ne sont pas soumis à la redevance.
-
-(6) La masse imposable est la masse commerciale (masse dans l'air).
+2. Sont exonérés de la redevance les produits visés ci-dessus exemptés de la taxe intérieure de consommation par application
+des articles 189, 190, 195 et 265 bis, ou bénéficiant du taux réduit de la taxe intérieure de consommation prévu au renvoi 5
+du tableau B de l'article 265-1, ainsi que les mêmes produits mis à la consommation dans les départements d'outre-mer.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°69-1161 1969-12-24 art. 19 I, II, III Finances pour 1970 JORF 27 décembre 1969
-	  - Loi n°73-1150 1973-12-27 art. 75 Finances pour 1974 JORF 28 décembre 1973
-	  - Loi n°75-1278 1975-12-30 art. 10 II Finances pour 1976 JORF 31 décembre 1975
-	  - Loi n°77-1467 1977-12-30 art. 22 Finances pour 1978 JORF 31 décembre 1977
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 50 () JORF 31 décembre 1981
 
 	**Cité par**:
 
@@ -8999,12 +8967,30 @@ l'article 265 du présent code ne sont pas soumis à la redevance.
 	  - Code des douanes - art. 265 bis (M)
 	  - Code des douanes - art. 267 (V)
 
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 34 (V) JORF 30 décembre 1983
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 49 () JORF 31 décembre 1986
+	  - Loi n°88-1149 1988-12-23 art. 27 III, V Finances pour 1989 JORF 28 décembre 1988
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988
+	  - Loi - art. 113 () JORF 31 décembre 1992
+	  - Loi - art. 20 (V) JORF 31 décembre 1995 en vigueur le 11 janvier 1996
+	  - Loi n°95-1346 1995-12-30 art. 20 I, II Finances pour 1996 JORF 31 décembre 1995 en vigueur le 11 janvier 1996
+
+	**Abrogé par**:
+
+	  - Loi - art. 26 (V) JORF 31 décembre 1998 en vigueur le 11 janvier 1999
+
 	**Cite**:
 
 	  - Code des douanes - art. 189 (P)
 	  - Code des douanes - art. 190 (V)
 	  - Code des douanes - art. 195 (V)
 	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 267
