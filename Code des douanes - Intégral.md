@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7505,31 +7505,22 @@ les quantités détournées, sans préjudice des pénalités encourues.
 
 ###### Article 265 bis
 
-1. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis en exemption totale ou partielle de la
-taxe intérieure de consommation, de la redevance prévue à l'article 266 ter et en suspension de la taxe sur la valeur ajoutée
-lorsqu'ils sont utilisés pour la fabrication des produits chimiques dont la ligne est fixée par décret.
+1. Les produits pétroliers visés au tableau B de l'article 265 ci-dessus sont admis en exonération de la taxe intérieure de
+consommation lorsqu'ils sont destinés à être utilisés :
 
-Ces décrets déterminent les conditions de mise en oeuvre des produits bénéficiant de ce régime fiscal et le montant de
-l'exonération applicable.
+a) autrement que comme carburant ou combustible de chauffage ;
 
-2. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis par décret en suspension des taxes et
-redevances, dont la perception incombe à l'administration des douanes, autres que celles visés au 1 ci-dessus.
+b) comme carburéacteur à bord des aéronefs ;
 
-Cette suspension est de droit pour les produits admis en exemption totale de la taxe intérieure de consommation dans les
-conditions fixées au 1 ci-dessus.
+c) comme carburant pour la navigation maritime dans les eaux communautaires, autre que la navigation d'agrément privée.
 
-3. Les décrets prévus aux 1 et 2 ci-dessus sont pris après avis d'une commission spéciale dont la composition est fixé par
-arrêté du ministre de l'économie et des finances et du ministre chargé de l'industrie.
+2. Le carburéacteur, identifié aux indices 13 bis et 17 bis du tableau B de l'article 265 du présent code, est exonéré de la
+taxe intérieure de consommation lorsqu'il est utilisé comme carburant pour la construction, la mise au point, les essais ou
+l'entretien des moteurs d'aviation à réaction ou à turbine.
+
+Les modalités d'application des exonérations visées ci-dessus sont fixées par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°66-923 1966-12-14 art. 4 JORF 15 décembre 1966
-
-	**Modifié par**:
-
-	  - Décret n°67-1218 1967-12-22 art. 5 JORF 30 décembre 1967
 
 	**Cité par**:
 
@@ -7585,6 +7576,10 @@ arrêté du ministre de l'économie et des finances et du ministre chargé de l'
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 31 () JORF 31 décembre 1992
 
 	**Cite**:
 
@@ -8081,6 +8076,89 @@ l'exception des produits se trouvant dans les cuves des stations-service.
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
+
+
+###### Article 266 quinquies
+
+1. Le gaz naturel repris à la position 2711.21.00 du tarif douanier est soumis à une taxe intérieure de consommation lors de
+sa livraison à l'utilisateur final.
+
+2. La taxe est exigible lorsque les quantités livrées au même utilisateur au cours des douze derniers mois précédant la
+période de facturation ont excédé 5 millions de kilowatt/heures. Elle est due par les entreprises de transport et de
+distribution, pour chaque facturation mensuelle, sur la fraction des livraisons excédant 400.000 kilowatt/heures. Lorsque la
+facturation n'est pas mensuelle, le chiffre de 400.000 kilowatt/heures est corrigé proportionnellement à la période couverte
+par la facturation.
+
+3. Sont exonérées les livraisons destinées au chauffage des immeubles à usage principal d'habitation.
+
+Sont également exonérées les livraisons de gaz destiné à être utilisé :
+
+a) Comme matière première ;
+
+b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
+l'article 265.
+
+4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
+
+5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à l'utilisateur final est relevé conformément aux
+dispositions du 4 de l'article 266.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 22 () JORF 31 décembre 1992
+
+	**Cité par**:
+
+	  - Loi - art. 23 (V)
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 3 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 5 (V)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 3 (V)
+	  - Décret n°2007-856 du 14 mai 2007 - art. 1 (M)
+	  - Décret n°2007-856 du 14 mai 2007 - art. 2 (Ab)
+	  - Décret n°2007-856 du 14 mai 2007 - art. 3 (Ab)
+	  - Arrêté du 12 mars 2008 (Ab)
+	  - Arrêté du 12 mars 2008 - art. 1 (Ab)
+	  - Arrêté du 12 mars 2008 - art. 2 (Ab)
+	  - Arrêté du 12 mars 2008 - art. 3 (Ab)
+	  - Décret n°2008-676 du 2 juillet 2008 - art. 2 (Ab)
+	  - Décret n°2008-676 du 2 juillet 2008 - art. 4 (Ab)
+	  - Arrêté du 4 août 2008 (Ab)
+	  - Arrêté du 4 août 2008 - art. 1 (Ab)
+	  - Arrêté du 4 août 2008 - art. 2 (Ab)
+	  - Arrêté du 4 août 2008 - art. 8 (Ab)
+	  - Arrêté du 5 août 2008 - art. 10 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 3 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 76 (V)
+	  - Décret n°2013-972 du 30 octobre 2013 (Ab)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 6 février 2015 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 - art. (V)
+	  - Décret n°2015-568 du 22 mai 2015 - art. 1 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
+	  - Décret n°2016-397 du 31 mars 2016 (V)
+	  - Décret n°2016-397 du 31 mars 2016 - art. 1 (V)
+	  - Code de l'énergie - art. D461-2 (V)
+	  - Code des douanes - art. 265 (VT)
+	  - Code des douanes - art. 265 nonies (V)
+	  - Code des douanes - art. 266 quinquies (V)
+	  - Code des douanes - art. 266 quinquies A (V)
+	  - Code des douanes - art. 266 quinquies B (V)
+	  - Code des douanes - art. 266 quinquies C (M)
+	  - Code des douanes - art. 267 (VD)
+	  - Code des douanes - art. 411 (V)
+	  - Code des douanes - art. 427 (V)
+	  - Code rural - art. L723-43 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 (M)
 
 
 ###### Article 266 ter
@@ -9481,36 +9559,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 
 # Titre XII : Contentieux
 
-## Chapitre Ier : Constatations des infractions douanières
-
-### Section 1 : Constatation par procès-verbal de saisie
-
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières
-
-##### B. - Saisies à domicile.
-
-###### Article 330
-
-1. En cas de saisie à domicile, les marchandises non prohibées ne sont pas déplacées, sous réserve que le prévenu donne
-caution solvable de leur valeur. Si le prévenu ne fournit pas caution, ou s'il s'agit d'objets prohibés, les marchandises
-sont transportés au plus prochain bureau ou confiées à un tiers gardien constitué soit sur les lieux de la saisie, soit dans
-une autre localité.
-
-2. L'officier municipal du lieu ou l'officier de police judiciaire, intervenu dans les conditions prévues à l'article 64 ci-
-dessus, doit assister à la rédaction du procès-verbal ; en cas de refus, il suffit, pour la régularité des opérations, que le
-procès-verbal contienne la mention de la réquisition et du refus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 64 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
 ## Chapitre II : Poursuites
 
 ### Section 1 : Dispositions générales.
@@ -9736,127 +9784,6 @@ douane où la contrainte a été décernée.
 
 	  - Décret n°71-360 du 6 mai 1971 - art. 24 (V)
 	  - Code des douanes - art. 352 (V)
-
-
-### Section 2 : Procédure devant les juridictions civiles
-
-#### Paragraphe 4 : Signification des jugements et autres actes de procédure.
-
-###### Article 362
-
-1. Les significations à l'administration des douanes sont faites à l'agent qui la représente.
-
-2. Les significations à l'autre partie sont faites conformément aux règles du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 349 (M)
-	  - Code des douanes - art. 389 bis (VD)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°59-625 1959-05-12 art. 3, art. 5 JORF 16 mai 1959
-
-
-### Section 5 : Dispositions diverses
-
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.
-
-###### Article 369
-
-1. S'il retient les circonstances atténuantes, le tribunal peut :
-
-a) Libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
-dans les cas où les actes de contrebande ou assimiles ont été commis par dissimulation dans des cachettes spécialement
-aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
-
-b) Libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
-
-c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
-marchandises ;
-
-d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
-437 ci-après ;
-
-e) Limiter, en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus,l'étendue de la solidarité à l'égard de
-certains des condamnés.
-
-Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains coprévenus pour un même fait de fraude, le
-tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
-seront solidairement tenus, il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
-fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
-
-S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut : dispenser le prévenu des sanctions
-pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
-soit pas mentionné au bulletin n° 2 du casier judiciaire.
-
-2. Les tribunaux ne peuvent relaxer les contrevenants pour défaut d'intention.
-
-3. Les tribunaux ne peuvent donner mainlevée de marchandises saisies qu'en jugeant définitivement le tout.
-
-4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°77-1453 1977-12-29 art. 10 I, II, III JORF 30 décembre 1977
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-	**Cité par**:
-
-	  - Code des douanes - art. 377 bis (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 437 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 370
-
-1. Si le contrevenant aux dispositions des articles 410, 411, 412, 413, 414 ou 416 du présent code commet dans les cinq ans
-qui suivent une transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des
-sanctions prévues par les articles précités, le taux maximal des pénalités encourues est doublé.
-
-2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
-autrui les formalités de douane.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
-
-	**Cite**:
-
-	  - Code des douanes - art. 410 (M)
-	  - Code des douanes - art. 411 (M)
-	  - Code des douanes - art. 412 (M)
-	  - Code des douanes - art. 413 (T)
-	  - Code des douanes - art. 414 (M)
-	  - Code des douanes - art. 416 (T)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
 ## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
