@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1978-07-08
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7206,6 +7206,80 @@ produit au moment de la mise à la consommation.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 268
+
+1. Les cigarettes, les cigares et cigarillos, le tabac à fumer, le tabac à mâcher et le tabac à priser, destinés à être
+consommés dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un droit
+de consommation.
+
+Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
+taux permettant leur vente au détail à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion à des prix égaux aux deux
+tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes et de tabac à fumer, à mâcher et à priser,
+et aux 85 p. 100 des prix de vente au détail en France continentale, s'il s'agit de cigares et de cigarillos.
+
+Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
+présentant la plus grande analogie avec les produits considérés.
+
+2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
+
+3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
+les instances instruites et jugées conformément aux dispositions du code des douanes.
+
+4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à
+fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements.
+
+5. Les dispositions du présent article concernant la Guyane sont applicables au territoire de l'Inini.
+
+6. Des arrêtés du ministre de l'économie et des finances fixent le montant du droit de consommation et déterminent les
+modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
+	  - Code des douanes - art. 268 ter (M)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°66-1011 1966-12-28 art. 1, art. 3, art. 4 JORF 29 décembre 1966
+
+
+###### Article 268 ter
+
+Pour l'application du droit prévu aux articles 268 et 268 bis ci-dessus, les échanges entre la France continentale, la région
+de Corse et chacun des départements d'outre-mer, sont assimilés à des opérations d'importation ou d'exportation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°76-448 1976-05-24 art. 17
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L151-1 (M)
+
+	**Cite**:
+
+	  - Code des douanes - art. 268 (M)
+	  - Code des douanes - art. 268 bis (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
 ## Chapitre II : Droit de timbre douanier.
 
 ###### Article 269
@@ -7582,6 +7656,83 @@ courte affecté du coefficient 0,5 et le nombre de véhicules circulant en zone 
 
 
 ## Chapitre VI : Droits et taxes divers.
+
+###### Article 285
+
+1. L'administration des douanes est également chargée de recouvrer ou de faire garantir la perception des taxes sur le
+chiffre d'affaires, des taxes intérieures prévues par la législation des contributions indirectes et de tous autres droits et
+taxes exigibles à l'importation ou à l'exportation.
+
+2. S'il s'agit d'importations dépourvues de tout caractère commercial, l'administration des douanes peut percevoir
+forfaitairement les taxes sur le chiffre d'affaires, les taxes intérieures et tous autres droits et taxes exigibles à
+l'importation sur les marchandises faisant l'objet de petits envois adressés à des particuliers ou contenues dans les bagages
+personnels des voyageurs.
+
+La taxe forfaitaire est recouvrée par le service des douanes suivant les mêmes règles, sous les mêmes garanties et les mêmes
+sanctions qu'en matière de droit de douane.
+
+Les conditions d'application de ladite taxe, et notamment ses taux et son assiette, sont fixées par un arrêté du ministre de
+l'économie et des finances.
+
+3. Conformément aux dispositions des articles L. 211-1 et suivants du code des ports maritimes, il peut être perçu dans les
+ports maritimes un droit de port en raison des opérations commerciales ou des séjours qui y sont effectués.
+
+4. Les taxes et redevances composant le droit de port sont perçues comme en matière de douane ; les infractions sont
+constatées et punies, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane.
+
+Les frais de perception et de procédure incombant à l'administration sont prélevés sur le produit des taxes et redevances
+dans les conditions fixées par arrêté du ministre du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+	  - Loi n°68-1247 1968-12-31 art. 12 JORF 3 janvier 1969
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Cité par**:
+
+	  - Arrêté du 28 janvier 1982
+	  - Arrêté du 28 janvier 1982 - art. 2 (V)
+	  - Arrêté du 28 janvier 1982 - art. 3 (V)
+	  - Arrêté du 28 janvier 1982 - art. ANNEXE (V)
+	  - Arrêté du 27 février 1987 - art. 1 (V)
+	  - Arrêté du 27 février 1987 - art. 3 (V)
+	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
+	  - Code des douanes - art. 413 (V)
+	  - Code des ports maritimes - art. L211-4 (VT)
+	  - Code des transports - art. L5321-3 (VD)
+	  - Code des transports - art. R5312-74 (V)
+	  - Code des transports - art. R5313-49 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 janvier 1982
+	  - TXT_SOURCE: Arrêté du 28 janvier 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 janvier 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 janvier 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 janvier 1982 - art. ANNEXE (V)
+	  - TXT_SOURCE: Arrêté du 27 février 1987
+	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. Annexe (V)
+
+	**Anciens textes**:
+
+	  - Code pénal 280
+	  - Code des ports maritimes - art. L211-1 (M)
+
+	**Cite**:
+
+	  - Code des ports maritimes - art. L211-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 285 bis
 
@@ -8580,6 +8731,33 @@ soit pas mentionné au bulletin n° 2 du casier judiciaire.
 	  - Décret n°48-1985 1948-12-08
 
 
+#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières
+
+##### F. - Paiement des sommes fraudées ou indûment obtenues.
+
+###### Article 377 bis
+
+En sus des pénalités fiscales, les tribunaux ordonnent le paiement des sommes fraudées ou indûment obtenues.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 343 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Anciens textes**:
+
+	  - Loi n°77-1453 1977-12-29 art. 7 et art. 10
+
+
 ## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
 
 ### Section 1 : Sûretés garantissant l'exécution
@@ -8863,6 +9041,38 @@ l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétitio
 	  - Arrêté du 4 mars 2013 (V)
 
 
+### Section 3 : Droit de remise.
+
+###### Article 390 bis
+
+1. Pour tenir compte des ressources et des charges des débiteurs ou d'autres circonstances particulières en ce qui concerne
+ceux qui font profession d'accomplir pour autrui les formalités de douane, des remises totales ou partielles des sanctions
+fiscales prononcées par les tribunaux peuvent être accordées par l'administration des douanes.
+
+2. Les demandes de remise sont instruites par l'administration des douanes et soumises au président de la juridiction qui a
+prononcé la condamnation.
+
+3. La remise ne peut être accordée qu'après avis conforme du président de la juridiction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°78-712 1978-06-21
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Anciens textes**:
+
+	  - Loi n°77-1453 1977-12-29 art. 16
+
+
 ### Section 4 : Répartition du produit des amendes et confiscations.
 
 ###### Article 391
@@ -8931,7 +9141,185 @@ circonstances de la visite peuvent éventuellement donner lieu.
 
 ### Section 1 : Classification des infractions douanières et peines principales
 
+#### Paragraphe 2 : Contraventions douanières
+
+##### B. - Deuxième classe.
+
+###### Article 411
+
+1. Est passible d'une amende comprise entre une et trois fois le montant des droits et taxes éludés ou compromis, toute
+infraction aux dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette
+irrégularité a pour but ou pour résultat d'éluder ou de compromettre le recouvrement d'un droit ou d'une taxe quelconque et
+qu'elle n'est pas spécialement réprimée par le présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent, les infractions ci-après quand elles se
+rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes :
+
+a) Les déficits dans le nombre des colis déclarés, manifestés ou transportés sous acquit-à-caution ou document en tenant
+lieu :
+
+b) Les déficits sur la quantité des marchandises placées sous un régime suspensif, en magasins et aires de dédouanement ou en
+magasins et aires d'exportation ;
+
+c) La non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ;
+
+d) La présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ;
+
+e) L'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ;
+
+f) Les excédents sur le poids, le nombre ou la mesure déclarés ;
+
+g) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
+d'un dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits pétroliers ;
+
+h) L'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus.
+
+3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le
+recouvrement de droits de port ou de redevances d'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°55-359 1955-04-03 art. 46 JORF 4 avril 1955
+	  - Loi n°63-1351 1963-12-31 art. 8 JORF 3 janvier 1964
+	  - Loi n°65-525 1965-07-03 art. 1, art. 2, art. 3, art. 4 JORF 4 juillet 1965
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 1 (Ab) JORF 29 décembre 1967
+	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
+	  - Loi n°56-865 1956-08-27 art. 17 JORF 31 août 1956
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
+	  - Décret n°90-317 du 9 avril 1990 - art. 6 (V)
+	  - Décret n°97-1279 du 23 décembre 1997 - art. 9 (V)
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 430 (V)
+	  - Code des douanes - art. 436 (V)
+	  - Code des instruments monétaires et des médailles - art. 20 (Ab)
+
+	**Cite**:
+
+	  - Code des douanes - art. 122 (V)
+
+
+##### D. - Quatrième classe.
+
+###### Article 413
+
+1. Est passible d'une amende comprise entre une et trois fois la valeur des marchandises litigieuses, toute infraction aux
+dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette irrégularité se
+rapporte à des marchandises de la catégorie de celles qui sont prohibées à l'entrée ou à la sortie et qu'elle n'est pas
+spécialement réprimée par le présent code.
+
+2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent les infractions visés à l'article 411-2 ci-
+dessus lorsqu'elles se rapportent à des marchandises de la catégorie de celles qui sont prohibées à l'entrée ou à la sortie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
+	  - Code des douanes - art. 370 (M)
+	  - Code des instruments monétaires et des médailles - art. 20 (Ab)
+
+	**Transféré par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
+
+	**Nouveaux textes**:
+
+	  - Code des douanes - art. 414 (M)
+
+	**Cite**:
+
+	  - Code des douanes 411-2
+
+
 #### Paragraphe 3 : Délits douaniers
+
+##### A. - Première classe.
+
+###### Article 414
+
+Sont passibles de la confiscation de l'objet de fraude, de la confiscation des moyens de transport, de la confiscation des
+objets servant à mesurer la fraude, d'une amende comprise entre une et trois fois la valeur de l'objet de fraude et d'un
+emprisonnement pouvant s'élever à trois mois, tout fait de contrebande ainsi que tout fait d'importation ou d'exportation
+sans déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
+fortement taxées, au sens du code des douanes, à l'entrée ou soumises à des taxes de consommation intérieure ou prohibées ou
+taxées à la sortie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°64-1278 1964-12-23 art. 40 Finances pour 1965 JORF 24 décembre 1964
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (Ab)
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
+	  - Loi n°92-1443 du 31 décembre 1992 - art. 17 (VT)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 10 (VT)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 26 (VT)
+	  - Arrêté du 29 juillet 2003 - art. 1 (V)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 1 (V)
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+	  - Arrêté du 2 mars 2007 - art. 1 (V)
+	  - Arrêté du 18 mai 2009 - art. 1 (V)
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Arrêté du 12 février 2013 (V)
+	  - Arrêté du 19 septembre 2013 (V)
+	  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
+	  - Code de l'énergie - art. L143-8 (V)
+	  - Code de la santé publique - art. L1336-6 (M)
+	  - Code de la sécurité intérieure - art. L233-1 (V)
+	  - Code de la sécurité intérieure - art. L251-2 (VD)
+	  - Code de procédure pénale - art. 706-1-1 (V)
+	  - Code de procédure pénale - art. 706-167 (V)
+	  - Code de procédure pénale - art. 866-2 (V)
+	  - Code de procédure pénale - art. 900-1 (V)
+	  - Code de procédure pénale - art. 934-3 (V)
+	  - Code des douanes - art. 323-5 (VD)
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 387 (V)
+	  - Code des douanes - art. 414-1 (V)
+	  - Code des douanes - art. 416 (V)
+	  - Code des douanes - art. 419 (VD)
+	  - Code des douanes - art. 432 bis (V)
+	  - Code des douanes - art. 64 (V)
+	  - Code des douanes - art. 67 bis (V)
+	  - Code des douanes - art. 67 bis-1 A (V)
+	  - Code des douanes - art. 67 sexies (V)
+
+	**Anciens textes**:
+
+	  - Code des douanes - art. 413 (T)
+	  - Code des douanes - art. 415 (T)
+	  - Code des douanes - art. 416 (T)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ##### B. - Deuxième classe.
 
@@ -8996,6 +9384,48 @@ marchandises de fraude.
 	**Nouveaux textes**:
 
 	  - Code des douanes - art. 414 (M)
+
+
+##### C. - Troisième classe.
+
+###### Article 416
+
+Sont passibles de la confiscation de l'objet de fraude, de la confiscation des moyens de transport, de la confiscation des
+objets servant à masquer la fraude, d'une amende comprise entre une et trois fois la valeur des objets confisqués et d'un
+emprisonnement de six mois à trois ans :
+
+1° Les délits de contrebande commis soit par plus de six individus, soit par trois individus ou plus, à cheval ou à
+vélocipède, que tous portent ou non des marchandises de fraude.
+
+2° Les délits de contrebande par aéronef, par véhicule attelé ou autopropulsé, par navire ou embarcation de mer de moins de
+100 tonneaux de jauge nette ou 500 tonneaux de jauge brute ou par bateau de rivière.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (Ab)
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
+	  - Code des douanes - art. 370 (M)
+	  - Code des douanes - art. 432 bis (M)
+
+	**Transféré par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
+
+	**Nouveaux textes**:
+
+	  - Code des douanes - art. 414 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 5 : Importations et exportations sans déclaration.
@@ -9111,6 +9541,49 @@ l'administration a été mise à même d'obtenir la communication ordonnée.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 3 : Peines privatives de droits.
+
+###### Article 432 bis
+
+1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
+prévues aux articles 414, 416 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne
+interposée, pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du
+permis de conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la
+suspension ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le
+condamné à faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues
+pour l'application du 1° de l'article 131-6 du code pénal.
+
+2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
+de 100.000 F ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (M)
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 158 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 131-6 (M)
+	  - Code des douanes - art. 414 (M)
+	  - Code des douanes - art. 416 (T)
+	  - Code des douanes - art. 459 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
 # Titre XIII : La commission de conciliation et d'expertise douanière.
@@ -9615,5 +10088,102 @@ exercée que sur la plainte du ministre de l'économie et des finances ou de l'u
 	**Créé par**:
 
 	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+
+
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.
+
+###### Article 460
+
+1. Il est institué un comité du contentieux fiscal, douanier et des changes chargé d'émettre un avis sur les transactions
+visées à l'article 350 a du présent code.
+
+2. Ce comité est composé, sous la présidence d'un conseiller d'Etat, de conseillers d'Etat, de conseillers à la Cour de
+cassation et de conseillers maîtres à la Cour des comptes, choisis parmi ces magistrats et ces fonctionnaires en activité ou
+à la retraite.
+
+3. Le président et les membres du comité ainsi que leurs suppléants sont nommés par décret pour trois ans.
+
+4. En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 350 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 463 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
+###### Article 461
+
+Le comité invite le redevable à produire, dans un délai de trente jours, les observations écrites que celui-ci juge utile de
+présenter à l'appui de sa demande de transaction, ou à présenter des observations orales à la séance où il sera convié. Pour
+présenter ses observations, le redevable peut se faire assister ou représenter par un conseil ou représentant de son choix
+tenu pour les faits de l'espèce au respect du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
+###### Article 462
+
+Le comité élabore à l'intention du Gouvernement et du Parlement un rapport annuel, qui fera l'objet d'une publication, sur
+les conditions dans lesquelles ont été conclues les transactions relevant de la compétence des services extérieurs de la
+direction générale des douanes et droits indirects ; il procède dans les services extérieurs de cette direction aux enquêtes
+qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des membres du
+comité.
+
+Un décret en Conseil d'Etat fixe la composition et les conditions de fonctionnement du comité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
+###### Article 463
+
+1. Le comité prévu à l'article 460 ci-dessus peut être consulté par le ministre du budget sur toute question générale ou
+particulière relative au contentieux fiscal, douanier et des changes. 
+
+2. Il peut également faire, de sa propre initiative, au ministre du budget, les observations et recommandations qu'il estime
+utiles. Tout assujetti au respect de la réglementation fiscale, douanière et des changes et tout organisme représentatif de
+ces assujettis peut informer le comité des difficultés rencontrées en matière contentieuse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 460 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
