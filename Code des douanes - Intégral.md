@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1963-08-22
+Version Consolidée au 1964-01-03
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -568,6 +568,27 @@ fixer ce tonnage ;
 	  - Décret n°48-1985 1948-12-08
 
 
+### Section 9 : Règlements généraux des douanes.
+
+###### Article 26
+
+1. Sauf dispositions contraires y contenues, les conditions d'application du présent code relatives à l'application des
+droits sont fixées par des arrêtés du ministre de l'économie et des finances.
+
+2. Ces arrêtés doivent être, en outre, signés par les autres ministres intéressés, dans tous les cas prévus par le présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 9 JORF 3 janvier 1964
+
+
 ## Chapitre IV : Conditions d'application de la loi tarifaire
 
 ### Section 1 : Généralités.
@@ -917,21 +938,6 @@ matière d'indication d'origine, par la loi du 20 avril 1932 et les décrets pri
 	  - Loi n°1932-04-20
 
 
-###### Article 41
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°63-1351 1963-12-31 art. 11 JORF 3 janvier 1964 rectificatif JORF 14 janvier 1964
-
-
 ## Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.
 
 ###### Article 42 bis
@@ -958,6 +964,43 @@ gestion des services de sécurité sociale qu'au regard des administrations char
 
 
 # Titre II : Organisation et fonctionnement du service des douanes
+
+## Chapitre Ier : Champ d'action du service des douanes.
+
+###### Article 43
+
+1. L'action du service des douanes s'exerce sur l'ensemble du territoire douanier dans les conditions fixées par le présent
+code.
+
+2. Une zone de surveillance spéciale est organisée le long des frontières terrestres et maritimes. Elle constitue le rayon
+des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 2 JORF 3 janvier 1964
+
+
+###### Article 45
+
+Le tracé de la limite intérieure de la zone terrestre du rayon est fixé par des arrêtés du ministre de l'économie et des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 2 JORF 3 janvier 1964
+
 
 ## Chapitre II : Organisation des bureaux et des brigades de douane
 
@@ -1636,6 +1679,33 @@ précédent, pendant les heures de leur fermeture.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 77
+
+1. Tout conducteur de marchandises doit, dès son arrivée au bureau de douane, remettre au service des douanes, à titre de
+déclaration sommaire, une feuille de route indiquant les objets qu'il transporte.
+
+2. Les marchandises prohibées doivent être portées sur cette feuille de route sous leur véritable dénomination, par nature et
+espèce.
+
+3. Les marchandises qui arrivent après la fermeture du bureau de douane sont déposées sans frais dans les dépendances dudit
+bureau jusqu'au moment de son ouverture ; dans ce cas, la déclaration sommaire doit être remise au service des douanes dès
+l'ouverture du bureau.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 14 JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Code des douanes - art. 410 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ### Section 3 : Transports par la voie aérienne.
 
 ###### Article 78
@@ -1723,6 +1793,31 @@ effectués par la voie aérienne.
 	  - Décret n°48-1985 1948-12-08
 
 
+## Chapitre II : Exportation.
+
+###### Article 83
+
+1. Les marchandises destinées à être exportées doivent être conduites à un bureau de douane ou dans les lieux désignés par le
+service des douanes.
+
+2. Sur les frontières terrestres, il est interdit aux transporteurs de prendre aucun chemin tendant à contourner ou à éviter
+les bureaux de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Code des douanes - art. 417 (V)
+
+
 # Titre IV : Opérations de dédouanement
 
 ## Chapitre Ier : Déclaration en détail
@@ -1746,6 +1841,39 @@ article.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 85
+
+1. La déclaration en détail doit être déposée dans un bureau de douane ouvert à l'opération douanière envisagée.
+
+2. La déclaration en détail doit être déposée au plus tard avant l'expiration d'un délai fixé par le directeur général des
+douanes et droits indirects, à compter de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des
+douanes. Ce dépôt doit avoir lieu pendant les heures fixées par le directeur général des douanes et droits indirects.
+
+3. Le directeur général des douanes et droits indirects peut autoriser le dépôt des déclarations en détail avant l'arrivée
+des marchandises au bureau ou dans les lieux désignés par le service des douanes. Des arrêtés du directeur général des
+douanes et droits indirects fixent les conditions d'application de cette disposition, et notamment les conditions et délais
+dans lesquels il doit être justifié de l'arrivée des marchandises au bureau ou dans les lieux désignés par le service des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Arrêté du 24 décembre 1992 - art. 1 (V)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 100 ter (V)
+	  - Code des douanes - art. 99 bis (V)
 
 
 ### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.
@@ -1978,6 +2106,34 @@ marchandises sont déterminées par arrêté du directeur général des douanes 
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 99 bis
+
+Pour l'application du présent code, et notamment des droits et taxes, des prohibitions et autres mesures, les déclarations
+déposées par anticipation ne prennent effet, avec toutes les conséquences attachées à l'enregistrement, qu'à partir de la
+date à laquelle il est justifié, dans les conditions et délais prévus au 3 de l'article 85 ci-dessus, de l'arrivée des
+marchandises et sous réserve que lesdites déclarations satisfassent aux conditions requises à cette date en vertu de
+l'article 95 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 III JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Code des douanes - art. 108 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 85 (V)
+	  - Code des douanes - art. 95 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 100
 
 1. Après leur enregistrement, les déclarations ne peuvent plus être modifiées.
@@ -2000,6 +2156,32 @@ des marchandises.
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 	  - Code des douanes - art. 377 (V)
+
+
+###### Article 100 bis
+
+1. Des arrêtés du directeur général des douanes et droits indirects peuvent déterminer des procédures simplifiées de
+dédouanement prévoyant notamment que certaines indications des déclarations en détail seront fournies ou reprises
+ultérieurement sous la forme de déclarations complémentaires pouvant présenter un caractère global, périodique ou
+récapitulatif.
+
+2. Les mentions des déclarations complémentaires sont réputées constituer, avec les mentions des déclarations auxquelles
+elles se reportent respectivement, un acte unique et indivisible prenant effet à la date d'enregistrement de la déclaration
+initiale correspondante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 4 JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Code des douanes - art. 423 (V)
 
 
 ## Chapitre II : Vérification des marchandises
@@ -2110,6 +2292,39 @@ représenter le déclarant défaillant et assister à la vérification.
 
 ## Chapitre III : Liquidation et acquittement des droits et taxes
 
+### Section 1 : Liquidation des droits et taxes.
+
+###### Article 108
+
+1. Sous réserve des dispositions de l'article 99 bis, les droits et taxes à percevoir sont ceux qui sont en vigueur à la date
+d'enregistrement de la déclaration en détail. 
+
+2. En cas d'abaissement du taux des droits de douane, le déclarant peut demander l'application du nouveau tarif plus
+favorable que celui qui était en vigueur à la date d'enregistrement de la déclaration en détail pour la consommation, si
+l'autorisation prévue à l'article 113 n'a pas encore été donnée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 V JORF 3 janvier 1964
+
+	**Cite**:
+
+	  - Code des douanes - art. 113 (V)
+	  - Code des douanes - art. 99 bis (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 130 (V)
+	  - Code des douanes - art. 156 (Ab)
+	  - Code des douanes - art. 290 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ### Section 2 : Paiement au comptant.
 
 ###### Article 110
@@ -2182,6 +2397,35 @@ du ministre de l'économie et des finances.
 
 
 ## Chapitre IV : Enlèvement des marchandises
+
+### Section 1 : Règles générales.
+
+###### Article 113
+
+1. Il ne peut être disposé des marchandises conduites dans les bureaux de douane ou dans les lieux désignés par le service
+des douanes, sans l'autorisation du service et sans que les droits et taxes n'aient été préalablement payés, consignés ou
+garantis.
+
+2. Les marchandises conduites dans les bureaux de douane doivent être enlevées dès la délivrance de cette autorisation, sauf
+délais spécialement accordés par le service des douanes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 3 VI JORF 3 janvier 1964
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (M)
+	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
+	  - Arrêté du 12 avril 2013 - art. (V)
+	  - Code des douanes - art. 108 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ### Section 2 : Crédit d'enlèvement.
 
@@ -2920,23 +3164,6 @@ ainsi que celle concernant l'espèce des produits mis en oeuvre pour la fabricat
 	  - Code des douanes 174 bis à 174 quinquies
 
 
-## Chapitre VIII : Dépôts spéciaux.
-
-###### Article 178
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
-
-
 # Titre VI : Dépôt de douane
 
 ## Chapitre Ier : Constitution des marchandises en dépôt.
@@ -3141,6 +3368,56 @@ pris au départ ; les vivres ou provisions restants sont déchargés, après dé
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.
+
+###### Article 196 bis
+
+1. Les voyageurs qui viennent séjourner temporairement dans le territoire douanier peuvent importer, en franchise temporaire
+des droits et taxes exigibles à l'entrée, les objets exclusivement destinés à leur usage personnel qu'ils apportent avec eux.
+
+Sont exclus de cette mesure les objets prohibés à l'importation.
+
+2. Les modalités d'application du présent article sont fixées par des arrêtés du ministre de l'économie et des finances qui
+peuvent notamment subordonner l'importation en franchise temporaire à la souscription d'acquits-à-caution, déterminer les
+conditions d'utilisation et de réexportation des objets importés en franchise temporaire et déroger aux dispositions du 1
+précédent visant les objets prohibés dans la mesure où il ne s'agit pas de prohibitions instituées dans un intérêt d'ordre
+public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
+
+
+###### Article 196 ter
+
+1. Les voyageurs qui vont séjourner temporairement hors du territoire douanier peuvent exporter en franchise temporaire des
+droits et taxes de sortie les objets exclusivement destinés à leur usage personnel qu'ils emportent avec eux.
+
+Sont exclus de cette mesure les objets prohibés à l'exportation.
+
+2. Les modalités d'application du présent article sont fixées par des arrêtés du ministre de l'économie et des finances qui
+peuvent notamment subordonner l'exportation à la souscription d'acquits-à-caution, déroger aux dispositions du 1 précédent
+visant les objets prohibés à l'exportation dans la mesure où il ne s'agit pas de prohibitions instituées dans un intérêt
+d'ordre public et déterminer les conditions de réimportation desdits objets en franchise et en dérogation aux prohibitions
+d'importation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
 # Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier
