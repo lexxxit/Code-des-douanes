@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-18
+Version Consolidée au 1958-12-21
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -182,6 +182,22 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 
 ### Section 4 : Mesures particulières.
 
+###### Article 18
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 13 avril 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 19
 
 (adoption d'une réglementation CEE qui se substitue au droit national).
@@ -191,6 +207,25 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 	**Cité par**:
 
 	  - Arrêté du 13 avril 2016 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 19 bis
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 58-1264 1958-12-20 art. 2 JORF 21 décembre 1958
+
+	**Cité par**:
+
+	  - Code des douanes - art. 426 (M)
 
 	**Codifié par**:
 
