@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1966-12-23
+Version Consolidée au 1967-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3958,6 +3958,14 @@ de plus de cinq ans.
 	**Cité par**:
 
 	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
+
+
+### Section 6 : Droit d'escale
+
+###### Article 240 bis
+
+(texte abrogé)
+
 
 
 ### Section 7 : Hypothèques maritimes
