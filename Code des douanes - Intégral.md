@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-10-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2670,34 +2670,124 @@ ou qui circulent dans le rayon des douanes.
 
 ###### Article 67 bis
 
-Afin de constater les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées
-comme stupéfiants, d'identifier les auteurs et complices de ces infractions ainsi que ceux qui y ont participé comme
-intéressés au sens de l'article 399 et d'effectuer les saisies prévues par le présent code, les agents des douanes habilités
-par le ministre chargé des douanes dans des conditions fixées par décret peuvent, après en avoir informé le procureur de la
-République et sous son contrôle, procéder à la surveillance de l'acheminement de ces substances ou plantes.
+I. - Sans préjudice de l'application des dispositions des articles 60, 61, 62, 63, 63 bis, 63 ter et 64, afin de constater
+les délits douaniers, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement, les agents des douanes
+habilités par le ministre chargé des douanes dans des conditions fixées par décret procèdent sur l'ensemble du territoire
+national, après en avoir informé le procureur de la République et sauf opposition de ce magistrat, à la surveillance de
+personnes contre lesquelles il existe une ou plusieurs raisons plausibles de les soupçonner d'être les auteurs d'un délit
+douanier ou d'y avoir participé comme complices ou intéressés à la fraude au sens de l'article 399.
 
-Ils ne sont pas pénalement responsables lorsque, aux mêmes fins, avec l'autorisation du procureur de la République et sous
-son contrôle, ils acquièrent, détiennent, transportent ou livrent ces substances ou plantes ou mettent à la disposition des
-personnes les détenant ou se livrant aux infractions douanières mentionnées à l'alinéa précédent des moyens de caractère
-juridique, ainsi que des moyens de transport, de dépôt et de communication. L'autorisation ne peut être donnée que pour des
-actes ne déterminant pas la commission des infractions visées au premier alinéa.
+Les mêmes dispositions sont applicables pour la surveillance de l'acheminement ou du transport des objets, biens ou produits
+tirés de la commission de ces infractions ou servant à les commettre.
 
-Les dispositions des deux alinéas précédents sont, aux mêmes fins, applicables aux substances qui sont utilisées pour la
-fabrication illicite des produits stupéfiants et dont la liste est fixée par décret, ainsi qu'aux matériels servant à cette
-fabrication.
+L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, selon le cas, au procureur de la
+République près le tribunal de grande instance dans le ressort duquel les opérations de surveillance sont susceptibles de
+débuter ou au procureur de la République saisi en application des dispositions de l'article 706-76 du code de procédure
+pénale.
 
-Ne sont pas pénalement punissables les agents des douanes qui accomplissent, en ce qui concerne les fonds sur lesquels porte
-l'infraction prévue par l'article 415 et pour la constatation de celle-ci, les actes mentionnés aux deux premiers alinéas.
+II. - Lorsque les investigations le justifient et afin de constater les infractions douanières d'importation, d'exportation
+ou de détention de substances ou plantes classées comme stupéfiants, de contrebande de tabac manufacturé, d'alcool et
+spiritueux, et de contrefaçon de marque, ainsi que celles prévues à l'article 415 du présent code et aux articles L. 716-9 à
+L. 716-11 du code de la propriété intellectuelle, d'identifier les auteurs et complices de ces infractions ainsi que ceux qui
+y ont participé comme intéressés au sens de l'article 399 du présent code et d'effectuer les saisies prévues par le présent
+code, le procureur de la République peut autoriser qu'il soit procédé, sous son contrôle, à une opération d'infiltration dans
+les conditions prévues par le présent article.
+
+L'infiltration consiste, pour un agent des douanes spécialement habilité dans des conditions fixées par décret, agissant sous
+la responsabilité d'un agent de catégorie A chargé de coordonner l'opération, à surveiller des personnes suspectées de
+commettre un délit douanier en se faisant passer, auprès de ces personnes, comme un de leurs coauteurs, complices ou
+intéressés à la fraude. L'agent des douanes est à cette fin autorisé à faire usage d'une identité d'emprunt et à commettre si
+nécessaire les actes mentionnés ci-après. A peine de nullité, ces actes ne peuvent constituer une incitation à commettre des
+infractions.
+
+L'infiltration fait l'objet d'un rapport rédigé par l'agent de catégorie A ayant coordonné l'opération qui comprend les
+éléments strictement nécessaires à la constatation des infractions et ne mettant pas en danger la sécurité de l'agent
+infiltré et des personnes requises au sens du III.
+
+III. - Les agents des douanes autorisés à procéder à une opération d'infiltration peuvent, sans être pénalement responsables
+de ces actes et sur l'ensemble du territoire national :
+
+a) Acquérir, détenir, transporter, livrer ou délivrer des substances, biens, produits, documents ou informations tirés de la
+commission des infractions ;
+
+b) Utiliser ou mettre à disposition des personnes se livrant à ces infractions des moyens de caractère juridique ainsi que
+des moyens de transport, de dépôt, d'hébergement, de conservation et de télécommunication.
+
+L'exonération de responsabilité prévue au premier alinéa est également applicable, pour les actes commis à seule fin de
+procéder à l'opération d'infiltration, aux personnes requises par les agents des douanes pour permettre la réalisation de
+cette opération.
+
+IV. - A peine de nullité, l'autorisation donnée en application du II est délivrée par écrit et doit être spécialement
+motivée.
+
+Elle mentionne la ou les infractions qui justifient le recours à cette procédure et l'identité de l'agent des douanes sous la
+responsabilité duquel se déroule l'opération.
+
+Cette autorisation fixe la durée de l'opération d'infiltration, qui ne peut excéder quatre mois. L'opération peut être
+renouvelée dans les mêmes conditions de forme et de durée. Le magistrat qui a autorisé l'opération peut, à tout moment,
+ordonner son interruption avant l'expiration de la durée fixée.
+
+L'autorisation est versée au dossier de la procédure après achèvement de l'opération d'infiltration.
+
+V. - L'identité réelle des agents des douanes ayant effectué l'infiltration sous une identité d'emprunt ne doit apparaître à
+aucun stade de la procédure.
+
+La révélation de l'identité de ces agents est punie de cinq ans d'emprisonnement et de 75000 euros d'amende.
+
+Lorsque cette révélation a causé des violences, coups et blessures à l'encontre de ces personnes ou de leurs conjoints,
+enfants et ascendants directs, les peines sont portées à sept ans d'emprisonnement et à 100000 euros d'amende.
+
+Lorsque cette révélation a causé la mort de ces personnes ou de leurs conjoints, enfants et ascendants directs, les peines
+sont portées à dix ans d'emprisonnement et à 150000 euros d'amende, sans préjudice, le cas échéant, de l'application des
+dispositions du chapitre Ier du titre II du livre II du code pénal.
+
+VI. - En cas de décision d'interruption de l'opération ou à l'issue du délai fixé par la décision autorisant l'opération et
+en l'absence de prolongation, l'agent infiltré peut poursuivre les activités mentionnées au III, sans en être pénalement
+responsable, afin de lui permettre de cesser sa surveillance dans des conditions assurant sa sécurité sans que cette durée
+puisse excéder quatre mois. Le magistrat ayant délivré l'autorisation prévue au II en est informé dans les meilleurs délais.
+Si, à l'issue du délai de quatre mois, l'agent infiltré ne peut cesser sa surveillance dans des conditions assurant sa
+sécurité, ce magistrat en autorise la prolongation pour une durée de quatre mois au plus.
+
+VII. - L'agent des douanes sous la responsabilité duquel se déroule l'opération d'infiltration peut seul être entendu en
+qualité de témoin sur l'opération.
+
+Toutefois, s'il ressort du rapport mentionné au II que la personne mise en examen ou comparaissant devant la juridiction de
+jugement est directement mise en cause par des constatations effectuées par un agent ayant personnellement réalisé les
+opérations d'infiltration, cette personne peut demander à être confrontée avec cet agent dans les conditions prévues par
+l'article 706-61 du code de procédure pénale.
+
+Les questions posées à l'agent infiltré à l'occasion de cette confrontation ne doivent pas avoir pour objet ni pour effet de
+révéler, directement ou indirectement, sa véritable identité.
+
+VIII. - Lorsque la surveillance prévue au I doit être poursuivie dans un Etat étranger, elle est autorisée par le procureur
+de la République. Les procès-verbaux d'exécution de l'observation ou rapports y afférents ainsi que l'autorisation d'en
+poursuivre l'exécution sur le territoire d'un Etat étranger sont versés au dossier de la procédure.
+
+Avec l'accord préalable du ministre de la justice saisi d'une demande d'entraide judiciaire à cette fin, les agents des
+douanes étrangers peuvent poursuivre sur le territoire de la République, sous la direction d'agents des douanes français, des
+opérations d'infiltration conformément aux dispositions du présent article. L'accord du ministre de la justice peut être
+assorti de conditions. L'opération doit ensuite être autorisée par le procureur de la République près le tribunal de grande
+instance de Paris, dans les conditions prévues au II.
+
+Le ministre de la justice ne peut donner son accord que si les agents étrangers sont affectés dans leur pays à un service
+spécialisé et exercent des missions similaires à celles des agents nationaux spécialement habilités mentionnés au II.
+
+Avec l'accord des autorités judiciaires étrangères, les agents des douanes étrangers mentionnés au deuxième alinéa du présent
+VIII peuvent également, conformément aux dispositions du présent article, participer sous la direction d'agents des douanes
+français à des opérations d'infiltration conduites sur le territoire de la République dans le cadre d'une procédure douanière
+nationale.
+
+IX. - Aucune condamnation ne peut être prononcée sur le seul fondement de déclarations faites par des agents des douanes
+ayant procédé à une infiltration.
+
+Les dispositions du présent IX ne sont cependant pas applicables lorsque les agents des douanes déposent sous leur véritable
+identité.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°91-1264 du 19 décembre 1991 - art. 2 () JORF 20 décembre 1991
 
 	**Cité par**:
 
@@ -2714,6 +2804,7 @@ l'infraction prévue par l'article 415 et pour la constatation de celle-ci, les 
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 (date d'effet)
 	  - TXT_SOURCE: Décret n°2004-976 du 15 septembre 2004
 	  - TXT_SOURCE: Décret n°2004-976 du 15 septembre 2004 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°2004-976 du 15 septembre 2004 - art. 2 (V)
@@ -2721,10 +2812,24 @@ l'infraction prévue par l'article 415 et pour la constatation de celle-ci, les 
 	  - TXT_SOURCE: Décret n°2004-976 du 15 septembre 2004 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°2004-976 du 15 septembre 2004 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
+
 	**Cite**:
 
+	  - Code de la propriété intellectuelle L716-9 à L716-11
+	  - CODE DE PROCEDURE PENALE - art. 706-61 (MMN)
+	  - CODE DE PROCEDURE PENALE - art. 706-76 (M)
 	  - Code des douanes - art. 399 (V)
 	  - Code des douanes - art. 415 (T)
+	  - Code des douanes - art. 60 (V)
+	  - Code des douanes - art. 61 (V)
+	  - Code des douanes - art. 62 (M)
+	  - Code des douanes - art. 63 (V)
+	  - Code des douanes - art. 63 bis (M)
+	  - Code des douanes - art. 63 ter (M)
+	  - Code des douanes - art. 64 (M)
 
 
 ### Section 8 : Retenue provisoire des personnes dans le cadre de la convention d'application de l'accord de Schengen du 14 juin 1985.
@@ -13186,20 +13291,28 @@ l'exercer accessoirement à l'action publique.
 ses agents ont été saisis en application des I et II de l'article 28-1 du code de procédure pénale. Cette action est, dans
 ces cas, exercée par le ministère public, et les dispositions de l'article 350 ne sont pas applicables.
 
+Dans ces mêmes procédures, l'administration des douanes exerce l'action en paiement des droits et taxes compromis ou éludés,
+prévue à l'article 377 bis. A cette fin, elle est informée de la date de l'audience par l'autorité judiciaire compétente.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2002-1576 2002-12-30
+	  - Code des douanes - art. 350 (V)
+	  - Code des douanes - art. 377 bis (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-204 2004-03-09 art. 207 (date d'effet)
 
 	**Modifié par**:
 
-	  - Loi n°99-515 du 23 juin 1999 - art. 28 (V) JORF 24 juin 1999 en vigueur le 1er janvier 2000
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
 	  - Code de procédure pénale - art. 28-1 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 350 (V)
 
 	**Codifié par**:
 
@@ -17130,27 +17243,35 @@ est inférieur à 7600 euros.
 
 ###### Article 465
 
-1. La méconnaissance des obligations énoncées à l'article 464 ci-dessus sera punie de la confiscation du corps du délit ou,
-lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale, au minimum, au quart et, au
-maximum, au montant de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article 464 est punie d'une amende égale au quart de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
-2. Le présent article ne s'applique pas aux relations financières entre le territoire douanier français, d'une part, les
-territoires d'outre-mer et les collectivités départementale de Mayotte et territoriale de Saint-Pierre-et-Miquelon, d'autre
-part.
+II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
+somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
+autorisation du procureur de la République du lieu de la direction des douanes dont dépend le service chargé de la procédure,
+dans la limite de six mois au total.
 
-**Nota:**
+La somme consignée est saisie et sa confiscation peut être prononcée par la juridiction compétente si, pendant la durée de la
+consignation, il est établi que l'auteur de l'infraction mentionnée au I est ou a été en possession d'objets laissant
+présumer qu'il est ou a été l'auteur d'une ou plusieurs infractions prévues et réprimées par le présent code ou qu'il
+participe ou a participé à la commission de telles infractions ou s'il y a des raisons plausibles de penser que l'auteur de
+l'infraction visée au I a commis une infraction ou plusieurs infractions prévues et réprimées par le code des douanes ou
+qu'il a participé à la commission de telles infractions.
 
-Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité).
+La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures de consignation et
+saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'application des sanctions fiscales.
+
+III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions
+fixées par le présent code.
+
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du
+code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
-
 	**Modifié par**:
 
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+	  - Décret n°2004-759 du 27 juillet 2004 - art. 2 () JORF 30 juillet 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -17159,39 +17280,12 @@ Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), a
 
 	**Cite**:
 
+	  - CGI 1759
 	  - Code des douanes - art. 464 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 466
-
-Sous réserve de l'article 465 ci-dessus, les dispositions du titre XII du présent code sont applicables aux infractions aux
-obligations fixées au présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2004-759 du 27 juillet 2004 - art. 3 (V) JORF 30 juillet 2004 en vigueur le 1er octobre 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-759 du 27 juillet 2004 - art. 3 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 465 (M)
 
 
 # Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne
