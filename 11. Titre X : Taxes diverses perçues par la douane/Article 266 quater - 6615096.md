@@ -8,7 +8,7 @@ taxe spéciale de consommation sur les produits désignés ci-après :
     <tr>
       <td width="154">
 
-Numéro du tarif douanier
+Numéros du tarif des douanes
 
 </td>
       <td width="154">
@@ -23,7 +23,7 @@ Unité de perception
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 27 10 50
 
@@ -40,17 +40,17 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 00
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Essences et supercarburants
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Hectolitre
 
@@ -62,7 +62,7 @@ Hectolitre
 27 10 00
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Gazole présentant un point d'éclair inférieur à 120 °C
 
@@ -73,17 +73,35 @@ Hectolitre
 
 </td>
     </tr>
+    <tr>
+      <td valign="top" width="154">
+
+38 24 90
+
+</td>
+      <td valign="top" width="154">
+
+Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
+volume sans dépasser 20 % en volume : autre, destinée à être utilisée comme carburant
+
+</td>
+      <td valign="top" width="154">
+
+Hectolitre
+
+</td>
+    </tr>
   </tbody>
 </table>
 
-2. Le taux de cette taxe est fixé par arrêté du préfet sur proposition du conseil général. Ce taux ne peut excéder :
+2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
 
 a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
 b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
 
-2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
+2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
 régional aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
@@ -92,13 +110,6 @@ chez les importateurs, producteurs, raffineurs, négociants et distributeurs de 
 l'exception des produits se trouvant dans les cuves des stations-service.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté 1988-02-05 art. 4 JORF 28 février 1988
-	  - Loi n°88-15 du 5 janvier 1988 - art. 52 (V) JORF 6 janvier 1988
-	  - Loi n°88-1149 1988-12-23 art. 27 IV, V Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er juillet 1989
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
 
 	**Codifié par**:
 
@@ -121,6 +132,11 @@ l'exception des produits se trouvant dans les cuves des stations-service.
 	  - Code général des collectivités territoriales - art. L3332-1 (V)
 	  - Code général des collectivités territoriales - art. L4331-2 (V)
 	  - Code général des collectivités territoriales - art. L4434-2 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 27 () JORF 31 décembre 1998
+	  - Loi - art. 39 (V) JORF 31 décembre 1999
 
 	**Cite**:
 

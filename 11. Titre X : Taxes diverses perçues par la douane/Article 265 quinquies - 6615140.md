@@ -1,20 +1,17 @@
 # Article 265 quinquies
 
-1. Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
+Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
 réfaction de 6,63 F par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
-territoire du département de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance
-et de sport : 
+territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
 
 <table>
   <tbody>
     <tr>
       <td width="166">
 
-NUMERO
+NUMEROS
 
-de la nomenclature
-
-du système harmonisé
+du tarif des douanes
 
 </td>
       <td width="237">
@@ -31,12 +28,12 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td width="166" valign="top" rowspan="2">
+      <td valign="top" width="166">
 
 27.10.00
 
 </td>
-      <td width="237" valign="top">
+      <td valign="top" width="237">
 
 Supercarburants
 
@@ -47,23 +44,8 @@ Supercarburants
 
 </td>
     </tr>
-    <tr>
-      <td width="237" valign="top">
-
-Essence normale
-
-</td>
-      <td valign="top" width="202">
-
-indice 12
-
-</td>
-    </tr>
   </tbody>
 </table>
-
-2. En ce qui concerne l'essence utilisée pour les travaux agricoles, la réfaction prévue au 1 ci-dessus s'ajoute au
-dégrèvement institué à l'article 265 quater.
 
 **Liens relatifs à cet article**
 
@@ -71,16 +53,12 @@ dégrèvement institué à l'article 265 quater.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°67-1114 1967-12-21 art. 20 IV Finances pour 1968 JORF 22 décembre 1967
-
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+	  - Loi - art. 39 (V) JORF 31 décembre 1999
+	  - Loi n°99-1172 1999-12-30 art. 39 VIII, IX Finances pour 2000 JORF 31 décembre 1999
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 265 quater (M)
