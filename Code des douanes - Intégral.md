@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1996-02-27
+Version Consolidée au 1996-04-13
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1960,6 +1960,213 @@ ressources naturelles, à l'intérieur des zones de sécurité prévues par la l
 	  - Décret n°48-1985 1948-12-08
 
 
+### Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.
+
+###### Article 63 ter
+
+Afin de procéder aux investigations nécessaires à la recherche et à la constatation des infractions prévues au présent code,
+les agents des douanes ayant au moins le grade de contrôleur ont accès aux locaux et lieux à usage professionnel, ainsi
+qu'aux terrains et aux entrepôts où les marchandises et documents se rapportant à ces infractions sont susceptibles d'être
+détenus. Aux mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+
+Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
+sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
+de commercialisation.
+
+Le procureur de la République est préalablement informé des opérations visées au premier alinéa et peut s'y opposer. Un
+procès-verbal de constat relatant le déroulement des opérations de contrôle lui est transmis dans les cinq jours suivant son
+établissement. Une copie en est transmise à l'intéressé dans le même délai.
+
+Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
+d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
+besoins de l'enquête ou en prendre copie.
+
+Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres
+de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à
+mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
+les autres Etats membres de la Communauté européenne.
+
+Le présent article ne s'applique pas à la partie des locaux et lieux cités au premier alinéa qui est également affectée au
+domicile privé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°96-314 1996-04-12 art. 38 I, II JORF 13 avril 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 9 avril 2001 - art. 4 (V)
+	  - Arrêté du 18 juillet 2002 - art. 8 (V)
+	  - Arrêté du 21 avril 2005 - art. 8 (V)
+	  - Décret n°2010-428 du 28 avril 2010 (V)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 9 (V)
+	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (V)
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 11
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 12
+	  - Code des douanes - art. 450 (Ab)
+	  - Code des douanes - art. 67 bis (V)
+	  - Code rural - art. L251-18 (M)
+	  - Code rural - art. L951-18 (T)
+	  - Code rural ancien - art. 363-1 (Ab)
+	  - Code rural et  de la pêche maritime - art. L236-6 (V)
+	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 64
+
+1. Pour la recherche et la constatation des délits douaniers, visés aux articles 414 à 429 et 459 du présent code, les agents
+des douanes habilités à cet effet par le directeur général des douanes et droits indirects peuvent procéder à des visites en
+tous lieux, même privés, où les marchandises et documents se rapportant à ces délits sont susceptibles d'être détenus et
+procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+
+2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du président du tribunal de
+grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure, ou d'un juge délégué par
+lui.
+
+L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce
+pourvoi n'est pas suspensif. Les délais de pourvoi courent à compter de la notification ou de la signification de
+l'ordonnance.
+
+L'ordonnance comporte :
+
+- le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+
+- l'adresse des lieux à visiter ;
+
+- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
+visite.
+
+Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
+
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
+la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
+agissements visés au 1, sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
+qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
+verbal prévu au b du 2.
+
+Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
+doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
+
+Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
+
+La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a lieu en dehors du ressort de son tribunal de
+grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au président du tribunal de grande instance
+dans le ressort duquel s'effectue la visite.
+
+Le juge peut se rendre dans les locaux pendant l'intervention.
+
+A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
+reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au b du 2. En l'absence de l'occupant des lieux
+ou de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La
+notification est réputée faite à la date de réception figurant sur l'avis.
+
+A défaut de réception, il est procédé à la signification de l'ordonnance dans les conditions prévues par les articles 550 et
+suivants du code de procédure pénale.
+
+Les délais et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
+
+b) La visite ne peut être commencée avant six heures ni après vingt et une heures. Elle est effectuée en présence de
+l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
+choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des douanes.
+
+Les agents des douanes mentionnés au 1 ci-dessus, l'occupant des lieux ou son représentant et l'officier de police judiciaire
+peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+
+L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+
+Le procès-verbal, auquel est annexé un inventaire des marchandises et documents saisis, est signé par les agents des douanes,
+l'officier de police judiciaire et par les personnes mentionnées au premier alinéa du présent b ; en cas de refus de signer,
+mention en est faite au procès-verbal.
+
+Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
+lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
+police judiciaire ; l'inventaire est alors établi.
+
+Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux ou à son représentant.
+
+Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a délivré l'ordonnance dans les trois jours de son
+établissement.
+
+3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de police judiciaire :
+
+a) pour opérer les visites, recensements et contrôles à domicile chez les titulaires d'un compte ouvert d'animaux ou d'un
+titre de pacage ;
+
+b) pour la recherche des marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 332
+ci-après, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon.
+
+4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
+	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 10 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 11 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 12 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 13 (V)
+	  - Ordonnance n°2009-799 du 24 juin 2009 - art. 14 (V)
+	  - Loi n°2011-267 du 14 mars 2011 - art. 126
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 7 (V)
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 9 (V)
+	  - Code des douanes - art. 330 (V)
+	  - Code des douanes - art. 403 (V)
+	  - Code des douanes - art. 413 ter (V)
+	  - Code des douanes - art. 454 (V)
+	  - Code des douanes - art. 67 bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 80 I, II Finances pour 1987 JORF 31 décembre 1986
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P) JORF 30 décembre 1989
+	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2000-516 2000-06-15 art. 140 (dérogations)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 550 (M)
+	  - CODE DE PROCEDURE PENALE - art. 56 (M)
+	  - CODE DE PROCEDURE PENALE - art. 58 (M)
+	  - Code des douanes - art. 332 (V)
+	  - Code des douanes - art. 459 (M)
+	  - Code des douanes 332, 414 à 429, 459
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ### Section 3 : Droit de communication
 
 #### Paragraphe 1 : Droit de communication de l'administration des finances.
@@ -2228,25 +2435,26 @@ européenne.
 
 ###### Article 65 B
 
-L'administration des douanes peut mettre en oeuvre les dispositions prévues par les articles 60, 61 et 65 afin d'assurer le
-respect des prescriptions spéciales applicables aux échanges de certaines marchandises communautaires avec les autres Etats
-membres de la Communauté européenne.
+L'administration des douanes peut mettre en oeuvre les dispositions prévues par les articles 60,61,63 ter et 65 afin
+d'assurer le respect des prescriptions spéciales applicables aux échanges de certaines marchandises communautaires avec les
+autres Etats membres de la Communauté européenne. 
+
+La liste des marchandises visées à l'alinéa précédent est fixée par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 113 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Cite**:
-
-	  - Code des douanes - art. 60 (V)
-	  - Code des douanes - art. 61 (V)
-	  - Code des douanes - art. 65 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°96-314 1996-04-12 art. 38 III, IV JORF 13 avril 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
+
+	**Cite**:
+
+	  - Code des douanes - art. 60 (V)
 
 
 ###### Article 65 C
@@ -12101,20 +12309,20 @@ l'Etat.
 ###### Article 450
 
 1. Lorsque des contestations relatives à l'espèce, à l'origine ou à la valeur sont soulevées après le dédouanement des
-marchandises lors des contrôles et enquêtes effectués dans les conditions prévues notamment par les articles 65 et 334 ci-
-dessus :
+marchandises lors des contrôles et enquêtes effectués dans les conditions prévues notamment par les articles 63 ter, 65 et
+334 ci-dessus :
 
-a) L'une ou l'autre partie peuvent, dans les deux mois suivant notification de l'acte administratif de constatation de
+a) l'une ou l'autre partie peuvent, dans les deux mois suivant notification de l'acte administratif de constatation de
 l'infraction, consulter pour avis la commission de conciliation et d'expertise douanière, laquelle dispose, à cet effet, des
 pouvoirs définis à l'article 445-1 ci-dessus ;
 
-b) La partie qui a pris l'initiative de cette consultation informe simultanément l'autre partie ou son représentant du
+b) la partie qui a pris l'initiative de cette consultation informe simultanément l'autre partie ou son représentant du
 recours à cette consultation ;
 
-c) L'avis de la commission de conciliation et d'expertise douanière doit être notifié aux parties dans un délai maximal de
+c) l'avis de la commission de conciliation et d'expertise douanière doit être notifié aux parties dans un délai maximal de
 douze mois pendant lequel le cours des prescriptions visées aux articles 351 et 354 du présent code est suspendu ;
 
-d) En cas de procédure subséquente devant les tribunaux, les conclusions rendues par la commission de conciliation et
+d) en cas de procédure subséquente devant les tribunaux, les conclusions rendues par la commission de conciliation et
 expertise douanière dans le cadre de la consultation visée aux a et b du présent article sont versées par le président de
 cette commission au dossier judiciaire.
 
@@ -12142,15 +12350,16 @@ compétente pour statuer sur les litiges douaniers, est confiée à ladite commi
 
 	**Modifié par**:
 
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 11 () JORF 30 décembre 1977
+	  - Loi n°96-314 du 12 avril 1996 - art. 38 () JORF 13 avril 1996
 
 	**Cite**:
 
 	  - Code des douanes - art. 334 (V)
 	  - Code des douanes - art. 351 (V)
 	  - Code des douanes - art. 354 (M)
+	  - Code des douanes - art. 63 ter (M)
 	  - Code des douanes - art. 65 (M)
-	  - Code des douanes 65, 445-1, 351, 354, 334
+	  - Code des douanes 63 ter, 65, 334, 445-1, 351, 354
 
 
 # Titre XIV : Contentieux des relations financières avec l'étranger
