@@ -1,9 +1,106 @@
 # Code des douanes  
-Version Consolidée au 1963-01-03
+Version Consolidée au 1963-07-12
 
 # Titre Ier : Principes généraux du régime des douanes
 
 ## Chapitre Ier : Généralités.
+
+###### Article 1
+
+1. Le territoire douanier comprend les territoires et les eaux territoriales de la France continentale, de la Corse, des îles
+françaises voisines du littoral, et des départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la
+Réunion.
+
+2. Des zones franches, soustraites à tout ou partie du régime des douanes, peuvent être constituées dans les territoires
+susvisés.
+
+3. Des territoires ou parties de territoires étrangers peuvent être inclus dans le territoire douanier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 15 (Ab)
+	  - Décret n°99-723 du 3 août 1999 - art. 2 (VT)
+	  - Arrêté du 14 juin 2002 - art. 3 (Ab)
+	  - Arrêté du 4 mai 2012 (V)
+	  - Arrêté du 13 avril 2016 - art. 5 (V)
+	  - Arrêté du 13 avril 2016 - art. 6 (V)
+	  - Code de la propriété intellectuelle - art. L335-10 (V)
+	  - Code de la propriété intellectuelle - art. L521-14 (V)
+	  - Code de la propriété intellectuelle - art. L521-7 (M)
+	  - Code de la propriété intellectuelle - art. L623-36 (V)
+	  - Code de la propriété intellectuelle - art. L716-8 (V)
+	  - Code des douanes - art. 65 A bis (V)
+	  - Code des douanes - art. 65 C (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 juin 1987
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. Annexe Ab (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. Annexe I (Ab)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. Annexe IAb (V)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. Annexe II (Ab)
+	  - TXT_SOURCE: Arrêté du 15 juin 1987 - art. Annexe III (Ab)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe II (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe III (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe IV (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe V (V)
+	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe VI (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 2
 
@@ -2174,6 +2271,25 @@ b) au 2 de ce même article, s'il s'agit d'une exportation par la voie aérienne
 	  - Code des douanes - art. 73 (V)
 
 
+###### Article 117
+
+1. Aucun navire, chargé ou sur lest, ne peut sortir du port avant l'accomplissement des formalités douanières et sans être
+muni :
+
+- des expéditions de douane concernant le navire lui-même et sa cargaison ;
+
+- d'un manifeste visé par la douane présentant les marchandises de réexportation originaires de l'étranger.
+
+2. Le manifeste, les connaissements et les expéditions de douane doivent être représentés à toute réquisition des agents des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 118
 
 Les commandants de la marine militaire nationale quittant les ports doivent remplir toutes les formalités auxquelles sont
@@ -2212,6 +2328,38 @@ aéronefs et à leurs cargaisons.
 	**Cite**:
 
 	  - Code des douanes - art. 78 (V)
+
+
+## Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires.
+
+###### Article 119 bis
+
+1. Dans les relations entre deux parties du territoire douanier, le service des douanes du territoire de départ est autorisé,
+pour le compte du service des douanes du territoire de destination, à procéder aux opérations douanières, à percevoir le
+montant des droits et taxes dont le recouvrement incombe normalement à ce dernier et à appliquer, à titre général, l'ensemble
+des mesures d'ordre législatif ou réglementaire en vigueur pour l'importation dans ce territoire.
+
+Dans ces mêmes relations, le service de douanes du territoire de destination est également autorisé, pour le compte du
+service des douanes du territoire de départ, à procéder aux opérations douanières, à percevoir le montant des droits et taxes
+applicables à la sortie de ce territoire et à appliquer, à titre général, l'ensemble des mesures d'ordre législatif ou
+réglementaire en vigueur pour l'exportation hors de ce territoire.
+
+2. Ces dispositions peuvent être étendues, avec l'accord des autorités qualifiées, aux relations directes entre le territoire
+douanier et les territoires d'outre-mer de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 5 JORF 18 décembre 1958
+
+	**Cité par**:
+
+	  - Code des douanes - art. 429 (V)
 
 
 # Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux
@@ -4712,65 +4860,6 @@ code des douanes.
 	  - Code des douanes - art. 8 (P)
 
 
-### Section 3 : Algérie.
-
-###### Article 301
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 301 bis
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°51-1242 1951-10-31 art. 1 JORF 4 novembre 1951
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 302
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
 ## Chapitre II : Régime douanier des échanges entre les différentes parties du territoire douanier.
 
 ###### Article 303
@@ -4993,36 +5082,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 310
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 312
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
 
 
 ## Chapitre III : Importations du Maroc.
