@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1966-12-15
+Version Consolidée au 1966-12-23
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -566,6 +566,25 @@ fixer ce tonnage ;
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+### Section 8 : Transport direct.
+
+###### Article 25 bis
+
+Lorsque l'application de certains régimes douaniers est subordonnée au transport direct des marchandises, des dérogations
+temporaires ou permanentes à cette condition peuvent être accordées par le ministre de l'économie et des finances, après
+consultation des autres ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°66-948 1966-12-22 art. 9 I Finances rectificative pour 1966 JORF 23 décembre 1966
 
 
 ### Section 9 : Règlements généraux des douanes.
@@ -6446,6 +6465,94 @@ marchandises de fraude.
 	**Nouveaux textes**:
 
 	  - Code des douanes - art. 414 (M)
+
+
+#### Paragraphe 5 : Importations et exportations sans déclaration.
+
+###### Article 426
+
+Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
+
+1° Toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
+délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
+déclarations ou par tous autres moyens frauduleux ;
+
+2° Toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
+marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
+qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
+est demandée restent en France ;
+
+3° Les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
+réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
+documents faux, inexacts, incomplets ou non applicables ;
+
+4° Les fausses déclarations ou manoeuvres ayant pour but ou effet d'obtenir, en tout ou partie, un remboursement, une
+exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
+infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
+remboursement, une exonération, un droit réduit ou un avantage financier ;
+
+5° Le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
+de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
+préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
+marchandises sortant du territoire douanier français ou y entrant ;
+
+6° Les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
+compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°60-1356 1960-12-17 art. 12 Finances pour 1961 JORF 18 décembre 1960
+	  - Loi n°66-937 1966-12-17 art. 12 JORF 18 décembre 1966
+	  - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Code des douanes - art. 436 (V)
+	  - Code des douanes - art. 438 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 19 bis (P)
+	  - Code des douanes 38-3, 19 bis
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 428
+
+1. Est réputée exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit législatives,
+soit réglementaires portant prohibition d'exportation ou de réexpédition ou bien subordonnant l'exportation ou la
+réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières lorsque la fraude a été
+faite ou tentée par les bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du présent code.
+
+2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
+déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportateur est passible des peines de
+l'exportation sans déclaration s'il est établi que cette réexpédition a été effectuée sur ses instructions, à son instigation
+ou avec sa complicité, ou encore s'il est démontré qu'il en a tiré profit ou qu'il avait connaissance de la réexpédition
+projetée au moment de l'exportation.
+
+3. Les dispositions du 1 ci-dessus ne sont pas applicables aux infractions aux règles de qualité ou de conditionnement
+imposées à l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
 ### Section 2 : Peines complémentaires
