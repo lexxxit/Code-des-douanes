@@ -11,6 +11,17 @@ par le réseau de mesure de ces organismes les contributions ou dons de toute na
 l'année civile précédente. Cette déduction s'exerce dans la limite de 1 million de francs ou à concurrence de 25 % des
 cotisations de taxe dues.
 
+3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
+assouplissants pour le linge, les grains minéraux naturels, les produits antiparasitaires à usage agricole et les produits
+assimilés mentionnés respectivement aux 5, 6 et 7 du I de l'article 266 sexies donnent lieu, sur demande, à remboursement de
+la taxe afférente lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
+
+4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
+avec les personnes physiques ou morales dont ils réceptionnent les déchets.
+
+5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
+avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -31,18 +42,19 @@ cotisations de taxe dues.
 	  - Arrêté du 19 avril 2017 - art. 1 (V)
 	  - Code des douanes - art. 266 undecies (VD)
 
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 

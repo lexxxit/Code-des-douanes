@@ -10,17 +10,22 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 coefficients de modulation prennent en compte, dans un rapport de un à cinquante, l'heure du décollage et les
 caractéristiques acoustiques de l'appareil ;
 
-4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies.
+4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
+
+5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
+assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
+
+6. Le poids des grains minéraux naturels mentionnés au 6 du I de l'article 266 sexies ;
+
+7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
+l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
+produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -30,7 +35,16 @@ caractéristiques acoustiques de l'appareil ;
 	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
+
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+
 	**Cite**:
 
 	  - Code des douanes - art. 266 septies (M)
 	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)

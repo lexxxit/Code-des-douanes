@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1999-12-31
+Version Consolidée au 2000-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8421,6 +8421,616 @@ Ces marchandises ou épaves sont placées sous double surveillance des services 
 
 ## Chapitre Ier : Taxes intérieures.
 
+###### Article 265
+
+1. - Les huiles minérales reprises aux tableaux B et C ci-après sont passibles d'une taxe intérieure de consommation dont le
+tarif est fixé comme suit :
+
+Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992).
+
+Tableau B : Produits pétroliers et assimilés.
+
+1. Nomenclature et tarif.
+
+Numéros du tarif des douanes, désignation des produits, indice d'identification, unité de perception et quotité (en francs)
+
+. Ex 2706-00, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
+les goudrons reconstitués, utilisés comme combustibles : indice 1, 100 kg net, 8,03.
+
+. 2705-50, Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume y compris les pertes à
+250° C d'après la méthode A.S.T.M. D 86, destinés à être utilisés comme carburants ou combustibles : indice 2, hectolitre ou
+100 kg net (suivant les caractéristiques du produit), taxe intérieure applicable aux huiles légères ou moyennes du 2710-00,
+suivant les caractéristiques du produit.
+
+. 2709-00, Huiles brutes de pétrole ou de minéraux bitumineux :
+
+indice 3, hectolitre ou 100 kg net (suivant les caractéristiques du produit), taxe intérieure applicable aux huiles légères
+ou moyennes du 2710-00, suivant les caractéristiques du produit.
+
+. 2710-00, Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni
+comprises ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles
+constituent l'élément de base :
+
+1° Huiles légères.
+
+. Essences spéciales, White spirit,
+
+- destiné à être utilisé comme combustible : indice 4 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à
+l'indice 20.
+
+- autre : indice 5, exemption.
+
+. Essences spéciales, autres essences spéciales,
+
+- destinées à être utilisées comme carburants ou combustibles :
+
+indice 6, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+
+- autres : indice 9, exemption.
+
+. Autres huiles légères, essences pour moteur :
+
+. Essences d'aviation : indice 10, hectolitre, 212,25.
+
+- supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
+d'identification n° 11 bis : indice 11, hectolitre, 384,62.
+
+- supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, contenant un additif spécifique améliorant les
+caractéristiques antirécesion de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
+dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen : indice
+11 bis, hectolitre, 417,68.
+
+. Carburéacteurs, type essence :
+
+- sous condition d'emploi : indice 13, hectolitre, 14,76.
+
+- autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+
+. Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+
+2° Huiles moyennes.
+
+. Pétrole lampant :
+
+- sous condition d'emploi : indice 15 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à l'indice 20.
+
+- autre : indice 16, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C, visé à l'indice
+22.
+
+. Carburéacteurs, type pétrole lampant :
+
+- sous condition d'emploi : indice 17, hectolitre, 14,76.
+
+- autre : indice 17 bis, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C, visé à
+l'indice 22.
+
+. Autres huiles moyennes : indice 18, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C,
+visé à l'indice 22.
+
+3° Huiles lourdes.
+
+. Gazole :
+
+- sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 51,73.
+
+- présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 255,18.
+
+- autre : indice 23, exemption.
+
+. Fioul :
+
+. Fioul présentant une viscosité cinématique à 20° C inférieure ou égale à 9,5 centistockes :
+
+- présentant un point d'éclair inférieur à 120° C : indice 26, hectolitre, taxe intérieure applicable au gazole d'un point
+éclair inférieur à 120° C, visé à l'indice 22.
+
+- autre : indice 27, exemption.
+
+. Fiouls lourds :
+
+- d'une teneur en soufre supérieure à 2 % : indice 28, 100 kg net, 15,23.
+
+- d'une teneur en soufre inférieure à 2 % : indice 28 bis, 100 kg net, 11,01.
+
+. Huiles lubrifiantes et autres : indice 29, exemption.
+
+. 2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
+
+. destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane
+représente plus de 50 % en poids :
+
+- sous condition d'emploi : indice 30 bis, 100 kg net, 25,86.
+
+- autre : indice 30 ter, 100 kg net, 65,71.
+
+. destiné à d'autres usages : indice 31, exemption.
+
+. 2711-13, Butanes liquéfiés :
+
+. destinés à être utilisés comme carburant, y compris le mélange spécial de butane et de propane dans lequel le butane
+représente au moins 50 % en poids :
+
+- sous condition d'emploi : indice 31 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+
+- autres : indice 31 ter, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+
+. destinés à d'autres usages : indice 32, exemption.
+
+. 2711-14, Ethylène, propylène, butylène et butadiène : indice 33, exemption.
+
+. 2711-19, Autres gaz liquéfiés :
+
+. destinés à être utilisés comme carburant :
+
+- sous condition d'emploi : indice 33 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+
+- autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+
+. non dénommés : indice 35, exemption.
+
+. Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 55,00.
+
+. 2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
+
+. destinés à être utilisés comme carburant : indice 38 bis, 100 mètres cubes, taxe intérieure applicable au gaz naturel
+comprimé utilisé comme carburant visé à l'indice 36.
+
+. destinés à d'autres usages : indice 39, exemption.
+
+. 2712-10, Vaseline : indice 40, exemption.
+
+. 2712-20, Paraffine contenant en poids moins de 0,75 % d'huile :
+
+indice 41, exemption.
+
+. Ex 2712-90, Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés : indice
+42, exemption.
+
+. Ex 2715-00, Bitumes fluxés ("cut-backs"), émulsions de bitume de pétrole et similaires : indice 47, exemption.
+
+. 3403-11, Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant
+moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux :
+
+indice 48, exemption.
+
+. Ex 3403-19, Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux :
+indice 49, exemption.
+
+. 3811 21-00, Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux : indice 51,
+exemption.
+
+. Ex 3824 90-95, Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou
+supérieure à 7 % en volume sans dépasser 20 % en volume :
+
+- sous condition d'emploi : indice 52, hectolitre, 40,85.
+
+- autre, destinée à être utilisée comme carburant : indice 53, hectolitre, 198,95.
+
+- autre, destinée à un usage autre que carburant ou combustible : indice 54, hectolitre, exemption.
+
+2. Règles d'application.
+
+a) et b) (alinéas abrogés).
+
+c) Pour les produits taxables à la masse, la taxe est assise sur la masse commerciale (masse dans l'air) exprimée en
+kilogrammes. Pour les produits liquides taxables au volume, la taxe est assise sur le volume mesuré à l'état liquide, à la
+température de 15° C et exprimé en litres.
+
+Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'état gazeux destinés à être utilisés comme
+carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
+température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
+
+Tableau C : Autres huiles minérales.
+
+1. Définition (division abrogée).
+
+2. Tarif et règles d'application.
+
+Les produits visés au présent tableau sont exemptés de la taxe intérieure de consommation, sauf lorsqu'ils sont destinés à
+être utilisés comme carburant ou combustible.
+
+3. Nomenclature.
+
+Numéros du tarif des douanes, désignation des produits, indice d'identification
+
+. Ex 2706, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
+les goudrons reconstitués, destinés à des usages autres que combustibles.
+
+. 2707 10, Benzols, indice 1.
+
+. 2707 20, Toluols, indice 2.
+
+. 2707 30, Xylois, indice 3.
+
+. 2707 50-91 et 2707 50-99, Solvant-naphta et autres mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou
+plus de leur volume (y compris les pertes) à 250° C d'après la méthode A.S.T.M. D 86, destinés à des usages autres que
+carburants ou combustibles, indice 4.
+
+. 2707 91-00, Huiles de créosote.
+
+. 2707 99-11, Huiles légères brutes distillant 90 % ou plus de leur volume jusqu'à 200° C.
+
+. 2707 99-19, Autres huiles brutes.
+
+. Ex 2711-12, Propane liquéfié d'une pureté égale ou supérieure à 99 %.
+
+. Ex 2715-00, Mélanges bitumineux autres que les bitumes fluxés, émulsions de bitume de pétrole et similaires.
+
+. 2901, Hydrocarbures acycliques.
+
+. 2902 11, Cyclohexane, indice 12.
+
+. Ex 2902-19, Autres hydrocarbures cyclaniques et cycléniques (à l'exclusion de l'azulène et de ses dérivés alkylés), indice
+13.
+
+. 2902 20, Benzène, indice 14.
+
+. 2902 30, Toluène, indice 15.
+
+. 2902 41 00, O-xylène, indice 16.
+
+. 2902 42 00, M-xylène, indice 17.
+
+. 2902 43 00, P-xylène, indice 18.
+
+. 2902 44, Isomères du xylène en mélange, indice 19.
+
+. 3403 19 10, Préparation contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux non considérés comme
+constituants de base.
+
+. Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs
+anticorrosifs et autres additifs préparés pour huiles minérales ou autres liquides utilisés aux mêmes fins (à l'exclusion des
+produits repris au 38 11 21 00).
+
+. 3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
+
+2. - (abrogé).
+
+3. - Tout produit destiné à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif ou en vue
+d'accroitre le volume final des carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable
+au carburant dans lequel il est incorporé ou auquel il se substitue.
+
+Tout hydrocarbure destiné à être utilisé, mis en vente ou utilisé pour le chauffage est soumis à la taxe intérieure de
+consommation au taux prévu pour les combustibles auxquels il se substitue. Cette disposition ne s'applique ni aux
+hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, ni au gaz naturel.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°52-401 du 14 avril 1952 - art. 38 (V)
+	  - Loi n°56-331 du 27 mars 1956 - art. 4 (V)
+	  - Décret n°70-333 du 9 avril 1970 - art. 1 (Ab)
+	  - Décret n°70-333 du 9 avril 1970 - art. 3 (Ab)
+	  - Arrêté du 29 avril 1970 - art. 1 (Ab)
+	  - Arrêté du 29 avril 1970 - art. 4 (Ab)
+	  - Arrêté du 29 avril 1970 - art. 5 (Ab)
+	  - Arrêté du 29 avril 1970 - art. 8 bis (Ab)
+	  - Arrêté du 9 novembre 1972 - art. 1 (Ab)
+	  - Arrêté du 9 novembre 1972 - art. 1 (V)
+	  - Arrêté du 22 décembre 1978 - art. 1 (Ab)
+	  - Arrêté du 22 décembre 1978 - art. 3 (Ab)
+	  - Arrêté du 22 décembre 1978 - art. 5 (M)
+	  - Arrêté du 22 décembre 1978 - art. 5 bis (Ab)
+	  - Arrêté du 22 décembre 1978 - art. 9 ter (Ab)
+	  - Loi n°82-669 du 3 août 1982 - art. 3 (V)
+	  - Décret n°82-1109 du 23 décembre 1982 - art. 1 (V)
+	  - Décret n°82-1110 du 23 décembre 1982 - art. 1 (V)
+	  - Décret n°83-285 du 8 avril 1983 - art. 3 (P)
+	  - Loi n°83-332 du 22 avril 1983 - art. 1 (V)
+	  - Arrêté du 18 mai 1983 - art. 1 (V)
+	  - Ordonnance n°83-392 du 18 mai 1983 - art. 6 (V)
+	  - Décret n°83-548 du 24 juin 1983 - art. 1 (V)
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 34 (V)
+	  - Arrêté du 8 juin 1984 - art. 1 (P)
+	  - Arrêté du 9 juillet 1984 - art. 1 (V)
+	  - Arrêté du 30 décembre 1984 - art. 2 (V)
+	  - Décret n°85-37 du 10 janvier 1985 - art. 3 (Ab)
+	  - Arrêté du 31 décembre 1986 - art. 1 (V)
+	  - Décret n°87-216 du 27 mars 1987 - art. 8 (V)
+	  - Décret n°87-218 du 27 mars 1987 - art. 1 (V)
+	  - Décret n°87-218 du 27 mars 1987 - art. Annexe II (V)
+	  - Décret n°87-219 du 27 mars 1987 - art. 1 (V)
+	  - Décret n°87-219 du 27 mars 1987 - art. Annexe II (V)
+	  - Arrêté du 19 octobre 1987 - art. 23 (V)
+	  - Loi n°87-1061 du 30 décembre 1987 - art. 17 (V)
+	  - Arrêté du 22 juin 1988 - art. 1 (V)
+	  - Arrêté du 22 juin 1988 - art. 4 (V)
+	  - Décret n°88-970 du 11 octobre 1988 - art. 1 (V)
+	  - Décret n°88-971 du 11 octobre 1988 - art. 1 (V)
+	  - Décret n°88-1271 du 30 décembre 1988 - art. 2 (V)
+	  - Décret n°90-132 du 12 février 1990 - art. 3 (V)
+	  - Décret n°90-317 du 9 avril 1990 - art. 1 (M)
+	  - Décret n°90-431 du 23 mai 1990 - art. 1 (V)
+	  - Décret n°90-432 du 23 mai 1990 - art. 1 (V)
+	  - Décret n°90-432 du 23 mai 1990 - art. Annexe III (V)
+	  - Arrêté du 14 juin 1990 - art. 1 (V)
+	  - Loi n°91-5 du 3 janvier 1991 - art. 37 (V)
+	  - Décret n°91-165 du 13 février 1991 - art. 1 (V)
+	  - Décret n°91-285 du 19 mars 1991 - art. 3 (V)
+	  - Loi - art. 27 (V)
+	  - Loi - art. 32 (V)
+	  - Décret n°92-98 du 29 janvier 1992 - art. 3 (V)
+	  - Arrêté du 27 mars 1992 - art. 19 (V)
+	  - Loi n°92-676 du 17 juillet 1992 - art. 5 (Ab)
+	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (VT)
+	  - Décret n°92-1028 du 18 septembre 1992 - art. 1 (V)
+	  - Décret n°92-1327 du 18 décembre 1992 - art. 1 (V)
+	  - Loi - art. 23 (V)
+	  - Décret n°93-80 du 19 janvier 1993 - art. 3 (V)
+	  - Arrêté du 15 mars 1993 - art. 1 (Ab)
+	  - Arrêté du 5 mai 1993 - art. Annexe (Ab)
+	  - Arrêté du 8 juin 1993 - art. 10 bis (V)
+	  - Arrêté du 8 juin 1993 - art. 12 (V)
+	  - Arrêté du 8 juin 1993 - art. 7 (V)
+	  - Arrêté du 8 juin 1993 - art. 9 (V)
+	  - Décret n°93-1094 du 13 septembre 1993 - art. 1 (V)
+	  - Arrêté du 9 septembre 1993 - art. 1 (V)
+	  - Arrêté du 9 septembre 1993 - art. 13 (V)
+	  - Arrêté du 26 octobre 1993 - art. 1 (Ab)
+	  - Arrêté du 6 décembre 1993 - art. 1 (V)
+	  - Arrêté du 6 décembre 1993 - art. 6 (V)
+	  - Décret n°94-27 du 11 janvier 1994 - art. 3 (V)
+	  - Loi n°94-1162 du 29 décembre 1994 - art. 15 (Ab)
+	  - Décret n°94-1214 du 30 décembre 1994 - art. 3 (V)
+	  - Arrêté du 25 juillet 1996 - art. 8 (Ab)
+	  - Décret n°96-1023 du 22 novembre 1996 - art. 13 (V)
+	  - Décret n°97-201 du 5 mars 1997 - art. 3 (V)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Loi - art. 25 (P)
+	  - Loi - art. 6 (P)
+	  - Décret n°97-1279 du 23 décembre 1997 - art. 1 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 2 (VT)
+	  - Décret n°99-723 du 3 août 1999 - art. 4 (V)
+	  - Loi - art. 39 (V)
+	  - Loi - art. 12 (V)
+	  - Décret n°2001-58 du 18 janvier 2001 - art. 1 (V)
+	  - Décret n°2001-58 du 18 janvier 2001 - art. 2 (V)
+	  - Décret n°2001-58 du 18 janvier 2001 - art. 3 (V)
+	  - Arrêté du 18 juillet 2002 - art. 1 (V)
+	  - Arrêté du 18 juillet 2002 - art. 9 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 10 (V)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 11 (Ab)
+	  - Loi n°2004-639 du 2 juillet 2004 - art. 3-1 (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V)
+	  - Décret n°2005-184 du 25 février 2005 - art. 1 (Ab)
+	  - Arrêté du 21 avril 2005 - art. 1 (V)
+	  - Décret n°2005-566 du 20 mai 2005 - art. 1 (V)
+	  - Décret n°2005-958 du 9 août 2005 - art. 3 (V)
+	  - Décret n°2005-1626 du 21 décembre 2005 - art. 1 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 5 (V)
+	  - Décret n°2006-127 du 6 février 2006 - art. 1 (V)
+	  - Arrêté du 4 août 2006 - art. 4 (VT)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 1 (V)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 16 (V)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 20 (V)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 28 (V)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 27 (V)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 3 (V)
+	  - Décret n°2007-446 du 25 mars 2007 - art. 12 (V)
+	  - Décret n°2007-446 du 25 mars 2007 - art. 7 (V)
+	  - Décret n°2007-722 du 7 mai 2007 - art. 1 (Ab)
+	  - Arrêté du 18 décembre 2007 - art. 27 (V)
+	  - Arrêté du 18 décembre 2007 - art. 9 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Décret n°2008-49 du 15 janvier 2008 - art. 1 (V)
+	  - Décret n°2008-423 du 30 avril 2008 - art. 1 (Ab)
+	  - Arrêté du 25 juin 2008 - art. 1 (V)
+	  - Arrêté du 25 juin 2008 - art. 4 (V)
+	  - Arrêté du 5 août 2008 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 5 (V)
+	  - Arrêté du 9 octobre 2008 (V)
+	  - Décret n°2009-40 du 12 janvier 2009 - art. 1 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 76 (V)
+	  - Décret n°2010-715 du 29 juin 2010 - art. 1 (V)
+	  - Décret n°2010-1663 du 29 décembre 2010 - art. 2 (VT)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 76 (V)
+	  - Arrêté du 10 décembre 2010 - art. 2 (V)
+	  - Décret n°2011-478 du 29 avril 2011 - art. 1 (V)
+	  - Arrêté du 13 octobre 2011 - art. 1 (V)
+	  - Arrêté du 10 novembre 2011 (V)
+	  - Arrêté du 10 novembre 2011 - art. 1 (V)
+	  - Arrêté du 10 novembre 2011 - art. 10 (V)
+	  - Arrêté du 10 novembre 2011 - art. 2 (V)
+	  - Arrêté du 10 novembre 2011 - art. 6 (V)
+	  - Arrêté du 10 novembre 2011 - art. 7 (V)
+	  - Arrêté du 10 novembre 2011 - art. 9 (V)
+	  - Arrêté du 26 janvier 2012 (V)
+	  - Arrêté du 8 février 2012 (V)
+	  - Décret n°2012-382 du 19 mars 2012 (V)
+	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
+	  - Décret n°2012-993 du 23 août 2012 - art. 1 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 61 (V)
+	  - Arrêté du 12 avril 2013 - art. (V)
+	  - Arrêté du 12 avril 2013 - art. 1 (V)
+	  - Arrêté du 23 juillet 2013 - art. 1 (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 36 (V)
+	  - Décret n°2014-1668 du 29 décembre 2014 - art. 2 (Ab)
+	  - Décret n°2015-568 du 22 mai 2015 - art. 1 (V)
+	  - Arrêté du 28 mai 2015 (V)
+	  - Arrêté du 28 mai 2015 - art. 1 (V)
+	  - Arrêté du 3 juin 2015 (V)
+	  - Arrêté du 29 mai 2015 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 1 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 89 (V)
+	  - Arrêté du 17 décembre 2015 - art. 4 (V)
+	  - Arrêté du 19 janvier 2016 - art. 1 (M)
+	  - Arrêté du 19 janvier 2016 - art. 3 (V)
+	  - Arrêté du 19 janvier 2016 - art. 9 (V)
+	  - Arrêté du 29 avril 2016 (V)
+	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 5 (V)
+	  - Arrêté du 16 mars 2017 (V)
+	  - Arrêté du 11 avril 1983 - art. 1 (Ab)
+	  - Arrêté du 15 janvier 1985 - art. 1 (Ab)
+	  - Arrêté du 2 janvier 1974 - art. 11 (Ab)
+	  - Arrêté du 2 janvier 1974 - art. 3 (Ab)
+	  - Arrêté du 22 août 1986 - art. 3 (V)
+	  - Arrêté du 5 août 1983 - art. 1 (P)
+	  - Arrêté du 5 mai 1983 - art. 1 (Ab)
+	  - Arrêté du 9 juillet 1983 - art. 1 (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis O (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 280 (Ab)
+	  - Code de l'aviation civile - art. L224-1 (VT)
+	  - Code de l'environnement - art. L521-18 (V)
+	  - Code de l'environnement - art. R555-1 (V)
+	  - Code de l'énergie - art. L641-4 (V)
+	  - Code de l'énergie - art. L641-7 (V)
+	  - Code de l'énergie - art. L661-2 (VD)
+	  - Code de l'énergie - art. R221-2 (V)
+	  - Code des douanes - art. 100 ter (V)
+	  - Code des douanes - art. 142 (Ab)
+	  - Code des douanes - art. 158 A (V)
+	  - Code des douanes - art. 158 D (V)
+	  - Code des douanes - art. 163 (V)
+	  - Code des douanes - art. 165 (V)
+	  - Code des douanes - art. 165 B (V)
+	  - Code des douanes - art. 166 (Ab)
+	  - Code des douanes - art. 195 bis (V)
+	  - Code des douanes - art. 265 A (V)
+	  - Code des douanes - art. 265 A bis (V)
+	  - Code des douanes - art. 265 A ter (V)
+	  - Code des douanes - art. 265 B (V)
+	  - Code des douanes - art. 265 C (V)
+	  - Code des douanes - art. 265 bis (VD)
+	  - Code des douanes - art. 265 bis A (VT)
+	  - Code des douanes - art. 265 octies (VT)
+	  - Code des douanes - art. 265 quinquies (VD)
+	  - Code des douanes - art. 265 septies (VT)
+	  - Code des douanes - art. 265 sexies (VT)
+	  - Code des douanes - art. 265 ter (V)
+	  - Code des douanes - art. 266 (V)
+	  - Code des douanes - art. 266 bis (V)
+	  - Code des douanes - art. 266 quater (VT)
+	  - Code des douanes - art. 266 quindecies (V)
+	  - Code des douanes - art. 266 quinquies (VD)
+	  - Code des douanes - art. 266 quinquies A (V)
+	  - Code des douanes - art. 266 quinquies B (V)
+	  - Code des douanes - art. 266 quinquies C (M)
+	  - Code des douanes - art. 266 ter (Ab)
+	  - Code des douanes - art. 267 (VD)
+	  - Code des douanes - art. 267 bis (V)
+	  - Code des douanes - art. 269 (VT)
+	  - Code des douanes - art. 299 bis (P)
+	  - Code des douanes - art. 380 (V)
+	  - Code des douanes - art. 381 bis (Ab)
+	  - Code des douanes - art. 411 (V)
+	  - Code des douanes - art. 427 (V)
+	  - Code des transports - art. L6325-4 (VD)
+	  - Code général des collectivités territoriales - art. L4332-5 (VT)
+	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
+	  - Code général des impôts, CGI. - art. 1010 A (Ab)
+	  - Code général des impôts, CGI. - art. 1011 bis (V)
+	  - Code général des impôts, CGI. - art. 1599 novodecies A (V)
+	  - Code général des impôts, CGI. - art. 295 (VD)
+	  - Code général des impôts, CGI. - art. 297 (VD)
+	  - Code général des impôts, CGI. - art. 298 (V)
+	  - Code général des impôts, CGI. - art. 39 AC (V)
+	  - Code général des impôts, CGI. - art. 39 AE (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 206 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 210 (VT)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (P)
+	  - Code rural - art. L723-43 (V)
+	  - Décret n°87-217 du 27 mars 1987 - art. 1 (V)
+	  - Livre des procédures fiscales - art. L45 C (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 29 avril 1970
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 8 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 8 quater (Ab)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 8 ter (V)
+	  - TXT_SOURCE: Arrêté du 29 avril 1970 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°91-165 du 13 février 1991
+	  - TXT_SOURCE: Décret n°91-165 du 13 février 1991 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°91-165 du 13 février 1991 - art. Annexe I (V)
+	  - TXT_SOURCE: Décret n°91-165 du 13 février 1991 - art. Annexe II (V)
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991 - art. Annexe I (V)
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991 - art. Annexe II (V)
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991 - art. Annexe III (V)
+	  - TXT_SOURCE: Décret n°91-183 du 18 février 1991 - art. Annexe IV (V)
+	  - TXT_SOURCE: Décret n°92-1028 du 18 septembre 1992
+	  - TXT_SOURCE: Décret n°92-1028 du 18 septembre 1992 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°92-1028 du 18 septembre 1992 - art. Annexe I (V)
+	  - TXT_SOURCE: Décret n°92-1028 du 18 septembre 1992 - art. Annexe II (V)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 26 octobre 1993 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 10 avril 2000
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°2001-58 du 18 janvier 2001 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2001-59 du 19 janvier 2001 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 8 mars 2001
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 18 juillet 2002 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 2002
+	  - TXT_SOURCE: Arrêté du 10 novembre 1993
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 22 Finances pour 1985 JORF 30 décembre 1984
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 22 () JORF 31 décembre 1985
+	  - Loi n°87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987
+	  - Loi n°87-1061 1987-12-30 Finances rectificative pour 1987 JORF 31 décembre 1987
+	  - Loi - art. 43 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi n°92-1476 1992-12-31 art. 43 I, II, IV, V, VII, VII, IX, X, XII Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Loi - art. 20 (V) JORF 31 décembre 1995 en vigueur le 11 janvier 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 26 () JORF 31 décembre 1996 en vigueur le 11 janvier 1997
+	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+	  - Loi - art. 16 () JORF 31 décembre 1997
+	  - Loi - art. 26 (V) JORF 31 décembre 1998
+	  - Loi - art. 27 () JORF 31 décembre 1998
+	  - Loi - art. 39 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+	  - Loi n°99-1172 1999-12-30 art. 39 I, II, III, IX Finances pour 2000 JORF 31 décembre 1999 en vigueur le 1er janvier 2000
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 265 A
 
 1. Lorsqu'elles ne sont pas précisées par le tarif des droits de douane d'importation, les caractéristiques des produits
@@ -9038,6 +9648,17 @@ par le réseau de mesure de ces organismes les contributions ou dons de toute na
 l'année civile précédente. Cette déduction s'exerce dans la limite de 1 million de francs ou à concurrence de 25 % des
 cotisations de taxe dues.
 
+3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
+assouplissants pour le linge, les grains minéraux naturels, les produits antiparasitaires à usage agricole et les produits
+assimilés mentionnés respectivement aux 5, 6 et 7 du I de l'article 266 sexies donnent lieu, sur demande, à remboursement de
+la taxe afférente lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
+
+4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
+avec les personnes physiques ou morales dont ils réceptionnent les déchets.
+
+5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
+avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -9058,18 +9679,19 @@ cotisations de taxe dues.
 	  - Arrêté du 19 avril 2017 - art. 1 (V)
 	  - Code des douanes - art. 266 undecies (VD)
 
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
 
 	**Codifié par**:
 
@@ -9213,17 +9835,22 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 coefficients de modulation prennent en compte, dans un rapport de un à cinquante, l'heure du décollage et les
 caractéristiques acoustiques de l'appareil ;
 
-4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies.
+4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
+
+5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
+assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
+
+6. Le poids des grains minéraux naturels mentionnés au 6 du I de l'article 266 sexies ;
+
+7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
+l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
+produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -9233,10 +9860,19 @@ caractéristiques acoustiques de l'appareil ;
 	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
 	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
+
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+
 	**Cite**:
 
 	  - Code des douanes - art. 266 septies (M)
 	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
 
 
 ###### Article 266 quater
@@ -9508,14 +10144,46 @@ autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'
 méthaniques, solvants et autres composés organiques volatils ;
 
 3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements
-d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20 000 ;
+d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
 
-b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies.
+b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
+
+5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
+lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
+mentionnés au 5 du I de l'article 266 sexies ;
+
+6. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des grains minéraux naturels
+mentionnés au 6 du I de l'article 266 sexies ;
+
+7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
+à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
+mentionnés au 7 du I de l'article 266 sexies ;
+
+8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée ;
+
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
+
+**Nota:**
+
+Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant, les dispositions du 1 et du 8 de l'article 266 septies du code des douanes, dans sa rédaction
+issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à la Constitution.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
 
 	**Cité par**:
 
@@ -9542,13 +10210,13 @@ b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
 
 
 ###### Article 266 sexies
@@ -9665,6 +10333,84 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
+
+
+###### Article 266 terdecies
+
+Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les services chargés de l'inspection des
+installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise
+sur la délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée et sur
+l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
+modalités suivantes :
+
+I. - Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées
+dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci
+et prescrivent l'exécution de la recette correspondante.
+
+Ils notifient à l'assujetti le montant de la taxe et, le cas échéant, des pénalités à acquitter par un avis qui indique les
+dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement.
+
+La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement.
+
+Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré d'un intérêt
+de retard dont le taux mensuel est fixé à 0,75 % du montant des sommes restant dues.
+
+L'encaissement de la taxe ainsi que, le cas échéant, des pénalités, est effectué par l'intermédiaire d'une régie de recettes
+fonctionnant dans les conditions prévues par la réglementation applicable aux régies de recettes et aux régies d'avance des
+organismes publics.
+
+A défaut de paiement et au plus tard deux mois après le 15 du mois qui suit celui au cours duquel la taxe est exigible, le
+recouvrement des sommes impayées est assuré dans les conditions prévues par la réglementation générale sur la comptabilité
+publique au vu des ordres de recettes émis par l'ordonnateur dont relève la régie de recettes mentionnée à l'alinéa
+précédent.
+
+II. - La taxe générale sur les activités polluantes assise sur l'exploitation d'un établissement mentionné au b du 8 du I de
+l'article 266 sexies est due au 1er janvier de chaque année, ou ultérieurement à la date de mise en fonctionnement de
+l'établissement ou éventuellement de l'exercice d'une nouvelle activité. La taxe est due dans tous les cas pour l'année
+entière. Son paiement incombe à la personne physique ou morale qui exploite l'établissement à cette date.
+
+En cas de cessation d'activité ou de changement survenu dans un établissement de nature à modifier sa situation au regard de
+cette taxe, l'exploitant fait parvenir une déclaration au préfet dans un délai d'un mois à compter de cet événement.
+
+Lorsque cette déclaration est inexacte ou n'est pas déposée dans ce délai, les services chargés de l'inspection des
+installations classées notifient aux assujettis, trente jours au moins avant l'émission du titre exécutoire, les éléments
+servant au calcul de la taxe.
+
+En cas de défaut de déclaration dans le délai prescrit, les services mentionnés ci-dessus procèdent à la taxation d'office et
+l'assortissent de l'intérêt de retard et de la majoration prévus à l'article 1728 du code général des impôts.
+
+En cas d'inexactitude de la déclaration, les rappels de taxe sont assortis de l'intérêt de retard et, le cas échéant, de la
+majoration prévus à l'article 1729 du code général des impôts.
+
+Les majorations mentionnées aux quatrième et cinquième alinéas du présent II sont notifiées, avec leur motivation, aux
+assujettis, qui disposent d'un délai de trente jours pour présenter leurs observations. Les services mentionnés ci-dessus ne
+peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1728, 1729
+	  - Code des douanes - art. 266 duodecies (V)
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
+
+	**Créé par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+
+	**Cité par**:
+
+	  - Décret n°2014-219 du 24 février 2014 (V)
 
 
 ###### Article 266 undecies

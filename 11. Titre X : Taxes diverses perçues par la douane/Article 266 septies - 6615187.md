@@ -9,14 +9,46 @@ autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'
 méthaniques, solvants et autres composés organiques volatils ;
 
 3. Le décollage d'aéronefs sur les aérodromes recevant du trafic public pour lesquels le nombre annuel des mouvements
-d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20 000 ;
+d'aéronefs de masse maximale au décollage supérieure ou égale à 20 tonnes est supérieur à 20000 ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
 
-b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies.
+b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
+
+5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
+lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
+mentionnés au 5 du I de l'article 266 sexies ;
+
+6. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des grains minéraux naturels
+mentionnés au 6 du I de l'article 266 sexies ;
+
+7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
+à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
+mentionnés au 7 du I de l'article 266 sexies ;
+
+8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée ;
+
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
+
+**Nota:**
+
+Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant, les dispositions du 1 et du 8 de l'article 266 septies du code des douanes, dans sa rédaction
+issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à la Constitution.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
 
 	**Cité par**:
 
@@ -43,10 +75,10 @@ b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
