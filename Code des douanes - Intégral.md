@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1969-01-03
+Version Consolidée au 1969-03-28
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1517,6 +1517,31 @@ du 29 décembre 2013, les mots " de la publication de la présente décision " s
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 63 bis
+
+Les agents des douanes peuvent à tout moment visiter les installations et dispositifs du plateau continental. Ils peuvent
+également visiter les moyens de transport concourant à son exploration ou à l'exploitation de ses ressources naturelles, à
+l'intérieur des zones de sécurité prévues par la loi et dans la zone maritime du rayon des douanes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code des douanes - art. 67 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
+
+	**Anciens textes**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 17 (V)
 
 
 ### Section 2 : Visites domiciliaires.
@@ -3650,6 +3675,43 @@ d'importation.
 	  - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
+## Chapitre V : Plateau continental.
+
+###### Article 196 quater
+
+Les produits extraits du plateau continental sont considérés comme extraits d'une nouvelle partie du territoire douanier.
+
+Les mêmes produits doivent, pour l'application de la législation fiscale, être considérés comme extraits du territoire
+français métropolitain.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°68-1181 1968-12-30 art. 15
+
+
+###### Article 196 quinquies
+
+Les matériels industriels, ainsi que les produits nécessaires à leur fonctionnement et à leur entretien, affectés sur le
+plateau continental à la recherche ou à l'exploitation des hydrocarbures et d'autres substances minérales et organiques dont
+la liste est fixée par décret, sont exemptées des droits de douane d'importation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°68-1181 du 30 décembre 1968 - art. 16 (V)
+
+
 # Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier
 
 ## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes
@@ -4113,6 +4175,28 @@ détenues ou acquises dans le territoire douanier antérieurement à la date de 
 
 ## Chapitre Ier : Régime administratif des navires
 
+### Section 1 : Champ d'application.
+
+###### Article 216
+
+Les dispositions du présent chapitre sont applicables aux navires et autres bâtiments de mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 12 () JORF 31 décembre 1958
+
+	**Cité par**:
+
+	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+
 ### Section 2 : Francisation des navires
 
 #### Paragraphe 1 : Généralités.
@@ -4163,6 +4247,39 @@ de plus de cinq ans.
 	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
 
 
+###### Article 221
+
+Le personnel d'un navire portant le pavillon français doit, dans une proportion définie par arrêté du ministre chargé de la
+marine marchande, être français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1358 1958-12-27 art. 1 JORF 30 décembre 1958
+
+	**Cité par**:
+
+	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (VD)
+
+
+#### Paragraphe 3 : Jaugeage des navires.
+
+###### Article 222
+
+Le service des douanes procède au jaugeage des navires dont on demande la francisation et il établit le certificat de jauge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 #### Paragraphe 4 : Droit de francisation et de navigation.
 
 ###### Article 225
@@ -4185,6 +4302,261 @@ les poursuites sont effectuées et les instances sont instruites et jugées comm
 	  - Loi n°67-1175 du 28 décembre 1967 - art. 20 (V)
 
 
+#### Paragraphe 5 : Acte de francisation.
+
+###### Article 227
+
+L'administration des douanes délivre l'acte de francisation après l'accomplissement des formalités prévues par les articles
+qui précèdent et par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 20 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+
+###### Article 228
+
+Le renouvellement de l'acte de francisation en cas de perte, de vétusté ou de défaut de place pour l'inscription des
+annotations réglementaires a lieu sans frais.
+
+La délivrance d'un nouvel acte de francisation, nécessitée par un changement ayant pour effet de modifier les
+caractéristiques du navire, soit au regard des règles de la navigation, soit en ce qui concerne l'assiette du droit de
+francisation et de navigation, donne lieu au paiement de ce droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 1967-12-28 art. 3, annexe JORF 29 décembre 1967
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 3 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+
+###### Article 229
+
+Les noms sous lesquels les navires sont francisés ne peuvent être changés sans l'autorisation de l'administration de douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+
+#### Paragraphe 7 : Ventes de navires francisés.
+
+###### Article 231
+
+1. Tout acte de vente de navire ou de partie de navire doit contenir :
+
+a) le nom et la désignation du navire ;
+
+b) la date et le numéro de l'acte de francisation ;
+
+c) la copie in extenso des extraits dudit acte relatifs au port d'attache, à l'immatriculation, au tonnage, à l'identité, à
+la construction et à l'âge du navire.
+
+2. L'acte de vente doit être présenté dans le délai d'un mois au service des douanes du port d'attache du navire, lequel
+annote en conséquence l'acte de francisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+### Section 3 : Congés.
+
+###### Article 232
+
+Tout navire français qui prend la mer doit avoir à bord un congé délivré par le service des douanes du port d'attache.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 410 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 233
+
+Sont dispensés du congé :
+
+a) les navires affranchis de la francisation ;
+
+b) en temps de guerre, les navires hospitaliers remplissant les conditions prescrites par les articles 1er, 2 et 3 de la
+convention signée à La Haye le 13 octobre 1907.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 238 (V)
+
+	**Cite**:
+
+	  - Convention 1907-10-13, signée à La Haye art. 1, art. 2, art. 3
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+### Section 4 : Dispositions diverses relatives à la francisation et aux congés.
+
+###### Article 234
+
+Les actes de francisation et les congés doivent, dans les vingt-quatre heures de l'arrivée du navire, être déposés au bureau
+de douane où ils demeurent jusqu'au départ.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+
+
+###### Article 235
+
+1. Tout navire francisé dans une partie du territoire douanier qui transfère son port d'attache dans une autre partie de ce
+même territoire est tenu d'acquitter la différence pouvant exister entre les droits de douane, les droits de francisation et
+les autres droits ou taxes précédemment acquittés et ceux qui sont exigibles dans le lieu où est situé le nouveau port
+d'attache.
+
+2. La même règle est applicable à tout navire francisé dans un territoire de la République française non compris dans le
+territoire douanier qui transfère son port d'attache dans le territoire douanier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 236
+
+1. L'acte de francisation et le congé ne peuvent être utilisés que pour le service du navire pour lequel ils ont été
+délivrés. Il est interdit aux propriétaires de navires de vendre, donner, prêter ou autrement disposer de ces documents.
+
+2. Les propriétaires de navires sont tenus de rapporter l'acte de francisation et le congé au bureau de douane du port
+d'attache, dans un délai de trois mois, si le navire est perdu de quelque manière que ce soit ou si les conditions requises
+pour la francisation ne sont plus satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (VD)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Code des douanes - art. 410 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+### Section 5 : Passeports.
+
+###### Article 237
+
+Tout navire étranger qui prend la mer doit avoir à bord un passeport délivré par le service de douanes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 238 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 239
+
+Le droit de passeport est perçu comme en matière de douane, les infractions sont constatées et punies, les poursuites sont
+effectuées et les instances sont instruites et jugées comme en matière de douane.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+
+###### Article 240
+
+Les dispositions relatives au droit de passeport sont applicables dans les ports de la Corse, dans ceux des départements
+d'outre-mer, ainsi que dans les ports du Rhin et de la Moselle et dans les ports fluviaux ouverts au trafic par bâtiments de
+mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Code des douanes - art. 216 (V)
+	  - Code général des collectivités territoriales - art. L4425-1 (M)
+
+
 ### Section 6 : Droit d'escale
 
 ###### Article 240 bis
@@ -4194,6 +4566,224 @@ les poursuites sont effectuées et les instances sont instruites et jugées comm
 
 
 ### Section 7 : Hypothèques maritimes
+
+#### Paragraphe 1 : Constitution de l'hypothèque.
+
+###### Article 241
+
+Les navires et autres bâtiments de mer francisés sont susceptibles d'hypothèques. Ils ne peuvent être grevés que
+d'hypothèques conventionnelles.
+
+L'hypothèque doit, à peine de nullité, être constituée par écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+
+###### Article 242
+
+L'hypothèque ne peut être consentie que par le propriétaire du bâtiment ou par son mandataire muni d'un mandat spécial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+###### Article 243
+
+Lorsque le navire est exploité en copropriété, chaque copropriétaire peut hypothéquer sa part indivise dans le navire.
+
+Le gérant peut hypothéquer le navire avec le consentement d'une majorité des intérêts représentant les trois quarts de la
+valeur du navire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+###### Article 244
+
+L'hypothèque consentie sur un bâtiment de mer ou sur une part indivise du bâtiment s'étend, sauf convention contraire, au
+corps du bâtiment et à tous les accessoires, machines, agrès et apparaux.
+
+Elle ne s'étend pas au fret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
+###### Article 245
+
+L'hypothèque peut être consentie sur un bâtiment de mer en construction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+#### Paragraphe 2 : Publicité de l'hypothèque.
+
+###### Article 246
+
+Les conditions dans lesquelles l'hypothèque est rendue publique et conservée sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+#### Paragraphe 3 : Effets de l'hypothèque.
+
+###### Article 247
+
+1. S'il y a deux ou plusieurs hypothèques sur le même bâtiment ou sur la même part de propriété du bâtiment, le rang est
+déterminé par l'ordre de priorité des dates d'inscription.
+
+2. Les hypothèques inscrites le même jour viennent en concurrence, quelle que soit la différence des heures de l'inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+###### Article 248
+
+La publicité réglementaire conserve l'hypothèque pendant dix ans à compter du jour de sa date ; l'effet de la publicité cesse
+si elle n'a pas été renouvelée avant l'expiration de ce délai.
+
+La publicité garantit, au même rang que le capital, deux années de l'intérêt en sus de l'année courante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+###### Article 249
+
+Si le titre de l'hypothèque est à ordre, sa négociation par voie d'endossement emporte la translation du droit hypothécaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+
+#### Paragraphe 4 : Radiations.
+
+###### Article 250
+
+Les inscriptions sont radiées soit du consentement des parties ayant capacité à cet effet, soit en vertu d'une décision de
+justice passée en force de chose jugée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
+#### Paragraphe 5 : Ventes.
+
+###### Article 251
+
+1. Toute opération volontaire qui entraîne la perte de la francisation d'un bâtiment grevé d'une hypothèque est interdite.
+
+2. Si cette opération est en outre commise dans l'intention de violer cette interdiction, l'auteur est passible des peines
+prévues à l'article 408 du code pénal.
+
+3. Les hypothèques consenties par l'acheteur avant la francisation sur un bâtiment acheté ou construit à l'étranger sont
+valables et produisent effet à condition d'être publiés en France.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°67-5 1967-01-03 art. 49, art. 57 JORF 4 janvier 1967 en vigueur le 4 février 1968
+	  - Loi n°67-5 du 3 janvier 1967 - art. 49 (Ab) JORF 4 janvier 1967 en vigueur le 4 février 1968
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code pénal 408
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 #### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.
 
@@ -4227,74 +4817,6 @@ leur imposer en raison des actes visés à la présente section, sont fixés par
 	**Anciens textes**:
 
 	  - Loi n°46-2294 1946-09-19 art. 2
-
-
-###### Article 253
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
-
-
-###### Article 254
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-###### Article 255
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-###### Article 256
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
 
 
 ## Chapitre II : Navigation réservée.
