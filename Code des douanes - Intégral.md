@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2003-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9376,36 +9376,37 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 ###### Article 265 bis A
 
 1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
-bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation sur les
-produits pétroliers, dont les tarifs sont fixés au tableau B du 1 de l'article 265. Pour l'année 2003, cette réduction est
-fixée à :
+bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation, dont
+les tarifs sont fixés au tableau B du 1 de l'article 265. A compter du 1er janvier 2004, cette réduction est fixée à :
 
-a) 35 euros par hectolitre pour les esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique ;
+a) 33 euros par hectolitre pour les esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique ;
 
 b) 38 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
-composante alcool est d'origine agricole.
+composante alcool est d'origine agricole ;
 
-2. Pour bénéficier de la réduction de la taxe intérieure de consommation sur les produits pétroliers, les unités de
-production des esters méthyliques d'huile végétale et dérivés de l'alcool éthylique doivent être agréées avant le 31 décembre
-2003 par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du ministre chargé de l'industrie,
-sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
+c) 37 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé directement aux supercarburants.
 
-3. La durée de validité des agréments délivrés ne peut excéder six ans. Ces agréments ne sont pas renouvelables.
+2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques
+d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agréées par le ministre chargé du budget après avis du
+ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au
+Journal officiel des Communautés européennes.
+
+3. La durée de validité des agréments délivrés ne peut excéder six ans.
 
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
 consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Il est également
 tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la
-réduction de la taxe intérieure de consommation sur les produits pétroliers correspondant à la quantité de biocarburants
-qu'il doit mettre à la consommation au cours de la même année en application de la décision d'agrément.
+réduction de la taxe intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la
+consommation au cours de la même année en application de la décision d'agrément.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
 quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
 
-5. La réduction de la taxe intérieure de consommation sur les produits pétroliers est accordée lors de la mise à la
-consommation en France des carburants et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés
-dans la Communauté européenne aux produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité
-désignée par l'Etat membre de production et d'un certificat de mélange délivré par l'administration chargée du contrôle des
-accises sur les huiles minérales.
+5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants
+et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux
+produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité désignée par l'Etat membre de
+production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles
+minérales.
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à
 candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
@@ -9416,9 +9417,9 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 22 () JORF 31 décembre 2002
+	  - Loi - art. 38 () JORF 31 décembre 2003
 
 	**Liens**:
 
@@ -9678,8 +9679,8 @@ Ce remboursement est égal à la différence entre le taux de la taxe intérieur
 visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique qui est
 fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 37,30 euros (244,64 F) par hectolitre. Ce taux spécifique est
 fixé à 35,09 euros par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre pour
-la période du 21 janvier 2002 au 31 décembre 2002, et 37,06 euros par hectolitre pour la période du 1er janvier 2003 au 20
-janvier 2003.
+la période du 21 janvier 2002 au 31 décembre 2002, et 37,06 euros par hectolitre pour la période du 1er janvier 2003 au 28
+février 2003. Le taux spécifique est fixé à 38 euros par hectolitre pour la période du 1er mars 2003 au 31 décembre 2004.
 
 Le remboursement est plafonné à 20 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
 dans la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
@@ -9687,7 +9688,8 @@ couverte par le remboursement et que ce gazole a été utilisé comme carburant 
 immatriculés dans l'un des Etats membres.
 
 La période couverte par le remboursement s'entend de la période comprise entre le 21 janvier d'une année et le 20 janvier de
-l'année suivante.
+l'année suivante. Pour les consommations de gazole réalisées en 2004, la période couverte par le remboursement s'entend de la
+période comprise entre le 21 janvier 2004 et le 31 décembre 2004.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 22 juillet et du
 22 janvier suivant respectivement le premier et le second semestre de la période au titre de laquelle le remboursement est
@@ -9752,8 +9754,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-	  - Loi - art. 25 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 23 () JORF 31 décembre 2003
 
 	**Cite**:
 
@@ -10514,6 +10515,44 @@ de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 	  - Code des douanes - art. 265 (M)
 
 
+###### Article 266 quaterdecies
+
+I. - L'organisme agréé par les ministères chargés de l'environnement, des collectivités territoriales, de l'économie et de
+l'industrie mentionné au deuxième alinéa de l'article L. 541-10-1 du code de l'environnement communique chaque année à
+l'administration chargée du recouvrement la liste des personnes qui ont acquitté la contribution.
+
+II. - Les redevables mentionnés au 9 du I de l'article 266 sexies liquident et acquittent la taxe due au titre d'une année
+civile sur une déclaration annuelle, qui doit être transmise à l'administration chargée du recouvrement au plus tard le 10
+avril de l'année qui suit celle au cours de laquelle le fait générateur est intervenu.
+
+La déclaration est accompagnée du paiement de la taxe.
+
+La déclaration comporte tous les éléments nécessaires au contrôle et à l'établissement de la taxe. La forme de cette
+déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95.
+
+En cas de cessation définitive d'activité, les assujettis déposent la déclaration visée au premier alinéa dans les trente
+jours qui suivent la date de fin de leur activité. La taxe due est immédiatement établie. La taxe est accompagnée du
+paiement.
+
+III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la première fois au titre de l'année 2005.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 20 () JORF 31 décembre 2003
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes - art. 95 (M)
+	  - Code de l'environnement - art. L541-10-1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 266 quinquies
 
 1. Le gaz naturel repris à la position 2711.21.00 du tarif douanier est soumis à une taxe intérieure de consommation lors de
@@ -10955,9 +10994,10 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 ###### Article 266 undecies
 
-Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et
-de trois acomptes. Chaque acompte est égal à un tiers du montant de la taxe due au titre de l'année précédente et fait
-l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre.
+A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
+à l'article 266 sexies sous la forme d'une déclaration annuelle et de trois acomptes. Chaque acompte est égal à un tiers du
+montant de la taxe due au titre de l'année précédente et fait l'objet d'un paiement au plus tard les 10 avril, 10 juillet et
+10 octobre.
 
 Les redevables déposent, au plus tard le 10 avril de chaque année et pour la première fois le 10 avril 2003, la déclaration
 de la taxe due au titre de l'année précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de
@@ -11049,7 +11089,7 @@ garanties et sanctions prévues en matière de droits de douane.
 
 	**Modifié par**:
 
-	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 20 () JORF 31 décembre 2003
 
 	**Cite**:
 
@@ -11182,6 +11222,12 @@ pondérée des prix homologués.
 Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article
 575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
 
+Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un minimum de perception spécifique fixé
+pour 1000 unités, tel que mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de consommation sur
+les cigarettes dans leur circonscription administrative. Ce minimum de perception ne peut être supérieur au droit de
+consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale
+des cigarettes de la classe de prix la plus demandée.
+
 2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
@@ -11195,7 +11241,7 @@ Martinique à compter du 1er janvier 2001.
 
 	**Cite**:
 
-	  - CGI 572, 575 A
+	  - CGI 572, 575, 575 A
 
 	**Codifié par**:
 
@@ -11203,7 +11249,7 @@ Martinique à compter du 1er janvier 2001.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 56
+	  - Loi - art. 104 () JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -14245,6 +14291,25 @@ administratives et frais relatifs à ces créances, à l'exclusion de toute sanc
 Le recouvrement des créances visées par le présent article est confié aux comptables des douanes, à la demande d'un Etat
 membre de la Communauté européenne requérant.
 
+L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté
+européenne dès lors que :
+
+1° Cette demande contient une déclaration certifiant que la créance ou le titre de recouvrement ne sont pas contestés dans
+l'Etat requérant et que les procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent aboutir au
+paiement intégral de la créance ;
+
+2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1500 euros.
+
+Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat membre lorsque la demande initiale concerne
+des créances fondées sur un titre exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre en cause
+font l'objet d'une contestation, le délai de cinq ans court à compter de la date à laquelle il a été définitivement statué
+sur la créance ou le titre de l'Etat requérant.
+
+Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance,
+l'administration compétente suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance
+compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la procédure de
+recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée.
+
 Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
 sont notifiés au débiteur.
 
@@ -14253,10 +14318,7 @@ exceptions ci-après :
 
 1° Elles ne bénéficient pas du privilège prévu à l'article 379 ;
 
-2° Dès qu'il est informé par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance, le
-comptable suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance étrangère compétente ;
-
-3° Les questions relatives à la prescription de l'action en recouvrement sont régies par la législation de l'Etat membre
+2° Les questions relatives à la prescription de l'action en recouvrement sont régies par la législation de l'Etat membre
 requérant. Le caractère interruptif ou suspensif des actes effectués par le comptable public pour le recouvrement des
 créances de l'Etat membre requérant est apprécié selon la législation de cet Etat.
 
@@ -14278,8 +14340,7 @@ communication serait de nature à porter atteinte à la sécurité ou l'ordre pu
 
 	**Modifié par**:
 
-	  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-	  - Loi - art. 44 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 29 () JORF 31 décembre 2003
 
 	**Cité par**:
 
