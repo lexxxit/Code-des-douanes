@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1963-07-12
+Version Consolidée au 1963-08-22
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1810,26 +1810,6 @@ pour la société et pour toute personne habile à représenter la société.
 ouvrir droit à indemnité ou dommages-intérêts.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Arrêté du 24 décembre 1986 - art. 42 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 91
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°63-854 1963-08-13 art. 1 JORF 22 août 1963
 
 	**Cité par**:
 
