@@ -9,8 +9,8 @@ embarqués à destination :
 
 - d'une réserve naturelle créée en application de l'article L. 332-1 du livre III du même code ;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres, en application de l'article L. 322-1
-du livre III du même code ;
+- d'un site du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres ou sur lequel il a instauré
+une servitude de protection, en application de l'article L. 322-1 du livre III du même code ;
 
 - ou d'un port desservant exclusivement ou principalement un des espaces protégés mentionnés ci-dessus mais sans y être
 inclus.
@@ -71,17 +71,15 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	  - Code rural - art. R*241-28 (Ab)
 	  - Code rural - art. R*243-31 (Ab)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000
 	  - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000 - art. 1 ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-12 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 166 () JORF 28 février 2002
 
 	**Codifié par**:
 
