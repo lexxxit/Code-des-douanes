@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2000-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2216,6 +2216,30 @@ du 1 ci-dessus.
 	  - Loi n°1920-07-31 art. 31
 	  - Loi n°1933-02-28 art. 38
 	  - Loi n°45-1095 1945-12-31 art. 30
+
+
+###### Article 64 B
+
+Les documents et informations mentionnés aux articles L. 330-2 à L. 330-4 du code de la route sont communiqués, sur leur
+demande, aux fonctionnaires des douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 92 () JORF 31 décembre 2000
+
+	**Cité par**:
+
+	  - Arrêté du 10 février 2009 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. L330-2 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 2 : Droit de communication particulier à l'administration des douanes.
@@ -9208,6 +9232,79 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 	  - Code des douanes - art. 265 (M)
 
 
+###### Article 265 octies
+
+Les exploitants de transport public routier en commun de voyageurs peuvent obtenir, sur demande de leur part, un
+remboursement de la taxe intérieure de consommation sur le gazole dans la limite de 15 000 litres par semestre et par
+véhicule affecté à ce transport.
+
+Le taux et la période de remboursement sont fixés conformément aux cinquième et septième alinéas de l'article 265 septies.
+
+Les exploitants de transport public routier en commun de voyageurs concernés adressent leur demande de remboursement au
+service des douanes à partir du 12 juillet et du 12 janvier suivant respectivement le premier et le second semestre de la
+période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent à compter de ces
+dates.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 1 (VT)
+	  - Décret n°99-723 du 3 août 1999 - art. 1 bis (VT)
+	  - Décret n°99-723 du 3 août 1999 - art. 3 (V)
+	  - Décret n°99-723 du 3 août 1999 - art. 5 bis (VT)
+	  - Arrêté du 5 octobre 1999 - art. 1 bis (Ab)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V)
+	  - Arrêté du 8 avril 2010 - art. 1 (V)
+	  - Arrêté du 12 mai 2011 - art. 1 (V)
+	  - Arrêté du 5 juin 2014 - art. 1 (V)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 18 décembre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 (VT)
+	  - Décret n°2015-418 du 14 avril 2015 (V)
+	  - Arrêté du 18 décembre 2015 (VT)
+	  - Arrêté du 25 avril 2016 (V)
+	  - Arrêté du 6 janvier 2017 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 bis (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 1 ter (V)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 10 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 11 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 12 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 2 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 4 (M)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 5 bis (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 6 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 7 (VT)
+	  - TXT_SOURCE: Décret n°99-723 du 3 août 1999 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 1 bis (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
+
+	**Créé par**:
+
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 septies (M)
+
+
 ###### Article 265 quater
 
 1. L'essence de pétrole autre que le supercarburant employé aux usages énumérés au 2 ci-dessous bénéficie d'un dégrèvement de
@@ -9361,12 +9458,14 @@ b) De véhicules tracteurs routiers dont le poids total roulant est égal ou sup
 peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la taxe intérieure de consommation sur le
 gazole.
 
-Ce remboursement est égal à la différence entre la taxe intérieure de consommation sur le gazole exigible au cours de l'année
-et celle calculée sur la base d'un taux spécifique qui est fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à
-244,64 F par hectolitre. Pour les périodes ultérieures, ce taux spécifique est relevé, le 11 janvier de chaque année, du
-produit du dernier taux de la taxe intérieure de consommation appliqué au supercarburant sans plomb au cours de la période
-précédente par le taux prévisionnel d'évolution des prix à la consommation des ménages de l'année précédente associé au
-projet de loi de finances de l'année du remboursement.
+Ce remboursement est égal à la différence entre le taux de la taxe intérieure de consommation sur les produits pétroliers
+visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique qui est
+fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F par hectolitre. Ce taux spécifique est fixé à 230,18
+F par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 241,18 F par hectolitre pour la période du 21
+janvier 2002 au 20 janvier 2003. A compter du 21 janvier 2001, pour chaque semestre, le taux spécifique est affecté, le cas
+échéant, de la différence, si elle est positive, entre le tarif applicable en vertu du d du 2 du tableau B du 1 de l'article
+265 à la date du 1er octobre 2000 et la moyenne des taux applicables en vertu du même d pour chacun des bimestres dudit
+semestre.
 
 Le remboursement est plafonné à 25 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
 dans la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
@@ -9439,7 +9538,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 12 (V) JORF 14 juillet 2000
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
 
 	**Cite**:
 
@@ -9458,8 +9557,7 @@ chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1
 A compter du 1er janvier 1999, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
 produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de transport public en commun
 de voyageurs, dans la limite de 40 000 litres par an et par véhicule. A compter du 1er janvier 2000, ces taxes sont
-remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers d'un poids total roulant autorisé
-égal ou supérieur à 12 tonnes.
+remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers.
 
 Les modalités d'application de ces mesures sont fixées par décret.
 
@@ -9518,8 +9616,8 @@ pour le gaz de pétrole liquéfié carburant.
 
 	**Modifié par**:
 
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
-	  - Loi - art. 41 () JORF 31 décembre 1999
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 41 () JORF 31 décembre 2000
 
 
 ###### Article 265 ter
@@ -10031,12 +10129,12 @@ Unité de perception
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 50
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques
 
@@ -10048,12 +10146,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 27 10 00
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Essences et supercarburants
 
@@ -10082,7 +10180,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 38 24 90
 
@@ -10093,7 +10191,7 @@ Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la 
 volume sans dépasser 20 % en volume : autre, destinée à être utilisée comme carburant
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre
 
@@ -10104,10 +10202,12 @@ Hectolitre
 
 2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
 
-a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
+a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
-b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
+b) pour le gazole et l'émulsion d'eau dans du gazole, les taux de la taxe intérieure de consommation visés au tableau B
+annexé au 1 de l'article 265 ci-dessus applicables au gazole identifié à l'indice 22 et aux émulsions d'eau dans du gazole
+identifiées à l'indice 53.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
 régional aux conditions qu'il fixe.
@@ -10126,10 +10226,6 @@ Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes
 taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -10151,11 +10247,15 @@ taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 quinquies

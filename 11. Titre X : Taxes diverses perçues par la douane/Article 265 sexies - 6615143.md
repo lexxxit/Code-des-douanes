@@ -10,8 +10,7 @@ chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1
 A compter du 1er janvier 1999, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
 produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de transport public en commun
 de voyageurs, dans la limite de 40 000 litres par an et par véhicule. A compter du 1er janvier 2000, ces taxes sont
-remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers d'un poids total roulant autorisé
-égal ou supérieur à 12 tonnes.
+remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers.
 
 Les modalités d'application de ces mesures sont fixées par décret.
 
@@ -70,5 +69,5 @@ pour le gaz de pétrole liquéfié carburant.
 
 	**Modifié par**:
 
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
-	  - Loi - art. 41 () JORF 31 décembre 1999
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 41 () JORF 31 décembre 2000

@@ -23,12 +23,12 @@ Unité de perception
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 50
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques
 
@@ -40,12 +40,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 27 10 00
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Essences et supercarburants
 
@@ -74,7 +74,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 38 24 90
 
@@ -85,7 +85,7 @@ Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la 
 volume sans dépasser 20 % en volume : autre, destinée à être utilisée comme carburant
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre
 
@@ -96,10 +96,12 @@ Hectolitre
 
 2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
 
-a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
+a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
-b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
+b) pour le gazole et l'émulsion d'eau dans du gazole, les taux de la taxe intérieure de consommation visés au tableau B
+annexé au 1 de l'article 265 ci-dessus applicables au gazole identifié à l'indice 22 et aux émulsions d'eau dans du gazole
+identifiées à l'indice 53.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
 régional aux conditions qu'il fixe.
@@ -118,10 +120,6 @@ Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes
 taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -143,8 +141,12 @@ taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
+	  - Loi - art. 12 (V) JORF 31 décembre 2000
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
