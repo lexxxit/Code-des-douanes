@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1949-01-01
+Version Consolidée au 1950-02-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -484,6 +484,74 @@ marchandises.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+### Section 2 : Espèce des marchandises
+
+#### Paragraphe 2 : Réclamations contre les décisions d'assimilation et de classement.
+
+###### Article 30
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+
+###### Article 31
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+
+###### Article 32
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+
+###### Article 33
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+	**Cité par**:
+
+	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
 ### Section 4 : Valeur des marchandises
@@ -1915,6 +1983,42 @@ représenter le déclarant défaillant et assister à la vérification.
 	**Abrogé par**:
 
 	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+
+### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.
+
+###### Article 105
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+
+###### Article 106
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Abrogé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
 ## Chapitre III : Liquidation et acquittement des droits et taxes
