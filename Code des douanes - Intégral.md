@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-08-10
+Version Consolidée au 1995-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7248,8 +7248,9 @@ Le service des douanes procède au jaugeage des navires dont on demande la franc
 Les navires francisés sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge
 des propriétaires.
 
-L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit : tonnage brut du navire et quotité du
-droit.
+L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit :
+
+Tonnage brut du navire et quotité du droit :
 
 I. - Navires de commerce.
 
@@ -7283,7 +7284,7 @@ De plus de 10 tonneaux à 20 tonneaux inclusivement :
 
 - de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-De plus de 20 tonneaux inclusivement :
+De plus de 20 tonneaux :
 
 - de plus de 10 ans : 222 F par navire plus 93 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
@@ -7293,28 +7294,28 @@ b) Droit sur le moteur (puissance administrative).
 
 Jusqu'à 5 CV inclusivement : exonération.
 
-6 à 8 CV : 54 F par CV au-dessus du cinquième ;
+de 6 à 8 CV : 54 F par CV au-dessus du cinquième.
 
-9 à 10 CV : 68 F par CV au-dessus du cinquième ;
+de 9 à 10 CV : 68 F par CV au-dessus du cinquième.
 
-11 à 20 CV : 136 F par CV au-dessus du cinquième ;
+de 11 à 20 CV : 136 F par CV au-dessus du cinquième.
 
-21 à 25 CV : 151 F par CV au-dessus du cinquième ;
+de 21 à 25 CV : 151 F par CV au-dessus du cinquième.
 
-26 à 50 CV : 172 F par CV au-dessus du cinquième ;
+de 26 à 50 CV : 172 F par CV au-dessus du cinquième.
 
-51 à 99 CV : 190 F par CV au-dessus du cinquième.
+de 51 à 99 CV : 190 F par CV au-dessus du cinquième.
 
 c) Taxe spéciale.
 
-Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b ci-dessus est remplacé
+Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b) ci-dessus est remplacé
 par une taxe spéciale de 297 F par CV.
 
+Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
+port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
+et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -7329,9 +7330,11 @@ par une taxe spéciale de 297 F par CV.
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 44 () JORF 31 décembre 1986
-	  - Loi - art. 44 () JORF 31 décembre 1991
-	  - Loi n°84-1208 1984-12-19 art. 24 Finances pour 1985 JORF 30 décembre 1984
+	  - Loi n°94-1131 du 27 décembre 1994 - art. 6 (V) JORF 28 décembre 1994 en vigueur le 1er janvier 1995
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 224
@@ -11478,42 +11481,6 @@ stupéfiants.
 	**Créé par**:
 
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 84 () JORF 28 décembre 1988
-
-
-#### Paragraphe 4 : Contrebande.
-
-###### Article 419
-
-1. Les marchandises visées à l'article 215 ci-dessus sont réputées avoir été importées en contrebande à défaut de
-justifications d'origine ou si les documents présentés sont faux, inexacts, incomplets ou non applicables.
-
-2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 1 et 2 de l'article 215 sont
-poursuivies et unies conformément aux dispositions des articles 414 à 416 ci-dessus.
-
-3. Lorsqu'ils auront eu connaissance que celui qui leur a délivré les justifications d'origine ne pouvait le faire
-valablement ou que celui qui leur a vendu, cédé, échangé ou confié les marchandises n'était pas en mesure de justifier de
-leur détention régulière, les détenteurs et transporteurs seront condamnés aux mêmes peines et les marchandises seront
-saisies et confisquées dans les mêmes conditions que ci-dessus, quelles que soient les justifications qui auront pu être
-produites.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
-
-	**Cité par**:
-
-	  - Arrêté du 11 juillet 2012 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 215 (M)
-	  - Code des douanes 215, 414 à 416
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 5 : Importations et exportations sans déclaration.
