@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1954-04-22
+Version Consolidée au 1956-08-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4676,112 +4676,7 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
 
 
-###### Article 311
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
 ###### Article 312
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 313
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 314
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 315
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 316
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 317
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 318
 
 (texte abrogé).
 
