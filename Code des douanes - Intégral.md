@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1964-01-03
+Version Consolidée au 1964-01-14
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -675,6 +675,40 @@ marchandises.
 	**Abrogé par**:
 
 	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+
+	**Cité par**:
+
+	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+
+### Section 3 : Origine des marchandises.
+
+###### Article 34
+
+1. A l'importation, les droits de douane sont perçus suivant l'origine des marchandises, sauf application des dispositions
+spéciales prévues par les engagements internationaux en vigueur pour l'octroi de tarifs préférentiels.
+
+2. Les produits naturels sont originaires du pays où ils ont été extraits du sol ou récoltés.
+
+Les produits manufacturés dans un seul pays, sans apport de matières d'un autre pays, sont originaires du pays où ils ont été
+fabriqués.
+
+3. Des arrêtés du ministre de l'économie et des finances fixent les règles à suivre pour déterminer l'origine de marchandises
+obtenues dans un pays en utilisant des produits récoltés, extraits du sol ou fabriqués dans un autre pays.
+
+4. Les produits importés ne bénéficient du traitement de faveur attribué à leur origine que s'il est régulièrement justifié
+de cette origine. Des arrêtés du ministre de l'économie et des finances fixent les conditions dans lesquelles les
+justifications d'origine doivent être produites et les cas où celles-ci ne sont pas exigées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 10 JORF 14 janvier 1964
 
 	**Cité par**:
 
@@ -5542,6 +5576,32 @@ les cas où ils sont en mesure d'établir qu'une somme quelconque est due à l'a
 	  - Décret n°2017-277 du 2 mars 2017 (V)
 	  - Décret n°2017-277 du 2 mars 2017 - art. 1 (V)
 	  - Code des douanes - art. 67 D (M)
+
+
+###### Article 346
+
+Ils peuvent décerner contrainte dans le cas prévu à l'article 57 ci-dessus ainsi que dans le cas d'inobservation totale ou
+partielle des obligations mentionnées à l'article 122 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 7 JORF 3 janvier 1964 rectificatif JORF 14 janvier 1964
+
+	**Cite**:
+
+	  - Code des douanes - art. 122 (V)
+	  - Code des douanes - art. 57 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 345 (V)
+	  - Code des douanes - art. 348 (V)
 
 
 #### Paragraphe 2 : Titres.
