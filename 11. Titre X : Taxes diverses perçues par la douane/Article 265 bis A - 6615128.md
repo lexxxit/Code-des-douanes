@@ -16,6 +16,10 @@ d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agré�
 ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au
 Journal officiel des Communautés européennes.
 
+Toutefois, si ces unités de production n'ont pas pour objet principal la production d'huiles utilisées comme carburant ou
+comme combustible, elles ne sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une procédure de
+déclaration simplifiée définie par décret.
+
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
 lancés par appel d'offres communautaire.
 
@@ -43,10 +47,6 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des douanes - art. 265 (M)
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
@@ -59,7 +59,6 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
-	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 31 II finances pour 2005 (date d'effet)
 
 	**Cité par**:
 
@@ -74,4 +73,8 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 31 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 41 (V) JORF 24 février 2005
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
