@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-07-14
+Version Consolidée au 2000-09-21
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9622,13 +9622,13 @@ novembre 1870.
 
 ###### Article 266 bis
 
-En cas de relèvement des taux de la taxe intérieure de consommation prévue au tableau B (produits pétroliers et assimilés) du
-1 de l'article 265 ci-dessus et des autres taxes perçues sur les mêmes produits, ce relèvement s'applique aux produits
-déclarés pour la consommation avant la date de changement du tarif existant en stock à cette date chez les importateurs,
-producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à l'exception des produits se
-trouvant dans les cuves des stations-services.
+En cas de relèvement ou d'abaissement des taux de la taxe intérieure de consommation prévue au tableau B (produits pétroliers
+et assimilés) du 1 de l'article 265 ci-dessus et des autres taxes perçues sur les mêmes produits, ce relèvement ou cet
+abaissement s'applique aux produits déclarés pour la consommation avant la date de changement du tarif existant en stock à
+cette date chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
+l'exception des produits se trouvant dans les cuves des stations-services.
 
-Ce relèvement n'est pas recouvré lorsque son montant est inférieur à 500 F.
+Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé lorsque leur montant est inférieur à 2 000 F.
 
 **Liens relatifs à cet article**
 
@@ -9644,8 +9644,7 @@ Ce relèvement n'est pas recouvré lorsque son montant est inférieur à 500 F.
 
 	**Modifié par**:
 
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 28 () JORF 30 décembre 1988
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
+	  - Loi - art. 12 (V) JORF 31 décembre 2000 en vigueur le 21 septembre 2000
 
 	**Cite**:
 
@@ -9745,63 +9744,167 @@ sanctions prévus par le présent code.
 
 1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
 
-Désignation des matières ou opérations imposables :
+Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en francs.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, unité de perception, tonne, quotité
-(en francs) : 60.
+Déchets.
+
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 60.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
-du plan d'élimination des déchets, élaboré en vertu de l'article 10-2 de la loi n° 75-633 du 15 juillet 1975, dans lequel est
-située l'installation de stockage : 90.
+du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement, dans lequel est située
+l'installation de stockage, 90.
 
-Déchets réceptionnés dans une installation d'élimination de déchets industriels spéciaux : 60.
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 60.
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux : 120.
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 120.
 
-Substances émises dans l'atmosphère, oxydes de soufre et autres composés soufrés : 180.
+Substances émises dans l'atmosphère.
 
-Acide chlorhydrique : 180.
+Oxydes de soufre et autres composés soufrés, 250.
 
-Oxydes d'azote et autres composés oxygénés de l'azote : 250.
+Acide chlorhydrique, 250.
 
-Hydrocarbures non méthaniques, solvants et autres composés organiques volatils : 250.
+Protoxyde d'azote, 375.
 
-Décollage d'aéronefs, aérodromes du groupe 1 : 68.
+Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 300.
 
-Décollage d'aéronefs, aérodromes du groupe 2 : 25.
+Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 250.
 
-Décollage d'aéronefs, aérodromes du groupe 3 : 5.
+Décollage d'aéronefs.
 
-Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées, lubrifiants, huiles et
-préparations lubrifiantes : 200.
+Aérodromes du groupe 1, 68.
+
+Aérodromes du groupe 2, 25.
+
+Aérodromes du groupe 3, 5.
+
+Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
+
+Lubrifiants, huiles et préparations lubrifiantes, 250.
+
+Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour
+le linge.
+
+- dont la teneur en phosphates est inférieure à 5 % du poids, 470.
+
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 520.
+
+- dont la teneur en phosphates est supérieur à 30 % du poids, 570.
+
+Grains minéraux naturels.
+
+Grains minéraux naturels, 0,60.
+
+Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
+produits assimilés.
+
+Catégorie 1, 0.
+
+Catégorie 2, 2500.
+
+Catégorie 3, 4000.
+
+Catégorie 4, 5500.
+
+Catégorie 5, 7000.
+
+Catégorie 6, 9000.
+
+Catégorie 7, 11000.
+
+Installations classées.
+
+Délivrance d'autorisation :
+
+- artisan n'employant pas plus de deux salariés, 2900.
+
+- autres entreprises inscrites au répertoire des métiers, 7000.
+
+- autres entreprises, 14600.
+
+Exploitation au cours d'une année civile (tarif de base), 2200.
 
 2. Le montant minimal annuel de la taxe relative aux déchets est de 3000 F par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 
+La majoration applicable aux déchets réceptionnés dans une installation de stockage des déchets ménagers et assimilés de
+provenance extérieure au périmètre du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de
+l'environnement, dans lequel est située l'installation de stockage ne s'applique pas aux déchets dont le transfert entre le
+site de regroupement et le site de traitement final est effectué par voie ferroviaire ou par voie fluviale, sous réserve que
+la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+L'autorité administrative compétente est chargée d'accorder l'exonération de cette majoration au vu des documents fournis par
+le transporteur.
+
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
 
 5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
 sont répartis dans les trois groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
-de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus au I de
-l'article 19 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit.
+de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus à
+l'article L. 571-15 du code de l'environnement.
 
 6. La masse des aéronefs est prise en compte par son logarithme décimal.
 
+7. Les substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
+produits assimilés mentionnés au 7 du I de l'article 266 sexies sont réparties en sept catégories affectées d'un taux
+unitaire spécifique en fonction de leurs caractéristiques écotoxicologiques et toxicologiques définies par les arrêtés pris
+pour l'application de l'article R. 231-51 du code du travail :
+
+Danger toxicologique, phrase de risque écotoxicologique.
+
+T+ ou T aggravé par l'une des phrases de risque R 33, R 40, R 45, R 46, R 48, R 49 ou R 60 à R 64 :
+
+- R 50/53, R 50 : catégorie 7.
+
+- R 51/53 : catégorie 6.
+
+- R 52/53, R 52 ou R 53 : catégorie 5.
+
+- autres : catégorie 4.
+
+T non aggravé par l'une des phrases de risque précitées ou Xn aggravé par l'une des phrases de risque R 33, R 40, R 48 ou R
+62 à R 64 :
+
+- R 50/53, R 50 : catégorie 6.
+
+- R 51/53 : catégorie 5.
+
+- R 52/53, R 52 ou R 53 : catégorie 4.
+
+- autres : catégorie 3.
+
+Xn non aggravé par l'une des phrases de risque précitées, Xi ou C :
+
+- R 50/53, R 50 : catégorie 5.
+
+- R 51/53 : catégorie 4.
+
+- R 52/53, R 52 ou R 53 : catégorie 3.
+
+- autres : catégorie 2.
+
+Autres :.
+
+- R 50/53, R 50 : catégorie 4.
+
+- R 51/53 : catégorie 3.
+
+- R 52/53, R 52 ou R 53 : catégorie 2.
+
+- autres : catégorie 1.
+
+8. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre
+un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le
+montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au
+produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coefficient multiplicateur.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°75-633 du 15 juillet 1975 - art. 10-2 (M)
-	  - Loi n°92-1444 1992-12-31 art. 19
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -9827,6 +9930,7 @@ l'article 19 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte con
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -9835,9 +9939,19 @@ l'article 19 de la loi n° 92-1444 du 31 décembre 1992 relative à la lutte con
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
+	  - Code de l'environnement - art. L541-14 (M)
+	  - Code de l'environnement - art. L571-15 (M)
 
 
 ###### Article 266 octies
@@ -10173,34 +10287,24 @@ fabrication dans un autre Etat membre de la Communauté européenne ou la mise �
 lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
 mentionnés au 5 du I de l'article 266 sexies ;
 
-6. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des grains minéraux naturels
-mentionnés au 6 du I de l'article 266 sexies ;
+6. a) La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des matériaux d'extraction de
+toutes origines mentionnés au a du 6 du I de l'article 266 sexies ;
+
+b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat membre de la Communauté européenne, des
+matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre
+utilisation ;
 
 7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
 à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
 mentionnés au 7 du I de l'article 266 sexies ;
 
-8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée ;
+8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
 
-**Nota:**
-
-Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
-réserve énoncée au considérant, les dispositions du 1 et du 8 de l'article 266 septies du code des douanes, dans sa rédaction
-issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à la Constitution.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
 
 	**Cité par**:
 
@@ -10227,29 +10331,35 @@ issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 sexies
 
-I. - Il est institué à compter du 1er janvier 1999 une taxe générale sur les activités polluantes qui est due par les
-personnes physiques ou morales suivantes :
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
 d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
 biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
 
-2. Tout exploitant d'une installation soumise à autorisation au titre de la loi n° 76-663 du 19 juillet 1976 relative aux
-installations classées pour la protection de l'environnement dont la puissance thermique maximale lorsqu'il s'agit
-d'installations de combustion, la capacité lorsqu'il s'agit d'installations d'incinération d'ordures ménagères, ou le poids
-des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les
-catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
+2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
+la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
+d'incinération d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année
+lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
+d'Etat ;
 
 3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
 
@@ -10258,7 +10368,31 @@ cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifian
 usagées ;
 
 b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
-le rejet dans le milieu naturel est interdit.
+le rejet dans le milieu naturel est interdit ;
+
+5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
+pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
+
+6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+
+7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+produits antiparasitaires à usage agricole ou des produits assimilés relevant de la rubrique 3808 du tarif douanier dont la
+mise sur le marché est autorisée en application de la loi n° 525 du 2 novembre 1943 relative à l'organisation du contrôle des
+produits antiparasitaires à usage agricole et dans la composition desquels entrent des substances classées dangereuses selon
+les critères définis par les arrêtés pris pour l'application de l'article R. 231-51 du code du travail ;
+
+8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
+commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
+l'environnement.
+
+b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
+d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
+particuliers à l'environnement ;
 
 II. - La taxe ne s'applique pas :
 
@@ -10266,21 +10400,31 @@ II. - La taxe ne s'applique pas :
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie.
+b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+
+3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
+produit sec d'au moins 97 % d'oxyde de silicium ;
+
+4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
+assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole et aux produits
+assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication
+nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
+exportation ;
+
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+
+**Nota:**
+
+Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant, les dispositions du 1 et du 8 du paragraphe I de l'article 266 sexies du code des douanes,
+dans sa rédaction issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à
+la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°76-663 1976-07-19
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -10337,6 +10481,7 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -10351,12 +10496,22 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code du travail - art. R231-51 (M)
+	  - Loi n°43-525 1943-11-02
+
 
 ###### Article 266 terdecies
 
 Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les services chargés de l'inspection des
 installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise
-sur la délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée et sur
+sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement et sur
 l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
 modalités suivantes :
 
@@ -10411,19 +10566,17 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 	  - Code des douanes - art. 266 duodecies (V)
 	  - Code des douanes - art. 266 sexies (M)
 	  - Code des douanes - art. 266 undecies (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
-	**Créé par**:
-
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Cité par**:
 

@@ -1,17 +1,17 @@
 # Article 266 sexies
 
-I. - Il est institué à compter du 1er janvier 1999 une taxe générale sur les activités polluantes qui est due par les
-personnes physiques ou morales suivantes :
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+suivantes :
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
 d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
 biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
 
-2. Tout exploitant d'une installation soumise à autorisation au titre de la loi n° 76-663 du 19 juillet 1976 relative aux
-installations classées pour la protection de l'environnement dont la puissance thermique maximale lorsqu'il s'agit
-d'installations de combustion, la capacité lorsqu'il s'agit d'installations d'incinération d'ordures ménagères, ou le poids
-des substances mentionnées au 2 de l'article 266 septies émises en une année lorsque l'installation n'entre pas dans les
-catégories précédentes, dépassent certains seuils fixés par décret en Conseil d'Etat ;
+2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
+la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
+d'incinération d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année
+lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
+d'Etat ;
 
 3. Tout exploitant d'aéronefs ou, à défaut, leur propriétaire ;
 
@@ -20,7 +20,31 @@ cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifian
 usagées ;
 
 b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
-le rejet dans le milieu naturel est interdit.
+le rejet dans le milieu naturel est interdit ;
+
+5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
+pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
+
+6. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+grains minéraux naturels d'un diamètre maximal de 125 millimètres relevant des rubriques 2505 et 25171010 du tarif douanier ;
+
+7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
+achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
+produits antiparasitaires à usage agricole ou des produits assimilés relevant de la rubrique 3808 du tarif douanier dont la
+mise sur le marché est autorisée en application de la loi n° 525 du 2 novembre 1943 relative à l'organisation du contrôle des
+produits antiparasitaires à usage agricole et dans la composition desquels entrent des substances classées dangereuses selon
+les critères définis par les arrêtés pris pour l'application de l'article R. 231-51 du code du travail ;
+
+8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
+commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
+l'environnement.
+
+b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
+d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
+particuliers à l'environnement ;
 
 II. - La taxe ne s'applique pas :
 
@@ -28,21 +52,31 @@ II. - La taxe ne s'applique pas :
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
-b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie.
+b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protection civile ou de lutte contre l'incendie ;
+
+3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
+produit sec d'au moins 97 % d'oxyde de silicium ;
+
+4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
+assouplissants pour le linge, aux grains minéraux naturels, aux produits antiparasitaires à usage agricole et aux produits
+assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication
+nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
+exportation ;
+
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+
+**Nota:**
+
+Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant, les dispositions du 1 et du 8 du paragraphe I de l'article 266 sexies du code des douanes,
+dans sa rédaction issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à
+la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°76-663 1976-07-19
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -99,6 +133,7 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -112,3 +147,13 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code du travail - art. R231-51 (M)
+	  - Loi n°43-525 1943-11-02

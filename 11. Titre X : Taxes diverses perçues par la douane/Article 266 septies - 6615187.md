@@ -21,34 +21,24 @@ fabrication dans un autre Etat membre de la Communauté européenne ou la mise �
 lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
 mentionnés au 5 du I de l'article 266 sexies ;
 
-6. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des grains minéraux naturels
-mentionnés au 6 du I de l'article 266 sexies ;
+6. a) La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
+fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des matériaux d'extraction de
+toutes origines mentionnés au a du 6 du I de l'article 266 sexies ;
+
+b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat membre de la Communauté européenne, des
+matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre
+utilisation ;
 
 7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
 à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
 mentionnés au 7 du I de l'article 266 sexies ;
 
-8. a. La délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée ;
+8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies.
 
-**Nota:**
-
-Dans sa décision n° 2010-57 QPC du 18 octobre 2010 (NOR : CSCX1026814S), le Conseil constitutionnel a déclaré, sous la
-réserve énoncée au considérant, les dispositions du 1 et du 8 de l'article 266 septies du code des douanes, dans sa rédaction
-issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité sociale pour 2000, conformes à la Constitution.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
 
 	**Cité par**:
 
@@ -75,10 +65,16 @@ issue de la loi n° 99-1140 du 29 décembre 1999 de financement de la sécurité
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
 	**Modifié par**:
 
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08

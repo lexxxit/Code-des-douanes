@@ -2,7 +2,7 @@
 
 Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les services chargés de l'inspection des
 installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise
-sur la délivrance de l'autorisation prévue par l'article 3 de la loi n° 76-663 du 19 juillet 1976 précitée et sur
+sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement et sur
 l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
 modalités suivantes :
 
@@ -57,19 +57,17 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 	  - Code des douanes - art. 266 duodecies (V)
 	  - Code des douanes - art. 266 sexies (M)
 	  - Code des douanes - art. 266 undecies (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
-
-	**Créé par**:
-
-	  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Cité par**:
 
