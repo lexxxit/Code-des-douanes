@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1967-12-29
+Version Consolidée au 1967-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4426,6 +4426,94 @@ les quantités détournées, sans préjudice des pénalités encourues.
 	  - Décret n°99-723 du 3 août 1999 - art. 4 (V)
 	  - Loi n°2004-639 du 2 juillet 2004 - art. 7-1 (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+
+
+###### Article 265 bis
+
+1. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis en exemption totale ou partielle de la
+taxe intérieure de consommation, de la redevance prévue à l'article 266 ter et en suspension de la taxe sur la valeur ajoutée
+lorsqu'ils sont utilisés pour la fabrication des produits chimiques dont la ligne est fixée par décret.
+
+Ces décrets déterminent les conditions de mise en oeuvre des produits bénéficiant de ce régime fiscal et le montant de
+l'exonération applicable.
+
+2. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis par décret en suspension des taxes et
+redevances, dont la perception incombe à l'administration des douanes, autres que celles visés au 1 ci-dessus.
+
+Cette suspension est de droit pour les produits admis en exemption totale de la taxe intérieure de consommation dans les
+conditions fixées au 1 ci-dessus.
+
+3. Les décrets prévus aux 1 et 2 ci-dessus sont pris après avis d'une commission spéciale dont la composition est fixé par
+arrêté du ministre de l'économie et des finances et du ministre chargé de l'industrie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°66-923 1966-12-14 art. 4 JORF 15 décembre 1966
+
+	**Modifié par**:
+
+	  - Décret n°67-1218 1967-12-22 art. 5 JORF 30 décembre 1967
+
+	**Cité par**:
+
+	  - Arrêté du 29 avril 1970 - art. 1 (M)
+	  - Décret n°83-285 du 8 avril 1983 - art. 5 (P)
+	  - Décret n°83-540 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-540 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°83-541 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-541 du 24 juin 1983 - art. ANNEXE (V)
+	  - Décret n°83-542 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-542 du 24 juin 1983 - art. ANNEXE (V)
+	  - Décret n°83-543 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-543 du 24 juin 1983 - art. ANNEXE (V)
+	  - Décret n°83-544 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-544 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°83-545 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-545 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°83-546 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-546 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°83-547 du 24 juin 1983 - art. 1 (V)
+	  - Décret n°83-547 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°83-548 du 24 juin 1983 - art. Annexe (V)
+	  - Décret n°88-1271 du 30 décembre 1988 - art. 4 (V)
+	  - Décret n°90-132 du 12 février 1990 - art. 5 (V)
+	  - Décret n°91-285 du 19 mars 1991 - art. 5 (V)
+	  - Décret n°92-98 du 29 janvier 1992 - art. 5 (V)
+	  - Arrêté du 8 juin 1993 - art. 15 (V)
+	  - Arrêté du 9 septembre 1993 - art. 17 (V)
+	  - Décret n°94-27 du 11 janvier 1994 - art. 4 (V)
+	  - Décret n°94-1214 du 30 décembre 1994 - art. 5 (V)
+	  - Décret n°97-201 du 5 mars 1997 - art. 5 (V)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Arrêté du 27 octobre 2003 - art. 1 (V)
+	  - Arrêté du 1 juillet 2004 - art. 2 (Ab)
+	  - Arrêté du 25 juin 2008 - art. 11 (V)
+	  - Arrêté du 25 juin 2008 - art. 2 (V)
+	  - Arrêté du 25 juin 2008 - art. 5 (V)
+	  - Arrêté du 25 juin 2008 - art. 8 (V)
+	  - Décret n°2009-805 du 26 juin 2009 - art. 1 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 30
+	  - Arrêté du 23 février 2012 - art. 1 (V)
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 (V)
+	  - Arrêté du 17 décembre 2015 - art. 1 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Arrêté du 1er avril 2016 (V)
+	  - Code des douanes - art. 265 ter (V)
+	  - Code des douanes - art. 266 quindecies (V)
+	  - Code des douanes - art. 266 ter (Ab)
 
 	**Codifié par**:
 
