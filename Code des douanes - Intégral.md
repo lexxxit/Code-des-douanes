@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-01-11
+Version Consolidée au 2004-06-22
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2316,9 +2316,9 @@ etc.) ;
 
 h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-i) chez les opérateurs de télécommunications et les prestataires mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du
-30 septembre 1986 relative à la liberté de communication, pour les données conservées et traitées par ces derniers, dans le
-cadre de l'article L. 32-3-1 du code des postes et télécommunications ;
+i) chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
+2004-575 du 21 juin 2004  pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
+derniers, dans le cadre de l'article L. 32-3-1 du code des postes et télécommunications ;
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
@@ -2402,14 +2402,13 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 8
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
+	  - Loi n°2004-575 2004-06-21 art. 6
 	  - Code des douanes 65 A
 	  - Code des postes et télécommunications L32-3-1
 
 	**Modifié par**:
 
-	  - Loi - art. 62 () JORF 29 décembre 2001
+	  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004
 
 	**Codifié par**:
 
