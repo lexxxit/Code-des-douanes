@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-11-26
+Version Consolidée au 2003-12-20
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -12707,31 +12707,6 @@ douane, ou à la mairie du lieu de rédaction du procès-verbal s'il n'existe da
 	  - Loi - art. 44 (V) JORF décembre 2002
 
 
-###### Article 328
-
-1. Les procès-verbaux sont affirmés devant le juge d'instance dans le délai donné pour comparaître ; l'affirmation énonce
-qu'il en a été donné lecture à l'affirmant.
-
-2. En matière correctionnelle ou criminelle, les saisissants ont trois jours pour affirmer leurs procès-verbaux.
-
-3. Les agents des douanes et les fonctionnaires assermentés des autres administrations sont toutefois dispensés de la
-formalité de l'affirmation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF décembre 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 4 () JORF 20 décembre 2003
-
-
 #### Paragraphe 3 : Formalités relatives à quelques saisies particulières
 
 ##### A. - Saisies portant sur le faux et sur l'altération des expéditions.
@@ -12849,13 +12824,17 @@ de la frontière jusqu'au moment de leur saisie.
 
 ###### Article 333
 
-1. Après affirmation s'il y a lieu, les procès-verbaux constatant les délits de douane sont remis au procureur de la
-République et les prévenus capturés sont traduits devant ce magistrat.
+1. Les procès-verbaux constatant les délits de douane sont remis au procureur de la République et les prévenus capturés sont
+traduits devant ce magistrat.
 
 2. A cet effet, les autorités civiles et militaires sont tenues de prêter main-forte aux agents des douanes à la première
 réquisition.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 5 () JORF 20 décembre 2003
 
 	**Cité par**:
 
@@ -12864,10 +12843,6 @@ réquisition.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF décembre 2002
 
 
 ### Section 2 : Constatation par procès-verbal de constat.
