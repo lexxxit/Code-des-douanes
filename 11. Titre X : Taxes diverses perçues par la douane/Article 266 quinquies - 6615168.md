@@ -20,7 +20,7 @@ l'article 265.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. (alinéa supprimé).
+5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.
 
 **Liens relatifs à cet article**
 
@@ -69,7 +69,7 @@ l'article 265.
 
 	**Modifié par**:
 
-	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Codifié par**:
 

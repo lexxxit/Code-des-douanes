@@ -49,11 +49,12 @@ l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement ;
+particuliers à l'environnement.
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
+aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
@@ -69,6 +70,12 @@ livraison après fabrication nationale consiste en une expédition directe à de
 européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+
+III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
+installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
+décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
+détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
+de l'environnement ou de nuire à la santé humaine.
 
 **Liens relatifs à cet article**
 
@@ -147,7 +154,7 @@ européenne ou en une exportation ;
 
 	**Modifié par**:
 
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cite**:
 

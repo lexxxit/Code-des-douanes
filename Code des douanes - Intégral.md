@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8664,17 +8664,15 @@ b) Autres huiles légères.
 
 essences d'aviation : indice 10, hectolitre, 32,36.
 
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
-d'identification n° 11 bis : indice 11, hectolitre, 58,63.
+supercarburant sans plomb : indice 11, hectolitre, 58,92.
 
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, contenant un additif spécifique améliorant les
-caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
-dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen : indice
-11 bis, hectolitre, 63,67.
+supercarburant sans plomb contenant un additif spécifique améliorant les caractéristiques antirécession de soupape :
+
+indice 11 bis, hectolitre, 63,96.
 
 carburéacteurs, type essence :
 
-sous condition d'emploi : indice 13, hectolitre, 14,76.
+sous condition d'emploi : indice 13, hectolitre, 2,54.
 
 autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
@@ -8690,7 +8688,7 @@ autre : indice 16, hectolitre, taxe intérieure gazole.
 
 b) Carburéacteurs, type pétrole lampant :
 
-sous condition d'emploi : indice 17, hectolitre, 2,25.
+sous condition d'emploi : indice 17, hectolitre, 2,54.
 
 autre : indice 17 bis, hectolitre, taxe intérieure gazole.
 
@@ -8700,36 +8698,24 @@ c) Autres huiles moyennes : indice 18, hectolitre, taxe intérieure gazole.
 
 a) Gazole :
 
-sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,49.
+sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 38,90.
+présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 39,19.
 
 autre : indice 23, hectolitre, exemption.
 
-b) Fioul :
+fioul lourd : indice 24, 100 kg net, 1,85.
 
-. Fioul présentant une viscosité cinématique à 20° C inférieure ou égale à 9,5 centistockes :
-
-présentant un point d'éclair inférieur à 120° C : indice 26, hectolitre, taxe intérieure gazole.
-
-autre : indice 27, exemption.
-
-. Fiouls lourds :
-
-d'une teneur en soufre supérieure à 2 % : indice 28, 100 kg net, 2,32.
-
-d'une teneur en soufre inférieure à 2 % : indice 28 bis, 100 kg net, 1,68.
-
-c) Huiles lubrifiantes et autres : indice 29, exemption.
+b) Huiles lubrifiantes et autres : indice 29, exemption.
 
 2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
 
 destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids :
 
-sous condition d'emploi : indice 30 bis, 100 kg net, 3,94.
+sous condition d'emploi : indice 30 bis, 100 kg net, 4,68.
 
-autre : indice 30 ter, 100 kg net, 10,02.
+autre : indice 30 ter, 100 kg net, 10,76.
 
 destiné à d'autres usages : indice 31, exemption.
 
@@ -8756,7 +8742,7 @@ autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés �
 
 non dénommés : indice 35, exemption.
 
-Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 8,38.
+Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 8,47.
 
 2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
 
@@ -8807,37 +8793,7 @@ Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'é
 carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
 température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
 
-d) Lorsque le cours moyen du pétrole dénommé "brent daté" varie de plus de 10 % dans les conditions précisées au deuxième
-alinéa, les tarifs prévus au 1 pour les supercarburants mentionnés aux indices 11 et 11 bis, le gazole mentionné à l'indice
-22 et le fioul domestique mentionné à l'indice 20 sont corrigés d'un montant égal au produit de la variation en valeur
-absolue de la moyenne des prix hors taxe de ces produits pétroliers et du taux de 16,388 %. Cette correction est effectuée à
-la baisse en cas de hausse des prix hors taxe et à la hausse dans le cas contraire.
-
-Cette modification est effectuée le 1er octobre 2000 pour la période du 1er octobre au 30 novembre 2000 si la variation
-cumulée du cours moyen du pétrole "brent daté" constatée sur la période du 1er au 15 septembre 2000 est supérieure de 10 % au
-cours moyen du mois de janvier 2000. La modification est effectuée le 1er décembre 2000 pour la période du 1er décembre 2000
-au 20 janvier 2001 si la variation cumulée du cours moyen du pétrole "brent daté" constatée sur la période du 1er octobre au
-9 novembre 2000 est supérieure de 10 % au cours moyen de la période du mois de septembre 2000. La modification est effectuée
-le 21 janvier 2001 pour la période du 21 janvier au 20 mars 2001 si la variation cumulée du cours moyen du pétrole "brent
-daté" constatée sur la période du 10 novembre au 31 décembre 2000 est supérieure de 10 % au cours moyen de la période du 1er
-octobre au 9 novembre 2000. Elle est effectuée pour les périodes ultérieures, lorsque la variation cumulée constatée au cours
-des bimestres suivants est supérieure de 10 % à la moyenne des prix du "brent daté" qui a entraîné la modification
-précédente.
-
-Ces modifications s'appliquent à compter du 21 du premier mois du bimestre suivant celui au titre duquel une variation de 10
-% du cours du "brent daté" a été constatée.
-
-Les cours moyens du pétrole "brent daté" et les prix moyens hors taxe des supercarburants, du gazole et du fioul domestique
-sont calculés, pour chacune des périodes mentionnées au présent d, par l'autorité administrative compétente.
-
-Les modifications prévues au premier alinéa ne peuvent pas avoir pour effet de porter les tarifs à un niveau supérieur à
-celui fixé par la loi de finances au tableau B du 1. Ces modifications ne sont plus appliquées lorsque le cours moyen
-bimestriel du "brent daté" est redevenu inférieur à la moyenne constatée au titre du mois de janvier 2000.
-
-Le ministre chargé du budget constate par arrêté les modifications de tarifs de la taxe intérieure de consommation résultant
-des alinéas précédents.
-
-Un décret fixe les modalités d'application de ces dispositions.
+d) (alinéa abrogé).
 
 Tableau C : Autres huiles minérales.
 
@@ -9230,10 +9186,8 @@ hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, 
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
-	  - Loi n°2000-1352 2000-12-30 art. 12 I, IV Finances pour 2001 JORF 31 décembre 2000
+	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 25 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Codifié par**:
 
@@ -9699,12 +9653,10 @@ gazole.
 
 Ce remboursement est égal à la différence entre le taux de la taxe intérieure de consommation sur les produits pétroliers
 visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique qui est
-fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F par hectolitre. Ce taux spécifique est fixé à 35,09
-euros par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre pour la période du
-21 janvier 2002 au 20 janvier 2003. A compter du 21 janvier 2001, pour chaque semestre, le taux spécifique est affecté, le
-cas échéant, de la différence, si elle est positive, entre le tarif applicable en vertu du d du 2 du tableau B du 1 de
-l'article 265 à la date du 1er octobre 2000 et la moyenne des taux applicables en vertu du même d pour chacun des bimestres
-dudit semestre.
+fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 37,30 euros (244,64 F) par hectolitre. Ce taux spécifique est
+fixé à 35,09 euros par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre pour
+la période du 21 janvier 2002 au 31 décembre 2002, et 37,06 euros par hectolitre pour la période du 1er janvier 2003 au 20
+janvier 2003.
 
 Le remboursement est plafonné à 20 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
 dans la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
@@ -9777,7 +9729,8 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi - art. 58 (V) JORF 29 décembre 2001
+	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 25 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cite**:
 
@@ -10107,11 +10060,17 @@ Désignation des matières ou opérations imposables, l'unité de perception est
 
 Déchets.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 9,15.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
+du livre V du code de l'environnement pour ladite réception, 18,29.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
-du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement, dans lequel est située
-l'installation de stockage, 13,72.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
+livre V du code de l'environnement pour ladite réception :
+
+- ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
+(EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le système de
+management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité, 7,5.
+
+- autre, 9,15.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
 
@@ -10131,11 +10090,9 @@ Hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 10,37.
+Aérodromes du groupe 1, 22.
 
-Aérodromes du groupe 2, 3,81.
-
-Aérodromes du groupe 3, 0,76.
+Aérodromes du groupe 2, 8.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
@@ -10188,19 +10145,16 @@ Exploitation au cours d'une année civile (tarif de base), 335,39.
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 
-La majoration applicable aux déchets réceptionnés dans une installation de stockage des déchets ménagers et assimilés de
-provenance extérieure au périmètre du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de
-l'environnement, dans lequel est située l'installation de stockage ne s'applique pas aux déchets dont le transfert entre le
-site de regroupement et le site de traitement final est effectué par voie ferroviaire ou par voie fluviale, sous réserve que
-la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
-L'autorité administrative compétente est chargée d'accorder l'exonération de cette majoration au vu des documents fournis par
-le transporteur.
+3 bis. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, autorisée au titre du
+titre Ier du livre V du code de l'environnement pour ladite réception, après la date limite d'exploitation figurant dans
+l'arrêté préfectoral d'autorisation, sont taxés au taux correspondant aux déchets réceptionnés dans les installations non
+autorisées au titre du titre Ier du livre V du même code.
 
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
 
 5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
-sont répartis dans les trois groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
+sont répartis dans les deux groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
 de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus à
 l'article L. 571-15 du code de l'environnement.
 
@@ -10261,6 +10215,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -10283,12 +10241,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - Code de l'environnement - art. R151-2 (V)
 	  - Code des douanes - art. 266 undecies (V)
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
@@ -10299,9 +10251,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 27 () JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 
 ###### Article 266 octies
@@ -10312,9 +10265,9 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
 
-3. Le logarithme décimal de la masse maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des
-coefficients de modulation prennent en compte, dans un rapport de un à cinquante, l'heure du décollage et les
-caractéristiques acoustiques de l'appareil ;
+3. Sauf en cas de taxation d'office prévue au cinquième alinéa de l'article 266 undecies, le logarithme décimal de la masse
+maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des coefficients de modulation prennent en
+compte, dans un rapport de 0,5 à 120, l'heure du décollage et les caractéristiques acoustiques de l'appareil ;
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
 
@@ -10331,9 +10284,10 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
 	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code du travail - art. R231-51 (M)
 
 	**Codifié par**:
 
@@ -10349,8 +10303,7 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 
 ###### Article 266 quater
@@ -10560,7 +10513,7 @@ l'article 265.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. (alinéa supprimé).
+5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.
 
 **Liens relatifs à cet article**
 
@@ -10609,7 +10562,7 @@ l'article 265.
 
 	**Modifié par**:
 
-	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Codifié par**:
 
@@ -10618,21 +10571,25 @@ l'article 265.
 
 ###### Article 266 quinquies A
 
-Les livraisons de fioul lourd d'une teneur en soufre inférieure ou égale à 2 %, de gaz naturel et de gaz de raffinerie
-destinés à être utilisés dans des installations de cogénération, pour la production combinée de chaleur et d'électricité ou
-de chaleur et d'énergie mécanique, sont exonérées des taxes intérieures de consommation prévues aux articles 265 et 266
-quinquies pendant une durée de cinq années à compter de la mise en service des installations.
+Les livraisons de gaz naturel et d'huiles minérales destinés à être utilisés dans des installations de cogénération, pour la
+production combinée de chaleur et d'électricité ou de chaleur et d'énergie mécanique, sont exonérées des taxes intérieures de
+consommation prévues aux articles 265 et 266 quinquies pendant une durée de cinq années à compter de la mise en service des
+installations. Toutefois, la durée d'exonération pour les livraisons de fioul lourd d'une teneur en soufre supérieure à 1 %
+utilisé dans des installations de cogénération équipées de dispositifs de désulfuration des fumées conformément à la
+réglementation en vigueur est portée à dix années.
 
-Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2005.
+Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2005. Toutefois, en ce qui
+concerne les huiles minérales, autres que le fioul lourd et les gaz de raffinerie, cette exonération ne s'applique qu'aux
+installations mises en service entre le 1er janvier 2003 et le 31 décembre 2005.
 
-La nature et la puissance minimale de ces installations ainsi que le rapport entre les deux énergies produites sont fixés par
-décret en Conseil d'Etat.
+La nature et la puissance minimale des installations de cogénération ainsi que le rapport entre les deux énergies produites
+sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 108 () JORF 31 décembre 1999
+	  - Loi - art. 23 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cité par**:
 
@@ -10784,11 +10741,12 @@ l'environnement ;
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement ;
+particuliers à l'environnement.
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
+aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
 2. a. Aux aéronefs de masse maximale au décollage inférieure à deux tonnes ;
 
@@ -10804,6 +10762,12 @@ livraison après fabrication nationale consiste en une expédition directe à de
 européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+
+III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
+installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
+décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
+détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
+de l'environnement ou de nuire à la santé humaine.
 
 **Liens relatifs à cet article**
 
@@ -10882,7 +10846,7 @@ européenne ou en une exportation ;
 
 	**Modifié par**:
 
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cite**:
 
@@ -10970,13 +10934,45 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et
 de trois acomptes. Chaque acompte est égal à un tiers du montant de la taxe due au titre de l'année précédente et fait
-l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre. Toutefois, pour l'année 2002, le premier acompte
-de la taxe est acquitté le 10 juillet 2002 en même temps que le deuxième.
+l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre.
 
 Les redevables déposent, au plus tard le 10 avril de chaque année et pour la première fois le 10 avril 2003, la déclaration
 de la taxe due au titre de l'année précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de
 celle-ci. La forme de la déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4
 de l'article 95.
+
+En cas de cessation définitive d'activité taxable, les assujettis déposent la déclaration susvisée dans les trente jours qui
+suivent la date de fin de leur activité. La taxe due est immédiatement établie. La déclaration est le cas échéant accompagnée
+du paiement.
+
+Les assujettis qui transmettent la déclaration de la taxe due au titre de l'année précédente par voie électronique sont
+dispensés de joindre à cette déclaration les pièces mentionnées au 3 de l'article 266 nonies et au 6 de l'article 266 decies.
+Ils doivent néanmoins pouvoir les présenter à première réquisition du service des douanes.
+
+En l'absence de déclaration, les redevables mentionnés au 3 du I de l'article 266 sexies sont avertis par le service des
+douanes qu'à défaut de régularisation sous trente jours à compter de cet avertissement, il sera procédé à une taxation
+d'office égale au produit de la taxe appliquée à l'aéronef le plus fortement taxé par le service des douanes au cours de
+l'année civile précédente, tous redevables confondus, par le nombre de décollages relevés pour le redevable concerné. Les
+éléments nécessaires à l'établissement de cette taxation sont communiqués, à la demande du service, par l'autorité
+responsable de la circulation aérienne. A l'expiration du délai de trente jours et à défaut de déclaration, la taxe est
+établie d'office par le comptable des douanes. Elle est adressée au redevable et devient exigible dès la date de réception de
+cette liquidation. Le paiement intervient au plus tard sous dix jours à compter de cette réception.
+
+Lorsqu'elle est établie, la taxation d'office tient lieu d'assiette pour le calcul des acomptes de l'année.
+
+En cas de non-paiement, de paiement insuffisant ou de non-paiement des acomptes dus au titre de l'année en cours, le service
+des douanes peut, après avoir mis en demeure le redevable de régulariser sous trente jours et à l'expiration de ce délai,
+requérir la saisie conservatoire d'un aéronef exploité par le redevable ou lui appartenant auprès du juge du lieu d'exécution
+de la mesure.
+
+L'ordonnance du juge de l'exécution est transmise par le service des douanes aux autorités responsables de la circulation
+aérienne de l'aérodrome aux fins d'immobilisation de l'aéronef. L'ordonnance est notifiée au redevable et au propriétaire de
+l'aéronef lorsque le redevable est l'exploitant. Ces derniers disposent d'un délai d'un mois pour interjeter appel auprès de
+la cour du lieu d'exécution de la mesure.
+
+Les frais entraînés par la saisie conservatoire sont à la charge du redevable.
+
+Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
 
 L'écart entre le montant de la taxe payée sous la forme d'acomptes et le montant de la taxe porté sur la déclaration fait
 l'objet d'une régularisation. Cette régularisation est liquidée par le redevable sur la déclaration.
@@ -11030,11 +11026,12 @@ garanties et sanctions prévues en matière de droits de douane.
 
 	**Modifié par**:
 
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
-	  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cite**:
 
+	  - Code des douanes - art. 266 decies (M)
+	  - Code des douanes - art. 266 nonies (M)
 	  - Code des douanes - art. 266 sexies (M)
 	  - Code des douanes - art. 95 (M)
 
@@ -14294,6 +14291,70 @@ recouvrement observées par elle à l'égard de ce tiers.
 	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
+
+###### Article 381 bis
+
+L'administration peut requérir des Etats membres de la Communauté européenne et est tenue de leur prêter assistance en
+matière de recouvrement et d'échange de renseignements, relatifs aux créances de droits, taxes et perceptions de toute nature
+à l'importation et à l'exportation, aux droits d'accises sur les huiles minérales, ainsi qu'aux intérêts, pénalités, amendes
+administratives et frais relatifs à ces créances, à l'exclusion de toute sanction à caractère pénal.
+
+Le recouvrement des créances visées par le présent article est confié aux comptables des douanes, à la demande d'un Etat
+membre de la Communauté européenne requérant.
+
+Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
+sont notifiés au débiteur.
+
+Ces créances sont recouvrées selon les procédures et sûretés applicables en matière de droits de douane, sous réserve des
+exceptions ci-après :
+
+1° Elles ne bénéficient pas du privilège prévu à l'article 379 ;
+
+2° Dès qu'il est informé par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance, le
+comptable suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance étrangère compétente ;
+
+3° Les questions relatives à la prescription de l'action en recouvrement sont régies par la législation de l'Etat membre
+requérant. Le caractère interruptif ou suspensif des actes effectués par le comptable public pour le recouvrement des
+créances de l'Etat membre requérant est apprécié selon la législation de cet Etat.
+
+A la demande de l'Etat membre requérant, le comptable prend toutes mesures conservatoires utiles pour garantir le
+recouvrement de la créance de cet Etat.
+
+Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, tous
+renseignements utiles pour le recouvrement de la créance, à l'exception de ceux qui, sur la base de la législation en
+vigueur, ne pourraient être obtenus pour le recouvrement de leurs propres créances de même nature.
+
+Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel, ou dont la
+communication serait de nature à porter atteinte à la sécurité ou l'ordre public français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 44 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
+	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 379 (M)
+
+
 ### Section 2 : Voies d'exécution
 
 #### Paragraphe 1 : Règles générales.
@@ -16281,52 +16342,6 @@ conformément au droit commun.
 	**Modifié par**:
 
 	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
-
-# Titre XII : Contentieux
-
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
-
-### Section 1 : Sûretés garantissant l'exécution
-
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
-
-###### Article 381 bis
-
-Les créances résultant d'opérations faisant partie du système de financement du fonds européen d'orientation et de garantie
-agricole, de prélèvements agricoles et de droits de douane, ainsi que la taxe sur la valeur ajoutée, des droits indirects
-dits "accises" visés à l'article 55 de la loi n° 92-677 du 17 juillet 1992, et de toutes sommes accessoires nées dans un Etat
-membre de la Communauté européenne, sont recouvrées dans les mêmes conditions que les créances similaires nées sur le
-territoire national. Le recouvrement de ces créances ne bénéficie d'aucun privilège.
-
-Sur demande de l'autorité compétente d'un Etat membre de la Communauté européenne, l'administration des douanes et droits
-indirects peut communiquer les renseignements et les documents utiles au recouvrement des créances nées dans cet Etat membre.
-Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Loi n°92-677 1992-07-17 art. 55
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
-
-	**Cité par**:
-
-	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
-	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
 
 
 # Titre XIII : La commission de conciliation et d'expertise douanière.

@@ -6,9 +6,9 @@ La taxe mentionnée à l'article 266 sexies est assise sur :
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
 
-3. Le logarithme décimal de la masse maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des
-coefficients de modulation prennent en compte, dans un rapport de un à cinquante, l'heure du décollage et les
-caractéristiques acoustiques de l'appareil ;
+3. Sauf en cas de taxation d'office prévue au cinquième alinéa de l'article 266 undecies, le logarithme décimal de la masse
+maximale au décollage des aéronefs mentionnés au 3 de l'article 266 septies. Des coefficients de modulation prennent en
+compte, dans un rapport de 0,5 à 120, l'heure du décollage et les caractéristiques acoustiques de l'appareil ;
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
 
@@ -25,9 +25,10 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
 	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code du travail - art. R231-51 (M)
 
 	**Codifié par**:
 
@@ -43,5 +44,4 @@ produits assimilés mentionnés au 7 du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003

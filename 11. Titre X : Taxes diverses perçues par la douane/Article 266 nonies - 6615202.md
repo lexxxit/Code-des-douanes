@@ -6,11 +6,17 @@ Désignation des matières ou opérations imposables, l'unité de perception est
 
 Déchets.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 9,15.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
+du livre V du code de l'environnement pour ladite réception, 18,29.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
-du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement, dans lequel est située
-l'installation de stockage, 13,72.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
+livre V du code de l'environnement pour ladite réception :
+
+- ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
+(EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le système de
+management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité, 7,5.
+
+- autre, 9,15.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
 
@@ -30,11 +36,9 @@ Hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 10,37.
+Aérodromes du groupe 1, 22.
 
-Aérodromes du groupe 2, 3,81.
-
-Aérodromes du groupe 3, 0,76.
+Aérodromes du groupe 2, 8.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
@@ -87,19 +91,16 @@ Exploitation au cours d'une année civile (tarif de base), 335,39.
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
 
-La majoration applicable aux déchets réceptionnés dans une installation de stockage des déchets ménagers et assimilés de
-provenance extérieure au périmètre du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de
-l'environnement, dans lequel est située l'installation de stockage ne s'applique pas aux déchets dont le transfert entre le
-site de regroupement et le site de traitement final est effectué par voie ferroviaire ou par voie fluviale, sous réserve que
-la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
-L'autorité administrative compétente est chargée d'accorder l'exonération de cette majoration au vu des documents fournis par
-le transporteur.
+3 bis. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, autorisée au titre du
+titre Ier du livre V du code de l'environnement pour ladite réception, après la date limite d'exploitation figurant dans
+l'arrêté préfectoral d'autorisation, sont taxés au taux correspondant aux déchets réceptionnés dans les installations non
+autorisées au titre du titre Ier du livre V du même code.
 
 4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
 
 5. Les aérodromes où la taxe générale sur les activités polluantes est perçue en application du 3 de l'article 266 septies
-sont répartis dans les trois groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
+sont répartis dans les deux groupes affectés d'un taux unitaire spécifique mentionnés dans le tableau ci-dessus en fonction
 de la gêne sonore réelle subie par les riverains, telle qu'elle est constatée dans les plans de gêne sonore prévus à
 l'article L. 571-15 du code de l'environnement.
 
@@ -160,6 +161,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -182,12 +187,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - Code de l'environnement - art. R151-2 (V)
 	  - Code des douanes - art. 266 undecies (V)
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
@@ -198,6 +197,7 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi - art. 24 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi - art. 27 () JORF 31 décembre 2002 en vigueur le 1er janvier 2003
