@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8366,28 +8366,6 @@ La contrainte doit comporter copie du titre qui établit la créance.
 	  - Décret n°48-1985 1948-12-08
 
 
-###### Article 348
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-	**Cité par**:
-
-	  - Décret n°2007-568 du 17 avril 2007 - art. 2 (V)
-	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
-	  - Arrêté du 12 avril 2013 - art. (V)
-	  - Code des douanes - art. 349 bis (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
 ###### Article 349
 
 Les contraintes sont signifiées dans les conditions prévues à l'article 362 ci-après.
@@ -8544,55 +8522,62 @@ douane où la contrainte a été décernée.
 	  - Décret n°59-625 1959-05-12 art. 3, art. 5 JORF 16 mai 1959
 
 
-### Section 3 : Procédure devant les juridictions répressives.
-
-###### Article 364
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
-
-
 ### Section 5 : Dispositions diverses
 
 #### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.
 
-###### Article 371
+###### Article 369
 
-(texte abrogé).
+1. S'il retient les circonstances atténuantes, le tribunal peut :
+
+a) Libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
+dans les cas où les actes de contrebande ou assimiles ont été commis par dissimulation dans des cachettes spécialement
+aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
+
+b) Libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
+
+c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
+marchandises ;
+
+d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
+437 ci-après ;
+
+e) Limiter, en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus,l'étendue de la solidarité à l'égard de
+certains des condamnés.
+
+Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains coprévenus pour un même fait de fraude, le
+tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
+seront solidairement tenus, il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
+fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
+
+S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut : dispenser le prévenu des sanctions
+pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
+soit pas mentionné au bulletin n° 2 du casier judiciaire.
+
+2. Les tribunaux ne peuvent relaxer les contrevenants pour défaut d'intention.
+
+3. Les tribunaux ne peuvent donner mainlevée de marchandises saisies qu'en jugeant définitivement le tout.
+
+4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 1977-12-29 art. 10 I, II, III JORF 30 décembre 1977
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
+
+	**Cité par**:
+
+	  - Code des douanes - art. 377 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 437 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-
-###### Article 372
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
 
 
 ## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
@@ -8790,6 +8775,28 @@ sociétés pour les dettes de ces sociétés constituant une créance douanière
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.
+
+###### Article 388
+
+Par décision expresse du tribunal, celui qui est condamné pour un délit douanier ou une infraction en matière de
+contributions indirectes peut, nonobstant appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait
+acquitté le montant des sanctions fiscales prononcées contre lui ; sauf dans le cas de trafic de stupéfiants, la durée de la
+détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte par corps prononcée
+par le tribunal et ne peut excéder le minimum prévu par le code de procédure pénale pour une condamnation pécuniaire de même
+montant que celui des sanctions fiscales prononcées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
 #### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane
@@ -9178,6 +9185,36 @@ douanière en transmettant à son secrétaire le dossier de l'affaire.
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
+###### Article 443
+
+1. La commission de conciliation et d'expertise douanière comprend :
+
+- un magistrat du siège de l'ordre judiciaire, président ;
+
+- deux assesseurs désignés en raison de leur compétence technique ;
+
+- un conseiller de tribunal administratif.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+2. Le magistrat, président de la commission de conciliation et d'expertise douanière, ainsi que le conseiller de tribunal
+administratif sont nommés par décret. Leurs suppléants sont désignés de la même manière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°71-209 1971-03-18
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 12 () JORF 30 décembre 1977
+
+
 ###### Article 444
 
 1. Seules peuvent être désignées comme assesseurs les personnes figurant sur les listes établies, pour chaque chapitre du
@@ -9361,6 +9398,61 @@ l'Etat.
 	**Abrogé par**:
 
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
+
+
+###### Article 450
+
+1. Lorsque des contestations relatives à l'espèce, à l'origine ou à la valeur sont soulevées après le dédouanement des
+marchandises lors des contrôles et enquêtes effectués dans les conditions prévues notamment par les articles 65 et 334 ci-
+dessus :
+
+a) L'une ou l'autre partie peuvent, dans les deux mois suivant notification de l'acte administratif de constatation de
+l'infraction, consulter pour avis la commission de conciliation et d'expertise douanière, laquelle dispose, à cet effet, des
+pouvoirs définis à l'article 445-1 ci-dessus ;
+
+b) La partie qui a pris l'initiative de cette consultation informe simultanément l'autre partie ou son représentant du
+recours à cette consultation ;
+
+c) L'avis de la commission de conciliation et d'expertise douanière doit être notifié aux parties dans un délai maximal de
+douze mois pendant lequel le cours des prescriptions visées aux articles 351 et 354 du présent code est suspendu ;
+
+d) En cas de procédure subséquente devant les tribunaux, les conclusions rendues par la commission de conciliation et
+expertise douanière dans le cadre de la consultation visée aux a et b du présent article sont versées par le président de
+cette commission au dossier judiciaire.
+
+2. Dans tous les cas où une procédure est engagée devant les tribunaux, qu'il y ait ou non consultation préalable de la
+commission de conciliation et d'expertise douanière, l'expertise judiciaire, si elle est prescrite par la juridiction
+compétente pour statuer sur les litiges douaniers, est confiée à ladite commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°71-209 1971-03-18
+
+	**Cité par**:
+
+	  - Décret n°71-209 du 18 mars 1971 - art. 18 (Ab)
+	  - Décret n°71-209 du 18 mars 1971 - art. 24 (Ab)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 9 (V)
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 11
+	  - Code des douanes - art. 352 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 11 () JORF 30 décembre 1977
+
+	**Cite**:
+
+	  - Code des douanes - art. 334 (V)
+	  - Code des douanes - art. 351 (V)
+	  - Code des douanes - art. 354 (M)
+	  - Code des douanes - art. 65 (M)
+	  - Code des douanes 65, 445-1, 351, 354, 334
 
 
 # Titre XIV : Contentieux des relations financières avec l'étranger
