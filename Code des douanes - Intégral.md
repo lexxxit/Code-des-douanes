@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1990-07-14
+Version Consolidée au 1990-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2669,8 +2669,13 @@ vérification intégrale des énonciations de la déclaration sur lesquelles por
 
 ###### Article 102
 
-1. La vérification des marchandises déclarées dans les bureaux de douane ne peut être faite que dans les magasins de la
-douane ou dans les lieux désignés à cet effet par le service des douanes.
+1. La vérification des marchandises s'effectue dans les bureaux de douane et pendant les heures légales d'ouverture desdits
+bureaux.
+
+Toutefois, le service des douanes peut autoriser, à la demande du déclarant, la vérification des marchandises dans des lieux
+ou pendant des heures autres que ceux visés ci-dessus.
+
+Les frais qui peuvent en résulter sont à la charge du déclarant.
 
 2. Le transport des marchandises sur les lieux de la vérification, le déballage, le remballage et toutes les autres
 manipulations nécessitées par la vérification sont effectués aux frais et sous la responsabilité du déclarant.
@@ -2684,12 +2689,20 @@ leur est interdit.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 59 () JORF 30 décembre 1990
+
 	**Cité par**:
 
-	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
-	  - Arrêté du 12 avril 2013 - art. (V)
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (M)
 	  - Décret n°2006-421 du 7 avril 2006 - art. 1 (V)
+	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
+	  - Arrêté du 12 avril 2013 - art. (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Codifié par**:
 
@@ -2876,7 +2889,7 @@ les marchandises abandonnées par transaction.
 1. Les redevables peuvent être admis à présenter des obligations dûment cautionnées, à quatre mois d'échéance, pour le
 paiement des droits et taxes recouvrés par l'administration des douanes.
 
-2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 250 F.
+2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 5 000 F.
 
 3. Elles donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont fixés par des arrêtés
 du ministre de l'économie et des finances.
@@ -2884,6 +2897,10 @@ du ministre de l'économie et des finances.
 4. La remise spéciale ne peut dépasser un tiers de franc pour cent.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
 
 	**Cité par**:
 
@@ -5260,15 +5277,19 @@ sont vendues aux enchères publiques.
 2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
 juge d'instance.
 
-3. Les marchandises d'une valeur inférieure à 100 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au 1
-ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en faire
-don à des hôpitaux, hospices ou autres établissements de bienfaisance.
+3. Les marchandises d'une valeur inférieure à 1 000 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au
+1 ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en
+faire don à des hôpitaux, hospices ou autres établissements de bienfaisance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
 
 
 ###### Article 187
@@ -6494,7 +6515,8 @@ par une taxe spéciale de 200 F par CV.
 Il est recouvré par année civile.
 
 En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
-une majoration de 10 % du montant de ce droit est automatiquement appliquée.
+une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
+lorsque son montant excède 50 F.
 
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
 le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année.
@@ -6502,8 +6524,8 @@ le droit annuel de francisation et de navigation n'est pas dû au titre de ladit
 3. Sont exonérées du droit de francisation et de navigation les embarcations appartenant à des écoles de sports nautiques qui
 relèvent d'associations agréées par le ministère de la jeunesse et des sports.
 
-4. La quotité du droit comme il est dit au tableau de l'article 223 ci-dessus fait l'objet, pour les navires de plaisance ou
-de sport, d'un abattement pour vétusté égal à :
+4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
+navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 - 25 % pour les bateaux de 10 à 20 ans ;
 
@@ -6511,16 +6533,14 @@ de sport, d'un abattement pour vétusté égal à :
 
 - 75 % pour le bateaux de plus de 25 ans.
 
-5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 30 F.
+5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 50 F.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 3 (Ab) JORF 29 décembre 1967
-	  - Loi n°70-1199 1970-12-21 art. 21 Finances pour 1971 JORF 22 décembre 1970 en vigueur le 1er janvier 1971
-	  - Décret n°72-357 1972-04-28 art. 1 III JORF 6 mai 1979
-	  - Loi n°80-1094 1980-12-29 art. 18 Finances pour 1981 JORF 30 décembre 1980
+	  - Loi n°83-1179 1983-12-29 art. 31 III Finances pour 1984 JORF 30 décembre 1983
+	  - Loi - art. 31 () JORF 30 décembre 1990
 
 	**Cité par**:
 
@@ -6569,16 +6589,13 @@ les poursuites sont effectuées et les instances sont instruites et jugées comm
 
 Les dispositions relatives au droit de francisation et de navigation sont applicables dans les ports de la Corse, dans les
 ports des départements d'outre-mer, dans les ports du Rhin et de la Moselle, dans les ports fluviaux ouverts au trafic par
-bâtiments de mer, ainsi qu'aux bateaux de plaisance ou de sport utilisés en navigation intérieure en France continentale.
+bâtiments de mer.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 23 (Ab) JORF 29 décembre 1967
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 24 (VT) JORF 29 décembre 1967
-	  - Loi n°70-1199 1970-12-21 art. 21 III Finances pour 1971 JORF 22 décembre 1970 en vigueur le 1er janvier 1971
-	  - Décret n°72-357 1972-04-28 art. 1 IV JORF 6 mai 1972
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -6587,9 +6604,9 @@ bâtiments de mer, ainsi qu'aux bateaux de plaisance ou de sport utilisés en na
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°90-1168 1990-12-29 art. 124 VI JORF 30 décembre 1990
 
 
 #### Paragraphe 5 : Acte de francisation.
@@ -8326,7 +8343,9 @@ R. 238 du code de la route.
 2. Le montant de la taxe est exigible d'avance.
 
 3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant
-la date d'exigibilité donne lieu à application d'une majoration de 10 % qui ne peut être inférieure à 10 F.
+la date d'exigibilité donne lieu à application d'une majoration de 10 %.
+
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 50 F.
 
 **Liens relatifs à cet article**
 
@@ -8334,24 +8353,14 @@ la date d'exigibilité donne lieu à application d'une majoration de 10 % qui ne
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
-
 	**Cite**:
 
 	  - Loi n°52-401 1952-04-14 art. 25
 	  - Code de la route R238
 
-	**Anciens textes**:
-
-	  - Loi n°67-1114 du 21 décembre 1967 - art. 16, v. init.
-	  - Loi n°70-601 1970-07-09 art. 6
-	  - Loi n°70-1199 1970-12-21 art. 25
-
 	**Modifié par**:
 
-	  - Loi n°73-1128 1973-12-21 art. 7 Finances rectificative pour 1973 JORF 23 décembre 1973
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
 
 
 ###### Article 284 quinquies
@@ -8624,6 +8633,78 @@ courte affecté du coefficient 0,5 et le nombre de véhicules circulant en zone 
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 bis (V)
 	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
 	  - Code des douanes - art. 284 bis (V)
+
+
+## Chapitre V : Taxe spéciale sur certains aéronefs.
+
+###### Article 284 septies
+
+Les avions et hélicoptères civils appartenant à des personnes physiques nu morales ayant leur résidence principale ou leur
+siège social en France, quelle que soit leur nationalité, ou dont ces mêmes personnes ont la jouissance en France, sont
+soumis au paiement d'une taxe annuelle, dénommée "taxe spéciale sur certains aéronefs".
+
+Cette taxe recouvrée par année civile au profit de l'Etat est exigible au 1er janvier et à la charge du propriétaire ou, à
+défaut, de l'utilisateur de l'aéronef. Elle ne s'applique pas aux aéronefs affectés au transport public ou qui sont propriété
+de l'Etat ou qui appartiennent aux constructeurs et sont destinés aux essais et démonstrations en vol. Elle ne s'applique pas
+non plus aux aéronefs privés, monoplace et biplace, munis d'un certificat de navigabilité restreint.
+
+Ses taux sont les suivants : puissance continue totale du ou des moteurs en CV, en kilowatts et montant de la taxe.
+
+I. - Aéronefs dotés de moteurs à pistons :
+
+Moins de 100 CV, moins de 73,5 kW : 1.000 F.
+
+De 100 à 199 CV, de 73,5 à 146,99 kW : 1.200 F.
+
+De 200 à 274 CV, de 147 à 201,99 kW : 2.000 F.
+
+De 275 à 299 CV, de 202 à 219,99 kW : 4.000 F.
+
+De 300 à 399 CV, de 220 à 293,99 kW : 6.000 F.
+
+De 400 à 599 CV, de 294 à 440,99 kW : 10.000 F.
+
+De 600 CV et plus, de 441 kW et plus : 15.000 F.
+
+II. - Aéronefs à turbopropulseurs ou turbomoteurs :
+
+Moins de 275 CV, moins de 202 kW : 5.000 F.
+
+De 275 à 499 CV, de 202 à 366,99 kW : 10.000 F.
+
+De 500 à 999 CV, de 367 à 734,99 kW : 15.000 F.
+
+De 1.000 à 1.499 CV, de 735 à 1.101,99 kW : 20.000 F.
+
+De 1.500 CV et plus, de 1.102 kW et plus : 30.000 F.
+
+III. - Aéronefs à réacteurs :
+
+Quelle que soit leur puissance : 60.000 F.
+
+La taxe spéciale sur certains aéronefs est recouvrée par la direction générale des douanes et droits indirects selon les
+règles, garanties et sanctions prévues en matière douanière. Elle est payable chaque année. En cas de retard de versement par
+rapport à la limite qui sera fixée par décret une majoration de 10 % est appliquée.
+
+Un abattement de 50 % pour vétusté est appliqué aux avions et hélicoptères de plus de dix ans.
+
+Les aéronefs, d'une puissance inférieure à 300 CV ou 220 kW, appartenant à des centres d'instruction et aux écoles de sports
+aériens relevant d'associations agréées par le ministère des transports sont exonérés de la taxe spéciale.
+
+Les aéronefs de plus de vingt-cinq ans sont exonérés de la taxe spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 14, v. init.
+	  - Loi n°81-734 du 3 août 1981 - art. 10, v. init.
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 32, v. init.
+	  - Loi n°90-1168 1990-12-29 art. 57
 
 
 ## Chapitre VI : Droits et taxes divers.
@@ -9954,16 +10035,36 @@ la mise en examen et toute mention relative à l'inculpé est remplacée par une
 
 ###### Article 387
 
-1. Dans les cas qui requerront célérité, le juge d'instance pourra, sur la requête de l'administration des douanes, autoriser
-la saisie, à titre conservatoire, des effets mobiliers des prévenus, soit en vertu d'un jugement de condamnation, soit même
-avant jugement.
+1. Lorsque les infractions visées aux articles 412, 1° à 5°, 414 et 459 ont été régulièrement constatées par un fonctionnaire
+habilité à cet effet, le président du tribunal de grande instance peut ordonner, sur requête de l'administration des douanes,
+en cas d'urgence, au vu de l'importance des sommes à garantir, et afin de garantir le paiement des droits et taxes, amendes
+et confiscations, toutes mesures conservatoires utiles, aux frais avancés du Trésor et selon les modalités prévues au code de
+procédure civile, sur les biens du responsable de l'infraction.
 
-2. L'ordonnance du juge sera exécutoire nonobstant opposition ou appel. Il pourra être donne mainlevée de la saisie si le
-saisi fournit une caution jugée suffisante.
+2. L'ordonnance du président du tribunal de grande instance est exécutoire nonobstant opposition ou appel.
 
-3. Les demandes en validité, ou en mainlevée de la saisie sont de la compétence du juge d'instance.
+Toutefois, il peut être donné mainlevée des mesures conservatoires si l'intéressé fournit une caution jugée suffisante.
+
+3. Les demandes en validité ou en mainlevée des mesures conservatoires sont de la compétence du président du tribunal de
+grande instance.
+
+La condamnation ou l'acceptation d'une transaction par l'intéressé vaut validation des saisies conservatoires et inscription
+définitive des sûretés.
+
+La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
+ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-1169 du 29 décembre 1990 - art. 58 () JORF 30 décembre 1990
+
+	**Cite**:
+
+	  - Code des douanes - art. 412 (M)
+	  - Code des douanes - art. 414 (M)
+	  - Code des douanes - art. 459 (M)
 
 	**Codifié par**:
 
