@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-08-31
+Version Consolidée au 2001-12-29
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2300,7 +2300,11 @@ etc.) ;
 
 h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-i) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
+i) chez les opérateurs de télécommunications et les prestataires mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du
+30 septembre 1986 relative à la liberté de communication, pour les données conservées et traitées par ces derniers, dans le
+cadre de l'article L. 32-3-1 du code des postes et télécommunications ;
+
+j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
 
 2° Les agents des douanes ayant au moins le grade de contrôleur disposent également du droit de communication prévu par le 1°
@@ -2380,13 +2384,16 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 8
 	  - Code rural ancien - art. 364 (M)
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
-
 	**Cite**:
 
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
 	  - Code des douanes 65 A
+	  - Code des postes et télécommunications L32-3-1
+
+	**Modifié par**:
+
+	  - Loi - art. 62 () JORF 29 décembre 2001
 
 	**Codifié par**:
 
@@ -5533,20 +5540,14 @@ de l'article 165 en suspension des taxes et redevances dont elles sont passibles
 
 Cette suspension est réservée, dans les usines exercées visées au a du 1 de l'article 165, aux produits qui y sont extraits.
 
+1 bis. Les huiles minérales visées au tableau C de l'article 265 sont admises dans les usines exercées visées au b du 1 et au
+2 de l'article 165 en suspension des taxes intérieures de consommation et redevances dont elles sont passibles.
+
 2. Les huiles minérales ne sont pas soumises aux taxes et redevances dont elles sont passibles lorsqu'elles sont consommées
 dans l'enceinte des usines exercées visées au b du 1 et au 2 de l'article 165 aux fins de fabrication d'autres huiles
 minérales et à la production de l'énergie nécessaire à ces fabrications.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 42 (V) JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-	  - Loi n°92-1476 1992-12-31 art. 42 III, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
-
-	**Cité par**:
-
-	  - Décret n°97-201 du 5 mars 1997 - art. 5 (V)
 
 	**Cite**:
 
@@ -5556,6 +5557,14 @@ minérales et à la production de l'énergie nécessaire à ces fabrications.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Décret n°97-201 du 5 mars 1997 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 
 #### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.
@@ -9399,7 +9408,7 @@ véhicule affecté à ce transport.
 Le taux et la période de remboursement sont fixés conformément aux cinquième et septième alinéas de l'article 265 septies.
 
 Les exploitants de transport public routier en commun de voyageurs concernés adressent leur demande de remboursement au
-service des douanes à partir du 12 juillet et du 12 janvier suivant respectivement le premier et le second semestre de la
+service des douanes à partir du 22 juillet et du 22 janvier suivant respectivement le premier et le second semestre de la
 période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent à compter de ces
 dates.
 
@@ -9454,9 +9463,9 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 58 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -9618,23 +9627,23 @@ gazole.
 
 Ce remboursement est égal à la différence entre le taux de la taxe intérieure de consommation sur les produits pétroliers
 visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 22 et un taux spécifique qui est
-fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F par hectolitre. Ce taux spécifique est fixé à 230,18
-F par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 241,18 F par hectolitre pour la période du 21
-janvier 2002 au 20 janvier 2003. A compter du 21 janvier 2001, pour chaque semestre, le taux spécifique est affecté, le cas
-échéant, de la différence, si elle est positive, entre le tarif applicable en vertu du d du 2 du tableau B du 1 de l'article
-265 à la date du 1er octobre 2000 et la moyenne des taux applicables en vertu du même d pour chacun des bimestres dudit
-semestre.
+fixé, pour la période du 11 janvier 1999 au 10 janvier 2000, à 244,64 F par hectolitre. Ce taux spécifique est fixé à 35,09
+euros par hectolitre pour la période du 21 janvier 2001 au 20 janvier 2002 et à 36,77 euros par hectolitre pour la période du
+21 janvier 2002 au 20 janvier 2003. A compter du 21 janvier 2001, pour chaque semestre, le taux spécifique est affecté, le
+cas échéant, de la différence, si elle est positive, entre le tarif applicable en vertu du d du 2 du tableau B du 1 de
+l'article 265 à la date du 1er octobre 2000 et la moyenne des taux applicables en vertu du même d pour chacun des bimestres
+dudit semestre.
 
-Le remboursement est plafonné à 25 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
+Le remboursement est plafonné à 20 000 litres de gazole par semestre et par véhicule. Il est accordé aux entreprises établies
 dans la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
 couverte par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et
 immatriculés dans l'un des Etats membres.
 
-La période couverte par le remboursement s'entend de la période comprise entre le 11 janvier d'une année et le 10 janvier de
+La période couverte par le remboursement s'entend de la période comprise entre le 21 janvier d'une année et le 20 janvier de
 l'année suivante.
 
-Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 12 juillet et du
-12 janvier suivant respectivement le premier et le second semestre de la période au titre de laquelle le remboursement est
+Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 22 juillet et du
+22 janvier suivant respectivement le premier et le second semestre de la période au titre de laquelle le remboursement est
 sollicité et au plus tard dans les trois ans qui suivent à compter de ces dates.
 
 Les modalités d'application du présent article sont fixées par décret.
@@ -9696,7 +9705,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 58 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -9884,7 +9893,8 @@ abaissement s'applique aux produits déclarés pour la consommation avant la dat
 cette date chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
 l'exception des produits se trouvant dans les cuves des stations-services.
 
-Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé lorsque leur montant est inférieur à 2 000 F.
+Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé lorsque leur montant est inférieur à 300
+euros.
 
 **Liens relatifs à cet article**
 
@@ -9900,7 +9910,8 @@ Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas rembours�
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000 en vigueur le 21 septembre 2000
+	  - Loi - art. 51 (V) JORF 29 décembre 2001
+	  - Loi n°2001-1276 2001-12-28 art. 51 II, X Finances rectificative pour 2001 JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -9909,16 +9920,16 @@ Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas rembours�
 
 ###### Article 266 decies
 
-1. Les lubrifiants mentionnés au a du 4 du I de l'article 266 sexies, donnent lieu sur demande des redevables à remboursement
-de la taxe afférente lorsque l'utilisation particulière des lubrifiants ne produit pas d'huiles usagées ou lorsque ces
-lubrifiants sont expédiés à destination d'un Etat membre de la Communauté européenne, exportés ou livrés à l'avitaillement.
+1. Les lubrifiants mentionnés au a du 4 du I de l'article 266 sexies, donnent lieu sur demande à remboursement de la taxe
+afférente lorsque l'utilisation particulière des lubrifiants ne produit pas d'huiles usagées ou lorsque ces lubrifiants sont
+expédiés à destination d'un Etat membre de la Communauté européenne, exportés ou livrés à l'avitaillement.
 
 2. Les personnes mentionnées au 2 du I de l'article 266 sexies, membres des organismes de surveillance de la qualité de l'air
 prévus par l'article 3 de la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie, sont
 autorisées à déduire des cotisations de taxe dues par elles au titre de leurs installations situées dans la zone surveillée
-par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci au titre de
-l'année civile précédente. Cette déduction s'exerce dans la limite de 1 million de francs ou à concurrence de 25 % des
-cotisations de taxe dues.
+par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci dans les
+douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 152500 euros ou à
+concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
 assouplissants pour le linge, les matériaux d'extraction, les produits antiparasitaires à usage agricole et les produits
@@ -9946,6 +9957,10 @@ les activités polluantes au cas où les produits ne recevraient pas la destinat
 Pour l'application du deuxième alinéa, toute personne qui a été autorisée à acquérir ou importer des produits visés ci-dessus
 en suspension de la taxe générale sur les activités polluantes est tenue au paiement de tout ou partie de la taxe, lorsque
 les conditions auxquelles est subordonné l'octroi de cette suspension ne sont pas remplies.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -9978,8 +9993,8 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 51 (V) JORF 29 décembre 2001
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 	**Codifié par**:
 
@@ -10292,7 +10307,7 @@ Unité de perception
     <tr>
       <td width="154" valign="top">
 
-27 10 50
+2707-50
 
 </td>
       <td width="154" valign="top">
@@ -10307,9 +10322,9 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
-27 10 00
+2710-00
 
 </td>
       <td valign="top" width="154">
@@ -10324,12 +10339,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
-27 10 00
+2710-00
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Gazole présentant un point d'éclair inférieur à 120 °C
 
@@ -10343,13 +10358,26 @@ Hectolitre
     <tr>
       <td valign="top" width="154">
 
-38 24 90
+Ex 3824-90 :
 
 </td>
+      <td width="154" valign="top">
+
+</td>
+      <td width="154" valign="top">
+
+Hectolitre
+
+</td>
+    </tr>
+    <tr>
       <td valign="top" width="154">
 
-Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
-volume sans dépasser 20 % en volume : autre, destinée à être utilisée comme carburant
+- émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 %
+en volume sans dépasser 20 % en volume
+
+</td>
+      <td width="154" valign="top">
 
 </td>
       <td valign="top" width="154">
@@ -10358,10 +10386,25 @@ Hectolitre
 
 </td>
     </tr>
+    <tr>
+      <td valign="top" width="154">
+
+- autre, destinée à être utilisée comme carburant
+
+</td>
+      <td valign="top" width="154">
+
+</td>
+      <td width="154" valign="top">
+
+Hectolitre
+
+</td>
+    </tr>
   </tbody>
 </table>
 
-2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
+2. Le taux de cette taxe est fixé par le conseil régional. Ce taux ne peut excéder :
 
 a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
@@ -10370,7 +10413,10 @@ b) pour le gazole et l'émulsion d'eau dans du gazole, les taux de la taxe inté
 annexé au 1 de l'article 265 ci-dessus applicables au gazole identifié à l'indice 22 et aux émulsions d'eau dans du gazole
 identifiées à l'indice 53.
 
-2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
+c) pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes, le taux de la taxe intérieure de
+consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 20.
+
+2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
 régional aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
@@ -10379,14 +10425,18 @@ chez les importateurs, producteurs, raffineurs, négociants et distributeurs de 
 l'exception des produits se trouvant dans les cuves des stations-service.
 
 4. Par dérogation aux dispositions du présent article, les communes de Saint-Barthélemy et de Saint-Martin fixent, par
-délibération du conseil municipal et dans la limite de 1,50 F par litre de carburant consommé, les taux de la taxe spéciale
-de consommation sur les produits visés au premier alinéa et perçoivent cette taxe sur leur territoire, en lieu et place du
-Conseil régional. Les recettes correspondantes sont affectées à des fonds d'investissement destinés à financer l'entretien et
-la modernisation de la voirie des îles de Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de Saint-
-Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes par la région de la Guadeloupe du produit de la
-taxe spéciale de consommation sur les produits visés au premier alinéa.
+délibération du conseil municipal et dans la limite de 0,23 euro par litre de carburant consommé, les taux de la taxe
+spéciale de consommation sur les produits visés au premier alinéa et perçoivent cette taxe sur leur territoire, en lieu et
+place du Conseil régional. Les recettes correspondantes sont affectées à des fonds d'investissement destinés à financer
+l'entretien et la modernisation de la voirie des îles de Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de
+Saint-Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes par la région de la Guadeloupe du produit
+de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -10408,15 +10458,11 @@ taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 quinquies
@@ -10678,11 +10724,11 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
 
-4. Aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits adoucissants ou
-assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et aux produits
-assimilés mentionnés respectivement aux 5, 6 et 7 du I du présent article lorsque la première livraison après fabrication
-nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté européenne ou en une
-exportation ;
+4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits
+adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et
+aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première
+livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté
+européenne ou en une exportation ;
 
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
 
@@ -10763,8 +10809,7 @@ exportation ;
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
@@ -10850,18 +10895,35 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 ###### Article 266 undecies
 
-Toute personne physique ou morale assujettie à la taxe mentionnée à l'article 266 sexies adresse au comptable public chargé
-de son recouvrement les déclarations qui comprennent tous les éléments nécessaires au contrôle et à l'établissement de la
-taxe.
+Les assujettis liquident et acquittent la taxe mentionnée à l'article 266 sexies sous la forme d'une déclaration annuelle et
+de trois acomptes. Chaque acompte est égal à un tiers du montant de la taxe due au titre de l'année précédente et fait
+l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre. Toutefois, pour l'année 2002, le premier acompte
+de la taxe est acquitté le 10 juillet 2002 en même temps que le deuxième.
 
-Ces déclarations sont accompagnées du paiement de la taxe due, sauf en cas de mise en place par l'assujetti d'un crédit
-d'enlèvement ou d'un crédit de droits auprès du comptable public.
+Les redevables déposent, au plus tard le 10 avril de chaque année et pour la première fois le 10 avril 2003, la déclaration
+de la taxe due au titre de l'année précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de
+celle-ci. La forme de la déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4
+de l'article 95.
+
+L'écart entre le montant de la taxe payée sous la forme d'acomptes et le montant de la taxe porté sur la déclaration fait
+l'objet d'une régularisation. Cette régularisation est liquidée par le redevable sur la déclaration.
+
+Lorsque le montant des acomptes versés est inférieur à celui de la taxe porté sur la déclaration, le redevable acquitte la
+différence en même temps que le premier acompte de l'année en cours.
+
+Lorsque le montant des acomptes versés est supérieur au montant de la taxe porté sur la déclaration, le redevable est
+autorisé à imputer cet excédent sur les acomptes à venir, jusqu'à épuisement de cet excédent. Si l'excédent constaté est
+supérieur à la somme des trois acomptes dus au titre de l'année en cours, la fraction de taxe excédant la somme des acomptes
+est remboursée et aucun acompte n'est versé au titre de cette année.
+
+Les acomptes sont versés spontanément par les redevables.
 
 Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la
-Banque de France, lorsque son montant excède 50 000 F.
+Banque de France, lorsque son montant excède 7600 euros.
 
 La méconnaissance de l'obligation prévue à l'alinéa précédent entraîne l'application d'une majoration de 0,2 % du montant des
-sommes dont le versement a été effectué selon un autre moyen de paiement.
+sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles,
+garanties et sanctions prévues en matière de droits de douane.
 
 **Liens relatifs à cet article**
 
@@ -10895,12 +10957,13 @@ sommes dont le versement a été effectué selon un autre moyen de paiement.
 
 	**Modifié par**:
 
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 V, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
 	  - Code des douanes - art. 266 sexies (M)
+	  - Code des douanes - art. 95 (M)
 
 	**Codifié par**:
 
@@ -11729,18 +11792,13 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 ###### Article 285 sexies
 
 Il n'est procédé au recouvrement, au remboursement ou à la remise des taxes prévues par les articles 266 sexies et 266 sexies
-A que si le montant à recouvrer, à rembourser ou à remettre excède 400 F.
+A que si le montant à recouvrer, à rembourser ou à remettre excède 61 euros.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2000-1353 2000-12-30 art. 36 VI, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+	  - Loi - art. 51 (V) JORF 29 décembre 2001
 
 	**Cité par**:
 
@@ -11750,6 +11808,10 @@ A que si le montant à recouvrer, à rembourser ou à remettre excède 400 F.
 
 	  - Code des douanes - art. 266 sexies (M)
 	  - Code des douanes 266 sexies, 266 sexies A
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 285 ter
@@ -12946,7 +13008,7 @@ montant que celui des sanctions fiscales prononcées.
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
-#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane
+#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane
 
 ##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.
 
@@ -12968,6 +13030,10 @@ par le tribunal chargé de se prononcer sur la saisie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi - art. 72 () JORF 29 décembre 2001
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
@@ -12982,7 +13048,62 @@ par le tribunal chargé de se prononcer sur la saisie.
 	  - Code des douanes 362-2
 
 
-##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.
+##### B. - Destruction avant jugement de certaines catégories de marchandises.
+
+###### Article 389 bis
+
+1. En cas de saisie de marchandises :
+
+- qualifiées par la loi de dangereuses ou de nuisibles, ou dont la fabrication, le commerce ou la détention est illicite ;
+
+- ainsi que de marchandises destinées à l'alimentation humaine ou animale mais qui ne peuvent être vendues en application de
+l'article 389 parce qu'elles sont impropres à la consommation, ou qui ne peuvent être conservées sans risque de
+détérioration ;
+
+il est, à la diligence de l'administration des douanes, sous réserve d'un prélèvement préalable d'échantillons selon des
+modalités fixées par décret en Conseil d'Etat, et en vertu de l'autorisation du juge d'instance compétent en application de
+l'article 357 bis, ou du juge d'instruction, procédé à la destruction des objets saisis.
+
+2. L'ordonnance portant autorisation de destruction est notifiée à l'autre partie conformément aux dispositions du 2 de
+l'article 362, avec déclaration qu'il sera immédiatement procédé à la destruction, tant en son absence qu'en sa présence.
+
+3. L'ordonnance du juge d'instance ou du juge d'instruction est exécutée nonobstant opposition ou appel. La destruction est
+constatée par procès-verbal de constat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 72 () JORF 29 décembre 2001
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2002-1110 du 30 août 2002 - art. 1 (V)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 3 (V)
+	  - Décret n°2013-750 du 14 août 2013 (V)
+	  - Code des douanes - art. 390 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 357 bis (M)
+	  - Code des douanes - art. 362 (M)
+	  - Code des douanes - art. 389 (M)
+
+
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.
 
 ###### Article 390
 
@@ -13003,7 +13124,7 @@ l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétitio
 
 	**Modifié par**:
 
-	  - Ordonnance 58-1238 1958-12-17 art. 12 JORF 18 décembre 1958
+	  - Loi - art. 72 () JORF 29 décembre 2001
 
 	**Cité par**:
 
@@ -13783,6 +13904,28 @@ financières avec l'étranger sous réserve des articles 453 à 459 ci-dessous.
 	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
+###### Article 451 bis
+
+Pour l'application du présent code, sont assimilées à des relations financières avec l'étranger toutes les opérations
+financières effectuées en France par ou pour le compte des personnes physiques et morales visées par les règlements
+communautaires pris en application des articles 60 et 301 du traité instituant la Communauté européenne ou par les traités et
+accords internationaux régulièrement approuvés et ratifiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi - art. 73 () JORF 29 décembre 2001
+
+	**Cite**:
+
+	  - Traité 1957-03-25, fait à Rome art. 60, art. 301
+
+
 ###### Article 452
 
 Les dispositions du présent titre XIV sont applicables dans les territoires d'outre-mer.
@@ -13947,16 +14090,26 @@ exercée que sur la plainte du ministre de l'économie et des finances ou de l'u
 1. Quiconque aura contrevenu ou tenté de contrevenir à la législation et à la réglementation des relations financières avec
 l'étranger, soit en ne respectant pas les obligations de déclaration ou de rapatriement, soit en n'observant pas les
 procédures prescrites ou les formalités exigées, soit en ne se munissant pas des autorisations requises ou en ne satisfaisant
-pas aux conditions dont ces autorisations sont assorties sera puni d'une peine d'emprisonnement de un à cinq ans, de la
+pas aux conditions dont ces autorisations sont assorties sera puni d'une peine d'emprisonnement de cinq ans, de la
 confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude et d'une amende égale au
 minimum au montant et au maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+
+1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou de tenter de contrevenir aux mesures de
+restriction des relations économiques et financières prévues par la réglementation communautaire prise en application des
+articles 60 et 301 du traité instituant la Communauté européenne ou par les traités et accords internationaux régulièrement
+approuvés et ratifiés par la France.
+
+1 ter. Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2
+du code pénal, des infractions mentionnées au 1 et au 1 bis. Les peines encourues par les personnes morales sont l'amende,
+selon les modalités prévues par l'article 131-38 du code pénal, ainsi que les peines mentionnées par l'article 131-39 du même
+code.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation n'ont pu être saisis ou ne sont pas représentés
 par le délinquant ou lorsque le ministre du budget ou son représentant en fait la demande, le tribunal doit, pour tenir lieu
 de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de 3 000 F à 1 800 000 F toute personne qui aura incité
-par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
+3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225000 euros toute personne qui aura incité par
+écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
 suivie d'effet.
 
 4. Les personnes condamnées pour infractions à la législation et à la réglementation relatives aux relations financières avec
@@ -13996,7 +14149,7 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 25 IV JORF 9 juillet 1987
+	  - Loi - art. 73 () JORF 29 décembre 2001
 
 	**Liens**:
 

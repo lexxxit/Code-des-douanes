@@ -7,7 +7,7 @@ véhicule affecté à ce transport.
 Le taux et la période de remboursement sont fixés conformément aux cinquième et septième alinéas de l'article 265 septies.
 
 Les exploitants de transport public routier en commun de voyageurs concernés adressent leur demande de remboursement au
-service des douanes à partir du 12 juillet et du 12 janvier suivant respectivement le premier et le second semestre de la
+service des douanes à partir du 22 juillet et du 22 janvier suivant respectivement le premier et le second semestre de la
 période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent à compter de ces
 dates.
 
@@ -62,9 +62,9 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
+	  - Loi - art. 58 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
