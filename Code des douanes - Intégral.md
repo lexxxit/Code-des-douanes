@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-05-04
+Version Consolidée au 2001-07-13
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -14135,6 +14135,44 @@ est inférieur à 50 000 F.
 	  - Arrêté du 1 juillet 2003 - art. 6 (V)
 	  - Arrêté du 7 novembre 2012 - art. 1 (V)
 	  - Code des douanes - art. 465 (V)
+
+
+###### Article 465
+
+1. La méconnaissance des obligations énoncées à l'article 464 ci-dessus sera punie de la confiscation du corps du délit ou,
+lorsque la saisie n'aura pu être faite, d'une somme en tenant lieu et d'une amende égale, au minimum, au quart et, au
+maximum, au montant de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+
+2. Le présent article ne s'applique pas aux relations financières entre le territoire douanier français, d'une part, les
+territoires d'outre-mer et les collectivités départementale de Mayotte et territoriale de Saint-Pierre-et-Miquelon, d'autre
+part.
+
+**Nota:**
+
+Nota - Loi n° 2001-616 du 11 juillet 2001, art. 1 (compétence territoriale), art. 74 (capacité).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 2005 - art. 2 (V)
+	  - Code des douanes - art. 466 (Ab)
+
+	**Cite**:
+
+	  - Code des douanes - art. 464 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 466
