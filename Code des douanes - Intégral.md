@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1964-12-17
+Version Consolidée au 1965-07-04
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1827,6 +1827,112 @@ effectués par la voie aérienne.
 	  - Décret n°48-1985 1948-12-08
 
 
+## Chapitre Ier bis : Magasins et aires de dédouanement.
+
+###### Article 82 bis
+
+1. Sauf dispositions spéciales contraires, les marchandises conduites en douane dans les conditions prévues aux articles 68 à
+82 ci-dessus peuvent être constituées en magasins ou en aires de dédouanement suivant les modalités fixées au présent
+chapitre. 
+
+2. La création de magasins et aires de dédouanement est subordonnée à l'autorisation du directeur général des douanes et
+droits indirects qui en agrée l'emplacement, la construction et l'aménagement. 
+
+3. L'autorisation visée au 2 du présent article détermine les conditions auxquelles le fonctionnement des magasins et aires
+de dédouanement est subordonné et fixe éventuellement les charges de l'exploitant en matière de fourniture, d'entretien et de
+réparation des installations nécessaires à l'exécution du service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
+
+	**Cité par**:
+
+	  - Code des douanes - art. 115 (V)
+	  - Code des douanes - art. 129 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 68 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 82 quater
+
+1. La durée maximum du séjour des marchandises en magasin ou sur les aires de dédouanement est fixée par arrêté du directeur
+général des douanes et droits indirects.
+
+2. Lorsque, au plus tard à l'expiration du délai prévu au 1 du présent article, les marchandises n'ont pas fait l'objet d'une
+déclaration leur assignant un régime douanier, l'exploitant est tenu de conduire ces marchandises dans les locaux d'un
+entrepôt public où elles sont constituées d'office en dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
+
+
+###### Article 82 quinquies
+
+Les obligations et responsabilités de l'exploitant font l'objet d'un engagement de sa part.
+
+Cet engagement est cautionné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
+
+
+###### Article 82 sexies
+
+Le directeur général des douanes et droits indirects détermine par arrêté les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
+
+
+###### Article 82 ter
+
+1. L'admission des marchandises dans les magasins ou sur les aires de dédouanement est subordonnée au dépôt par l'exploitant
+d'une déclaration sommaire ou d'un document en tenant lieu.
+
+2. Cette admission a pour effet de placer les marchandises sous la responsabilité de l'exploitant vis-à-vis de
+l'administration des douanes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
+
+
 ## Chapitre II : Exportation.
 
 ###### Article 83
@@ -2529,6 +2635,41 @@ et des finances.
 
 ### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.
 
+###### Article 115
+
+1. Après accomplissement des formalités douanières, les marchandises destinées à être exportées par la voie maritime ou
+aérienne doivent être immédiatement mises à bord des navires ou des aéronefs. 
+
+2. Celles qui doivent être exportées par les voies terrestres doivent être conduites à l'étranger immédiatement par la route
+la plus directe, désignée comme il est dit à l'article 75 ci-dessus. 
+
+3. Par dérogation aux 1 et 2 ci-dessus, ces marchandises peuvent être constituées en magasin ou en aire d'exportation en
+attendant leur mise à bord ou leur conduite à l'étranger. 
+
+4. Les dispositions des articles 82 bis 2-3, 82 quater 1,82 quinquies et 82 sexies ci-dessus, relatives aux magasins et aires
+de dédouanement, sont applicables aux magasins et aires d'exportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°61-1396 1961-12-21 art. 76 Finances pour 1962 JORF 22 décembre 1961
+	  - Loi n°65-525 1965-07-03 art. 5 JORF 4 juillet 1965
+
+	**Cité par**:
+
+	  - Code des douanes - art. 129 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 75 (V)
+	  - Code des douanes - art. 82 bis (V)
+
+
 ###### Article 116
 
 Le chargement et le transbordement des marchandises destinées à l'exportation sont soumis aux mêmes dispositions que celles
@@ -2648,128 +2789,6 @@ douanier et les territoires d'outre-mer de la République.
 
 # Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux
 
-## Chapitre II : Transit.
-
-###### Article 132
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 133
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 134
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 135
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 136
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 137
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 138
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
-###### Article 139
-
-(texte abrogé)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
-
-
 ## Chapitre IV : Entrepôt de douane (Entrepôt industriel)
 
 ###### Article 159
@@ -2788,140 +2807,6 @@ douanier et les territoires d'outre-mer de la République.
 
 
 # Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux
-
-## Chapitre II : Transit.
-
-###### Article 132
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-###### Article 133
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-
-###### Article 134
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-
-###### Article 135
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-
-###### Article 136
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-
-###### Article 137
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-
-###### Article 138
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-###### Article 139
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
 
 ## Chapitre IV : Entrepôt de douane (entrepôt industriel).
 
@@ -2984,6 +2869,50 @@ douanier et les territoires d'outre-mer de la République.
 	**Modifié par**:
 
 	  - Loi n°71-545 1971-07-08 art. 2 JORF 9 juillet 1971
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+
+###### Article 162 bis
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 2 JORF 4 juillet 1965
+
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 1 JORF 9 juillet 1971
+	  - Loi n°73-1128 1973-12-21 art. 8 Finances rectificative pour 1973 JORF 23 décembre 1973
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+	**Cité par**:
+
+	  - Code des douanes - art. 155 (Ab)
+
+
+###### Article 162 ter
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°65-525 1965-07-03 art. 2 JORF 4 juillet 1965
+
+	**Modifié par**:
+
 	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
 
 
@@ -3330,6 +3259,38 @@ disposer pour toutes les destinations autorisées par la législation et la rég
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 188
+
+1. Le produit de la vente est affecté, par ordre de priorité et à due concurrence :
+
+a) au règlement des frais et autres dépenses accessoires de toute nature engagés par la douane ou sur son ordre pour la
+constitution et le séjour en dépôt ainsi que pour la vente des marchandises ;
+
+b) au recouvrement des droits et taxes dont sont passibles les marchandises en raison de la destination qui leur est donnée.
+
+2. Lorsque le produit de la vente est suffisant, il est procédé au règlement de tous autres frais pouvant grever les
+marchandises.
+
+Le reliquat éventuel est versé à la caisse des dépôts et consignations où il reste pendant deux ans à la disposition du
+propriétaire des marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à
+20 F, le reliquat est pris sans délai en recette au budget.
+
+3. Lorsque le produit de la vente est insuffisant pour régler les créances énumérées au 2 ci-dessus, les sommes obtenues sont
+versées à la caisse des dépôts et consignations et réparties, s'il y a lieu, selon la procédure de distribution par
+contribution, à la diligence de l'administration. Le juge compétent est le juge d'instance du lieu de dépôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1238 1958-12-17 art. 3 JORF 18 décembre 1958
+	  - Loi n°65-525 1965-07-03 art. 6 JORF 4 juillet 1965
 
 
 # Titre VII : Opérations privilégiées
