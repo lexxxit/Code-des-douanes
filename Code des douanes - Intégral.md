@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1996-05-14
+Version Consolidée au 1996-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -10142,7 +10142,7 @@ qu'en matière de droits de douane.
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
 dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 1996.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2001.
 
 **Liens relatifs à cet article**
 
@@ -10150,9 +10150,9 @@ Ces dispositions s'appliquent jusqu'au 31 décembre 1996.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 88 () JORF 31 décembre 1993
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 135 () JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -11767,70 +11767,6 @@ Les infractions portant sur des marchandises non prohibées, dont la valeur n'ex
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-##### B. - Deuxième classe.
-
-###### Article 415
-
-Seront punis d'un emprisonnement de dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
-lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé
-ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir,
-directement ou indirectement, d'une infraction à la législation sur les substances ou plantes vénéneuses classées comme
-stupéfiants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 22 (Ab)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 26 (Ab)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 3 (MMN)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 5 (Ab)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 6 (MMN)
-	  - Loi n°90-614 du 12 juillet 1990 - art. 9 (Ab)
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10 (VT)
-	  - Loi n°96-597 du 2 juillet 1996 - art. 22 (Ab)
-	  - Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)
-	  - Loi n°2003-239 du 18 mars 2003 - art. 26 (VT)
-	  - Arrêté du 15 septembre 2005 - art. 2 (V)
-	  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V)
-	  - Arrêté du 2 mars 2007 - art. 1 (V)
-	  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 705 (MMN)
-	  - Code de la mutualité - art. L114-21 (V)
-	  - Code de la sécurité intérieure - art. L233-1 (V)
-	  - Code de la sécurité intérieure - art. L251-2 (VD)
-	  - Code de la sécurité sociale. - art. L931-9 (VD)
-	  - Code de procédure pénale - art. 28-1 (V)
-	  - Code de procédure pénale - art. 706-1-1 (V)
-	  - Code des assurances - art. L322-2 (M)
-	  - Code des douanes - art. 323-5 (VD)
-	  - Code des douanes - art. 386 bis (V)
-	  - Code des douanes - art. 415-1 (V)
-	  - Code des douanes - art. 67 bis (V)
-	  - Code des douanes - art. 67 bis-1 A (V)
-	  - Code monétaire et financier - art. D313-27 (V)
-	  - Code monétaire et financier - art. L561-22 (VT)
-	  - Code monétaire et financier - art. L562-4 (V)
-	  - Code monétaire et financier - art. L562-8 (V)
-	  - Code monétaire et financier - art. L564-2 (T)
-	  - Code monétaire et financier - art. L565-2 (T)
-	  - Code monétaire et financier - art. L566-2 (Ab)
-	  - Code monétaire et financier - art. L735-13 (M)
-	  - Code monétaire et financier - art. L745-13 (M)
-	  - Code monétaire et financier - art. L755-13 (M)
-	  - Code monétaire et financier - art. L765-13 (M)
-
-	**Créé par**:
-
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 84 () JORF 28 décembre 1988
 
 
 #### Paragraphe 5 : Importations et exportations sans déclaration.
