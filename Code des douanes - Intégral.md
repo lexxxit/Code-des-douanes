@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -10016,7 +10016,7 @@ taxe spéciale de consommation sur les produits désignés ci-après :
     <tr>
       <td width="154">
 
-Numéros du tarif des douanes
+Numéro du tarif des douanes
 
 </td>
       <td width="154">
@@ -10041,7 +10041,7 @@ Unité de perception
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre
 
@@ -10075,14 +10075,14 @@ Hectolitre
 Gazole présentant un point d'éclair inférieur à 120 °C
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 38 24 90
 
@@ -10093,7 +10093,7 @@ Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la 
 volume sans dépasser 20 % en volume : autre, destinée à être utilisée comme carburant
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Hectolitre
 
@@ -10116,6 +10116,14 @@ régional aux conditions qu'il fixe.
 s'applique aux produits déclarés pour la consommation avant la date du changement de tarif et existant en stock à cette date
 chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
 l'exception des produits se trouvant dans les cuves des stations-service.
+
+4. Par dérogation aux dispositions du présent article, les communes de Saint-Barthélemy et de Saint-Martin fixent, par
+délibération du conseil municipal et dans la limite de 1,50 F par litre de carburant consommé, les taux de la taxe spéciale
+de consommation sur les produits visés au premier alinéa et perçoivent cette taxe sur leur territoire, en lieu et place du
+Conseil régional. Les recettes correspondantes sont affectées à des fonds d'investissement destinés à financer l'entretien et
+la modernisation de la voirie des îles de Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de Saint-
+Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes par la région de la Guadeloupe du produit de la
+taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -10143,8 +10151,7 @@ l'exception des produits se trouvant dans les cuves des stations-service.
 
 	**Modifié par**:
 
-	  - Loi - art. 27 () JORF 31 décembre 1998
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
 
 	**Cite**:
 
@@ -10738,14 +10745,21 @@ L'impôt est exigible dès la réalisation du transport.
 les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
 de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
 
-Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
-taux permettant leur vente au détail à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion à des prix égaux aux deux
-tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser,
-de tabacs fine coupe destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail
-en France continentale, s'il s'agit de cigares et de cigarillos.
+Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces
+délibérations prennent effet au plus tôt au 1er janvier 2001.
 
-Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
-présentant la plus grande analogie avec les produits considérés.
+Pour les produits mentionnés au premier alinéa ayant fait l'objet d'une homologation en France continentale en application de
+l'article 572 du code général des impôts, le montant du droit est déterminé par application du taux fixé par le conseil
+général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en
+France continentale.
+
+Pour les produits mentionnés au premier alinéa n'ayant pas fait l'objet d'une homologation en France continentale, le montant
+du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil,
+supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en France continentale correspondant à la moyenne
+pondérée des prix homologués.
+
+Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article
+575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
 
 2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
 
@@ -10753,29 +10767,28 @@ présentant la plus grande analogie avec les produits considérés.
 les instances instruites et jugées conformément aux dispositions du code des douanes.
 
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à
-fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements.
-
-5. Les dispositions du présent article concernant la Guyane sont applicables au territoire de l'Inini.
-
-6. Des arrêtés du ministre de l'économie et des finances fixent le montant du droit de consommation et déterminent les
-modalités d'application du présent article.
+fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la
+Martinique à compter du 1er janvier 2001.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 572, 575 A
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Modifié par**:
 
-	  - Loi n°94-679 1994-08-08 art. 55 I, II JORF 10 août 1994
-	  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 56
 
 	**Cité par**:
 
 	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
 	  - Code des douanes - art. 268 ter (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 268 bis
@@ -11462,12 +11475,20 @@ délibération du conseil régional.
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions
 qu'en matière de droits de douane.
 
+Une part égale à 30 % du produit de la taxe est affectée au budget des communes classées comme stations balnéaires. Ce
+prélèvement est réparti entre les communes concernées au prorata de leur population.
+
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
 dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 2001.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2006.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L441-2 (V)
+	  - Code général des collectivités territoriales - art. L4331-2 (V)
 
 	**Codifié par**:
 
@@ -11475,12 +11496,7 @@ Ces dispositions s'appliquent jusqu'au 31 décembre 2001.
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 135 () JORF 31 décembre 1996
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. L441-2 (V)
-	  - Code général des collectivités territoriales - art. L4331-2 (V)
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 60 () JORF 14 décembre 2000
 
 
 # Titre XI : Zones franches.
