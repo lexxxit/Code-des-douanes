@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1984-08-03
+Version Consolidée au 1984-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3411,6 +3411,31 @@ aux articles 82 bis à 82 sexies et 115-3-4 ci-dessus ;
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 130
+
+Lorsqu'elles sont déclarées pour la consommation au bureau de destination, les marchandises transportées en transit sont
+soumises aux droits et taxes qui leur sont applicables d'après les taux en vigueur à la date d'enregistrement de la
+déclaration en détail pour la consommation, sauf application des dispositions du 2 de l'article 108 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-1209 1984-12-29 art. 18 Finances rectificative pour 1984 JORF 30 décembre 1984
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Cite**:
+
+	  - Code des douanes - art. 108 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 131
 
 Des arrêtés du directeur général des douanes et droits indirects déterminent, en tant que de besoin, les modalités
@@ -4706,40 +4731,6 @@ Des arrêtés du directeur général des douanes et droits indirects déterminen
 
 
 # Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux
-
-## Chapitre II : Transit.
-
-###### Article 130
-
-1. Lorsqu'elles sont déclarées pour la consommation au bureau de destination, les marchandises transportées en transit sont
-soumises aux droits et taxes qui leur sont applicables d'après les taux en vigueur à la date d'enregistrement de la
-déclaration en détail pour la consommation, sauf application des dispositions du 2 de l'article 108 ci-dessus.
-
-2. Toutefois, lorsqu'il s'agit de marchandises passibles d'un droit de douane dont le taux est fixé en fonction de certaines
-époques de l'année, le déclarant a la faculté de réclamer l'application du taux plus favorable qui était en vigueur, le cas
-échéant, à la date à laquelle le titre de transit a été enregistré par le bureau de douane de prime abord, s'il est établi
-qu'à cette même date et audit bureau toutes les conditions se trouvaient réunies pour procéder à la mise à la consommation
-des marchandises.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-	**Cite**:
-
-	  - Code des douanes - art. 108 (V)
-
 
 ## Chapitre III : Entrepôt de douane (entrepôt de stockage)
 
