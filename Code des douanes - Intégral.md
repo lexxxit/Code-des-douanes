@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1970-04-19
+Version Consolidée au 1971-07-09
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3269,147 +3269,6 @@ exigibles lors de la mise à la consommation.
 	  - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 
-## Chapitre VI bis : Exportation préalable, drawback
-
-### Section 1 : Exportation préalable.
-
-###### Article 174 bis
-
-L'importation en franchise totale ou partielle des droits et taxes de douane est accordée, selon la procédure prévue à
-l'article 169-1 ci-dessus pour l'octroi de l'admission temporaire, aux produits de même espèce que ceux pris à la
-consommation qui ont été utilisés à la fabrication de marchandises préalablement exportés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-	**Cité par**:
-
-	  - Code des douanes - art. 174 ter (Ab)
-
-	**Cite**:
-
-	  - Code des douanes 169-1
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 174 ter
-
-Pour bénéficier de la franchise prévue à l'article 174 bis ci-dessus, les importateurs doivent :
-
-a) Justifier de la réalisation de l'exportation préalable ;
-
-b) Satisfaire aux obligations particulières qui seront prescrites par le directeur général des douanes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 174 bis (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-
-### Section 2 : Drawback.
-
-###### Article 174 quater
-
-Le remboursement, total ou partiel, des droits et taxes de douane supportés par les produits entrant dans la fabrication des
-marchandises exportées est accordé selon la procédure prévue par l'article 169-1 ci-dessus pour l'octroi de l'admission
-temporaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-	**Cité par**:
-
-	  - Code des douanes - art. 174 quinquies (Ab)
-
-	**Cite**:
-
-	  - Code des douanes 169-1
-
-
-###### Article 174 quinquies
-
-Pour bénéficier du remboursement prévu à l'article 174 quater ci-dessus, les exportateurs doivent :
-
-a) Justifier de l'importation préalable pour la consommation des produits mis en oeuvre :
-
-b) Satisfaire aux obligations particulières qui seront prescrites par le directeur général des douanes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 174 quater (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-
-### Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback.
-
-###### Article 174 septies
-
-Le texte accordant l'exportation préalable ou le drawback peut décider que l'exportation doit avoir lieu obligatoirement à
-destination de pays déterminés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-
-###### Article 174 sexies
-
-Les constatations des laboratoires du ministère des finances concernant la composition des marchandises faisant l'objet
-d'exportation préalable ou donnant droit au bénéfice du drawback en vertu des articles 174 bis à 174 quinquies ci-dessus,
-ainsi que celle concernant l'espèce des produits mis en oeuvre pour la fabrication desdites marchandises, sont définitives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-
-	**Cite**:
-
-	  - Code des douanes 174 bis à 174 quinquies
-
-
 # Titre VI : Dépôt de douane
 
 ## Chapitre Ier : Constitution des marchandises en dépôt.
@@ -5411,9 +5270,11 @@ de douane.
 
 # Titre XI : Zones franches.
 
-###### Article 292
+###### Article 286
 
-(texte abrogé).
+On entend par zone franche toute enclave territoriale instituée en vue de faire considérer les marchandises qui s'y trouvent
+comme n'étant pas sur le territoire douanier pour l'application des droits de douane et des taxes dont elles sont passibles à
+raison de l'importation, ainsi que des restrictions quantitatives.
 
 **Liens relatifs à cet article**
 
@@ -5421,37 +5282,151 @@ de douane.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Abrogé par**:
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
+
+
+###### Article 287
+
+1. La zone franche est instituée, sur proposition conjointe du ministre de l'économie et des finances et du ou des ministres
+intéressés, après avis des collectivités locales et des établissements publics concernés, par un décret pris en Conseil
+d'Etat, qui détermine les modalités de fonctionnement et les limites de la zone et précise les opérations qui y seront
+autorisées.
+
+2. Le décret institutif concède la zone franche à une des collectivités locales ou à l'un des établissements publics
+concernés. Si la zone franche est établie dans un port, la collectivité locale ou l'établissement public concessionnaire de
+la zone franche est la collectivité locale ou l'établissement public concessionnaire des installations portuaires ou, si le
+port est placé sous le régime de l'autonomie, le port autonome.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
+
+
+###### Article 288
+
+1. Sous réserve des dispositions prévues aux 2, 3 et 4 ci-dessous, sont admises dans les zones franches les marchandises de
+toute espèce, quelle que soit leur quantité et quel que soit leur pays d'origine, de provenance ou de destination.
+
+2. Les dispositions ci-dessus ne font pas obstacle à l'application des interdictions ou restrictions justifiées par des
+raisons de moralité publique, d'ordre public, de sécurité publique, de protection de la santé et de la vie des personnes et
+des animaux ou de préservation des végétaux, de protection des trésors nationaux ayant une valeur artistique, historique ou
+archéologique, ou de protection de la propriété industrielle et commerciale.
+
+3. L'accès aux zones franches peut être limité, par voie de décret, à certaines marchandises, pour des raisons d'ordre
+technique ou administratif.
+
+4. Les marchandises placées sur le territoire douanier de la Communauté européenne sous le régime du perfectionnement actif
+(entrepôt industriel ou admission temporaire), ainsi que les produits obtenus sous ce régime, ne peuvent être introduits ni
+séjourner dans les zones franches que s'ils sont pris en charge par l'administration des douanes afin d'assurer le respect
+des engagements pris en application de ce régime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
+
+
+###### Article 289
+
+Les marchandises placées dans les zones franches peuvent y faire l'objet :
+
+1° D'opérations de chargement, de déchargement, de transbordement ou de stockage ;
+
+2° Des manipulations prévues à l'article 153-1 ci-dessus ;
+
+3° De transformations, ouvraisons ou compléments de main-d'œuvre, aux conditions et selon les modalités prévues en matière de
+perfectionnement actif ;
+
+4° De cessions ou d'une mise à la consommation, aux conditions et selon les modalités prévues par le décret institutif.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
 	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
 
 	**Cité par**:
 
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Code des douanes - art. 290 (V)
+	  - Code des douanes - art. 424 (V)
 
+	**Cite**:
 
-###### Article 293
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
+	  - Code des douanes 153-1
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Abrogé par**:
+
+###### Article 290
+
+1. Sous réserve des dispositions du 4 et du 5 ci-après, et sauf dispositions spéciales contraires, les marchandises placées
+dans les zones franches peuvent recevoir, à leur sortie de zone franche, les mêmes destinations que si elles provenaient de
+l'importation directe et aux mêmes conditions. 
+
+2. Lorsque les marchandises placées en zones franches sont mises à la consommation, les droits de douane et les taxes
+exigibles à l'importation sont perçus, sous réserve des dispositions du 3, du 4 et du 5 ci-après : 
+
+D'après l'espèce tarifaire et sur la base de la valeur en douane et de la quantité reconnues ou admises par le service des
+douanes lors de la mise à la consommation ; 
+
+Et en fonction des taux ou montants en vigueur à la date d'enregistrement de la déclaration pour la consommation, sauf
+application des dispositions prévues au 2 de l'article 108 ci-dessus. 
+
+3. Toutefois, lorsque lesdites marchandises ont été obtenues après manipulations comportant l'adjonction de produits pris sur
+le marché intérieur, et à la condition que ces produits aient fait l'objet d'une prise en charge par le service des douanes
+lors de leur introduction dans la zone franche, la valeur ou la quantité desdits produits est soustraite de la valeur ou de
+la quantité à soumettre aux droits de douane à la sortie de zone franche. 
+
+4. Les marchandises ayant fait l'objet en zone franche, conformément au 3° de l'article 289 ci-dessus, de transformations,
+ouvraisons ou compléments de main-d'œuvre, doivent être réexportées en dehors du territoire douanier de la Communauté
+économique européenne. Toutefois, pour autant que ces marchandises aient fait l'objet d'une prise en charge par le service de
+douanes lors de leur introduction en zone franche, leur mise à la consommation peut être autorisée par le directeur général
+des douanes et droits indirects aux conditions prévues à l'article 167 bis ci-dessus. 
+
+5. Les produits introduits en zone franche en apurement d'opérations réalisées sous le régime du perfectionnement actif
+(entrepôt industriel ou admission temporaire) doivent être réexportés en dehors du territoire douanier de la Communauté
+économique européenne. Le directeur général des douanes et droits indirects peut, toutefois, autoriser la mise à la
+consommation de ces produits aux conditions prévues, selon le cas, aux articles 162 bis et 173 sexies ci-dessus. 
+
+6. La durée de séjour des marchandises dans les zones franches n'est pas limitée. Toutefois, lorsque la nature des
+marchandises le justifie, cette durée peut être limitée par un arrêté du ministre de l'économie et des finances, qui précise
+les modalités de contrôle de la limitation fixée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
 	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
 
-	**Cité par**:
+	**Cite**:
 
-	  - Ordonnance n°45-2596 du 2 novembre 1945 - art. Annexe, tableau III (V)
+	  - Code des douanes - art. 108 (V)
+	  - Code des douanes - art. 173 sexies (V)
+	  - Code des douanes - art. 289 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
-###### Article 294
+###### Article 291
 
-(texte abrogé).
+Les dispositions du présent titre ne portent pas atteinte aux règles établies par les traités internationaux en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -5459,60 +5434,7 @@ de douane.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-###### Article 295
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
-
-
-###### Article 296
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-###### Article 297
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
 
@@ -5520,21 +5442,6 @@ de douane.
 
 	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-###### Article 298
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
 
 
 # Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier
