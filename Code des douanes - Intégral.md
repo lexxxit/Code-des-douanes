@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1986-07-12
+Version Consolidée au 1987-07-09
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9484,6 +9484,43 @@ soit pas mentionné au bulletin n° 2 du casier judiciaire.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 370
+
+1. Si le contrevenant aux dispositions des articles 410, 411, 412, 413, 414 ou 416 du présent code commet dans les cinq ans
+qui suivent une transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des
+sanctions prévues par les articles précités, le taux maximal des pénalités encourues est doublé.
+
+2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
+autrui les formalités de douane.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
+
+	**Cite**:
+
+	  - Code des douanes - art. 410 (M)
+	  - Code des douanes - art. 411 (M)
+	  - Code des douanes - art. 412 (M)
+	  - Code des douanes - art. 413 (T)
+	  - Code des douanes - art. 414 (M)
+	  - Code des douanes - art. 416 (T)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
 #### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières
 
 ##### F. - Paiement des sommes fraudées ou indûment obtenues.
@@ -9935,32 +9972,28 @@ circonstances de la visite peuvent éventuellement donner lieu.
 
 ###### Article 410
 
-1. Est passible d'une amende de 1.000 F à 10.000 F toute infraction aux dispositions des lois et règlements que
+1. Est passible d'une amende de 2 000 F à 20 000 F toute infraction aux dispositions des lois et règlements que
 l'administration des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
 présent code.
 
 2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
 
-a) Toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
+a) toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
 l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
 
-b) Toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
+b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
 
-c) Toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
+c) toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
 pour l'application de l'article 24-2 du présent code ;
 
-d) Toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
-n'a pas pour but ou jour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
+d) toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
+n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°68-1247 1968-12-31 art. 19 I JORF 3 janvier 1969
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
-	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°87-502 1987-07-08 art. 25 I JORF 9 juillet 1987
 
 	**Cité par**:
 
@@ -10112,48 +10145,6 @@ non autorisées.
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-##### D. - Quatrième classe.
-
-###### Article 413
-
-1. Est passible d'une amende comprise entre une et trois fois la valeur des marchandises litigieuses, toute infraction aux
-dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette irrégularité se
-rapporte à des marchandises de la catégorie de celles qui sont prohibées à l'entrée ou à la sortie et qu'elle n'est pas
-spécialement réprimée par le présent code.
-
-2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent les infractions visés à l'article 411-2 ci-
-dessus lorsqu'elles se rapportent à des marchandises de la catégorie de celles qui sont prohibées à l'entrée ou à la sortie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
-
-	**Cité par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
-	  - Code des douanes - art. 370 (M)
-	  - Code des instruments monétaires et des médailles - art. 20 (Ab)
-
-	**Transféré par**:
-
-	  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
-
-	**Nouveaux textes**:
-
-	  - Code des douanes - art. 414 (M)
-
-	**Cite**:
-
-	  - Code des douanes 411-2
-
-
 ##### E. - Cinquième classe.
 
 ###### Article 413 bis
@@ -10209,20 +10200,16 @@ l'autorisation de dédouaner ceux qui en auraient été atteints.
 
 ###### Article 414
 
-Sont passibles de la confiscation de l'objet de fraude, de la confiscation des moyens de transport, de la confiscation des
-objets servant à mesurer la fraude, d'une amende comprise entre une et trois fois la valeur de l'objet de fraude et d'un
-emprisonnement pouvant s'élever à trois mois, tout fait de contrebande ainsi que tout fait d'importation ou d'exportation
-sans déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
-fortement taxées, au sens du code des douanes, à l'entrée ou soumises à des taxes de consommation intérieure ou prohibées ou
-taxées à la sortie.
+Sont passibles d'un emprisonnement maximum de trois ans, de la confiscation de l'objet de fraude, de la confiscation des
+moyens de transport, de la confiscation des objets servant à masquer la fraude et d'une amende comprise entre une et deux
+fois la valeur de l'objet de fraude, tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans
+déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
+fortement taxées au sens du présent code.
+
+Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 5 000 F, sont passibles d'une amende
+égale à la valeur desdites marchandises.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°64-1278 1964-12-23 art. 40 Finances pour 1965 JORF 24 décembre 1964
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 	**Cité par**:
 
@@ -10260,6 +10247,10 @@ taxées à la sortie.
 	  - Code des douanes - art. 67 bis (V)
 	  - Code des douanes - art. 67 bis-1 A (V)
 	  - Code des douanes - art. 67 sexies (V)
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
 
 	**Anciens textes**:
 
@@ -10337,42 +10328,36 @@ marchandises de fraude.
 	  - Code des douanes - art. 414 (M)
 
 
-##### C. - Troisième classe.
+#### Paragraphe 4 : Contrebande.
 
-###### Article 416
+###### Article 419
 
-Sont passibles de la confiscation de l'objet de fraude, de la confiscation des moyens de transport, de la confiscation des
-objets servant à masquer la fraude, d'une amende comprise entre une et trois fois la valeur des objets confisqués et d'un
-emprisonnement de six mois à trois ans :
+1. Les marchandises visées à l'article 215 ci-dessus sont réputées avoir été importées en contrebande à défaut de
+justifications d'origine ou si les documents présentés sont faux, inexacts, incomplets ou non applicables.
 
-1° Les délits de contrebande commis soit par plus de six individus, soit par trois individus ou plus, à cheval ou à
-vélocipède, que tous portent ou non des marchandises de fraude.
+2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 1 et 2 de l'article 215 sont
+poursuivies et unies conformément aux dispositions des articles 414 à 416 ci-dessus.
 
-2° Les délits de contrebande par aéronef, par véhicule attelé ou autopropulsé, par navire ou embarcation de mer de moins de
-100 tonneaux de jauge nette ou 500 tonneaux de jauge brute ou par bateau de rivière.
+3. Lorsqu'ils auront eu connaissance que celui qui leur a délivré les justifications d'origine ne pouvait le faire
+valablement ou que celui qui leur a vendu, cédé, échangé ou confié les marchandises n'était pas en mesure de justifier de
+leur détention régulière, les détenteurs et transporteurs seront condamnés aux mêmes peines et les marchandises seront
+saisies et confisquées dans les mêmes conditions que ci-dessus, quelles que soient les justifications qui auront pu être
+produites.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
 
 	**Cité par**:
 
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (Ab)
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
-	  - Code des douanes - art. 370 (M)
-	  - Code des douanes - art. 432 bis (M)
+	  - Arrêté du 11 juillet 2012 - art. 2 (V)
 
-	**Transféré par**:
+	**Cite**:
 
-	  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
-
-	**Nouveaux textes**:
-
-	  - Code des douanes - art. 414 (M)
+	  - Code des douanes - art. 215 (M)
+	  - Code des douanes 215, 414 à 416
 
 	**Codifié par**:
 
@@ -11084,13 +11069,13 @@ l'étranger, soit en ne respectant pas les obligations de déclaration ou de rap
 procédures prescrites ou les formalités exigées, soit en ne se munissant pas des autorisations requises ou en ne satisfaisant
 pas aux conditions dont ces autorisations sont assorties sera puni d'une peine d'emprisonnement de un à cinq ans, de la
 confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude et d'une amende égale au
-minimum au montant et au maximum au quintuple de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+minimum au montant et au maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation n'ont pu être saisis ou ne sont pas représentés
-par le délinquant ou lorsque le ministre de l'économie et des finances ou son représentant en fait la demande, le tribunal
-doit, pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
+par le délinquant ou lorsque le ministre du budget ou son représentant en fait la demande, le tribunal doit, pour tenir lieu
+de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
 
-3. Sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de 3.000 F à 1.800.000 F toute personne qui aura incité
+3. Sera punie d'un emprisonnement d'un an à cinq ans et d'une amende de 3 000 F à 1 800 000 F toute personne qui aura incité
 par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
 suivie d'effet.
 
@@ -11103,10 +11088,6 @@ relevées de cette incapacité.
 insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 	**Cité par**:
 
@@ -11135,7 +11116,7 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
+	  - Loi n°87-502 1987-07-08 art. 25 IV JORF 9 juillet 1987
 
 	**Liens**:
 
