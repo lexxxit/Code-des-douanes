@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1968-08-01
+Version Consolidée au 1969-01-03
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -188,6 +188,32 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 	**Cité par**:
 
 	  - Loi n°2007-223 du 21 février 2007 - art. 17 (V)
+
+
+###### Article 7
+
+Les dispositions du présent code concernant les marchandises fortement taxées ne s'appliquent qu'aux marchandises désignées
+par arrêté du ministre de l'économie et des finances parmi celles pour lesquelles l'ensemble des droits de douane,
+prélèvements et taxes diverses applicables à l'importation représente plus de 20 % de leur valeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 9 JORF 3 janvier 1969
+
+	**Cité par**:
+
+	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 22 (V)
 
 
 ## Chapitre III : Pouvoirs généraux du gouvernement
@@ -632,72 +658,62 @@ marchandises.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 27 bis
+
+Le remboursement des taxes perçues à l'entrée peut être accordé lorsqu'il est établi qu'au moment de leur importation les
+marchandises étaient défectueuses ou non conformes aux clauses du contrat en exécution duquel elles ont été importées.
+
+Le remboursement des taxes est subordonné :
+
+- soit à la réexportation des marchandises à destination ou pour le compte du fournisseur étranger ;
+
+- soit à leur destruction sous le contrôle du service des douanes, avec acquittement des taxes afférentes aux résidus de
+cette destruction.
+
+Des arrêtés du ministre de l'économie et des finances fixent les conditions d'application du présent article, et notamment le
+délai dans lequel la demande de remboursement doit être déposée après l'importation des marchandises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 1 JORF 3 janvier 1964
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 10 JORF 3 janvier 1969
+
+
 ### Section 2 : Espèce des marchandises
 
 #### Paragraphe 2 : Réclamations contre les décisions d'assimilation et de classement.
 
-###### Article 30
+###### Article 29
 
-(texte abrogé).
+En cas de contestation relative aux décisions prévues à l'article 28 ci-dessus, la réclamation est soumise à la commission de
+conciliation et d'expertise douanière qui statue sur cette réclamation, sauf recours au Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des douanes - art. 28
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
-
-
-###### Article 31
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°68-1247 1968-12-31 art. 6 JORF 3 janvier 1969
 
 	**Abrogé par**:
 
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
-
-
-###### Article 32
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
-
-
-###### Article 33
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
-
-	**Cité par**:
-
-	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
 ### Section 3 : Origine des marchandises.
@@ -751,6 +767,23 @@ justifications d'origine doivent être produites et les cas où celles-ci ne son
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 35 bis
+
+Lorsque la valeur déclarée est inférieure à la valeur en douane sans que la déclaration des éléments de la valeur soit
+entachée d'inexactitude ou d'omission en ce qui concerne les points de fait et en l'absence de faute de la part du déclarant
+ou de son commettant, ceux-ci sont seulement tenus au paiement des droits et taxes compromis ou éludés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 8 JORF 3 janvier 1969
 
 
 #### Paragraphe 2 : A l'exportation.
@@ -2508,24 +2541,14 @@ représenter le déclarant défaillant et assister à la vérification.
 
 ### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.
 
-###### Article 105
+###### Article 104
 
-(texte abrogé).
+1. Dans le cas où le service des douanes conteste, au moment de la vérification des marchandises, les énonciations de la
+déclaration relatives à l'espèce, à l'origine ou à la valeur des marchandises, la contestation est réglée conformément aux
+dispositions du titre XIII ci-après, lorsque le déclarant n'accepte pas l'appréciation du service.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
-
-
-###### Article 106
-
-(texte abrogé).
+2. Toutefois, il n'y a pas lieu de recourir à cette procédure lorsque la loi prévoit une procédure particulière pour
+déterminer l'espèce, l'origine ou la valeur des marchandises.
 
 **Liens relatifs à cet article**
 
@@ -2533,13 +2556,43 @@ représenter le déclarant défaillant et assister à la vérification.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Abrogé par**:
+	**Liens**:
 
-	  - Loi n°68-1247 1968-12-31 art. 5 JORF 3 janvier 1969
+	  - SPEC_APPLI: Décret n°50-102 1950-01-20
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 1 JORF 3 janvier 1969
 
 	**Cité par**:
 
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2010-428 du 28 avril 2010 - art. 5 (V)
+
+
+### Section 3 : Application des résultats de la vérification.
+
+###### Article 107
+
+1. Les droits, taxes et autres mesures douanières sont appliqués d'après les résultats de la vérification et, le cas échéant,
+conformément aux conclusions non contestées de la commission de conciliation et d'expertise prévue au titre XIII ci-dessous
+ou conformément aux décisions de justice ayant l'autorité de la chose jugée.
+
+2. Lorsque le service ne procède pas à la vérification des marchandises déclarées, les droits, taxes et autres mesures
+douanières sont appliqués d'après les énonciations de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 3 JORF 3 janvier 1969
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
 ## Chapitre III : Liquidation et acquittement des droits et taxes
@@ -5562,6 +5615,35 @@ Les contraintes sont signifiées dans les conditions prévues à l'article 362 c
 ### Section 3 : Extinction des droits de poursuite et de répression
 
 #### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables
+
+##### B. - Prescription contre l'administration.
+
+###### Article 354
+
+L'administration des douanes est non recevable à former aucune demande en paiement des droits, trois ans après que lesdits
+droits auraient dû être payés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°68-1247 1968-12-31 art. 13 JORF 3 janvier 1969
+
+	**Cité par**:
+
+	  - Décret n°71-209 du 18 mars 1971 - art. 20 (Ab)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 1 (V)
+	  - Ordonnance n°2004-1151 du 28 octobre 2004 - art. 3 (V)
+	  - Arrêté du 11 septembre 2008 - art. 4 (V)
+	  - Arrêté du 14 janvier 2011 - art. 5 (V)
+	  - Code des douanes - art. 354 quater (V)
+	  - Code des douanes - art. 355 (V)
+	  - Code des douanes - art. 450 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.
 
