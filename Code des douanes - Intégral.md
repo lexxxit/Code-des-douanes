@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-30
+Version Consolidée au 1958-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2858,6 +2858,25 @@ les conditions prévues par l'article 103 ci-dessus.
 
 
 ## Chapitre II : Vente des marchandises en dépôt.
+
+###### Article 186
+
+1. Les marchandises qui n'ont pas été enlevées dans le délai de quatre mois à dater de leur inscription au registre de dépôt
+sont vendues aux enchères publiques.
+
+2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
+juge d'instance.
+
+3. Les marchandises d'une valeur inférieure à 100 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au 1
+ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en faire
+don à des hôpitaux, hospices ou autres établissements de bienfaisance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 187
 
