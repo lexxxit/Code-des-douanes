@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1987-07-09
+Version Consolidée au 1987-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7542,6 +7542,80 @@ arrêté du ministre de l'économie et des finances et du ministre chargé de l'
 	  - Code des douanes - art. 265 (M)
 
 
+###### Article 265 quater
+
+1. L'essence de pétrole autre que le supercarburant employé aux usages énumérés au 2 ci-dessous bénéficie d'un dégrèvement de
+la taxe intérieure de consommation ramenant le montant de la taxe supportée par ce produit à 24,47 F par hectolitre.
+
+Le pétrole lampant employé aux mêmes usages bénéficie d'un dégrèvement de la taxe intérieure de consommation ramenant le
+montant de la taxe supportée par ce produit à 9,82 F par hectolitre.
+
+2. Les attributions d'essence et de pétrole lampant détaxés sont limitées :
+
+a) aux travaux agricoles réalisés au moyen de matériels de traction, de traitement des cultures, et de récolte, fonctionnant
+à l'essence ou au pétrole dans les exploitations ne disposant d'aucun matériel analogue fonctionnant au fuel. Elles sont
+limitées aux quinze premiers hectares de surface cultivée et calculées sans réduction sur les dix premiers hectares et avec
+une réduction de moitié sur les cinq hectares suivants. Par dérogation, elles sont attribuées sans limitation de surface,
+dans les exploitations situées dans les zones d'économie montagnarde ;
+
+b) aux utilisateurs de moteurs mobiles pour l'irrigation, pour la traite mécanique, pour les treuils mobiles dans la
+viticulture et les scies tronçonneuses pour les travaux forestiers.
+
+Sauf pour l'utilisation des scies tronçonneuses dans les travaux forestiers, les attributions d'essence ou de pétrole lampant
+détaxé ne peuvent être faites qu'au titre des exploitations agricoles dont le chef, soit bénéficie de prestations de
+l'assurance maladie, invalidité et maternité visée aux articles 1106 (1 à 16) du code rural ou en est exclu en application de
+l'article 1106 (1, 5°, 2e alinéa), soit bénéficie des prestations des assurances sociales agricoles en application de
+l'article 1026 du code rural. Toutefois, cette disposition ne s'applique pas aux agriculteurs qui ont perçu l'année précédant
+celle de l'attribution de carburant détaxé, au titre d'une autre activité, un revenu qui ne dépasse pas le double du salaire
+minimum interprofessionnel de croissance.
+
+Il ne sera fait aucune attribution pour les droits représentant un total annuel inférieur à 100 litres par exploitation.
+
+3. Les conditions d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 1106-1 à 1106-16, 1026
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+	  - Loi n°72-1121 1972-12-20 art. 73 III Finances pour 1973 JORF 21 décembre 1972
+	  - Loi n°74-644 1974-07-16 art. 6 I Finances rectificative pour 1974 JORF 17 juillet 1974
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
+
+	**Créé par**:
+
+	  - Loi n°67-1114 1967-12-21 art. 13 JORF 22 décembre 1967
+
+	**Cité par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 17 (P)
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 46 (P)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 30 (P)
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 21 (P)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 12 (P)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 37 (P)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 21 (V)
+	  - Décret n°2006-1574 du 11 décembre 2006 - art. 25 (V)
+	  - Décret n°2008-93 du 29 janvier 2008 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Code des douanes - art. 265 quinquies (M)
+	  - Code des douanes - art. 265 ter (V)
+	  - Code des douanes - art. 299 bis (P)
+
+	**Abrogé par**:
+
+	  - Loi - art. 29 (V) JORF 30 décembre 1990
+
+
 ###### Article 265 ter
 
 1. Sont interdites l'utilisation à la carburation, la vente ou la mise en vente pour la carburation de produits dont
@@ -8031,68 +8105,6 @@ de Corse et chacun des départements d'outre-mer, sont assimilés à des opérat
 	**Créé par**:
 
 	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-
-
-## Chapitre II : Droit de timbre douanier.
-
-###### Article 269
-
-Il est perçu sur toute quittance délivrée par l'administration des douanes et relative aux droits et taxes inscrits au tarif
-d'entrée ou de sortie, ainsi qu'aux taxes intérieures de consommation prévues par l'article 265 ci-dessus, un droit de timbre
-égal à 2 % du montant de cette quittance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Ordonnance n°83-392 du 18 mai 1983 - art. 4 (V)
-	  - Loi n°95-96 du 1 février 1995 - art. 24 (VT)
-	  - Décret n°2011-991 du 23 août 2011 - art. 1 (V)
-	  - Décret n°2011-991 du 23 août 2011 - art. 31 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 1 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 3 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 4 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 5 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 6 (V)
-	  - Décret n°2012-670 du 4 mai 2012 - art. 7 (V)
-	  - Décret n°2013-559 du 26 juin 2013 (V)
-	  - Décret n°2013-559 du 26 juin 2013 - art. 1 (V)
-	  - Décret n°2013-560 du 26 juin 2013 - art. 1 (V)
-	  - Arrêté du 3 juillet 2013 (V)
-	  - Arrêté du 3 juillet 2013 - art. (V)
-	  - Arrêté du 4 juillet 2013 (V)
-	  - Décret n°2013-618 du 11 juillet 2013 - art. 1 (V)
-	  - Décret n°2013-618 du 11 juillet 2013 - art. 3 (V)
-	  - Arrêté du 12 juillet 2013 (V)
-	  - Arrêté du 30 juillet 2013 (V)
-	  - Arrêté du 30 septembre 2014 (V)
-	  - Arrêté du 30 septembre 2014 - art. 1 (V)
-	  - Arrêté du 30 septembre 2014 - art. 2 (V)
-	  - Arrêté du 30 septembre 2014 - art. 3 (V)
-	  - Arrêté du 30 septembre 2014 - art. 4 (V)
-	  - Arrêté du 30 septembre 2014 - art. 6 (V)
-	  - Code de la route. - art. L325-1 (V)
-	  - Code de la route. - art. L330-2 (V)
-	  - Code des douanes - art. 270 (VD)
-	  - Code des douanes - art. 271 (VD)
-	  - Code des douanes - art. 272 (VD)
-	  - Code des douanes - art. 276 (VD)
-	  - Code des douanes - art. 413 (V)
-	  - Code des transports - art. L3221-2 (V)
-	  - Code des transports - art. L3222-3 (Ab)
-	  - Code des transports - art. L3223-3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 265 (M)
 
 
 ## Chapitre IV : Taxes sur les voyageurs de commerce.
@@ -9129,32 +9141,6 @@ Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont 
 
 ### Section 1 : Constatation par procès-verbal de saisie
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies ; droits et obligations des saisissants.
-
-###### Article 323
-
-1. Les infractions aux lois et règlements douaniers peuvent être constatées par un agent des douanes ou de toute autre
-administration.
-
-2. Ceux qui constatent une infraction douanière ont le droit de saisir tous objets passibles de confiscation, de retenir les
-expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
-la sûreté des pénalités.
-
-3. Ils ne peuvent procéder à la capture des prévenus qu'en cas de flagrant délit.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 6 janvier 2014 - art. 2 (V)
-	  - Code des douanes - art. 67 quater (VD)
-	  - Code des douanes - art. 67 ter (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
 #### Paragraphe 3 : Formalités relatives à quelques saisies particulières
 
 ##### B. - Saisies à domicile.
@@ -10019,73 +10005,6 @@ n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-##### B. - Deuxième classe.
-
-###### Article 411
-
-1. Est passible d'une amende comprise entre une et trois fois le montant des droits et taxes éludés ou compromis, toute
-infraction aux dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette
-irrégularité a pour but ou pour résultat d'éluder ou de compromettre le recouvrement d'un droit ou d'une taxe quelconque et
-qu'elle n'est pas spécialement réprimée par le présent code.
-
-2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent, les infractions ci-après quand elles se
-rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes :
-
-a) Les déficits dans le nombre des colis déclarés, manifestés ou transportés sous acquit-à-caution ou document en tenant
-lieu :
-
-b) Les déficits sur la quantité des marchandises placées sous un régime suspensif, en magasins et aires de dédouanement ou en
-magasins et aires d'exportation ;
-
-c) La non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ;
-
-d) La présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ;
-
-e) L'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ;
-
-f) Les excédents sur le poids, le nombre ou la mesure déclarés ;
-
-g) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
-d'un dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits pétroliers ;
-
-h) L'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus.
-
-3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le
-recouvrement de droits de port ou de redevances d'équipement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-	  - Loi n°55-359 1955-04-03 art. 46 JORF 4 avril 1955
-	  - Loi n°63-1351 1963-12-31 art. 8 JORF 3 janvier 1964
-	  - Loi n°65-525 1965-07-03 art. 1, art. 2, art. 3, art. 4 JORF 4 juillet 1965
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 1 (Ab) JORF 29 décembre 1967
-	  - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V) JORF 30 décembre 1977
-	  - Loi n°56-865 1956-08-27 art. 17 JORF 31 août 1956
-
-	**Cité par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 7 (V)
-	  - Décret n°90-317 du 9 avril 1990 - art. 6 (V)
-	  - Décret n°97-1279 du 23 décembre 1997 - art. 9 (V)
-	  - Code des douanes - art. 370 (M)
-	  - Code des douanes - art. 430 (V)
-	  - Code des douanes - art. 436 (V)
-	  - Code des instruments monétaires et des médailles - art. 20 (Ab)
-
-	**Cite**:
-
-	  - Code des douanes - art. 122 (V)
 
 
 ##### C. - Troisième classe.
