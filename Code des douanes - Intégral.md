@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-06-22
+Version Consolidée au 2004-07-02
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3330,21 +3330,16 @@ les articles 87 et suivants du présent code.
 
 ###### Article 87
 
-1. Nul ne peut faire profession d'accomplir au nom et pour le compte d' autrui les formalités de douane concernant la
+1. Nul ne peut faire profession d'accomplir au nom et pour le compte d'autrui les formalités de douane concernant la
 déclaration en détail des marchandises s'il n'a été agréé comme commissionnaire en douane.
 
 2. Cet agrément est donné par le ministre de l'économie et des finances sur la proposition du directeur général des douanes
-et droits indirects et après avis d'un comité dont la composition est fixée par arrêté du ministre de l'économie et des
-finances. La décision ministérielle fixe le ou les bureaux de douane pour lesquels l'agrément est valable.
+et droits indirects. La décision ministérielle fixe le ou les bureaux de douane pour lesquels l'agrément est valable.
 
 3. Le ministre de l'économie et des finances peut, suivant la même procédure, retirer son agrément à titre temporaire ou
 définitif.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 26 () JORF 30 décembre 1997
 
 	**Cité par**:
 
@@ -3352,6 +3347,10 @@ définitif.
 	  - Arrêté du 24 décembre 1986 - art. 42 (Ab)
 	  - Code des douanes - art. 86 (V)
 	  - Code des douanes - art. 88 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 11 () JORF 2 juillet 2004
 
 	**Codifié par**:
 
@@ -16428,14 +16427,10 @@ douanière en transmettant à son secrétaire le dossier de l'affaire.
 
 - un magistrat du siège de l'ordre judiciaire, président ;
 
-- deux assesseurs désignés en raison de leur compétence technique ;
+- deux assesseurs désignés en raison de leur compétence technique.
 
-- un conseiller de tribunal administratif.
-
-En cas de partage des voix, la voix du président est prépondérante.
-
-2. Le magistrat, président de la commission de conciliation et d'expertise douanière, ainsi que le conseiller de tribunal
-administratif sont nommés par décret. Leurs suppléants sont désignés de la même manière.
+2. Le magistrat, président de la commission de conciliation et d'expertise douanière, ainsi que son suppléant sont nommés par
+décret.
 
 **Liens relatifs à cet article**
 
@@ -16443,13 +16438,9 @@ administratif sont nommés par décret. Leurs suppléants sont désignés de la 
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°71-209 1971-03-18
-
 	**Modifié par**:
 
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 12 () JORF 30 décembre 1977
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 2 () JORF 2 juillet 2004
 
 
 ###### Article 444
