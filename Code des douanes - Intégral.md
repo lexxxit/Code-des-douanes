@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1999-01-01
+Version Consolidée au 1999-01-11
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9643,53 +9643,6 @@ b. Aux aéronefs appartenant à l'Etat ou participant à des missions de protect
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
-
-
-###### Article 266 ter
-
-1. Les supercarburants, l'essence normale et le gazole, identifiés aux indices II, II bis, 12 et 22 du tableau B du 1 de
-l'article 265 du présent code, sont passibles d'une redevance, perçue au profit du fonds de soutien aux hydrocarbures, d'un
-montant de 0,39 F par hectolitre.
-
-La redevance est assise, liquidée et recouvrée suivant les mêmes règles que la taxe intérieure de consommation sur les
-produits pétroliers.
-
-2. Sont exonérés de la redevance les produits visés ci-dessus exemptés de la taxe intérieure de consommation par application
-des articles 189, 190, 195 et 265 bis, ou bénéficiant du taux réduit de la taxe intérieure de consommation prévu au renvoi 5
-du tableau B de l'article 265-1, ainsi que les mêmes produits mis à la consommation dans les départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°70-333 du 9 avril 1970 - art. 1 (Ab)
-	  - Code des douanes - art. 265 bis (M)
-	  - Code des douanes - art. 267 (V)
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 34 (V) JORF 30 décembre 1983
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 49 () JORF 31 décembre 1986
-	  - Loi n°88-1149 1988-12-23 art. 27 III, V Finances pour 1989 JORF 28 décembre 1988
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988
-	  - Loi - art. 113 () JORF 31 décembre 1992
-	  - Loi - art. 20 (V) JORF 31 décembre 1995 en vigueur le 11 janvier 1996
-	  - Loi n°95-1346 1995-12-30 art. 20 I, II Finances pour 1996 JORF 31 décembre 1995 en vigueur le 11 janvier 1996
-
-	**Abrogé par**:
-
-	  - Loi - art. 26 (V) JORF 31 décembre 1998 en vigueur le 11 janvier 1999
-
-	**Cite**:
-
-	  - Code des douanes - art. 189 (P)
-	  - Code des douanes - art. 190 (V)
-	  - Code des douanes - art. 195 (V)
-	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 undecies
