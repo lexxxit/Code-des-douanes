@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1951-11-04
+Version Consolidée au 1954-04-22
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -128,76 +128,6 @@ Dans toutes les parties du territoire douanier, on doit se conformer aux mêmes 
 	**Cité par**:
 
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-###### Article 10
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 11
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
-	  - Code de l'Office national interprofessionnel du bl - art. 16 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 12
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
-	  - Code des douanes - art. 67 D (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 13
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
 
 
 #### Paragraphe 2 : Droits d'exportation.
