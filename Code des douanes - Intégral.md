@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-06-18
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1050,7 +1050,8 @@ douane, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux 
 de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
 précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de la santé publique et aux déchets relevant de
 la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux et des textes
-pris pour son application.
+pris pour son application. Les dispositions du présent article s'appliquent également aux objets de toute nature comportant
+des images ou des représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -1119,6 +1120,7 @@ pris pour son application.
 	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe IV (V)
 	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe V (V)
 	  - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe VI (V)
+	  - SPEC_APPLI: Loi n°98-468 1998-06-17 art. 51 (non application de l'article 46 de la loi aux TOM et à Mayotte)
 	  - TXT_SOURCE: Arrêté du 24 juillet 2001
 	  - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. Annexe I (Ab)
@@ -1142,14 +1144,10 @@ pris pour son application.
 	**Cite**:
 
 	  - Loi n°75-633 1975-07-15
-	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 18, art. 19
+	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 19, art. 18
+	  - Code pénal - art. 227-23 (M)
 	  - Code des douanes - art. 2 bis (V)
 	  - Code de la santé publique - art. L631 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 20 () JORF 5 janvier 1993
-	  - Loi n°94-102 du 5 février 1994 - art. 16 () JORF 8 février 1994
 
 	**Cité par**:
 
@@ -1163,10 +1161,10 @@ pris pour son application.
 	  - Arrêté du 29 juillet 2008 (V)
 	  - Arrêté du 22 décembre 2008 (V)
 	  - Arrêté du 20 janvier 2009 (V)
-	  - Décret n°2009-873 du 16 juillet 2009 (V)
 	  - Arrêté du 30 septembre 2009 (V)
 	  - Arrêté du 22 septembre 2011 - art. 1 (V)
 	  - Arrêté du 22 novembre 2011 (V)
+	  - Décret n°2009-873 du 16 juillet 2009 (V)
 	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (V)
 	  - Arrêté du 11 juillet 2012 - art. 2 (V)
 	  - Loi n°2016-41 du 26 janvier 2016 - art. 166 (V)
@@ -1177,6 +1175,10 @@ pris pour son application.
 	  - Code des douanes - art. 468 (VD)
 	  - Code des douanes - art. 470 (V)
 	  - Code des douanes - art. 65 C (V)
+
+	**Modifié par**:
+
+	  - Loi n°98-468 du 17 juin 1998 - art. 46 () JORF 18 juin 1998
 
 	**Codifié par**:
 
