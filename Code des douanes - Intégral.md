@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-08-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2335,14 +2335,16 @@ membres de la Communauté européenne en matière de réglementation douanière 
 à mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
 les autres Etats membres.
 
+8° Sous réserve de réciprocité, l'administration des douanes et droits indirects peut communiquer aux autorités compétentes
+des Etats membres de la Communauté européenne des renseignements et documents pour l'établissement des droits indirects
+grevant les huiles minérales.
+
+Elle peut faire état, à titre de preuve, des renseignements et documents fournis par les autorités compétentes des Etats
+membres de la Communauté européenne.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°57-985 1957-08-30 art. 4, art. 5 JORF 1er septembre 1957
-	  - Loi n°63-1351 1963-12-31 art. 13 JORF 3 janvier 1964
-	  - Loi n°92-677 du 17 juillet 1992 - art. 112 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -2378,6 +2380,10 @@ les autres Etats membres.
 	  - Code rural ancien - art. 364 (M)
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
+
 	**Cite**:
 
 	  - Code des douanes 65 A
@@ -2385,10 +2391,6 @@ les autres Etats membres.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Anciens textes**:
-
-	  - Loi n°46-2294 1946-10-19 art. 2
 
 
 ### Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne.
@@ -12699,29 +12701,23 @@ dits "accises" visés à l'article 55 de la loi n° 92-677 du 17 juillet 1992, e
 membre de la Communauté européenne, sont recouvrées dans les mêmes conditions que les créances similaires nées sur le
 territoire national. Le recouvrement de ces créances ne bénéficie d'aucun privilège.
 
+Sur demande de l'autorité compétente d'un Etat membre de la Communauté européenne, l'administration des douanes et droits
+indirects peut communiquer les renseignements et les documents utiles au recouvrement des créances nées dans cet Etat membre.
+Un décret en Conseil d'Etat précise les conditions d'application du présent alinéa.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Anciens textes**:
-
-	  - Loi n°77-1467 1977-12-30 art. 82
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 11, v. init.
-	  - Décret n°92-305 1992-03-30 art. 1
-
 	**Cite**:
 
 	  - Loi n°92-677 1992-07-17 art. 55
 
-	**Créé par**:
-
-	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
-
 	**Modifié par**:
 
-	  - Loi n°93-1353 du 30 décembre 1993 - art. 26 () JORF 31 décembre 1993
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 18 () JORF 31 août 2001
 
 	**Cité par**:
 
