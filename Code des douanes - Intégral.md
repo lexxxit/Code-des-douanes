@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1993-08-11
+Version Consolidée au 1993-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8281,10 +8281,6 @@ projet jusqu'à la mise en vigueur des nouveaux tarifs ou jusqu'à la décision 
 3. Une disposition spéciale de ce décret doit en ordonner l'exécution immédiate conformément aux dispositions du décret du 5
 novembre 1870.
 
-4. Le tarif de la taxe intérieure de consommation sur les produits pétroliers et assimilés visés au tableau B annexé à
-l'article 265 ci-dessus est relevé chaque année au cours de la première semaine de janvier, dans la même proportion que la
-limite inférieure de la septième tranche du barème de l'impôt sur le revenu.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8296,10 +8292,6 @@ limite inférieure de la septième tranche du barème de l'impôt sur le revenu.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 25 () JORF 31 décembre 1981
-
 	**Cité par**:
 
 	  - Loi n°82-1126 du 29 décembre 1982 - art. 23 (P)
@@ -8308,6 +8300,15 @@ limite inférieure de la septième tranche du barème de l'impôt sur le revenu.
 	  - Loi n°92-677 du 17 juillet 1992 - art. 55 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (V)
 	  - Code des douanes - art. 266 quinquies (M)
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 23 II Finances pour 1985 JORF 30 décembre 1984
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 22 () JORF 31 décembre 1985
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
+	  - Loi n°89-935 1989-12-29 art. 28 I Finances pour 1990 JORF 30 décembre 1989
+	  - Loi - art. 14 () JORF 30 décembre 1990
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 25 () JORF 31 décembre 1993
 
 
 ###### Article 266 bis
@@ -9384,6 +9385,42 @@ de douane.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 285 ter
+
+Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion une taxe due par les
+entreprises de transport public aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur le
+nombre de passagers embarquant dans ces régions.
+
+Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par
+chaque conseil régional dans la limite de 30 F par passager.
+
+La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de la
+délibération du conseil régional.
+
+La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions
+qu'en matière de droits de douane.
+
+L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
+dudit produit.
+
+Ces dispositions s'appliquent jusqu'au 31 décembre 1996.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 88 () JORF 31 décembre 1993
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L441-2 (V)
+	  - Code général des collectivités territoriales - art. L4331-2 (V)
+
+
 # Titre XI : Zones franches.
 
 ###### Article 286
@@ -10306,6 +10343,52 @@ recouvrement observées par eux à l'égard de ce tiers.
 	**Modifié par**:
 
 	  - Loi n°67-1172 1967-12-22 art. 17 Finances pour 1968 JORF 29 décembre 1967
+
+
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
+
+###### Article 381 bis
+
+Les créances résultant d'opérations faisant partie du système de financement du fonds européen d'orientation et de garantie
+agricole, de prélèvements agricoles et de droits de douane, ainsi que la taxe sur la valeur ajoutée, des droits indirects
+dits "accises" visés à l'article 55 de la loi n° 92-677 du 17 juillet 1992, et de toutes sommes accessoires nées dans un Etat
+membre de la Communauté européenne, sont recouvrées dans les mêmes conditions que les créances similaires nées sur le
+territoire national. Le recouvrement de ces créances ne bénéficie d'aucun privilège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Anciens textes**:
+
+	  - Loi n°77-1467 1977-12-30 art. 82
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 11, v. init.
+	  - Décret n°92-305 1992-03-30 art. 1
+
+	**Cite**:
+
+	  - Loi n°92-677 1992-07-17 art. 55
+
+	**Créé par**:
+
+	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 26 () JORF 31 décembre 1993
+
+	**Cité par**:
+
+	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
+	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
 
 
 ### Section 2 : Voies d'exécution
