@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1991-12-31
+Version Consolidée au 1992-02-08
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9851,33 +9851,6 @@ autrui les formalités de douane.
 	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières
-
-##### F. - Paiement des sommes fraudées ou indûment obtenues.
-
-###### Article 377 bis
-
-En sus des pénalités fiscales, les tribunaux ordonnent le paiement des sommes fraudées ou indûment obtenues.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 343 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-
-	**Anciens textes**:
-
-	  - Loi n°77-1453 1977-12-29 art. 7 et art. 10
-
-
 ## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière
 
 ### Section 1 : Sûretés garantissant l'exécution
@@ -11497,22 +11470,18 @@ tenu pour les faits de l'espèce au respect du secret professionnel.
 ###### Article 462
 
 Le comité élabore à l'intention du Gouvernement et du Parlement un rapport annuel, qui fera l'objet d'une publication, sur
-les conditions dans lesquelles ont été conclues les transactions relevant de la compétence des services extérieurs de la
-direction générale des douanes et droits indirects ; il procède dans les services extérieurs de cette direction aux enquêtes
-qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des membres du
-comité.
+les conditions dans lesquelles ont été conclues les transactions relevant de la compétence des services déconcentrés de la
+direction générale des douanes et droits indirects ; il procède dans les services déconcentrés de cette direction aux
+enquêtes qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des
+membres du comité.
 
 Un décret en Conseil d'Etat fixe la composition et les conditions de fonctionnement du comité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°92-125 du 6 février 1992 - art. 3 (V)
 
 
 ###### Article 463
