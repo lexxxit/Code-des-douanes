@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1978-07-08
+Version Consolidée au 1978-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4286,6 +4286,58 @@ d'admission temporaire doit être établie au nom de la personne qui mettra en o
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
+###### Article 173
+
+1. Dans les cas visés à l'article 169-1 a, et sous réserve de la dérogation prévue au 2 ci-dessous, les marchandises
+importées en admission temporaire doivent être, avant l'expiration du délai imparti et après avoir reçu la transformation,
+l'ouvraison ou le complément de main-d'œuvre prévus par l'arrêté ou la décision ayant accordé l'admission temporaire : 
+
+a) soit réexportées hors du territoire douanier de la Communauté économique européenne ; 
+
+b) soit constituées en entrepôt de stockage en vue de leur réexportation ultérieure ; 
+
+c) soit introduites en zone franche en vue de leur réexportation ultérieure ; 
+
+d) soit placées sous le régime du transit communautaire (procédure du transit communautaire externe) en vue de leur
+exportation ultérieure. 
+
+2. Les marchandises importées en admission temporaire en suspension des droits et taxes autres que les droits de douane et
+taxes d'effet équivalent, ainsi que les marchandises visées à l'article 169-1 b doivent être avant l'expiration du délai
+imparti : 
+
+a) soit réexportées hors du territoire douanier défini à l'article 1er ci-dessus ; 
+
+b) soit constituées en entrepôt de stockage, sauf dispositions contraires de l'arrêté ou de la décision ayant accordé
+l'admission temporaire. 
+
+3. Les marchandises importées en admission temporaire peuvent, toutefois, être expédiées dans une autre partie du territoire
+douanier défini à l'article 1er ci-dessus sur l'autorisation du directeur général des douanes et droits indirects. 
+
+4. L'arrêté ou la décision accordant l'admission temporaire peut rendre obligatoire la réexportation à destination de pays
+déterminés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 1 JORF 9 juillet 1971
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 173 bis (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 169 (V)
+
+
 ###### Article 173 bis
 
 En cas d'application des dispositions de l'article 173 ci-dessus, et sous réserve des dispositions relatives à la taxe sur la
@@ -4369,6 +4421,54 @@ b) la composition des produits admis à compensation des comptes d'admission tem
 	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
 
 
+###### Article 173 sexies
+
+Le directeur général des douanes et droits indirects peut, lorsque les circonstances le justifient, et sous réserve des
+dispositions relatives à la taxe sur la valeur ajoutée, permettre la régularisation des comptes d'admission temporaire :
+
+a) par mise à la consommation des produits compensateurs, des produits intermédiaires, ou des marchandises importées en
+admission temporaire moyennant le paiement des droits et taxes afférents aux marchandises importées à la date
+d'enregistrement des déclarations d'importation en admission temporaire.
+
+Toutefois, lorsque les produits compensateurs ou les produits intermédiaires mis à la consommation figurent sur la liste
+prévue à l'article 162 bis-1, deuxième alinéa, ci-dessus, les droits de douane à percevoir sont ceux afférents auxdits
+produits compensateurs ou produits intermédiaires ;
+
+b) par destruction des produits compensateurs, des produits intermédiaires ou des produits importés en admission temporaire.
+Lorsque la destruction a pour effet de retirer toute valeur aux produits compensateurs, aux produits intermédiaires ou aux
+marchandises en l'état, il ne doit être procédé à aucune perception de droits et taxes. Dans le cas contraire, pour autant
+que les produits résultant de la fabrication sont mis à la consommation, les droits et taxes sont perçus sur la valeur de ces
+produits ;
+
+c) par la réexportation ou la mise en entrepôt, en l'état, des marchandises importées pour transformation, ouvraison ou
+complément de main-d'oeuvre en vue de leur exportation ultérieure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°63-1351 1963-12-31 art. 5 JORF 3 janvier 1964
+
+	**Modifié par**:
+
+	  - Loi n°71-545 1971-07-08 art. 1 JORF 9 juillet 1971
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Code des douanes - art. 155 (Ab)
+	  - Code des douanes - art. 290 (V)
+
+	**Cite**:
+
+	  - Code des douanes 112-3, 162 bis-1
+
+
 ###### Article 173 ter
 
 Sauf autorisation de l'administration des douanes, les marchandises importées sous le régime de l'admission temporaire et, le
@@ -4405,6 +4505,35 @@ conditions d'application du présent chapitre.
 
 	  - Loi n°63-1351 1963-12-31 art. 5 JORF 3 janvier 1964
 	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
+## Chapitre VII : Exportation temporaire.
+
+###### Article 175
+
+Des arrêtés du ministre de l'économie et des finances et du ministre de l'industrie fixent :
+
+a) les conditions dans lesquelles l'administration des douanes peut autoriser l'exportation temporaire des produits envoyés
+hors du territoire douanier pour recevoir un complément de main-d'œuvre ;
+
+b) les modalités selon lesquelles ces produits seront soumis sous réserve des dispositions relatives à la taxe sur la valeur
+ajoutée au paiement des droits et taxes d'entrée lors de leur réimportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 30 décembre 1978
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 49 (P) JORF 30 décembre 1978
 
 	**Cité par**:
 
@@ -5229,6 +5358,128 @@ contribution, à la diligence de l'administration. Le juge compétent est le jug
 ## Chapitre II : Avitaillement des navires et des aéronefs
 
 ### Section 1 : Dispositions spéciales aux navires.
+
+###### Article 190
+
+Sont exemptés des droits de douane et des taxes intérieures les produits pétroliers et les houilles destinés à
+l'avitaillement des navires, à l'exclusion des bâtiments de plaisance et de sport, qui naviguent en mer ou sur les cours
+d'eau affluant à la mer jusqu'au dernier bureau de douane situé en amont dans le département côtier, ainsi que, dans des
+limites définies par décret, ceux destinés à l'avitaillement des bateaux naviguant sur les cours d'eau ou parties de cours
+d'eau internationaux.
+
+Un arrêté du ministre de l'économie et des finances fixe les conditions d'application du présent article et peut en étendre
+les dispositions aux navires de mer naviguant dans la partie des cours d'eau non comprise dans les limites prévues au
+paragraphe précédent sous réserve que ces navires n'effectuent pas dans cette partie des transports de cabotage.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1374 1958-12-30 art. 23 JORF 31 décembre 1958
+	  - Loi n°77-574 1977-06-07 art. 3 JORF 8 juin 1977
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 30 décembre 1978
+
+	**Cité par**:
+
+	  - Arrêté du 29 avril 1970 - art. 3 (Ab)
+	  - Arrêté du 29 avril 1970 - art. 8 quater (Ab)
+	  - Arrêté du 14 juin 1990 - art. 1 (V)
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (M)
+	  - Arrêté du 1 juillet 2004 - art. 2 (Ab)
+	  - Arrêté du 1 juillet 2004 - art. 31 (Ab)
+	  - Arrêté du 2 avril 2009 (V)
+	  - Décret n°2010-697 du 25 juin 2010 - art. 3 (V)
+	  - Arrêté du 17 décembre 2015 - art. 9
+	  - Arrêté du 2 janvier 1974 - art. 2 (Ab)
+	  - Arrêté du 2 janvier 1974 - art. 32 (Ab)
+	  - Code des douanes - art. 266 ter (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 novembre 1990
+	  - TXT_SOURCE: Arrêté du 6 novembre 1990 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 27 décembre 2001 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 16 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 17 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 18 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 19 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 20 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 21 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 22 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 23 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 24 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 25 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 26 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 27 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 28 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 29 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 30 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 31 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 2004 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 juillet 2005
+	  - TXT_SOURCE: Arrêté du 4 juillet 2005 - art. 1 ()
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 16 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 17 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 18 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 19 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 20 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 21 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 22 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 23 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 24 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 25 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 26 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 27 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 28 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 29 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 30 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 31 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 32 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 33 (T)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 34 (T)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 35 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 36 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 37 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 38 (T)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 2 janvier 1974 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 191
 
