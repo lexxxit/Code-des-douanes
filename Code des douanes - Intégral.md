@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-03-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3956,6 +3956,14 @@ les redevables, de payer une remise de 1 pour 1000 du montant des droits et taxe
 2. La répartition de la remise de 1 pour 1000 entre le comptable et le Trésor est fixée par arrêté du ministre de l'économie
 et des finances.
 
+3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 500 000 F doit être fait par
+virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ;
+
+4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des
+sommes dont le versement a été effectué selon un autre moyen de paiement.
+
+Cette majoration est recouvrée selon les règles, garanties et sanctions prévues en matière de droits de douane.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3979,6 +3987,11 @@ et des finances.
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 	  - Arrêté du 12 février 1986 - art. 7 (Ab)
 	  - Code des douanes - art. 92 (VD)
+
+	**Modifié par**:
+
+	  - Loi - art. 22 (V) JORF 31 décembre 1999 en vigueur le 1er mars 2000
+	  - Loi n°99-1173 1999-12-30 art. 22 I, III JORF 31 décembre 1999 en vigueur le 1er mars 2000
 
 	**Codifié par**:
 
@@ -11975,30 +11988,6 @@ la consignation.
 
 
 ## Chapitre II : Poursuites
-
-### Section 1 : Dispositions générales.
-
-###### Article 343
-
-1. L'action pour l'application des peines est exercée par le ministère public.
-
-2. L'action pour l'application des sanctions fiscales est exercée par l'administration des douanes ; le ministère public peut
-l'exercer accessoirement à l'action publique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°60-1384 1960-12-23 art. 96 JORF 24 décembre 1960
-
-	**Cité par**:
-
-	  - Code de procédure pénale - art. 28-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 
 ### Section 2 : Poursuite par voie de contrainte
 
