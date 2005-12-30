@@ -4,9 +4,9 @@ Les exploitants de transport public routier en commun de voyageurs peuvent obten
 remboursement d'une fraction de la taxe intérieure de consommation sur le gazole, identifié à l'indice 22 et mentionné au
 tableau B du 1 de l'article 265.
 
-Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
-affectés à ce transport la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation applicable
-audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
+Ce remboursement est calculé en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce
+transport, acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par
+hectolitre et le tarif qui y est applicable en application de l'article 265.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -19,6 +19,10 @@ que ce gazole a été utilisé comme carburant dans des véhicules affectés au 
 Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -65,12 +69,8 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08

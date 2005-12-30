@@ -7,7 +7,7 @@ Désignation des matières ou opérations imposables, l'unité de perception est
 Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
-du livre V du code de l'environnement pour ladite réception, 18,29.
+du livre V du code de l'environnement pour ladite réception, 36.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
 livre V du code de l'environnement pour ladite réception :
@@ -18,9 +18,11 @@ management environnemental a été certifié conforme à la norme internationale
 
 - autre, 9,15.
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, ou transférés
+vers une telle installation située dans un autre Etat, 9,15.
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 18,29.
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, ou transférés vers une telle
+installation située dans un autre Etat, 18,29.
 
 Substances émises dans l'atmosphère.
 
@@ -155,6 +157,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -189,9 +195,5 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 86 () JORF 31 décembre 2005

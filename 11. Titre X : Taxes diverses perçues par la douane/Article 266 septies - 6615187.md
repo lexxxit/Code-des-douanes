@@ -2,13 +2,16 @@
 
 Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
 
-1. La réception de déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+
+1 bis. Le transfert des déchets industriels spéciaux à la date figurant sur le document de suivi adressé aux autorités
+compétentes du pays d'expédition en application du règlement (CEE) n° 259/93 du Conseil du 1er février 1993, précité ;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants et autres composés organiques volatils ;
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
@@ -41,24 +44,14 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
 du I de l'article 266 sexies.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
-	  - Loi - art. 45 (V)
-	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
-	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 	  - Code de l'aviation civile - art. L227-10 (M)
 	  - Code de l'aviation civile - art. L227-5 (M)
 	  - Code de l'environnement - art. L151-2 (Ab)
@@ -71,13 +64,27 @@ du I de l'article 266 sexies.
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
-
-	**Modifié par**:
-
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
+	  - Loi - art. 45 (V)
+	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
+	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L512-1 (M)
 	  - Code de l'environnement - art. L512-8 (V)
+	  - Règlement CEE 259-93 1993-02-01 Conseil
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005

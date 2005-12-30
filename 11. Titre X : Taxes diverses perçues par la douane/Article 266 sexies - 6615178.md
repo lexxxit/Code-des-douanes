@@ -3,9 +3,12 @@
 I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
-1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
-d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
-biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
+1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
+d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
+biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -58,10 +61,15 @@ les conditions mentionnées audit article et qui n'a pas acquitté la contributi
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
-aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
+par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
-2. (alinéa abrogé à compter du 1er janvier 2005) ;
+1 bis. Aux transferts de déchets industriels spéciaux vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une
+valorisation comme matière ;
+
+1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+
+2. (alinéa abrogé) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
@@ -157,10 +165,10 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
 
 	**Cite**:
 
 	  - Code du travail - art. R231-51 (M)
 	  - Loi n°43-525 1943-11-02
+	  - Règlement CEE 259-93 1993-02-01 Conseil

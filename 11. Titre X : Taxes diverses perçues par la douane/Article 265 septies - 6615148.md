@@ -11,9 +11,9 @@ b) De véhicules tracteurs routiers dont le poids total roulant est égal ou sup
 peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la taxe intérieure de consommation sur le
 gazole, identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265.
 
-Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
-définis aux a et b ci-dessus la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation
-applicable audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
+Ce remboursement est calculé en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b,
+acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le
+tarif qui y est applicable en application de l'article 265.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -79,11 +79,10 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
-	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 30 II finances pour 2005 (date d'effet)
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 30 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
 
 	**Cite**:
 

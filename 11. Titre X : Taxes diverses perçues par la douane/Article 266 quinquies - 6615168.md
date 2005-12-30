@@ -16,11 +16,16 @@ Sont également exonérées les livraisons de gaz destiné à être utilisé :
 a) Comme matière première ;
 
 b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
-l'article 265.
+l'article 265 ;
+
+c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006 et à l'exclusion des livraisons de gaz
+destiné à être utilisé dans les installations visées à l'article 266 quinquies A.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.
+5. Le tarif de la taxe est fixé à 1,19 euro par millier de kilowattheures.
+
+6. Le produit de la taxe est affecté à l'Agence de l'environnement et de la maîtrise de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -69,8 +74,13 @@ l'article 265.
 
 	**Modifié par**:
 
-	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 58 () JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 81 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes 265, 266 quinquies A

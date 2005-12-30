@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2005-12-08
+Version Consolidée au 2005-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4217,6 +4217,18 @@ délais spécialement accordés par le service des douanes.
 liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée et sous l'obligation, pour
 les redevables, de payer une remise de 1 pour 1000 du montant des droits et taxes qui seront liquidés.
 
+1 bis. Sont dispensés, pour la taxe sur la valeur ajoutée, sur leur demande, de fournir la caution mentionnée au 1, les
+personnes qui :
+
+a) Satisfont, pour l'application de cette disposition, à certaines de leurs obligations comptables, dont la liste est
+déterminée par décret en Conseil d'Etat ;
+
+b) Et ne font l'objet ni d'une inscription non contestée du privilège du Trésor ou de la sécurité sociale, ni d'une procédure
+de redressement ou de liquidation judiciaire.
+
+1 ter. Les conditions de l'octroi et de l'abrogation de la dispense mentionnée au premier alinéa du 1 bis sont fixées par
+décret en Conseil d'Etat.
+
 2. La répartition de la remise de 1 pour 1000 entre le comptable et le Trésor est fixée par arrêté du ministre de l'économie
 et des finances.
 
@@ -4254,7 +4266,7 @@ Cette majoration est recouvrée selon les règles, garanties et sanctions prévu
 
 	**Modifié par**:
 
-	  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 91 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
@@ -7941,8 +7953,10 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 ###### Article 224
 
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de
-plaisance visés au dernier alinéa de l'article 223, au profit de la collectivité territoriale de Corse.
+1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
+de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté à
+concurrence de 80 % au Conservatoire de l'espace littoral et des rivages lacustres et à concurrence de 20 % au budget général
+de l'Etat.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
 Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
@@ -7990,16 +8004,15 @@ euros.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code des douanes - art. 223 (M)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 59 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 223 (M)
 
 
 ###### Article 225
@@ -8912,7 +8925,8 @@ b) Autres huiles légères.
 
 essences d'aviation : indice 10, hectolitre, 32,36.
 
-supercarburant sans plomb : indice 11, hectolitre, 58,92.
+supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
+d'identification n° 11 bis : indice 11, hectolitre, 60,69.
 
 supercarburant sans plomb contenant un additif spécifique améliorant les caractéristiques antirécession de soupape :
 
@@ -8948,7 +8962,7 @@ a) Gazole :
 
 sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 41,69.
+présentant un point d'éclair inférieur à 120 °C : indice 22, hectolitre, 42,84.
 
 autre : indice 23, hectolitre, exemption.
 
@@ -9107,7 +9121,24 @@ produits repris au 38 11 21 00).
 
 3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
 
-2. - (abrogé).
+2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à
+l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
+
+Pour l'année 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par
+hectolitre pour le gazole.
+
+A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la
+réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur
+territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse
+en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation
+financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
+mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
+
+Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
+le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
+douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au
+plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de
+consommation entrent en vigueur le 1er janvier de l'année suivante.
 
 3. - Tout produit destiné à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif ou en vue
 d'accroitre le volume final des carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable
@@ -9116,6 +9147,18 @@ au carburant dans lequel il est incorporé ou auquel il se substitue.
 Tout hydrocarbure destiné à être utilisé, mis en vente ou utilisé pour le chauffage est soumis à la taxe intérieure de
 consommation au taux prévu pour les combustibles auxquels il se substitue. Cette disposition ne s'applique ni aux
 hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, ni au gaz naturel.
+
+4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des
+carburants visés aux indices d'identification 11 et 22 dans des régions ou collectivités territoriales où le taux de la taxe
+intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
+
+a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ;
+
+b) Peuvent demander le remboursement du différentiel de taxe dans le cas contraire.
+
+Pour le paiement du montant différentiel de taxe et des pénalités afférentes, l'administration des douanes et droits
+indirects peut demander une caution. Les obligations déclaratives des opérateurs concernés sont fixées par arrêté du ministre
+chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -9432,9 +9475,14 @@ hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, 
 	  - TXT_SOURCE: Arrêté du 26 novembre 2002
 	  - TXT_SOURCE: Arrêté du 10 novembre 1993
 
+	**Cite**:
+
+	  - Loi n°2005-1719 2005-12-30 art. 40 finances pour 2006
+
 	**Modifié par**:
 
-	  - Loi - art. 23 () JORF 31 décembre 2003 en vigueur le 11 janvier 2004
+	  - Loi n°2005-1720 2005-12-30 art. 84 I, II, III Finances rectificative pour 2005 JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
@@ -9612,19 +9660,26 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 
 1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
 bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation, dont
-les tarifs sont fixés au tableau B du 1 de l'article 265. A compter du 1er janvier 2004, cette réduction est fixée à :
+les tarifs sont fixés au tableau B du 1 de l'article 265. A compter du 1er janvier 2006, cette réduction est fixée à :
 
-a) 33 euros par hectolitre pour les esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique ;
+a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
+au gazole ou au fioul domestique ;
 
-b) 38 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
+b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
 composante alcool est d'origine agricole ;
 
-c) 37 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé directement aux supercarburants.
+c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ;
+
+d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par hectolitre pour les esters éthyliques d'huile
+végétale, incorporés au gazole ou au fioul domestique.
+
+1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure
+de consommation visée aux b et c du 1.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques
-d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agréées par le ministre chargé du budget après avis du
-ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au
-Journal officiel des Communautés européennes.
+d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
+de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du
+ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
 
 Toutefois, si ces unités de production n'ont pas pour objet principal la production d'huiles utilisées comme carburant ou
 comme combustible, elles ne sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une procédure de
@@ -9683,7 +9738,8 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 41 (V) JORF 24 février 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 20 () JORF 31 décembre 2005
 
 	**Cite**:
 
@@ -9696,9 +9752,9 @@ Les exploitants de transport public routier en commun de voyageurs peuvent obten
 remboursement d'une fraction de la taxe intérieure de consommation sur le gazole, identifié à l'indice 22 et mentionné au
 tableau B du 1 de l'article 265.
 
-Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
-affectés à ce transport la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation applicable
-audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
+Ce remboursement est calculé en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce
+transport, acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par
+hectolitre et le tarif qui y est applicable en application de l'article 265.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -9711,6 +9767,10 @@ que ce gazole a été utilisé comme carburant dans des véhicules affectés au 
 Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -9757,15 +9817,11 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 33 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
 
 	**Cite**:
 
 	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 265 quater
@@ -9920,9 +9976,9 @@ b) De véhicules tracteurs routiers dont le poids total roulant est égal ou sup
 peuvent obtenir, sur demande de leur part, le remboursement d'une fraction de la taxe intérieure de consommation sur le
 gazole, identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265.
 
-Ce remboursement est calculé en appliquant au volume de cette catégorie de gazole utilisé comme carburant dans des véhicules
-définis aux a et b ci-dessus la différence entre le taux fixé à l'article 265 de la taxe intérieure de consommation
-applicable audit carburant et un taux spécifique fixé à 39,19 euros par hectolitre.
+Ce remboursement est calculé en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b,
+acquis dans chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le
+tarif qui y est applicable en application de l'article 265.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -9988,11 +10044,10 @@ Les modalités d'application du présent article sont fixées par décret.
 	  - TXT_SOURCE: Arrêté du 5 octobre 1999 - art. 3 bis (Ab)
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
 	  - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
-	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 30 II finances pour 2005 (date d'effet)
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 30 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
 
 	**Cite**:
 
@@ -10324,7 +10379,7 @@ Désignation des matières ou opérations imposables, l'unité de perception est
 Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
-du livre V du code de l'environnement pour ladite réception, 18,29.
+du livre V du code de l'environnement pour ladite réception, 36.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
 livre V du code de l'environnement pour ladite réception :
@@ -10335,9 +10390,11 @@ management environnemental a été certifié conforme à la norme internationale
 
 - autre, 9,15.
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, ou transférés
+vers une telle installation située dans un autre Etat, 9,15.
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 18,29.
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, ou transférés vers une telle
+installation située dans un autre Etat, 18,29.
 
 Substances émises dans l'atmosphère.
 
@@ -10472,6 +10529,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Cité par**:
 
 	  - Décret n°99-508 du 17 juin 1999 - art. 5 (Ab)
@@ -10506,19 +10567,16 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 86 () JORF 31 décembre 2005
 
 
 ###### Article 266 octies
 
 La taxe mentionnée à l'article 266 sexies est assise sur :
 
-1. Le poids des déchets reçus par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+1. Le poids des déchets reçus ou transférés vers un autre Etat par les exploitants ou les personnes mentionnés au 1 du I de
+l'article 266 sexies ;
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
 
@@ -10555,8 +10613,7 @@ personnes mentionnées au même article.
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
 
 	**Cite**:
 
@@ -10790,26 +10847,38 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 
 ###### Article 266 quindecies
 
-I. - Les personnes qui mettent à la consommation sur le marché intérieur des essences reprises aux indices 11 et 11 bis du
-tableau B du 1 de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement
-supplémentaire de la taxe générale sur les activités polluantes.
+I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis du tableau B du 1
+de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement supplémentaire de la
+taxe générale sur les activités polluantes.
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
 chaque carburant concerné.
 
-III. - Son taux est fixé à 1,2 %. Il est majoré de 0,3 % en 2006, de 1,5 % en 2007, de 1 % en 2008, de 1 % en 2009, puis de
-0,75 % en 2010. Il est diminué de la proportion de l'énergie exprimée en pouvoir calorifique inférieur, issue :
+III. - Son taux est fixé à 1,75 % en 2006. Il est majoré de 1,75 point en 2007, de 2,25 points en 2008, de 0,50 point en 2009
+et de 0,75 point en 2010.
 
-1° Pour les essences, des produits mentionnés aux b et c du 1 de l'article 265 bis A du présent code qui y sont incorporés ;
+Lors de la mise à la consommation des carburants mentionnés au I, les redevables émettent des certificats représentatifs des
+quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au 1 de l'article 265 bis A que ces carburants
+incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret.
 
-2° Pour le gazole, des produits mentionnés au a du 1 de ce même article qui y sont incorporés.
+Le taux du prélèvement est diminué :
 
-IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation.
+1° Pour les essences, du rapport entre les quantités de produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites
+dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ces
+carburants, soumises au prélèvement ;
+
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
+certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+soumises au prélèvement.
+
+IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
+produits mentionnés au I à usage de carburant.
 
 V. - Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
-la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et de tous les éléments nécessaires au
-contrôle et à l'établissement de ce prélèvement supplémentaire. La forme de la déclaration et son contenu sont fixés
-conformément aux dispositions du 4 de l'article 95.
+la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
+du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95.
+
+VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2010.
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies.
@@ -10818,27 +10887,6 @@ Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sou
 privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 32 II finances pour 2005 (date d'effet)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 10 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 11 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 12 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 32 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -10851,9 +10899,9 @@ privilèges que ceux prévus par le présent code.
 	  - Arrêté du 21 mars 2014 (V)
 	  - Arrêté du 21 mars 2014 - art. 1 (V)
 	  - Arrêté du 21 mars 2014 - art. 10 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
 	  - Arrêté du 10 avril 2017 (V)
 	  - Arrêté du 10 avril 2017 - art. 1
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
 	**Cite**:
@@ -10867,6 +10915,26 @@ privilèges que ceux prévus par le présent code.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
 
 
 ###### Article 266 quinquies
@@ -10887,11 +10955,16 @@ Sont également exonérées les livraisons de gaz destiné à être utilisé :
 a) Comme matière première ;
 
 b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
-l'article 265.
+l'article 265 ;
+
+c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006 et à l'exclusion des livraisons de gaz
+destiné à être utilisé dans les installations visées à l'article 266 quinquies A.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe est fixé à 1,19 euros par millier de kilowattheures.
+5. Le tarif de la taxe est fixé à 1,19 euro par millier de kilowattheures.
+
+6. Le produit de la taxe est affecté à l'Agence de l'environnement et de la maîtrise de l'énergie.
 
 **Liens relatifs à cet article**
 
@@ -10940,11 +11013,16 @@ l'article 265.
 
 	**Modifié par**:
 
-	  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 58 () JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 81 () JORF 31 décembre 2005
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes 265, 266 quinquies A
 
 
 ###### Article 266 quinquies A
@@ -10954,11 +11032,11 @@ production combinée de chaleur et d'électricité ou de chaleur et d'énergie m
 consommation prévues aux articles 265 et 266 quinquies pendant une durée de cinq années à compter de la mise en service des
 installations. Toutefois, la durée d'exonération pour les livraisons de fioul lourd d'une teneur en soufre supérieure à 1 %
 utilisé dans des installations de cogénération équipées de dispositifs de désulfuration des fumées conformément à la
-réglementation en vigueur est portée à dix années.
+réglementation en vigueur est portée à dix années. 
 
-Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2005. Toutefois, en ce qui
+Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2007. Toutefois, en ce qui
 concerne les huiles minérales, autres que le fioul lourd et les gaz de raffinerie, cette exonération ne s'applique qu'aux
-installations mises en service entre le 1er janvier 2003 et le 31 décembre 2005.
+installations mises en service entre le 1er janvier 2003 et le 31 décembre 2007. 
 
 La nature et la puissance minimale des installations de cogénération ainsi que le rapport entre les deux énergies produites
 sont fixés par décret en Conseil d'Etat.
@@ -10967,7 +11045,7 @@ sont fixés par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi - art. 23 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 82 () JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -10979,7 +11057,7 @@ sont fixés par décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 (V)
 
 	**Codifié par**:
 
@@ -10990,13 +11068,16 @@ sont fixés par décret en Conseil d'Etat.
 
 Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
 
-1. La réception de déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+
+1 bis. Le transfert des déchets industriels spéciaux à la date figurant sur le document de suivi adressé aux autorités
+compétentes du pays d'expédition en application du règlement (CEE) n° 259/93 du Conseil du 1er février 1993, précité ;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants et autres composés organiques volatils ;
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé) ;
 
 4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
 intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
@@ -11029,24 +11110,14 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
 du I de l'article 266 sexies.
 
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
-	  - Loi - art. 45 (V)
-	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
-	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 	  - Code de l'aviation civile - art. L227-10 (M)
 	  - Code de l'aviation civile - art. L227-5 (M)
 	  - Code de l'environnement - art. L151-2 (Ab)
@@ -11059,16 +11130,30 @@ du I de l'article 266 sexies.
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
-
-	**Modifié par**:
-
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
+	  - Loi - art. 45 (V)
+	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
+	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L512-1 (M)
 	  - Code de l'environnement - art. L512-8 (V)
+	  - Règlement CEE 259-93 1993-02-01 Conseil
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
 
 
 ###### Article 266 sexies
@@ -11076,9 +11161,12 @@ du I de l'article 266 sexies.
 I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
-1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés ou tout exploitant d'une installation
-d'élimination de déchets industriels spéciaux par incinération, coïncinération, stockage, traitement physico-chimique ou
-biologique non exclusivement utilisées pour les déchets que l'entreprise produit ;
+1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
+d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
+biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+européenne ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -11131,10 +11219,15 @@ les conditions mentionnées audit article et qui n'a pas acquitté la contributi
 
 II. - La taxe ne s'applique pas :
 
-1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière ni
-aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
+par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
-2. (alinéa abrogé à compter du 1er janvier 2005) ;
+1 bis. Aux transferts de déchets industriels spéciaux vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une
+valorisation comme matière ;
+
+1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+
+2. (alinéa abrogé) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ;
@@ -11230,13 +11323,13 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi - art. 19 (V) JORF 31 décembre 2003 en vigueur le 1er janvier 2005
-	  - Loi - art. 20 () JORF 31 décembre 2003 en vigueur le 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
 
 	**Cite**:
 
 	  - Code du travail - art. R231-51 (M)
 	  - Loi n°43-525 1943-11-02
+	  - Règlement CEE 259-93 1993-02-01 Conseil
 
 
 ###### Article 266 terdecies
@@ -11677,30 +11770,26 @@ lorsqu'il est supérieur. Elle est exigible dès leur mise en circulation.
 
 ###### Article 284 bis A
 
-Est redevable de la taxe spéciale sur certains véhicules routiers, au lieu et place du propriétaire, le locataire d'un
-véhicule faisant l'objet, soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus. Toutefois, le
-propriétaire est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration de retard
-applicable.
+Est redevable de la taxe spéciale sur certains véhicules routiers, au lieu et place du propriétaire, le locataire ou le sous-
+locataire d'un véhicule faisant l'objet, soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus.
+Toutefois, le propriétaire est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration
+de retard applicable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
-
 	**Modifié par**:
 
-	  - Loi - art. 39 (V) JORF 31 décembre 1999
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 83 () JORF 31 décembre 2005
 
 	**Cité par**:
 
 	  - Arrêté du 14 avril 2015 - art. 2 (VT)
 	  - Arrêté du 25 avril 2016 - art. 2 (VD)
 	  - Code des douanes - art. 265 septies (VT)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 284 quater
