@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2452,7 +2452,8 @@ articles.
 
 L'administration des douanes est habilitée à contrôler les bénéficiaires d'avantages alloués en régime intérieur par le Fonds
 européen d'orientation et de garantie agricole, section garantie, ainsi que les redevables des sommes dues en régime
-intérieur à cet organisme.
+intérieur à cet organisme. Les informations ainsi recueillies peuvent être transmises aux organismes payeurs et à la
+Commission interministérielle de coordination des contrôles.
 
 Ces contrôles sont effectués dans le cadre de l'article 65 ci-dessus. Les auteurs d'irrégularités doivent s'acquitter des
 sommes indûment obtenues et des sommes éludées au vu d'un avis de recouvrement établi par l'organisme d'intervention
@@ -2463,21 +2464,17 @@ Les dispositions du présent code relatives aux sommes éludées ou compromises 
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Code des douanes - art. 65 (V)
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 108, v. init.
-
-	**Créé par**:
-
-	  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
-
-	**Cité par**:
-
-	  - Code des douanes - art. 65 (V)
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article 65 A bis
@@ -7606,8 +7603,8 @@ Cette opération administrative est constatée par l'acte de francisation.
 
 1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation soumis à un visa annuel.
 
-2. Toutefois, les navires et bateaux de plaisance ou de sport d'un tonnage brut égal ou inférieur à trois tonneaux sont
-dispensés de l'obligation de la formalité de francisation s'ils ne se rendent pas dans les eaux territoriales étrangères.
+2. Toutefois, les navires et bateaux de plaisance ou de sport d'une longueur de coque inférieure à sept mètres sont dispensés
+de l'obligation de la formalité de francisation s'ils ne se rendent pas dans les eaux territoriales étrangères.
 
 **Liens relatifs à cet article**
 
@@ -7622,7 +7619,7 @@ dispensés de l'obligation de la formalité de francisation s'ils ne se rendent 
 
 	**Modifié par**:
 
-	  - Loi - art. 15 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
@@ -7847,11 +7844,26 @@ marchande, en fonction des caractéristiques techniques des navires ou de leur m
 
 Le service des douanes procède au jaugeage des navires dont on demande la francisation et il établit le certificat de jauge.
 
+Le jaugeage des navires de plaisance dont la longueur, au sens de la Convention internationale du 23 juin 1969 sur le
+jaugeage des navires, est inférieure à 24 mètres n'est pas obligatoire.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Convention 1969-06-23
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 61 (V)
 
 
 #### Paragraphe 4 : Droit de francisation et de navigation.
@@ -7859,11 +7871,11 @@ Le service des douanes procède au jaugeage des navires dont on demande la franc
 ###### Article 223
 
 Les navires francisés sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge
-des propriétaires.
+des propriétaires, au 1er janvier de l'année considérée.
 
 L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit :
 
-Tonnage brut du navire et quotité du droit :
+Tonnage brut du navire ou longueur de coque, quotité du droit :
 
 I. - Navires de commerce.
 
@@ -7877,58 +7889,50 @@ III. - Navires de plaisance ou de sport.
 
 a) Droit sur la coque.
 
-Jusqu'à 3 tonneaux inclusivement : exonération.
+De moins de 7 mètres, exonération.
 
-De plus de 3 tonneaux à 5 tonneaux inclusivement : 33,84 euros par navire plus 23,02 euros par tonneau ou fraction de tonneau
-au-dessus de 3 tonneaux.
+De 7 mètres inclus à 8 mètres exclus, 92 euros.
 
-De plus de 5 tonneaux à 8 tonneaux inclusivement : 33,84 euros par navire plus 16,16 euros par tonneau ou fraction de tonneau
-au-dessus de 3 tonneaux.
+De 8 mètres inclus à 9 mètres exclus, 131 euros.
 
-De plus de 8 tonneaux à 10 tonneaux inclusivement :
+De 9 mètres inclus à 10 mètres exclus, 223 euros.
 
-- de plus de 10 ans : 33,84 euros par navire plus 16,16 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 10 mètres inclus à 12 mètres exclus, 342 euros.
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 12 mètres inclus à 15 mètres exclus, 573 euros.
 
-De plus de 10 tonneaux à 20 tonneaux inclusivement :
+De 15 mètres et plus, 1108 euros.
 
-- de plus de 10 ans : 33,84 euros par navire plus 14,94 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+b) Droit sur le moteur des navires de 7 mètres et plus (puissance administrative) :
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+Jusqu'à 5 CV inclusivement, exonération.
 
-De plus de 20 tonneaux :
+De 6 à 8 CV, 10 euros par CV au-dessus du cinquième.
 
-- de plus de 10 ans : 33,84 euros par navire plus 14,18 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 9 à 10 CV, 12 euros par CV au-dessus du cinquième.
 
-- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+De 11 à 20 CV, 25 euros par CV au-dessus du cinquième.
 
-b) Droit sur le moteur (puissance administrative).
+De 21 à 25 CV, 28 euros par CV au-dessus du cinquième.
 
-Jusqu'à 5 CV inclusivement : exonération.
+De 26 à 50 CV, 31 euros par CV au-dessus du cinquième.
 
-de 6 à 8 CV : 8,23 euros par CV au-dessus du cinquième.
+De 51 à 99 CV, 35 euros par CV au-dessus du cinquième.
 
-de 9 à 10 CV : 10,37 euros par CV au-dessus du cinquième.
+c) Taxe spéciale :
 
-de 11 à 20 CV : 20,73 euros par CV au-dessus du cinquième.
-
-de 21 à 25 CV : 23,02 euros par CV au-dessus du cinquième.
-
-de 26 à 50 CV : 26,22 euros par CV au-dessus du cinquième.
-
-de 51 à 99 CV : 28,97 euros par CV au-dessus du cinquième.
-
-c) Taxe spéciale.
-
-Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b) ci-dessus est remplacé
-par une taxe spéciale de 45,28 euros par CV.
+Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
+taxe spéciale de 45,28 euros par CV.
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
 port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
 et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -7943,12 +7947,7 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article 224
@@ -8325,8 +8324,8 @@ même assiette, le même taux et les mêmes modalités d'application que le droi
 l'article 233 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
 sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en
 vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit de passeport est perçu à un taux triple du droit
-de francisation et de navigation pour les navires de moins de 20 tonneaux de jauge brute et à un taux quintuple de ce droit
-pour les navires d'au moins 20 tonneaux de jauge brute.
+de francisation et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux quintuple de ce
+droit pour les navires d'une longueur de coque supérieure ou égale à 15 mètres.
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
@@ -8349,7 +8348,7 @@ pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit
 
 	**Modifié par**:
 
-	  - Loi n°95-1347 1995-12-30 Finances rectificative pour 1995 JORF 31 décembre 1995
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
@@ -11338,46 +11337,46 @@ Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les
 installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise
 sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement et sur
 l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
-modalités suivantes :
+modalités suivantes : 
 
-I. - Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées
-dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci
-et prescrivent l'exécution de la recette correspondante.
+I.-Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées dressent
+la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci et
+prescrivent l'exécution de la recette correspondante. 
 
 Ils notifient à l'assujetti le montant de la taxe et, le cas échéant, des pénalités à acquitter par un avis qui indique les
-dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement.
+dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement. 
 
-La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement.
+La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement. 
 
 Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré d'un intérêt
-de retard dont le taux mensuel est fixé à 0,75 % du montant des sommes restant dues.
+de retard dont le taux mensuel est fixé à 0,75 % du montant des sommes restant dues. 
 
 L'encaissement de la taxe ainsi que, le cas échéant, des pénalités, est effectué par l'intermédiaire d'une régie de recettes
 fonctionnant dans les conditions prévues par la réglementation applicable aux régies de recettes et aux régies d'avance des
-organismes publics.
+organismes publics. 
 
 A défaut de paiement et au plus tard deux mois après le 15 du mois qui suit celui au cours duquel la taxe est exigible, le
 recouvrement des sommes impayées est assuré dans les conditions prévues par la réglementation générale sur la comptabilité
 publique au vu des ordres de recettes émis par l'ordonnateur dont relève la régie de recettes mentionnée à l'alinéa
-précédent.
+précédent. 
 
-II. - La taxe générale sur les activités polluantes assise sur l'exploitation d'un établissement mentionné au b du 8 du I de
+II.-La taxe générale sur les activités polluantes assise sur l'exploitation d'un établissement mentionné au b du 8 du I de
 l'article 266 sexies est due au 1er janvier de chaque année, ou ultérieurement à la date de mise en fonctionnement de
 l'établissement ou éventuellement de l'exercice d'une nouvelle activité. La taxe est due dans tous les cas pour l'année
-entière. Son paiement incombe à la personne physique ou morale qui exploite l'établissement à cette date.
+entière. Son paiement incombe à la personne physique ou morale qui exploite l'établissement à cette date. 
 
 En cas de cessation d'activité ou de changement survenu dans un établissement de nature à modifier sa situation au regard de
-cette taxe, l'exploitant fait parvenir une déclaration au préfet dans un délai d'un mois à compter de cet événement.
+cette taxe, l'exploitant fait parvenir une déclaration au préfet dans un délai d'un mois à compter de cet événement. 
 
 Lorsque cette déclaration est inexacte ou n'est pas déposée dans ce délai, les services chargés de l'inspection des
 installations classées notifient aux assujettis, trente jours au moins avant l'émission du titre exécutoire, les éléments
-servant au calcul de la taxe.
+servant au calcul de la taxe. 
 
 En cas de défaut de déclaration dans le délai prescrit, les services mentionnés ci-dessus procèdent à la taxation d'office et
-l'assortissent de l'intérêt de retard et de la majoration prévus à l'article 1728 du code général des impôts.
+l'assortissent de l'intérêt de retard et de la majoration prévus au 1 de l'article 1728 du code général des impôts. 
 
 En cas d'inexactitude de la déclaration, les rappels de taxe sont assortis de l'intérêt de retard et, le cas échéant, de la
-majoration prévus à l'article 1729 du code général des impôts.
+majoration prévus à l'article 1729 du code général des impôts. 
 
 Les majorations mentionnées aux quatrième et cinquième alinéas du présent II sont notifiées, avec leur motivation, aux
 assujettis, qui disposent d'un délai de trente jours pour présenter leurs observations. Les services mentionnés ci-dessus ne
@@ -11385,27 +11384,26 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-219 du 24 février 2014 (V)
+
 	**Cite**:
 
-	  - CGI 1728, 1729
-	  - Code des douanes - art. 266 duodecies (V)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code des douanes - art. 266 undecies (M)
-	  - Code de l'environnement - art. L512-1 (M)
+	  - Code général des impôts, CGI. - art. 1728 (V)
+	  - Code général des impôts, CGI. - art. 1729 (V)
+	  - Code des douanes - art. 266 sexies (V)
+	  - Code des douanes - art. 266 undecies (VT)
+	  - Code de l'environnement - art. L512-1 (V)
 	  - Code de l'environnement - art. L512-8 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
-
-	**Cité par**:
-
-	  - Décret n°2014-219 du 24 février 2014 (V)
 
 
 ###### Article 266 undecies
@@ -14698,6 +14696,61 @@ de l'autorité judiciaire.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 379 bis
+
+1. Donnent lieu à publicité, dans les conditions prévues aux 2 à 5, les sommes restant dues à titre privilégié par des
+commerçants et personnes morales de droit privé, même non commerçantes, au titre des créances énumérées au 1 de l'article
+379.
+
+2. La publicité est faite à la diligence de l'administration chargée du recouvrement.
+
+3. L'inscription ne peut être requise, selon la nature de la créance, qu'à partir de la date à laquelle un titre exécutoire a
+été émis.
+
+4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste
+comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées.
+
+5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
+présent article à la charge de l'administration, quel que soit le montant du paiement.
+
+Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu au 3, l'inscription ne peut être requise que six
+mois au moins après le paiement.
+
+6. Les frais de l'inscription du privilège sont à la charge du Trésor.
+
+7. En cas de sauvegarde, de redressement ou de liquidation judiciaire du redevable ou d'un tiers tenu légalement au paiement
+des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances qui étaient soumises à titre
+obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre du
+redevable.
+
+8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
+
+9. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors
+que le débiteur s'est acquitté de sa dette.
+
+10. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation
+sont fixés par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 175 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-568 du 17 avril 2007 - art. 2 (V)
+	  - Décret n°2009-197 du 18 février 2009 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 379 (M)
+
+
 ###### Article 380
 
 Les producteurs, importateurs, raffineurs, distributeurs, négociants en gros d'huiles minérales, dérivés et résidus, ainsi
@@ -17588,14 +17641,10 @@ saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'app
 III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions
 fixées par le présent code.
 
-Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1758 du
 code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-759 du 27 juillet 2004 - art. 2 () JORF 30 juillet 2004 en vigueur le 1er octobre 2004
 
 	**Cité par**:
 
@@ -17604,12 +17653,16 @@ code général des impôts n'est pas appliquée.
 
 	**Cite**:
 
-	  - CGI 1759
+	  - CGI 1758
 	  - Code des douanes - art. 464 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 
 # Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne
