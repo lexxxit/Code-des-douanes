@@ -1,8 +1,13 @@
 # Article 265 bis A
 
-1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
-bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation, dont
-les tarifs sont fixés au tableau B du 1 de l'article 265. A compter du 1er janvier 2006, cette réduction est fixée à :
+1. Compte tenu du bilan environnemental global, notamment en termes de lutte contre les émissions de gaz à effet de serre, de
+leur production et de leur consommation, les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés
+comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe
+intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265. Cette réduction est modulée en
+fonction de l'évolution des cours des matières premières agricoles et des énergies fossiles et de la productivité des
+filières agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité des biocarburants par rapport aux
+carburants fossiles sans toutefois aboutir à une surcompensation de l'écart de prix de revient entre ces produits. A compter
+du 1er janvier 2006, cette réduction est fixée à :
 
 a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
 au gazole ou au fioul domestique ;
@@ -22,10 +27,6 @@ de consommation visée aux b et c du 1.
 d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
 de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du
 ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
-
-Toutefois, si ces unités de production n'ont pas pour objet principal la production d'huiles utilisées comme carburant ou
-comme combustible, elles ne sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une procédure de
-déclaration simplifiée définie par décret.
 
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
 lancés par appel d'offres communautaire.
@@ -54,10 +55,6 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004
@@ -78,10 +75,13 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - Décret n°2008-93 du 29 janvier 2008 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
+	**Codifié par**:
+
+	  - Loi n°2006-11 2006-01-05
+
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 20 () JORF 31 décembre 2005
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
 
 	**Cite**:
 
