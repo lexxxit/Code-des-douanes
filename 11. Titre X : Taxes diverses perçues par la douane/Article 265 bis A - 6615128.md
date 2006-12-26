@@ -15,7 +15,8 @@ au gazole ou au fioul domestique ;
 b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
 composante alcool est d'origine agricole ;
 
-c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ;
+c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
+repris à l'indice d'identification 55 ;
 
 d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par hectolitre pour les esters éthyliques d'huile
 végétale, incorporés au gazole ou au fioul domestique.
@@ -81,7 +82,7 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
 
 	**Cite**:
 
