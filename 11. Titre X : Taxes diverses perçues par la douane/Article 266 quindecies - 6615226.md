@@ -20,8 +20,8 @@ Le taux du prélèvement est diminué :
 l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
-certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans
+les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
 soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
@@ -41,6 +41,18 @@ privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 298
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 bis (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 95 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
@@ -57,10 +69,6 @@ privilèges que ceux prévus par le présent code.
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
-
 	**Cité par**:
 
 	  - Arrêté du 26 avril 2010 (Ab)
@@ -76,15 +84,3 @@ privilèges que ceux prévus par le présent code.
 	  - Arrêté du 10 avril 2017 (V)
 	  - Arrêté du 10 avril 2017 - art. 1
 	  - Code de l'énergie - art. L661-2 (VD)
-
-	**Cite**:
-
-	  - CGI 298
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 265 bis (M)
-	  - Code des douanes - art. 266 undecies (M)
-	  - Code des douanes - art. 95 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08

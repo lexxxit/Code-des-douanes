@@ -20,9 +20,12 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
 
-8. La masse annuelle, exprimée en kilogrammes, pour sa part excédant 2 500 kilogrammes, des imprimés mentionnés à la première
-phrase du premier alinéa de l'article L. 541-10-1 du code de l'environnement, mis à disposition ou distribués par les
-personnes mentionnées au même article.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L.
+541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -40,10 +43,4 @@ personnes mentionnées au même article.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
-	  - Code de l'environnement - art. L541-10-1 (M)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 4

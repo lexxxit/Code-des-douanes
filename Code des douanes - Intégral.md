@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2452,13 +2452,13 @@ articles.
 ###### Article 65 A
 
 L'administration des douanes est habilitée à contrôler les bénéficiaires d'avantages alloués en régime intérieur par le Fonds
-européen d'orientation et de garantie agricole, section garantie, ainsi que les redevables des sommes dues en régime
-intérieur à cet organisme. Les informations ainsi recueillies peuvent être transmises aux organismes payeurs et à la
-Commission interministérielle de coordination des contrôles.
+européen d'orientation et de garantie agricole, section garantie, ou par le fonds européen agricole de garantie, ainsi que
+les redevables des sommes dues en régime intérieur à ces organismes. Les informations ainsi recueillies peuvent être
+transmises aux organismes payeurs et à la Commission interministérielle de coordination des contrôles. 
 
 Ces contrôles sont effectués dans le cadre de l'article 65 ci-dessus. Les auteurs d'irrégularités doivent s'acquitter des
 sommes indûment obtenues et des sommes éludées au vu d'un avis de recouvrement établi par l'organisme d'intervention
-compétent.
+compétent. 
 
 Les dispositions du présent code relatives aux sommes éludées ou compromises lors d'opérations du commerce extérieur sont
 également applicables aux irrégularités constatées lors de ces contrôles.
@@ -2473,21 +2473,17 @@ Les dispositions du présent code relatives aux sommes éludées ou compromises 
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
 
 ###### Article 65 A bis
 
 1° Au titre des dispositions dérogatoires de l'article 2 bis, l'administration des douanes est habilitée à contrôler la
 quantité, la qualité, les marquages, les emballages, la destination ou l'utilisation des marchandises ayant le statut
 national ou communautaire, pour lesquelles un avantage quelconque alloué par le fonds européen d'orientation et de garantie
-agricole, section garantie, est sollicité.
+agricole, section garantie, ou par le fonds européen agricole de garantie, est sollicité.
 
 En outre, elle est habilitée à délivrer les agréments conformément à la réglementation communautaire en vigueur, lorsque
 ceux-ci sont nécessaires pour l'attribution des avantages sollicités, quelle qu'en soit la nature, auprès du fonds européen
-d'orientation et de garantie agricole, section garantie.
+d'orientation et de garantie agricole, section garantie ou du fonds européen agricole de garantie.
 
 2° Les marchandises ayant le statut national ou communautaire, exportées vers un autre Etat membre de la Communauté
 européenne, importées d'un autre Etat membre de la Communauté européenne ou faisant l'objet d'une opération sur le territoire
@@ -2514,15 +2510,11 @@ les agents des douanes sont mis dans l'impossibilité d'exercer les contrôles p
 
 7° Les dispositions du titre XII à l'exclusion des articles 410 à 430, les sanctions figurant au premier alinéa de l'article
 414 et les dispositions du titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet d'obtenir, en tout
-ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole, section garantie,
-lorsqu'il s'agit de marchandises faisant l'objet d'opérations à l'intérieur du territoire douanier de la Communauté
-européenne.
+ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole, section garantie, ou
+par le fonds européen agricole de garantie, lorsqu'il s'agit de marchandises faisant l'objet d'opérations à l'intérieur du
+territoire douanier de la Communauté européenne.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°94-114 du 10 février 1994 - art. 12 () JORF 11 février 1994
 
 	**Cite**:
 
@@ -3644,9 +3636,14 @@ déclarants et les modalités d'archivage des documents qui ne sont pas annexés
 2. Elles doivent contenir toutes les indications nécessaires pour l'application des mesures douanières et pour
 l'établissement des statistiques de douane.
 
-3. Sauf dans les cas prévus au 1 bis, les déclarations doivent être signés par le déclarant. Pour les déclarations en douane
-régies par les règlements communautaires, le déclarant est la personne qui fait la déclaration en douane en son nom propre ou
-celle au nom de laquelle une déclaration en douane est faite.
+3. Sauf dans les cas prévus au 1 bis, les déclarations doivent être signés par le déclarant. Dans les cas prévus au 1 bis, la
+transmission d'une déclaration électronique dans les conditions arrêtées par le ministre chargé du budget emporte les mêmes
+effets juridiques que le dépôt d'une déclaration faite par écrit, signée et ayant le même objet. Cette transmission vaut
+engagement en ce qui concerne l'exactitude des énonciations de la déclaration et l'authenticité des documents y annexés ou
+archivés.
+
+3 bis. Pour les déclarations en douane régies par les règlements communautaires, le déclarant est la personne qui fait la
+déclaration en douane en son nom propre ou celle au nom de laquelle une déclaration en douane est faite.
 
 4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations applicables aux
 opérations mentionnées à l'article 2 ter ainsi que la forme des déclarations autres que celles prévues par les règlements
@@ -3654,10 +3651,6 @@ communautaires en vigueur. Il fixe également les énonciations qu'elles doivent
 annexés.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 88 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -7604,23 +7597,20 @@ Cette opération administrative est constatée par l'acte de francisation.
 
 1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation soumis à un visa annuel.
 
-2. Toutefois, les navires et bateaux de plaisance ou de sport d'une longueur de coque inférieure à sept mètres sont dispensés
-de l'obligation de la formalité de francisation s'ils ne se rendent pas dans les eaux territoriales étrangères.
+2. Toutefois, les navires et bateaux de plaisance ou de sport d'une longueur de coque inférieure à sept mètres et dont la
+puissance de moteur est inférieure à 22 CV sont dispensés de l'obligation de la formalité de francisation s'ils ne se rendent
+pas dans les eaux territoriales étrangères.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
 	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
@@ -7898,42 +7888,40 @@ De 8 mètres inclus à 9 mètres exclus, 131 euros.
 
 De 9 mètres inclus à 10 mètres exclus, 223 euros.
 
-De 10 mètres inclus à 12 mètres exclus, 342 euros.
+De 10 mètres inclus à 11 mètres exclus, 300 euros.
+
+De 11 mètres inclus à 12 mètres exclus, 342 euros.
 
 De 12 mètres inclus à 15 mètres exclus, 573 euros.
 
 De 15 mètres et plus, 1108 euros.
 
-b) Droit sur le moteur des navires de 7 mètres et plus (puissance administrative) :
+b) Droit sur le moteur des navires (puissance administrative) :
 
 Jusqu'à 5 CV inclusivement, exonération.
 
-De 6 à 8 CV, 10 euros par CV au-dessus du cinquième.
+De 6 à 8 CV, 13 euros par CV au-dessus du cinquième.
 
-De 9 à 10 CV, 12 euros par CV au-dessus du cinquième.
+De 9 à 10 CV, 15 euros par CV au-dessus du cinquième.
 
-De 11 à 20 CV, 25 euros par CV au-dessus du cinquième.
+De 11 à 20 CV, 32 euros par CV au-dessus du cinquième.
 
-De 21 à 25 CV, 28 euros par CV au-dessus du cinquième.
+De 21 à 25 CV, 36 euros par CV au-dessus du cinquième.
 
-De 26 à 50 CV, 31 euros par CV au-dessus du cinquième.
+De 26 à 50 CV, 40 euros par CV au-dessus du cinquième.
 
-De 51 à 99 CV, 35 euros par CV au-dessus du cinquième.
+De 51 à 99 CV, 45 euros par CV au-dessus du cinquième.
 
 c) Taxe spéciale :
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
-taxe spéciale de 45,28 euros par CV.
+taxe spéciale de 57,96 euros par CV.
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
 port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
 et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -7946,9 +7934,9 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 	  - Code des ports maritimes - art. L221-1 (VT)
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 224
@@ -7970,17 +7958,26 @@ lorsque son montant excède 8 euros.
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
 le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année.
 
-3. Sont exonérées du droit de francisation et de navigation les embarcations appartenant à des écoles de sports nautiques qui
-relèvent d'associations agréées par le ministère de la jeunesse et des sports.
+3. Sont exonérés du droit de francisation et de navigation :
+
+- les embarcations appartenant à des écoles de sports nautiques qui relèvent d'associations agréées par le ministre chargé
+des sports ;
+
+- les embarcations mues principalement par l'énergie humaine dont les caractéristiques sont fixées par décret ;
+
+- les bateaux classés au titre des monuments historiques conformément à l'article L. 622-1 du code du patrimoine ;
+
+- les bateaux d'intérêt patrimonial ayant reçu le label de la Fondation du patrimoine maritime et fluvial, dans des
+conditions fixées par décret.
 
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
-- 25 % pour les bateaux de 10 à 20 ans,
+- 33 % pour les bateaux de 10 à 20 ans,
 
-- 50 % pour les bateaux de 20 à 25 ans,
+- 55 % pour les bateaux de 20 à 25 ans,
 
-- 75 % pour le bateaux de plus de 25 ans.
+- 80 % pour le bateaux de plus de 25 ans.
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
 euros.
@@ -7989,6 +7986,9 @@ euros.
 
 	**Cité par**:
 
+	  - Loi - art. 6 (V)
+	  - Décret n°2007-1262 du 21 août 2007 - art. 1 (V)
+	  - Décret n°2007-1262 du 21 août 2007 - art. 16 (V)
 	  - Arrêté du 29 mai 2012 - art. 1 (Ab)
 	  - Arrêté du 12 avril 2013 - art. 1 (V)
 	  - Décret n°2014-1536 du 18 décembre 2014 (V)
@@ -7996,22 +7996,16 @@ euros.
 	  - Arrêté du 17 avril 2015 (V)
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 	  - Arrêté du 30 mai 2016 (V)
-	  - Loi - art. 6 (V)
-	  - Décret n°2007-1262 du 21 août 2007 - art. 1 (V)
-	  - Décret n°2007-1262 du 21 août 2007 - art. 16 (V)
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 223 (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 43 () JORF 27 décembre 2006
+	  - Code des douanes - art. 223 (M)
+	  - Code du patrimoine. - art. L622-1 (M)
 
 
 ###### Article 225
@@ -9135,8 +9129,8 @@ produits repris au 38 11 21 00).
 2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à
 l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
 
-Pour l'année 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de 1,15 euro par
-hectolitre pour le gazole.
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de
+1,15 euro par hectolitre pour le gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la
 réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur
@@ -9490,10 +9484,6 @@ chargé du budget.
 
 	  - Loi n°2005-1719 2005-12-30 art. 40 finances pour 2006
 
-	**Modifié par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
@@ -9592,7 +9582,12 @@ a) autrement que comme carburant ou combustible de chauffage ;
 
 b) comme carburéacteur à bord des aéronefs ;
 
-c) comme carburant pour la navigation maritime dans les eaux communautaires, autre que la navigation d'agrément privée.
+c) comme carburant pour la navigation maritime dans les eaux communautaires, autre que la navigation d'agrément privée ;
+
+d) Comme carburant ou combustible par le ministère de la défense. Cette exonération est accordée par voie de remboursement
+pour les produits consommés du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne s'applique pas aux
+produits pétroliers utilisés dans le cadre des actions n°s 01, 02, 03 et 04 du programme n° 152 "Gendarmerie nationale" de la
+mission interministérielle "Sécurité".
 
 2. Le carburéacteur, identifié aux indices 13 bis et 17 bis du tableau B de l'article 265 du présent code, est exonéré de la
 taxe intérieure de consommation lorsqu'il est utilisé comme carburant pour la construction, la mise au point, les essais ou
@@ -9656,10 +9651,6 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 31 () JORF 31 décembre 1992
 
 	**Cite**:
 
@@ -10364,51 +10355,51 @@ Désignation des matières ou opérations imposables, l'unité de perception est
 Déchets.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
-du livre V du code de l'environnement pour ladite réception, 36.
+du livre V du code de l'environnement pour ladite réception, 38,90.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
 livre V du code de l'environnement pour ladite réception :
 
 - ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
 (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le système de
-management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité, 7,5.
+management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité, 8,10.
 
-- autre, 9,15.
+- autre, 9,90.
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, ou transférés
-vers une telle installation située dans un autre Etat, 9,15.
+vers une telle installation située dans un autre Etat, 9,90.
 
 Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, ou transférés vers une telle
-installation située dans un autre Etat, 18,29.
+installation située dans un autre Etat, 19,75.
 
 Substances émises dans l'atmosphère.
 
-Oxydes de soufre et autres composés soufrés, 38,11.
+Oxydes de soufre et autres composés soufrés, 42,68.
 
-Acide chlorhydrique, 38,11.
+Acide chlorhydrique, 42,68.
 
-Protoxyde d'azote, 57,17.
+Protoxyde d'azote, 64,03.
 
-Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 45,73.
+Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 51,22.
 
-Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 38,11.
+Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 42,68.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
-Lubrifiants, huiles et préparations lubrifiantes, 38,11.
+Lubrifiants, huiles et préparations lubrifiantes, 43,45.
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour
 le linge.
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 71,65.
+- dont la teneur en phosphates est inférieure à 5 % du poids, 39.
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 79,27.
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 168.
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 86,90.
+- dont la teneur en phosphates est supérieur à 30 % du poids, 280.
 
 Matériaux d'extraction.
 
-Matériaux d'extraction, 0,09.
+Matériaux d'extraction, 0,10.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
@@ -10431,20 +10422,34 @@ Installations classées.
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 442,10.
+- artisan n'employant pas plus de deux salariés, 495,15.
 
-- autres entreprises inscrites au répertoire des métiers, 1067,14.
+- autres entreprises inscrites au répertoire des métiers, 1195,20.
 
-- autres entreprises, 2225,76.
+- autres entreprises, 2492,85.
 
-Exploitation au cours d'une année civile (tarif de base), 335,39.
+Exploitation au cours d'une année civile (tarif de base) :
+
+- installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et
+d'audit (EMAS) défini par le règlement (CE) n° 761-2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le
+système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité, 335.
+
+- Autres installations, 375,54.
 
 Imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
 décembre 2003) mis à disposition ou distribués gratuitement aux particuliers, sans demande préalable de leur part, dans les
 boîtes aux lettres, dans les parties communes des habitations collectives, dans les locaux commerciaux, dans les lieux
-publics ou sur la voie publique, unité kilogramme, 0,15.
+publics ou sur la voie publique, unité kilogramme, 0,9.
+
+1 bis. A compter de 2008, les tarifs applicables aux déchets, aux substances émises dans l'atmosphère, aux lubrifiants,
+huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées, aux préparations pour lessives, y compris
+les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour le linge, aux matériaux d'extraction,
+aux installations classées et aux imprimés mentionnés dans le tableau du 1 sont relevés, chaque année, dans la même
+proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
+
+2 bis. Le montant minimal annuel de la taxe prévue au 9 du I de l'article 266 sexies est de 450 Euros par redevable.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
@@ -10512,11 +10517,14 @@ un et dix pour chacune des activités exercées dans les installations classées
 montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au
 produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coefficient multiplicateur.
 
+**Nota:**
+
+NOTA : Les modifications induites par le 1° du I de l'article 39 de la loi n°2006-1771 du 30 décembre 2006 entrent en vigueur
+à compter du 1er juillet 2007.
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -10552,8 +10560,11 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 86 () JORF 31 décembre 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 39 (V) JORF 31 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 octies
@@ -10578,9 +10589,12 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
 produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
 
-8. La masse annuelle, exprimée en kilogrammes, pour sa part excédant 2 500 kilogrammes, des imprimés mentionnés à la première
-phrase du premier alinéa de l'article L. 541-10-1 du code de l'environnement, mis à disposition ou distribués par les
-personnes mentionnées au même article.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L.
+541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -10598,13 +10612,7 @@ personnes mentionnées au même article.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
-	  - Code de l'environnement - art. L541-10-1 (M)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 4
 
 
 ###### Article 266 quater
@@ -10852,8 +10860,8 @@ Le taux du prélèvement est diminué :
 l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
-certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans
+les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
 soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
@@ -10873,6 +10881,18 @@ privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 298
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 bis (M)
+	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 95 (M)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
@@ -10889,10 +10909,6 @@ privilèges que ceux prévus par le présent code.
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
-
 	**Cité par**:
 
 	  - Arrêté du 26 avril 2010 (Ab)
@@ -10908,18 +10924,6 @@ privilèges que ceux prévus par le présent code.
 	  - Arrêté du 10 avril 2017 (V)
 	  - Arrêté du 10 avril 2017 - art. 1
 	  - Code de l'énergie - art. L661-2 (VD)
-
-	**Cite**:
-
-	  - CGI 298
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 265 bis (M)
-	  - Code des douanes - art. 266 undecies (M)
-	  - Code des douanes - art. 95 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 quinquies
@@ -10942,8 +10946,13 @@ a) Comme matière première ;
 b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
 l'article 265 ;
 
-c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006 et à l'exclusion des livraisons de gaz
-destiné à être utilisé dans les installations visées à l'article 266 quinquies A.
+c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006.
+
+L'exonération prévue au c du présent 3 ne s'applique pas aux livraisons de gaz destiné à être utilisé dans les installations
+visées à l'article 266 quinquies A. Toutefois, les producteurs dont l'installation ne bénéficie pas d'un contrat d'achat
+d'électricité conclu dans le cadre de l'article 10 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
+développement du service public de l'électricité ou mentionné à l'article 50 de cette même loi, renonçant à bénéficier de
+l'exonération de taxes intérieures prévue à l'article 266 quinquies A, bénéficient du régime prévu au c du présent 3.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
@@ -10987,7 +10996,6 @@ destiné à être utilisé dans les installations visées à l'article 266 quinq
 	  - Code de l'énergie - art. D461-2 (V)
 	  - Code des douanes - art. 265 (VT)
 	  - Code des douanes - art. 265 nonies (V)
-	  - Code des douanes - art. 266 quinquies (V)
 	  - Code des douanes - art. 266 quinquies A (V)
 	  - Code des douanes - art. 266 quinquies B (V)
 	  - Code des douanes - art. 266 quinquies C (M)
@@ -10996,18 +11004,14 @@ destiné à être utilisé dans les installations visées à l'article 266 quinq
 	  - Code des douanes - art. 427 (V)
 	  - Code rural - art. L723-43 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 58 () JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 81 () JORF 31 décembre 2005
+	  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
+	  - Code des douanes - art. 266 quinquies (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Code des douanes 265, 266 quinquies A
 
 
 ###### Article 266 quinquies A
@@ -11212,6 +11216,9 @@ valorisation comme matière ;
 
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
+1 quater. Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et
+valorisent la totalité de leur production de biogaz ; (1)
+
 2. (alinéa abrogé) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
@@ -11230,6 +11237,12 @@ installation, les réceptions de matériaux ou déchets inertes. Sont considér�
 décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
 détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
 de l'environnement ou de nuire à la santé humaine.
+
+**Nota:**
+
+(1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -11308,7 +11321,7 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 40 (V)
 
 	**Cite**:
 
@@ -12284,50 +12297,109 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 
 ###### Article 285 septies
 
-A titre expérimental, dans la région Alsace et pour une durée de cinq ans, les véhicules utilitaires dont le poids total en
-charge est égal ou supérieur à 12 tonnes peuvent être soumis, lorsqu'ils empruntent des routes ou portions de routes d'usage
-gratuit à proximité d'axes autoroutiers à péage situés ou non sur le territoire français, à une taxe non déductible dont le
-montant est compris entre 0,001 et 0,015 euros par tonne et par kilomètre.
+I.-A titre expérimental dans la région Alsace et jusqu'au 31 décembre 2012, les véhicules de transport de marchandises seuls
+ou tractant une remorque et les ensembles articulés dont le poids total en charge autorisé ou le poids total roulant autorisé
+est égal ou supérieur à douze tonnes sont soumis, lorsqu'ils empruntent des autoroutes, routes nationales ou portions de
+routes appartenant à des collectivités territoriales pouvant constituer des itinéraires alternatifs à des axes autoroutiers à
+péage situés ou non sur le territoire douanier, à une taxe dont le montant est fonction du nombre des essieux du véhicule et
+de la distance parcourue sur lesdites voies. 
 
-Cette taxe est perçue au profit de la collectivité propriétaire de la voie routière. Elle est décidée par décret en Conseil
-d'Etat lorsque la voie appartient au domaine public de l'Etat et par l'organe délibérant de la collectivité territoriale
-lorsque la voie appartient au domaine public d'un département ou d'une commune.
+Les routes concernées par la taxe sont fixées par décret en Conseil d'Etat, sur proposition de leurs assemblées délibérantes
+pour celles appartenant à des collectivités territoriales. 
 
-Elle est acquittée par le propriétaire du véhicule ou, si le véhicule fait l'objet d'un contrat de crédit-bail ou d'un
-contrat de location, par son locataire.
+La taxe n'est pas applicable aux véhicules d'intérêt général définis à l'article R. 311-1 du code de la route et aux
+véhicules spécialement conçus pour le transport des personnes. 
 
-La taxe est prélevée lors de chaque passage sur les voies concernées ou mensuellement par les services de la direction
-générale des douanes et droits indirects sur la base des relevés kilométriques fournis par les transporteurs. Elle est
-recouvrée selon les mêmes règles et sous les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane. Les
-infractions sont constatées et réprimées, et les instances instruites et jugées, conformément aux dispositions du présent
-code.
+Le redevable de la taxe est le propriétaire du véhicule de transport de marchandises ou du tracteur d'un ensemble articulé
+visé au premier alinéa ou, si le véhicule précité fait l'objet d'un contrat de crédit-bail ou d'un contrat de location de
+deux ans ou plus, son locataire ou son sous-locataire. 
 
-Un décret en Conseil d'Etat précise les modalités d'application du présent article et détermine les conditions dans
-lesquelles il sera procédé à une évaluation au terme de la période d'expérimentation.
+II.-Le montant de la taxe est fixé par référence à des catégories de véhicules déterminées par arrêté conjoint du ministre
+chargé des transports et du ministre chargé des douanes. 
+
+Il est compris entre 0, 015 euro et 0, 2 euro par essieu et par kilomètre. 
+
+Cette taxe est perçue au profit de la collectivité propriétaire de la voie routière. 
+
+Des frais d'assiette et de recouvrement sont prélevés sur le produit de la taxe perçue au profit des collectivités autres que
+l'Etat. Le taux est fixé à 5 %. Les organes exécutifs des collectivités territoriales concernées, après délibération de leur
+organe délibérant, signent en outre avec l'Etat une convention de financement des coûts d'investissement des équipements
+nécessaires au fonctionnement et de maintenance du dispositif, au paiement de la taxe et aux opérations de contrôle mis en
+place sur leur réseau. 
+
+Un arrêté conjoint du ministre chargé des transports et du ministre chargé des douanes fixe le taux de la taxe lorsque la
+voie concernée relève du domaine public de l'Etat. Lorsque la voie est la propriété d'une collectivité autre que l'Etat, le
+taux est fixé par arrêté du ministre chargé des transports et du ministre chargé des douanes sur proposition de l'organe
+délibérant de la collectivité. 
+
+III.-Le paiement est effectué préalablement à l'emprunt d'une route ou d'une portion de route soumise à la taxe. Il peut être
+également effectué mensuellement par les redevables agréés. Les conditions de l'agrément sont définies par arrêté. 
+
+Aux fins d'établissement de l'assiette de la taxe, la création d'un traitement automatisé de données à caractère personnel
+est autorisée, conformément aux modalités prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés. La création de cette base de données permettant la collecte des informations relatives aux voies
+taxables empruntées, aux véhicules assujettis à la taxe et aux parcours effectués sur chaque voie taxable par les redevables
+peut être confiée à un prestataire privé. 
+
+Le redevable agréé établit sa déclaration sur la base des données enregistrées dans le traitement automatisé précité. 
+
+Les redevables agréés pour ce qui les concerne, les agents des douanes et, le cas échéant, les personnes habilitées par le
+prestataire privé mentionné au deuxième alinéa sont destinataires des données à caractère personnel enregistrées dans le
+traitement automatisé précité. 
+
+IV.-La taxe est perçue par l'administration des douanes et droits indirects, selon les mêmes règles et sous les mêmes
+garanties, sanctions et privilèges qu'en matière de douane. Les infractions sont recherchées, constatées et réprimées, les
+poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane. 
+
+Sur les routes ou portions de routes assujetties à la présente taxe, le conducteur d'un véhicule taxable doit présenter à
+première réquisition aux agents des douanes, aux agents de la police nationale, de la gendarmerie nationale et aux
+contrôleurs des transports terrestres tout élément attestant de sa situation régulière au regard de la taxe. 
+
+Les agents précités disposent aux fins de la mise en oeuvre des contrôles des pouvoirs d'investigation accordés par les
+textes particuliers qui leur sont applicables. 
+
+Les constatations relatives au non-paiement de la taxe effectuées par des appareils de contrôle automatique homologués font
+foi jusqu'à preuve du contraire. 
+
+Le défaut de paiement de la taxe donne lieu à une taxation d'office égale au produit de la taxe correspondant au parcours
+maximum qui a pu être effectué, dont les modalités sont fixées par décret.
+
+V.-Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat. 
+
+VI.-Le Parlement est saisi par le Gouvernement, avant le 31 décembre 2012, d'un rapport d'évaluation du présent article.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de la route. - art. R311-1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
 	**Cité par**:
 
-	  - Code de la route. - art. L325-1 (V)
-	  - Code de la route. - art. L330-2 (V)
-	  - Code des transports - art. L3222-3 (V)
 	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 	  - Décret n°2009-1589 du 18 décembre 2009 - art. 1 (V)
 	  - Décret n°2011-845 du 15 juillet 2011 - art. 1 (V)
 	  - Décret n°2011-899 du 27 juillet 2011 - art. 1 (V)
 	  - Décret n°2011-991 du 23 août 2011 - art. 31 (V)
 	  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+	  - Code de la route. - art. L325-1 (V)
+	  - Code de la route. - art. L330-2 (V)
 	  - Code des douanes - art. 412 (V)
 	  - Code des transports - art. L3221-2 (V)
+	  - Code des transports - art. L3222-3 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 27 () JORF 6 janvier 2006
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 
 
 ###### Article 285 sexies
@@ -12370,29 +12442,36 @@ délibération du conseil régional.
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions
 qu'en matière de droits de douane.
 
-Une part égale à 30 % du produit de la taxe est affectée au budget des communes classées comme stations balnéaires. Ce
-prélèvement est réparti entre les communes concernées au prorata de leur population.
+Une part égale à 30 % du produit de la taxe est affectée au budget des communes littorales érigées en stations classées de
+tourisme au sens de l'article L. 133-13 du code du tourisme. Ce prélèvement est réparti entre les communes concernées au
+prorata de leur population.
 
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
 dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 2006.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2011.
+
+**Nota:**
+
+Les modifications induites par le 1° du I de l'article 117 de la loi n° 2006-1771 du 30 décembre 2006 entre en vigueur dans
+un délai de six mois à compter de la publication du décret mentionné à l'article L. 133-18 du code du tourisme. 
+
+Celles induites par le 2° du I de l'article 117 de la même loi entrent en vigueur à compter du 1er janvier 2007.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. L441-2 (V)
 	  - Code général des collectivités territoriales - art. L4331-2 (V)
+
+	**Cite**:
+
+	  - Code du tourisme. - art. L133-13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 # Titre XI : Zones franches.
@@ -15891,7 +15970,10 @@ manifestes ou dans les déclarations sommaires ; toute différence dans la natur
 sommairement ;
 
 9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
-non autorisées.
+non autorisées ;
+
+10° Toute omission ou irrégularité qui a pour but ou pour résultat d'éluder ou de compromettre le recouvrement de la taxe
+visée à l'article 285 septies.
 
 **Liens relatifs à cet article**
 
@@ -15905,16 +15987,10 @@ non autorisées.
 	  - Code des douanes - art. 370 (M)
 	  - Code des douanes - art. 387 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
 	**Cite**:
 
-	  - Code des douanes - art. 189 (P)
 	  - Code des douanes - art. 259 (M)
+	  - Code des douanes - art. 285 septies (M)
 
 
 ##### E. - Cinquième classe.

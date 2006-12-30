@@ -69,6 +69,9 @@ valorisation comme matière ;
 
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
 
+1 quater. Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et
+valorisent la totalité de leur production de biogaz ; (1)
+
 2. (alinéa abrogé) ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
@@ -87,6 +90,12 @@ installation, les réceptions de matériaux ou déchets inertes. Sont considér�
 décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
 détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
 de l'environnement ou de nuire à la santé humaine.
+
+**Nota:**
+
+(1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -165,7 +174,7 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 40 (V)
 
 	**Cite**:
 

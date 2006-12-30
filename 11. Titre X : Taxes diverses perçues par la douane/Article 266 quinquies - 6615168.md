@@ -18,8 +18,13 @@ a) Comme matière première ;
 b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
 l'article 265 ;
 
-c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006 et à l'exclusion des livraisons de gaz
-destiné à être utilisé dans les installations visées à l'article 266 quinquies A.
+c) Comme combustible pour la production d'électricité, à compter du 1er janvier 2006.
+
+L'exonération prévue au c du présent 3 ne s'applique pas aux livraisons de gaz destiné à être utilisé dans les installations
+visées à l'article 266 quinquies A. Toutefois, les producteurs dont l'installation ne bénéficie pas d'un contrat d'achat
+d'électricité conclu dans le cadre de l'article 10 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
+développement du service public de l'électricité ou mentionné à l'article 50 de cette même loi, renonçant à bénéficier de
+l'exonération de taxes intérieures prévue à l'article 266 quinquies A, bénéficient du régime prévu au c du présent 3.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
@@ -63,7 +68,6 @@ destiné à être utilisé dans les installations visées à l'article 266 quinq
 	  - Code de l'énergie - art. D461-2 (V)
 	  - Code des douanes - art. 265 (VT)
 	  - Code des douanes - art. 265 nonies (V)
-	  - Code des douanes - art. 266 quinquies (V)
 	  - Code des douanes - art. 266 quinquies A (V)
 	  - Code des douanes - art. 266 quinquies B (V)
 	  - Code des douanes - art. 266 quinquies C (M)
@@ -72,15 +76,11 @@ destiné à être utilisé dans les installations visées à l'article 266 quinq
 	  - Code des douanes - art. 427 (V)
 	  - Code rural - art. L723-43 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 58 () JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 81 () JORF 31 décembre 2005
+	  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
+	  - Code des douanes - art. 266 quinquies (M)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Cite**:
-
-	  - Code des douanes 265, 266 quinquies A
