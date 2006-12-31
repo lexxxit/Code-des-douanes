@@ -1,9 +1,10 @@
 # Article 265 quater
 
-La vente d'huile végétale pure en vue de son utilisation comme carburant agricole ou pour l'avitaillement des navires de
-pêche professionnelle ainsi que cette utilisation sont autorisées à compter du 1er janvier 2007. Un décret précise, au vu du
-bilan de l'application du 2 de l'article 265 ter, les modalités de production, de commercialisation et d'utilisation de ce
-produit.
+La vente d'huile végétale pure en vue de son utilisation comme carburant agricole, comme carburant pour les véhicules des
+flottes captives des collectivités territoriales et de leurs groupements dans les conditions mentionnées au 3 de l'article
+265 ter ou pour l'avitaillement des navires de pêche professionnelle ainsi que cette utilisation sont autorisées à compter du
+1er janvier 2007. Un décret précise, au vu du bilan de l'application du 2 de l'article 265 ter, les modalités de production,
+de commercialisation et d'utilisation de ce produit.
 
 **Liens relatifs à cet article**
 
@@ -27,7 +28,3 @@ produit.
 	**Codifié par**:
 
 	  - Loi n°2006-11 2006-01-05
-
-	**Créé par**:
-
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006

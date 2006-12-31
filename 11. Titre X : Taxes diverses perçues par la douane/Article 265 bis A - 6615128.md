@@ -37,10 +37,7 @@ lancés par appel d'offres communautaire.
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
 consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une
 partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur.
-Ce transfert donne lieu à accord préalable de l'administration des douanes. L'opérateur est également tenu de mettre en place
-auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe
-intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la
-même année en application de la décision d'agrément.
+Ce transfert donne lieu à accord préalable de l'administration des douanes.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
 quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
@@ -79,10 +76,6 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	**Codifié par**:
 
 	  - Loi n°2006-11 2006-01-05
-
-	**Modifié par**:
-
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
 
 	**Cite**:
 
