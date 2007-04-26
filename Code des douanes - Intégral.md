@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-02-27
+Version Consolidée au 2007-04-27
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1075,17 +1075,17 @@ marchandises visées à l'article L. 5132-9 du code de la santé publique, aux m
 5124-13 du code de la santé publique, aux micro-organismes et aux toxines mentionnés à l'article L. 5139-1 du code de la
 santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L. 5142-7 du code de la santé publique, aux
 marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins labiles et aux pâtes plasmatiques
-mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux organes, tissus, cellules, gamètes issus du corps humain
-ainsi qu'aux préparations de thérapie cellulaire mentionnés aux articles L. 1235-1, L. 1243-1, L. 1244-8 et L. 1245-5 dudit
-code, aux tissus ou cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux sources
-artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des
-articles L. 1333-2 et L. 1333-4 du même code et aux déchets définis au II de l'article L. 541-1 du code de l'environnement
-dont l'importation, l'exportation ou le transit sont régis soit par les articles L. 541-40 à L. 541-42 du même code et les
-dispositions réglementaires prises pour leur application, soit par le règlement (CEE) n° 259/93 du Conseil du 1er février
-1993 concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
-européenne, ainsi que par les décisions des autorités communautaires prises en application de ce règlement. Les dispositions
-du présent article s'appliquent également aux objets de toute nature comportant des images ou des représentations d'un mineur
-à caractère pornographique visées par l'article 227-23 du code pénal.
+mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux organes, tissus et leurs dérivés, cellules, gamètes issus
+du corps humain ainsi qu'aux préparations de thérapie cellulaire mentionnés aux articles L. 1235-1, L. 1243-1, L. 1244-8 et
+L. 1245-5 dudit code, aux tissus ou cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux
+sources artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant
+des articles L. 1333-2 et L. 1333-4 du même code et aux déchets définis au II de l'article L. 541-1 du code de
+l'environnement dont l'importation, l'exportation ou le transit sont régis soit par les articles L. 541-40 à L. 541-42 du
+même code et les dispositions réglementaires prises pour leur application, soit par le règlement (CEE) n° 259/93 du Conseil
+du 1er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la
+Communauté européenne, ainsi que par les décisions des autorités communautaires prises en application de ce règlement. Les
+dispositions du présent article s'appliquent également aux objets de toute nature comportant des images ou des
+représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -1235,7 +1235,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2007-248 du 26 février 2007 - art. 16 () JORF 27 février 2007
+	  - Ordonnance n°2007-613 du 26 avril 2007 - art. 15 () JORF 27 avril 2007
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
