@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-06-15
+Version Consolidée au 2007-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -11051,6 +11051,101 @@ sont fixés par décret en Conseil d'Etat.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 266 quinquies B
+
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et 2704 et destinés à être utilisés comme
+combustible sont soumis à une taxe intérieure de consommation.
+
+2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à
+un utilisateur final. Le fait générateur intervient et la taxe est également exigible au moment de l'importation, lorsque les
+produits sont directement importés par l'utilisateur final pour ses besoins propres.
+
+3. La taxe est due :
+
+1° Par le fournisseur des produits. Est considérée comme fournisseur de houilles, de lignites ou de cokes toute personne qui
+se livre au négoce de ces produits ;
+
+2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane d'importation.
+
+4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés :
+
+a) Autrement que comme combustible ;
+
+b) A un double usage, c'est-à-dire lorsqu'ils sont utilisés, dans le même processus, comme combustible et pour des usages
+autres que combustible. Sont notamment considérés comme tels les houilles, les lignites et les cokes utilisés dans des
+procédés métallurgiques ou de réduction chimique. Le bénéfice de la présente mesure est limité aux seules quantités de
+produits affectés à ce double usage ;
+
+c) Dans un procédé de fabrication de produits minéraux non métalliques classé dans la nomenclature statistique des activités
+économiques dans la Communauté européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037/90 du Conseil, du 9
+octobre 1990, sous la rubrique "DI 26" ;
+
+2° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont consommés dans
+l'enceinte des établissements de production de produits pétroliers ou assimilés mentionnés au tableau B du 1 de l'article 265
+du présent code, lorsque cette consommation est effectuée pour la production de ces produits énergétiques ou pour la
+production de tout ou partie de l'énergie nécessaire à leur fabrication ;
+
+3° Les modalités d'application des 1° et 2° ainsi que les modalités du contrôle de la destination des produits et de leur
+affectation aux usages qui y sont mentionnés sont fixées par décret.
+
+5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
+
+1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
+quinquies A ;
+
+2° Pour les besoins de leur extraction et de leur production ;
+
+3° Pour la consommation des particuliers, y compris sous forme collective.
+
+6. La taxe intérieure de consommation est assise sur la quantité de produit effectivement livré, exprimée en mégawattheures,
+après arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19  par mégawattheure.
+
+7. 1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
+l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
+au commencement de leur activité.
+
+Ils tiennent une comptabilité des livraisons qu'ils effectuent en France et communiquent à l'administration chargée du
+recouvrement le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire. La comptabilité des
+livraisons doit être présentée à toute réquisition de l'administration ;
+
+2° Les fournisseurs non établis en France désignent une personne qui y est établie et a été enregistrée auprès de
+l'administration des douanes et droits indirects pour effectuer en leurs lieu et place les obligations qui leur incombent et
+acquitter la taxe intérieure de consommation.
+
+8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits soient soumis à la taxe intérieure de
+consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 sont tenues,
+sans préjudice des pénalités applicables, au paiement de la taxe lorsque ces produits n'ont pas été affectés à la destination
+ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
+
+9. Le produit de la taxe intérieure de consommation applicable aux houilles, aux lignites et aux cokes est affecté à l'Agence
+de l'environnement et de la maîtrise de l'énergie.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2007-856 du 14 mai 2007 - art. 1 (Ab)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 1 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 3 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 4 (V)
+	  - Arrêté du 6 février 2015 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 - art. (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Décret n°2016-396 du 31 mars 2016 (V)
+	  - Décret n°2016-396 du 31 mars 2016 - art. 1 (V)
+	  - Code des douanes - art. 411 (V)
+	  - Code des douanes - art. 427 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cite**:
+
+	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 266 quinquies (M)
+
+
 ###### Article 266 septies
 
 Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
@@ -11516,14 +11611,14 @@ garanties et sanctions prévues en matière de droits de douane.
 
 ###### Article 267
 
-1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter, 266 quater et
-266 quinquies ci-dessus sont perçues comme en matière de douane ; les infractions sont recherchées, constatées et réprimées,
-les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane et par les tribunaux
-compétents en cette matière.
+1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter, 266 quater,
+266 quinquies et 266 quinquies B ci-dessus sont perçues comme en matière de douane ; les infractions sont recherchées,
+constatées et réprimées, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane
+et par les tribunaux compétents en cette matière.
 
-Les taxes ou redevances dont sont passibles les produits visés aux articles énumérés ci-dessus sont exigibles lors de la mise
-à la consommation de ces produits sur le marché intérieur et dans les cas prévus au II de l'article 57 de la loi n° 92-677 du
-17 juillet 1992 et à l'article 267 bis.
+Les taxes ou redevances dont sont passibles les produits visés aux articles énumérés ci-dessus, sous réserve des dispositions
+du 2 de l'article 266 quinquies B sont exigibles lors de la mise à la consommation de ces produits sur le marché intérieur et
+dans les cas prévus au II de l'article 57 de la loi n° 92-677 du 17 juillet 1992 et à l'article 267 bis.
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes et
 redevances dont il s'agit.
@@ -11547,13 +11642,13 @@ produit au moment de la mise à la consommation.
 	  - Décret n°93-80 du 19 janvier 1993 - art. 5 (V)
 	  - Arrêté du 9 septembre 1993 - art. 1 (V)
 	  - Arrêté du 6 décembre 1993 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 	  - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
 	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
 	  - Décret n°94-753 du 31 août 1994 - art. 4 (V)
 	  - Décret n°94-1214 du 30 décembre 1994 - art. 6 (V)
 	  - Décret n°97-201 du 5 mars 1997 - art. 6 (V)
 	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 
 	**Cite**:
 
@@ -11563,13 +11658,7 @@ produit au moment de la mise à la consommation.
 	  - Code des douanes - art. 266 quinquies (M)
 	  - Code des douanes - art. 266 ter (M)
 	  - Code des douanes - art. 267 bis (V)
-
-	**Modifié par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 100 () JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Loi - art. 22 () JORF 31 décembre 1992
-	  - Loi - art. 48 () JORF 5 janvier 1993 en vigueur le 1er janvier 1993
+	  - Code des douanes 265, 266 ter, 266 quater, 266 quinquies, 266 quinquies B, 267 bis
 
 	**Codifié par**:
 
