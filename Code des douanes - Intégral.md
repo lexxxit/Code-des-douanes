@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -845,7 +845,9 @@ certaines restrictions de circulation et à la complémentarité entre les servi
 marchandises visées à l'article L. 5132-9 du code de la santé publique, aux médicaments à usage humain visés à l'article L.
 5124-13 du code de la santé publique, aux micro-organismes et aux toxines mentionnés à l'article L. 5139-1 du code de la
 santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L. 5142-7 du code de la santé publique, aux
-marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins labiles et aux pâtes plasmatiques
+marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article L.
+513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12
+décembre 2001, sur les dessins ou modèles communautaires, ainsi qu'aux produits sanguins labiles et aux pâtes plasmatiques
 mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux organes, tissus et leurs dérivés, cellules, gamètes issus
 du corps humain ainsi qu'aux préparations de thérapie cellulaire mentionnés aux articles L. 1235-1, L. 1243-1, L. 1244-8 et
 L. 1245-5 dudit code, aux tissus ou cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux
@@ -951,28 +953,6 @@ chargé des douanes et du ou des ministres concernés.
 	  - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 8 (V)
 	  - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 9 (V)
 
-	**Cite**:
-
-	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 19
-	  - Code pénal - art. 227-23 (M)
-	  - Code des douanes - art. 2 bis (V)
-	  - Code de la santé publique - art. L1221-8 (M)
-	  - Code de la santé publique - art. L1235-1 (M)
-	  - Code de la santé publique - art. L1243-1 (M)
-	  - Code de la santé publique - art. L1244-8 (M)
-	  - Code de la santé publique - art. L1245-5 (M)
-	  - Code de la santé publique - art. L1333-1 (M)
-	  - Code de la santé publique - art. L1333-2 (T)
-	  - Code de la santé publique - art. L1333-4 (T)
-	  - Code de la santé publique - art. L2151-6 (V)
-	  - Code de la santé publique - art. L5124-13 (M)
-	  - Code de la santé publique - art. L5132-9 (V)
-	  - Code de la santé publique - art. L5139-1 (V)
-	  - Code de la santé publique - art. L5142-7 (M)
-	  - Code de l'environnement - art. L541-1 (M)
-	  - Code de l'environnement L541-1, L541-40 à L541-42
-	  - Règlement CEE 259-93 1993-02-01 Conseil
-
 	**Cité par**:
 
 	  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
@@ -1000,13 +980,13 @@ chargé des douanes et du ou des ministres concernés.
 	  - Code des douanes - art. 470 (V)
 	  - Code des douanes - art. 65 C (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Ordonnance n°2007-613 du 26 avril 2007 - art. 15 () JORF 27 avril 2007
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
@@ -1582,6 +1562,38 @@ puisse être opposée l'obligation au secret.
 	**Cité par**:
 
 	  - Code des douanes - art. 67 E (V)
+
+
+###### Article 59 quinquies
+
+Les services et établissements de l'Etat et des autres collectivités publiques sont tenus de communiquer aux agents de la
+direction générale des douanes et des droits indirects tous les renseignements et documents en leur possession qui peuvent
+s'avérer utiles à la lutte contre la contrefaçon, à l'exception de ceux qu'ils ont recueillis ou échangés en application du
+règlement (CE) n° 1/2003 du Conseil, du 16 décembre 2002, relatif à la mise en oeuvre des règles de concurrence prévues aux
+articles 81 et 82 du traité, sans que puisse être opposée l'obligation de secret professionnel.
+
+Les agents de la direction générale des douanes et des droits indirects, les agents de la direction générale de la
+concurrence, de la consommation et de la répression des fraudes, ainsi que les officiers et agents de police judiciaire
+peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre de leur mission
+de lutte contre la contrefaçon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Créé par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 45 () JORF 30 octobre 2007
+
+	**Cité par**:
+
+	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (V)
+
+	**Cite**:
+
+	  - Règlement 1-2003 CE 2002-12-16 Conseil
 
 
 ###### Article 59 ter
@@ -7021,7 +7033,7 @@ terrestre du rayon des douanes lorsqu'il a été constaté par jugement que ces 
 ###### Article 215
 
 1. Ceux qui détiennent ou transportent des marchandises dangereuses pour la santé, la sécurité ou la moralité publiques, des
-marchandises contrefaites, des marchandises prohibées au titre d'engagements internationaux ou des marchandises faisant
+marchandises contrefaisantes, des marchandises prohibées au titre d'engagements internationaux ou des marchandises faisant
 l'objet d'un courant de fraude internationale et d'un marché clandestin préjudiciant aux intérêts légitimes du commerce
 régulier et à ceux du Trésor, spécialement désignées par arrêtés du ministre de l'économie et des finances doivent, à
 première réquisition des agents des douanes, produire soit des quittances attestant que ces marchandises ont été
@@ -7048,11 +7060,6 @@ douanes.
 Après avoir vérifié qu'elle est exacte, le service authentifiera cette déclaration qui tiendra lieu de justification.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 21 JORF 9 juillet 1987
-	  - Loi n°92-677 du 17 juillet 1992 - art. 115 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -7083,6 +7090,10 @@ Après avoir vérifié qu'elle est exacte, le service authentifiera cette décla
 	  - Code des douanes - art. 332 (V)
 	  - Code des douanes - art. 419 (VD)
 	  - Code des douanes - art. 64 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 	**Codifié par**:
 
@@ -12347,32 +12358,6 @@ Les dispositions du présent titre ne portent pas atteinte aux règles établies
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-# Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays
-
-## Chapitre IV : Importations des Nouvelles-Hébrides.
-
-###### Article 322
-
-Des décrets déterminent le régime douanier applicable aux produits originaires des Nouvelles-Hébrides, lorsque ces produits
-sont récoltés ou fabriqués par les établissements commerciaux ou agricoles possédés ou exploités par des Français ou par des
-sociétés civiles ou commerciales françaises.
-
-**Nota:**
-
-Nota - Du fait de l'accession à l'indépendance de ce pays, ces articles n'ont plus lieu d'être dans le code des douanes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°2013-559 du 26 juin 2013 (V)
-	  - Décret n°2013-956 du 24 octobre 2013 (V)
-
-
 # Titre XII : Contentieux et recouvrement
 
 ## Chapitre Ier : Constatation des infractions douanières
@@ -13853,15 +13838,14 @@ tribunaux peuvent en donner mainlevée avant de juger définitivement le tout, m
 valeur.
 
 4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues ni de la confiscation
-des marchandises dangereuses pour la santé ou la moralité et la sécurité publiques, des marchandises contrefaites, ainsi que
-de celles qui sont soumises à des restrictions quantitatives.
+des marchandises dangereuses pour la santé ou la moralité et la sécurité publiques, des marchandises contrefaisantes, ainsi
+que de celles qui sont soumises à des restrictions quantitatives.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 23, art. 26 JORF 9 juillet 1987
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 	**Cité par**:
 
@@ -15885,10 +15869,10 @@ carburants agricoles à des usages autres que ceux qui sont fixés par la loi.
 ###### Article 428
 
 1. Est réputée importation ou exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit
-législatives, soit réglementaires portant prohibition d'importation sous tous régimes douaniers, d'exportation ou de
-réexportation ou bien subordonnant l'exportation ou la réexportation au paiement de droits, de taxes ou à l'accomplissement
-de formalités particulières lorsque la fraude a été faite ou tentée par les bureaux et qu'elle n'est pas spécialement
-réprimée par une autre disposition du présent code.
+législatives, soit réglementaires portant prohibition d'importation, d'exportation ou de réexportation ou bien subordonnant
+l'exportation ou la réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières lorsque
+la fraude a été faite ou tentée par les bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du
+présent code.
 
 2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
 déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportateur est passible des peines de
@@ -15901,19 +15885,18 @@ imposées à l'exportation.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°94-102 du 5 février 1994 - art. 16 () JORF 8 février 1994
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
 	**Cité par**:
 
-	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
 	  - Arrêté du 11 juillet 2012 - art. 2 (V)
+	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2007-1544 du 29 octobre 2007 - art. 42 () JORF 30 octobre 2007
 
 
 ###### Article 429
