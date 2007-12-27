@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-10-30
+Version Consolidée au 2007-12-28
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7566,7 +7566,7 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
 de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté en 2007
-au Conservatoire de l'espace littoral et des rivages lacustres.
+et 2008 au Conservatoire de l'espace littoral et des rivages lacustres.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
 Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
@@ -7579,7 +7579,7 @@ une majoration de 10 % du montant de ce droit est automatiquement appliquée. Ce
 lorsque son montant excède 8 euros.
 
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
-le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année.
+le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année. 
 
 3. Sont exonérés du droit de francisation et de navigation :
 
@@ -7621,14 +7621,14 @@ euros.
 	  - Arrêté du 30 mai 2016 (V)
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 52
 
 	**Cite**:
 
-	  - Code des douanes - art. 223 (M)
-	  - Code du patrimoine. - art. L622-1 (M)
+	  - Code des douanes - art. 223
+	  - Code du patrimoine - art. L622-1
 
 
 ###### Article 225
@@ -9289,18 +9289,18 @@ intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'a
 fonction de l'évolution des cours des matières premières agricoles et des énergies fossiles et de la productivité des
 filières agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité des biocarburants par rapport aux
 carburants fossiles sans toutefois aboutir à une surcompensation de l'écart de prix de revient entre ces produits. A compter
-du 1er janvier 2006, cette réduction est fixée à :
+du 1er janvier 2008, cette réduction est fixée à :
 
-a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
+a) 22 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
 au gazole ou au fioul domestique ;
 
-b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
+b) 27 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
 composante alcool est d'origine agricole ;
 
-c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
+c) 27 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
 repris à l'indice d'identification 55 ;
 
-d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par hectolitre pour les esters éthyliques d'huile
+d) 22 euros par hectolitre pour le biogazole de synthèse et 27 euros par hectolitre pour les esters éthyliques d'huile
 végétale, incorporés au gazole ou au fioul domestique.
 
 1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure
@@ -9311,7 +9311,7 @@ d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale
 de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du
 ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
 
-2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
+2 bis. Pour l'année 2005, des agréments pour 130 000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
 lancés par appel d'offres communautaire.
 
 3. La durée de validité des agréments délivrés ne peut excéder six ans.
@@ -9355,13 +9355,13 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - Décret n°2008-93 du 29 janvier 2008 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°2006-11 2006-01-05
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 35 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265
 
 
 ###### Article 265 octies
@@ -10787,6 +10787,8 @@ intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au 
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
+c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
 lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
@@ -10821,6 +10823,16 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Cité par**:
 
+	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
+	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
+	  - Loi - art. 45 (V)
+	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
+	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
 	  - Code de l'aviation civile - art. L227-10 (M)
 	  - Code de l'aviation civile - art. L227-5 (M)
 	  - Code de l'environnement - art. L151-2 (Ab)
@@ -10833,30 +10845,16 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 sexies (V)
 	  - Code des douanes - art. 266 undecies (M)
-	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
-	  - Décret n°87-339 du 21 mai 1987 - art. 1 (M)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 18 (V)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 19 (Ab)
-	  - Loi n°92-1444 du 31 décembre 1992 - art. 20 (V)
-	  - Loi - art. 45 (V)
-	  - Décret n°99-457 du 1 juin 1999 - art. 1 (M)
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V)
-	  - Loi n°2004-172 du 23 février 2004 - art. 1 (VT)
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L512-1 (M)
-	  - Code de l'environnement - art. L512-8 (V)
-	  - Règlement CEE 259-93 1993-02-01 Conseil
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-8
+	  - Règlement CEE 259-93 1993-02-01 Conseil
 
 
 ###### Article 266 sexies
@@ -10885,6 +10883,10 @@ usagées ;
 
 b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
 le rejet dans le milieu naturel est interdit ;
+
+c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes
+aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en systèmes
+ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a).
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -10944,7 +10946,12 @@ aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du
 livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté
 européenne ou en une exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers.
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
+
+6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
+écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
+établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
+du label écologique communautaire aux lubrifiants.
 
 III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
 installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
@@ -10959,10 +10966,6 @@ de l'environnement ou de nuire à la santé humaine.
 NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -11035,11 +11038,11 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 40 (V)
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
 
 	**Cite**:
 
-	  - Code du travail - art. R231-51 (M)
+	  - Code du travail - art. R231-51
 	  - Loi n°43-525 1943-11-02
 	  - Règlement CEE 259-93 1993-02-01 Conseil
 
@@ -11349,6 +11352,10 @@ les cigarettes dans leur circonscription administrative. Ce minimum de perceptio
 consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale
 des cigarettes de la classe de prix la plus demandée.
 
+Les conseils généraux des départements d'outre-mer peuvent également établir un minimum de perception fixé pour 1 000 grammes
+pour les tabacs fine coupe destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les deux tiers du
+minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes.
+
 2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
@@ -11371,21 +11378,17 @@ application du premier alinéa du même article L. 3511-3.
 
 	  - CGI 572, 575 A, 575
 	  - Code des douanes
-	  - Code de la santé publique - art. L3511-3 (M)
+	  - Code de la santé publique - art. L3511-3
 
 	**Modifié par**:
 
-	  - Loi n°2006-1666 du 21 décembre 2006 - art. 67 () JORF 27 décembre 2006
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 85
 
 	**Cité par**:
 
 	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
 	  - Code des douanes - art. 268 ter (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 268 ter
