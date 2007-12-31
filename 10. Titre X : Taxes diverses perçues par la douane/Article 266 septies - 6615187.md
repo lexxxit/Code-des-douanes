@@ -18,7 +18,7 @@ intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au 
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
-c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
 
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
@@ -33,10 +33,7 @@ b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat 
 matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre
 utilisation ;
 
-7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
-à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
-mentionnés au 7 du I de l'article 266 sexies ;
+7. Alinéa abrogé ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
@@ -46,11 +43,11 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
 du I de l'article 266 sexies.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -79,10 +76,9 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L512-1
-	  - Code de l'environnement - art. L512-8
-	  - Règlement CEE 259-93 1993-02-01 Conseil
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)

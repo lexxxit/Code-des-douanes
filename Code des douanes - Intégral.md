@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2089,76 +2089,69 @@ demande, aux fonctionnaires des douanes.
 ###### Article 65
 
 1° Les agents des douanes ayant au moins le grade de contrôleur peuvent exiger la communication des papiers et documents de
-toute nature relatifs aux opérations intéressant leur service, quel qu'en soit le support ;
+toute nature relatifs aux opérations intéressant leur service, quel qu'en soit le support ; 
 
-a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ;
+a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ; 
 
 b) dans les locaux des compagnies de navigation maritimes et fluviales et chez les armateurs, consignataires et courtiers
-maritimes (manifestes de fret, connaissements, billets de bord, avis d'expédition, ordres de livraison, etc.) ;
+maritimes (manifestes de fret, connaissements, billets de bord, avis d'expédition, ordres de livraison, etc.) ; 
 
 c) dans les locaux des compagnies de navigation aérienne (bulletins d'expédition, notes et bordereaux de livraison, registres
-de magasins, etc.) ;
+de magasins, etc.) ; 
 
 d) dans les locaux des entreprises de transport par route (registres de prise en charge, carnets d'enregistrement des colis,
-carnets de livraison, feuilles de route, lettres de voitures, bordereaux d'expédition, etc.) ;
+carnets de livraison, feuilles de route, lettres de voitures, bordereaux d'expédition, etc.) ; 
 
-e) dans les locaux des agences, y compris celles dites de "transports rapides", qui se chargent de la réception, du groupage,
-de l'expédition par tous modes de locomotion (fer, route, eau, air) et de la livraison de tous colis (bordereaux détaillés
-d'expéditions collectives, récépissés, carnets de livraison, etc.) ;
+e) dans les locaux des agences, y compris celles dites de " transports rapides ", qui se chargent de la réception, du
+groupage, de l'expédition par tous modes de locomotion (fer, route, eau, air) et de la livraison de tous colis (bordereaux
+détaillés d'expéditions collectives, récépissés, carnets de livraison, etc.) ; 
 
-f) chez les commissionnaires ou transitaires ;
+f) chez les commissionnaires ou transitaires ; 
 
 g) chez les concessionnaires d'entrepôts, docks et magasins généraux (registres et dossiers de dépôt, carnets de warrants et
 de nantissements, registres d'entrée et de sortie des marchandises, situation des marchandises, comptabilité matières,
-etc.) ;
+etc.) ; 
 
-h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
+h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ; 
 
 i) chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
-2004-575 du 21 juin 2004  pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
-derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommunications ;
+2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
+derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommunications ; 
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
-régulières ou irrégulières relevant de la compétence du service des douanes.
+régulières ou irrégulières relevant de la compétence du service des douanes. 
 
 2° Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu au 1° lorsqu'ils agissent sur ordre
 écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux personnes envers
-lesquelles le droit de communication est mis en oeuvre.
+lesquelles le droit de communication est mis en oeuvre. 
 
 3° Les divers documents visés au 1° du présent article doivent être conservés par les intéressés pendant un délai de trois
 ans, à compter de la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les
-destinataires.
+destinataires. 
 
 4° a) Les bénéficiaires ou redevables visés à l'article 65 A ci-dessous doivent conserver les documents relatifs à leur
 activité professionnelle durant 3 années civiles à compter de la fin de l'année civile de l'établissement de ces documents.
-Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle.
+Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle. 
 
 b) Par documents, on entend l'ensemble des livres, registres, notes et pièces justificatives (comptabilité, registres,
 factures, correspondances, copies de lettres, etc.) relatives à l'activité professionnelle de l'entreprise, quel qu'en soit
-le support.
+le support. 
 
 5° Au cours des contrôles et des enquêtes opérés chez les personnes ou sociétés visées au 1° du présent article, les agents
 des douanes désignés par ce même paragraphe peuvent procéder à la saisie des documents de toute nature (comptabilité,
 factures, copies de lettres, carnets de chèques, traites, comptes de banque, etc.) propres à faciliter l'accomplissement de
-leur mission.
+leur mission. 
 
 6° L'administration des douanes est autorisée, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays
 étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
-et règlements applicables à l'entrée ou à la sortie de leur territoire, quel qu'en soit le support.
+et règlements applicables à l'entrée ou à la sortie de leur territoire, quel qu'en soit le support. 
 
 7° Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats
 membres de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés
 à mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
-les autres Etats membres.
+les autres Etats membres. 
 
-8° Sous réserve de réciprocité, l'administration des douanes et droits indirects peut communiquer aux autorités compétentes
-des Etats membres de la Communauté européenne des renseignements et documents pour l'établissement des droits indirects
-grevant les huiles minérales.
-
-Elle peut faire état, à titre de preuve, des renseignements et documents fournis par les autorités compétentes des Etats
-membres de la Communauté européenne.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
+8° (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -2198,17 +2191,12 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 8
 
 	**Cite**:
 
-	  - Loi n°2004-575 2004-06-21 art. 6
-	  - Code des douanes 65 A
-	  - Code des postes et télécommunications L34-1
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6
+	  - Code des postes et des communications électroniques - art. L34-1
 
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ###### Article 65 bis
@@ -2360,51 +2348,6 @@ applicables en ce qui concerne les produits mentionnés au 4 et au 5 de l'articl
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 65 D
-
-En matière de droits indirects grevant les huiles minérales, lorsque la situation d'un ou de plusieurs redevables présente un
-intérêt commun ou complémentaire pour plusieurs Etats membres de la Communauté européenne, l'administration des douanes et
-des droits indirects peut convenir avec les administrations des autres Etats membres de procéder à des contrôles simultanés,
-chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les renseignements ainsi obtenus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
-
-
-###### Article 65 E
-
-Pour l'application de la législation en matière de droits indirects grevant les huiles minérales, l'administration des
-douanes, sur demande d'un Etat membre de la Communauté européenne, procède ou fait procéder à la notification de tout acte ou
-décision émanant de cet Etat selon les règles en vigueur en France pour la notification d'actes ou de décisions. Elle peut
-également demander à un Etat membre de la Communauté européenne de procéder ou de faire procéder à la notification d'actes ou
-de décisions afférents aux mêmes droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ### Section 5 : Contrôles douaniers des envois par la poste.
@@ -3656,31 +3599,28 @@ initiale correspondante.
 
 ###### Article 100 ter
 
-Le placement des produits pétroliers en entrepôt fiscal doit faire l'objet de déclarations ponctuelles, globales ou
-récapitulatives, dans les conditions prévues aux articles 84, 85 et 95 à 100 bis.
+Le placement des produits énergétiques mentionnés à l'article 265 en entrepôt fiscal doit faire l'objet de déclarations
+ponctuelles, globales ou récapitulatives, dans les conditions prévues aux articles 84,85 et 95 à 100 bis. 
 
-La sortie de produits pétroliers d'entrepôts fiscaux, leur mise à la consommation, leur exportation doivent faire l'objet,
-selon le cas, de déclarations ponctuelles, globales ou récapitulatives, dans les conditions prévues aux articles 84, 85 et 95
-à 100 bis. Ces dispositions s'appliquent également aux cas prévus à l'article 267 bis du présent code et au II de l'article
-57 de la loi n° 92-677 du 17 juillet 1992.
+La sortie de produits énergétiques mentionnés à l'article 265 d'entrepôts fiscaux, leur mise à la consommation, leur
+exportation doivent faire l'objet, selon le cas, de déclarations ponctuelles, globales ou récapitulatives, dans les
+conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appliquent également aux cas prévus à l'article 267
+bis du présent code et au II de l'article 57 de la loi n° 92-677 du 17 juillet 1992.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°92-677 1992-07-17 art. 57
-	  - Code des douanes - art. 267 bis (V)
-	  - Code des douanes - art. 84 (V)
-	  - Code des douanes - art. 85 (M)
-	  - Code des douanes 84, 85, 95 à 100 bis, 267 bis
+	  - Loi n°92-677 du 17 juillet 1992 - art. 57
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 267 bis
+	  - Code des douanes - art. 84
+	  - Code des douanes - art. 85
+	  - Code des douanes - art. 95
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 96 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ## Chapitre II : Vérification des marchandises
@@ -5271,20 +5211,17 @@ de besoin, les modalités d'application des dispositions du présent chapitre.
 
 ###### Article 158 A
 
-1. L'entrepôt dans lequel les produits pétroliers visés à l'article 265 sont détenus en suspension de taxes est dénommé
-entrepôt fiscal de stockage de produits pétroliers.
+1. L'entrepôt dans lequel les produits pétroliers mentionnés à l'article 265 sont reçus, détenus ou expédiés en suspension
+des taxes intérieures de consommation prévues aux articles 265 ou 266 quater est dénommé entrepôt fiscal de stockage de
+produits pétroliers. 
 
 2. L'entrepôt fiscal de stockage de produits pétroliers peut également contenir des produits pétroliers placés sous le régime
-de l'entrepôt douanier.
+de l'entrepôt douanier. 
 
 3. Les personnes ayant la qualité d'entrepositaire agréé peuvent seules exploiter un entrepôt fiscal de stockage de produits
 pétroliers, y recevoir, détenir et expédier des produits pétroliers.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -5296,13 +5233,14 @@ pétroliers, y recevoir, détenir et expédier des produits pétroliers.
 	  - Arrêté du 23 juillet 2013 - art. 2 (V)
 	  - Arrêté du 17 décembre 2015 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 265 (V)
+	  - Code des douanes - art. 266 quater
 
 
 ###### Article 158 B
@@ -5551,27 +5489,16 @@ de produits autres que des huiles minérales, dont la liste est fixée par arrê
 ###### Article 165 B
 
 1. Les huiles minérales visées au tableau B de l'article 265 sont admises dans les usines exercées visées au b du 1 et au 2
-de l'article 165 en suspension des taxes et redevances dont elles sont passibles.
+de l'article 165 en suspension des taxes dont elles sont passibles. 
 
-Cette suspension est réservée, dans les usines exercées visées au a du 1 de l'article 165, aux produits qui y sont extraits.
+Cette suspension est réservée, dans les usines exercées visées au a du 1 de l'article 165, aux produits qui y sont extraits. 
 
 1 bis. Les huiles minérales visées au tableau C de l'article 265 sont admises dans les usines exercées visées au b du 1 et au
-2 de l'article 165 en suspension des taxes intérieures de consommation et redevances dont elles sont passibles.
+2 de l'article 165 en suspension des taxes intérieures de consommation dont elles sont passibles. 
 
-2. Les huiles minérales ne sont pas soumises aux taxes et redevances dont elles sont passibles lorsqu'elles sont consommées
-dans l'enceinte des usines exercées visées au b du 1 et au 2 de l'article 165 aux fins de fabrication d'autres huiles
-minérales et à la production de l'énergie nécessaire à ces fabrications.
+2. (Abrogé)
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 165 (M)
-	  - Code des douanes - art. 265 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -5579,7 +5506,12 @@ minérales et à la production de l'énergie nécessaire à ces fabrications.
 
 	**Modifié par**:
 
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+	**Cite**:
+
+	  - Code des douanes - art. 165 (V)
+	  - Code des douanes - art. 265 (V)
 
 
 #### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.
@@ -8491,263 +8423,2078 @@ Ces marchandises ou épaves sont placées sous double surveillance des services 
 
 ###### Article 265
 
-1. - Les huiles minérales reprises aux tableaux B et C ci-après sont passibles d'une taxe intérieure de consommation dont le
-tarif est fixé comme suit :
+1.-Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme
+carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit : 
 
-Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992).
+Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992). 
 
-Tableau B : Produits pétroliers et assimilés.
+Tableau B : Produits pétroliers et assimilés. 
 
-1. Nomenclature et tarif.
+1. Nomenclature et tarif. 
 
-Code NC, désignation des produits, indice d'identification, unité de perception et quotité (en euros)
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-Ex 2706-00, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
-les goudrons reconstitués, utilisés comme combustibles : indice 1, 100 kg net, 1,22.
+DÉSIGNATION DES PRODUITS 
 
-2705-50, Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume à 250° C d'après la
-méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles : indice 2, hectolitre ou 100 kg net, taxe
-intérieure selon le type de produit.
+</th>
+      <th>
 
-2709-00, Huiles brutes de pétrole ou de minéraux bitumineux :
+INDICE 
 
-indice 3, hectolitre ou 100 kg net, taxe intérieure selon le type de produit.
+d'identification 
 
-2710-00, Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises
+</th>
+      <th>
+
+UNITÉ 
+
+de perception 
+
+</th>
+      <th>
+
+TARIF 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+(Numéros du tarif des douanes) 
+
+</th>
+      <th>
+
+</th>
+      <th>
+
+</th>
+      <th>
+
+(en euros) 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1 + 2 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2706-00
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les
+goudrons reconstitués, utilisés comme combustibles. 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+1,50. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2707-50
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume (y compris les pertes) à 250° C
+d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles. 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+Hectolitre ou 100 kg net suivant les caractéristiques du produit. 
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable aux huiles légères ou moyennes du 2710, suivant les caractéristiques du produit. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2709-00
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Huiles brutes de pétrole ou de minéraux bitumineux. 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+      <td align="center">
+
+Hectolitre ou 100 kg net suivant les caractéristiques du produit. 
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable aux huiles légères, moyennes ou lourdes du 2710, suivant les caractéristiques du produit. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2710
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises
 ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent
-l'élément de base :
+l'élément de base, autres que les déchets :
 
-1° Huiles légères, indice 4 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à l'indice 20.
+</td>
+      <td align="center">
 
-a) Essences spéciales.
+</td>
+      <td align="center">
 
-. White spirit :
+</td>
+      <td align="center">
 
-destinées à être utilisées comme combustible.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-autre : indice 5, exemption.
+--huiles légères et préparations :
 
-. Autres essences spéciales :
+</td>
+      <td align="center">
 
-destinées à être utilisées comme carburants ou combustibles :
+</td>
+      <td align="center">
 
-indice 6, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+</td>
+      <td align="center">
 
-autres : indice 9, exemption.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-b) Autres huiles légères.
+---essences spéciales :
 
-. Essences pour moteur :
+</td>
+      <td align="center">
 
-essences d'aviation : indice 10, hectolitre, 32,36.
+</td>
+      <td align="center">
 
-supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
-d'identification n° 11 bis : indice 11, hectolitre, 60,69.
+</td>
+      <td align="center">
 
-supercarburant sans plomb contenant un additif spécifique améliorant les caractéristiques antirécession de soupape :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-indice 11 bis, hectolitre, 63,96.
+----White spirit destiné à être utilisé comme combustible ; 
 
-carburéacteurs, type essence :
+</td>
+      <td align="center">
 
-sous condition d'emploi : indice 13, hectolitre, 2,54.
+4 bis 
 
-autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+</td>
+      <td align="center">
 
-. Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+Hectolitre. 
 
-Ex 3824 90 99
+</td>
+      <td align="center">
 
-- Superéthanol E85
+5,66.
 
--- destiné à être utilisé comme carburant
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-55
+----autres essences spéciales :
 
-hectolitre
+</td>
+      <td align="center">
 
-33,43
+</td>
+      <td align="center">
 
-2° Huiles moyennes.
+</td>
+      <td align="center">
 
-a) Pétrole lampant :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-sous condition d'emploi : indice 15 bis, hectolitre, taxe intérieure FOD.
+-----destinées à être utilisées comme carburants ou combustibles ; 
 
-autre : indice 16, hectolitre, taxe intérieure gazole.
+</td>
+      <td align="center">
 
-b) Carburéacteurs, type pétrole lampant :
+6 
 
-sous condition d'emploi : indice 17, hectolitre, 2,54.
+</td>
+      <td align="center">
 
-autre : indice 17 bis, hectolitre, taxe intérieure gazole.
+Hectolitre. 
 
-c) Autres huiles moyennes : indice 18, hectolitre, taxe intérieure gazole.
+</td>
+      <td align="center">
 
-3° Huiles lourdes.
+58,92.
 
-a) Gazole :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
+-----autres. 
 
-présentant un point d'éclair inférieur à 120 °C : indice 22, hectolitre, 42,84.
+</td>
+      <td align="center">
 
-autre : indice 23, hectolitre, exemption.
+9 
 
-fioul lourd : indice 24, 100 kg net, 1,85.
+</td>
+      <td align="center">
 
-b) Huiles lubrifiantes et autres : indice 29, exemption.
+</td>
+      <td align="center">
 
-2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
+Exemption.
 
-destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane
-représente plus de 50 % en poids :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-sous condition d'emploi : indice 30 bis, 100 kg net, 4,68.
+---autres huiles légères et préparations :
 
-autre : indice 30 ter, 100 kg net, 10,76.
+</td>
+      <td align="center">
 
-destiné à d'autres usages : indice 31, exemption.
+</td>
+      <td align="center">
 
-2711-13, Butanes liquéfiés :
+</td>
+      <td align="center">
 
-destinés à être utilisés comme carburant, y compris le mélange spécial de butane et de propane dans lequel le butane
-représente au moins 50 % en poids :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-sous condition d'emploi : indice 31 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+----essences pour moteur :
 
-autres : indice 31 ter, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+</td>
+      <td align="center">
 
-destinés à d'autres usages : indice 32, exemption.
+</td>
+      <td align="center">
 
-2711-14, Ethylène, propylène, butylène et butadiène : indice 33, exemption.
+</td>
+      <td align="center">
 
-2711-19, Autres gaz liquéfiés :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-destinés à être utilisés comme carburant :
+-----essence d'aviation ; 
 
-sous condition d'emploi : indice 33 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+</td>
+      <td align="center">
 
-autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+10 
 
-non dénommés : indice 35, exemption.
+</td>
+      <td align="center">
 
-Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 8,47.
+Hectolitre. 
 
-2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
+</td>
+      <td align="center">
 
-destinés à être utilisés comme carburant : indice 38 bis, 100 mètres cubes, taxe intérieure GNV.
+35,90.
 
-destinés à d'autres usages : indice 39, exemption.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-2712-10, Vaseline : indice 40, exemption.
+-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, autre que le supercarburant correspondant à
+l'indice d'identi-fication n° 11 bis ; 
 
-2712-20, Paraffine contenant en poids moins de 0,75 % d'huile :
+</td>
+      <td align="center">
 
-indice 41, exemption.
+11 
 
-Ex 2712-90, Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés : indice 42,
-exemption.
+</td>
+      <td align="center">
 
-Ex 2715-00, Bitumes fluxés ("cut-backs"), émulsions de bitume de pétrole et similaires : indice 47, exemption.
+Hectolitre. 
 
-3403-11, Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant
-moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice 48, exemption.
+</td>
+      <td align="center">
 
-Ex 3403-19, Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice
-49, exemption.
+60,69.
 
-3811 21-00, Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux : indice 51,
-exemption.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-Ex 3824-90-95, Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou
-supérieure à 7 % en volume sans dépasser 20 % en volume :
+-----supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, contenant un additif spécifique améliorant les
+caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
+dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. 
 
-sous condition d'emploi : indice 52, hectolitre, 1,80.
+</td>
+      <td align="center">
 
-autre, destinée à être utilisée comme carburant : indice 53, hectolitre, 24,54.
+11 bis 
 
-autre, destinée à un usage autre que carburant ou combustible :
+</td>
+      <td align="center">
 
-indice 54, hectolitre, exemption.
+Hectolitre. 
 
-2. Règles d'application.
+</td>
+      <td align="center">
 
-a) et b) (alinéas abrogés).
+63,96.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----carburéacteurs, type essence :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+-----sous condition d'emploi ; 
+
+</td>
+      <td align="center">
+
+13 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+2,54.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+-----carburant pour moteurs d'avions ; 
+
+</td>
+      <td align="center">
+
+13 bis 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+30,20.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+-----autres. 
+
+</td>
+      <td align="center">
+
+13 ter 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+58,92.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----autres huiles légères. 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+58,92.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--huiles moyennes :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---Pétrole lampant :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----destiné à être utilisé comme combustible : 
+
+</td>
+      <td align="center">
+
+15 bis 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+5,66.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+-----autres. 
+
+</td>
+      <td align="center">
+
+16 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+41,69.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---carburéacteurs, type pétrole lampant :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----sous condition d'emploi ; 
+
+</td>
+      <td align="center">
+
+17 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+2,54.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----carburant pour moteurs d'avions. 
+
+</td>
+      <td align="center">
+
+17 bis 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+30,2.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---autres. 
+
+</td>
+      <td align="center">
+
+17 ter 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+41,69.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---autres huiles moyennes. 
+
+</td>
+      <td align="center">
+
+18 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+41,69.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--huiles lourdes :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---gazole :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----destiné à être utilisé comme carburant sous condition d'emploi ; 
+
+</td>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+5,66.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----fioul domestique ; 
+
+</td>
+      <td align="center">
+
+21 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+5,66.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----autres ; 
+
+</td>
+      <td align="center">
+
+22 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+42,84.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+----fioul lourd. 
+
+</td>
+      <td align="center">
+
+24 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+1,85.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---huiles lubrifiantes et autres. 
+
+</td>
+      <td align="center">
+
+29 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-12
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
+représente plus de 50 % en poids) :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---sous condition d'emploi. 
+
+</td>
+      <td align="center">
+
+30 bis 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+4,68.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--autres ; 
+
+</td>
+      <td align="center">
+
+30 ter 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+10,76.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destiné à d'autres usages. 
+
+</td>
+      <td align="center">
+
+31 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Exemption. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-13
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Butanes liquéfiés :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane
+représente au moins 50 % en poids) :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---sous condition d'emploi ; 
+
+</td>
+      <td align="center">
+
+31 bis 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+4,68.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---autres. 
+
+</td>
+      <td align="center">
+
+31 ter 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+10,76.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destinés à d'autres usages. 
+
+</td>
+      <td align="center">
+
+32 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Exemption. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-14
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Ethylène, propylène, butylène et butadiène. 
+
+</td>
+      <td align="center">
+
+33 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-19
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Autres gaz de pétrole liquéfiés :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destinés à être utilisés comme carburant :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---sous condition d'emploi ; 
+
+</td>
+      <td align="center">
+
+33 bis 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+4,68.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+---autres. 
+
+</td>
+      <td align="center">
+
+34 
+
+</td>
+      <td align="center">
+
+100 kg net. 
+
+</td>
+      <td align="center">
+
+10,76. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-21
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Gaz naturel à l'état gazeux :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destiné à être utilisé comme carburant ; 
+
+</td>
+      <td align="center">
+
+36 
+
+</td>
+      <td align="center">
+
+100 m ³. 
+
+</td>
+      <td align="center">
+
+0.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y compris dans le cadre d'essais. 
+
+</td>
+      <td align="center">
+
+36 bis 
+
+</td>
+      <td align="center">
+
+100 m ³. 
+
+</td>
+      <td align="center">
+
+0. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2711-29
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : 
+
+</td>
+      <td align="center">
+
+38 bis 
+
+</td>
+      <td align="center">
+
+100 m ³. 
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable aux produits visés aux indices 36 et 36 bis, selon qu'il est ou non utilisé sous condition
+d'emploi.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destinés à être utilisés comme carburant ;
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--destinés à d'autres usages. 
+
+</td>
+      <td align="center">
+
+39 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Exemption. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2712-10
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Vaseline. 
+
+</td>
+      <td align="center">
+
+40 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2712-20
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Paraffine contenant en poids moins de 0,75 % d'huile. 
+
+</td>
+      <td align="center">
+
+41 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2712-90
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés. 
+
+</td>
+      <td align="center">
+
+42 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2713-20
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Bitume de pétrole. 
+
+</td>
+      <td align="center">
+
+46 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2713-90
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Autres résidus des huiles de pétrole ou de minéraux bitumineux : 
+
+</td>
+      <td align="center">
+
+46 bis 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--autres. 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2715-00
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Mélange bitumeux à base d'asphalte ou de bitume naturel, de bitume de pétrole, de goudron minéral ou de brai de goudron
+minéral. 
+
+</td>
+      <td align="center">
+
+47 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3403-11
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant moins de 70
+% en poids d'huiles de pétrole ou de minéraux bitumineux. 
+
+</td>
+      <td align="center">
+
+48 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 3403-19
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux. 
+
+</td>
+      <td align="center">
+
+49 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3811-21
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux. 
+
+</td>
+      <td align="center">
+
+51 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Taxe intérieure applicable conformément au 3 du présent article. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 3824-90-98
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 %
+en volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+--sous condition d'emploi. 
+
+</td>
+      <td align="center">
+
+52 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+2,1.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- autres. 
+
+</td>
+      <td align="center">
+
+53 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+30,2. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 3824-90-98
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- Superéthanol E 85 destiné à être utilisé comme carburant. 
+
+</td>
+      <td align="center">
+
+55 
+
+</td>
+      <td align="center">
+
+Hectolitre. 
+
+</td>
+      <td align="center">
+
+28,33. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+2. Règles d'application. 
+
+a) et b) (alinéas abrogés). 
 
 c) Pour les produits taxables à la masse, la taxe est assise sur la masse commerciale (masse dans l'air) exprimée en
 kilogrammes. Pour les produits liquides taxables au volume, la taxe est assise sur le volume mesuré à l'état liquide, à la
-température de 15° C et exprimé en litres.
+température de 15° C et exprimé en litres. 
 
 Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'état gazeux destinés à être utilisés comme
 carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
-température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
+température de 0° C et exprimé en centaines de mètres cubes avec deux décimales. 
 
-d) (alinéa abrogé).
+d) (alinéa abrogé). 
 
-Tableau C : Autres huiles minérales.
+Tableau C : Autres produits énergétiques. 
 
-1. Définition (division abrogée).
+1. Définition (division abrogée). 
 
-2. Tarif et règles d'application.
+2. Tarif et règles d'application. 
 
 Les produits visés au présent tableau sont exemptés de la taxe intérieure de consommation, sauf lorsqu'ils sont destinés à
-être utilisés comme carburant ou combustible.
+être utilisés comme carburant ou combustible. 
 
-3. Nomenclature.
+3. Nomenclature. 
 
-Code NC, désignation des produits, indice d'identification
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-Ex 2706, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les
-goudrons reconstitués, destinés à des usages autres que combustibles.
+NUMÉROS DU TARIF DES DOUANES 
 
-2707-10, Benzols, indice 1.
+</th>
+      <th>
 
-2707-20, Toluols, indice 2.
+DÉSIGNATION DES PRODUITS 
 
-2707-30, Xylois, indice 3.
+</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-2707-50-91 et 2707-50-99, Solvant-naphta et autres mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou
-plus de leur volume (y compris les pertes) à 250° C d'après la méthode ASTM D 86, destinés à des usages autres que carburants
-ou combustibles, indice 4.
+1507 à 1518. 
 
-2707-91-00, Huiles de créosote.
+</td>
+      <td align="center">
 
-2707-99-11, Huiles légères brutes distillant 90 % ou plus de leur volume jusqu'à 200° C.
+Huiles végétales, graisses et huiles animales, fractions d'huiles végétales et animales. 
 
-2707-99-19, Autres huiles brutes.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-Ex 2711-12, Propane liquéfié d'une pureté égale ou supérieure à 99 %.
+2705-00. 
 
-Ex 2715-00, Mélanges bitumineux autres que les bitumes fluxés, émulsions de bitume de pétrole et similaires.
+</td>
+      <td align="center">
 
-2901, Hydrocarbures acycliques.
+Gaz de houille, gaz à l'eau, gaz pauvre et gaz similaires, à l'exclusion des gaz de pétrole et autres hydrocarbures gazeux. 
 
-2902-11, Cyclohexane, indice 12.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-Ex 2902-19, Autres hydrocarbures cyclaniques et cycléniques (à l'exclusion de l'azulène et de ses dérivés alkylés), indice
-13.
+2707. 
 
-2902-20, Benzène, indice 14.
+</td>
+      <td align="center">
 
-2902-30, Toluène, indice 15.
+Huiles et autres produits provenant de la distillation des goudrons de houille de haute température ; produits analogues dans
+lesquels les constituants aromatiques prédominent en poids par rapport aux constituants non aromatiques. 
 
-2902-41-00, O-xylène, indice 16.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-2902-42-00, M-xylène, indice 17.
+Ex 2710. 
 
-2902-43-00, P-xylène, indice 18.
+</td>
+      <td align="center">
 
-2902-44, Isomères du xylène en mélange, indice 19.
+Déchets d'huile. 
 
-3403-19-10, Préparation contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux non considérés comme
-constituants de base.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs
-anticorrosifs et autres additifs préparés pour huiles minérales ou autres liquides utilisés aux mêmes fins (à l'exclusion des
-produits repris au 38 11 21 00).
+2708. 
 
-3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
+</td>
+      <td align="center">
+
+Brai et coke de brai de goudron de houille ou d'autres goudrons minéraux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2711-12. 
+
+</td>
+      <td align="center">
+
+Propane liquéfié d'une pureté égale ou supérieure à 99 %. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2712. 
+
+</td>
+      <td align="center">
+
+Slack wax, ozokérite, cire de lignite, cire de tourbe, autres cires minérales et produits similaires obtenus par synthèse ou
+par d'autres procédés, même colorés. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Ex 2713. 
+
+</td>
+      <td align="center">
+
+Coke de pétrole. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2714. 
+
+</td>
+      <td align="center">
+
+Bitumes et asphaltes, naturels, schistes et sables bitumineux ; asphaltites et roches asphaltiques. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2901. 
+
+</td>
+      <td align="center">
+
+Hydrocarbures acycliques. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2902. 
+
+</td>
+      <td align="center">
+
+Hydrocarbures cycliques. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2905 11. 
+
+</td>
+      <td align="center">
+
+Méthanol (alcool méthylique) qui n'est pas d'origine synthétique. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3403. 
+
+</td>
+      <td align="center">
+
+Préparations lubrifiantes et préparations des types utilisés pour l'ensimage des matières textiles, l'huilage ou le graissage
+du cuir, des pelleteries ou d'autres matières, à l'exclusion de celles contenant comme constituants de base moins de 70 % en
+poids d'huiles de pétrole ou de minéraux bitumeux. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3811. 
+
+</td>
+      <td align="center">
+
+Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs anticorrosifs
+et autres additifs préparés pour huiles minérales (y compris l'essence) ou autres liquides utilisés aux même fins que les
+huiles minérales. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3817. 
+
+</td>
+      <td align="center">
+
+Alkylbenzènes, en mélanges et alkylnaphtalène en mélange, autres que ceux des positions 2707 ou 2902. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3824-90-98. 
+
+</td>
+      <td align="center">
+
+Tous produits de la position. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à
 l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
@@ -8760,29 +10507,32 @@ réfaction du taux de la taxe intérieure de consommation applicable aux carbura
 territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse
 en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation
 financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
-mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22.
+mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification
+22. 
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
 le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
 douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au
 plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de
-consommation entrent en vigueur le 1er janvier de l'année suivante.
+consommation entrent en vigueur le 1er janvier de l'année suivante. 
 
-3. - Tout produit destiné à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif ou en vue
-d'accroitre le volume final des carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable
-au carburant dans lequel il est incorporé ou auquel il se substitue.
+3. Tout produit autre que ceux pour lesquels un tarif de taxe intérieure de consommation est prévu au tableau B du 1, destiné
+à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif en vue d'accroître le volume final des
+carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable au carburant équivalent ou au
+carburant dans lequel il est incorporé.
 
-Tout hydrocarbure destiné à être utilisé, mis en vente ou utilisé pour le chauffage est soumis à la taxe intérieure de
-consommation au taux prévu pour les combustibles auxquels il se substitue. Cette disposition ne s'applique ni aux
-hydrocarbures solides tels que le charbon, le lignite, la tourbe et similaires, ni au gaz naturel.
+A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour
+lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du
+1, mis en vente, utilisé ou destiné à être utilisé comme combustible, est soumis à la taxe intérieure de consommation au taux
+applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B. 
 
 4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des
 carburants visés aux indices d'identification 11 et 22 dans des régions ou collectivités territoriales où le taux de la taxe
-intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
+intérieure de consommation diffère du taux appliqué lors de la mise à la consommation : 
 
-a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ;
+a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ; 
 
-b) Peuvent demander le remboursement du différentiel de taxe dans le cas contraire.
+b) Peuvent demander le remboursement du différentiel de taxe dans le cas contraire. 
 
 Pour le paiement du montant différentiel de taxe et des pénalités afférentes, l'administration des douanes et droits
 indirects peut demander une caution. Les obligations déclaratives des opérateurs concernés sont fixées par arrêté du ministre
@@ -9105,11 +10855,11 @@ chargé du budget.
 
 	**Cite**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 40 finances pour 2006
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 40
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ###### Article 265 A
@@ -9152,24 +10902,32 @@ commission.
 
 1. Si les produits visés au tableau B annexé à l'article 265 ci-dessus bénéficient d'un régime fiscal privilégié sous
 conditions d'emploi, les usages autorisés sont fixés par des arrêtés du ministre de l'économie et des finances et du ministre
-de l'industrie.
+de l'industrie. 
 
 Ces arrêtés peuvent prescrire l'adjonction auxdits produits de colorants et d'agents traceurs pour en permettre
-l'identification.
+l'identification. 
+
+Les engins fonctionnant à l'arrêt, qui équipent les véhicules relevant des positions 87-04 et 87-05 du tarif des douanes, et
+dont la liste est fixée par arrêté du directeur général des douanes et droits indirects, peuvent bénéficier du régime fiscal
+privilégié du gazole destiné à être utilisé comme carburant sous condition d'emploi, par remboursement annuel du différentiel
+de taxe intérieure de consommation entre le gazole identifié à l'indice 22 et le gazole identifié à l'indice 20 mentionnés au
+tableau B du 1 de l'article 265. Le bénéfice de ce remboursement est subordonné à l'installation d'un dispositif permettant
+de comptabiliser la consommation annuelle de l'engin. Ce dispositif doit être préalablement agréé dans des conditions fixées
+par arrêté du directeur général des douanes et droits indirects. 
 
 2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
 privilégié, ainsi que les opérateurs introduisant ces produits sur le territoire national, doivent se conformer aux mesures
 prescrites par arrêté du ministre chargé du budget en vue de contrôler la vente, la détention, le transport et l'utilisation
 desdits produits. A la première réquisition du service des douanes, les distributeurs doivent notamment pouvoir lui
-communiquer les noms de leurs acheteurs ainsi que les volumes de produits cédés.
+communiquer les noms de leurs acheteurs ainsi que les volumes de produits cédés. 
 
 3. L'utilisation de produits pétroliers à des usages ou dans des conditions n'ouvrant plus droit au régime privilégié dont
 ils ont bénéficié ainsi que l'absence de justification de la destination donnée à ces produits, donnent lieu à l'exigibilité
-du supplément des taxes et redevances applicables.
+du supplément des taxes applicables. 
 
 En cas de détournement des produits de leur destination privilégiée ou d'absence de justification par les distributeurs de la
-destination donnée aux produits, le supplément de taxes et redevances est exigible sur les quantités détournées ou non
-justifiées, sans préjudice des pénalités encourues.
+destination donnée aux produits, le supplément de taxes est exigible sur les quantités détournées ou non justifiées, sans
+préjudice des pénalités encourues.
 
 **Liens relatifs à cet article**
 
@@ -9179,42 +10937,50 @@ justifiées, sans préjudice des pénalités encourues.
 	  - Loi n°2004-639 du 2 juillet 2004 - art. 7-1 (V)
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2004-1485 2004-12-30 art. 92 II finances rectificative pour 2004 (date d'effet)
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 92 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 (V)
 
 
 ###### Article 265 bis
 
-1. Les produits pétroliers visés au tableau B de l'article 265 ci-dessus sont admis en exonération de la taxe intérieure de
-consommation lorsqu'ils sont destinés à être utilisés :
+1. Les produits énergétiques mentionnés à l'article 265 sont admis en exonération des taxes intérieures de consommation
+lorsqu'ils sont destinés à être utilisés : 
 
-a) autrement que comme carburant ou combustible de chauffage ;
+a) autrement que comme carburant ou combustible ; 
 
-b) comme carburéacteur à bord des aéronefs ;
+b) comme carburant ou combustible à bord des aéronefs, à l'exclusion des aéronefs de tourisme privé. 
 
-c) comme carburant pour la navigation maritime dans les eaux communautaires, autre que la navigation d'agrément privée ;
+Pour l'application du présent b, sont considérés comme aéronefs de tourisme privé les aéronefs utilisés, selon le cas, par
+leur propriétaire ou la personne qui en a la disposition dans le cadre d'une location ou à tout autre titre, à des fins
+autres que commerciales ; 
+
+c) comme carburant ou combustible pour la navigation maritime dans les eaux communautaires, y compris la pêche, autre qu'à
+bord de bateaux de plaisance privés. 
+
+Pour l'application du présent c, sont considérés comme bateaux de plaisance privés les bateaux utilisés, selon le cas, par
+leur propriétaire ou la personne qui en a la disposition dans le cadre d'une location ou à tout autre titre, à des fins
+autres que commerciales ; 
 
 d) Comme carburant ou combustible par le ministère de la défense. Cette exonération est accordée par voie de remboursement
 pour les produits consommés du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne s'applique pas aux
-produits pétroliers utilisés dans le cadre des actions n°s 01, 02, 03 et 04 du programme n° 152 "Gendarmerie nationale" de la
-mission interministérielle "Sécurité".
+produits pétroliers utilisés dans le cadre des actions n° s 01, 02, 03 et 04 du programme n° 152 " Gendarmerie nationale " de
+la mission interministérielle " Sécurité ". 
 
-2. Le carburéacteur, identifié aux indices 13 bis et 17 bis du tableau B de l'article 265 du présent code, est exonéré de la
-taxe intérieure de consommation lorsqu'il est utilisé comme carburant pour la construction, la mise au point, les essais ou
-l'entretien des moteurs d'aviation à réaction ou à turbine.
+2. Les carburants destinés aux moteurs d'avions sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés
+dans le cadre de la construction, du développement, de la mise au point, des essais ou de l'entretien des aéronefs et de
+leurs moteurs. 
+
+3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés : 
+
+a) Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
+quinquies A ; 
+
+b) Pour les besoins de l'extraction et de la production de gaz naturel.
 
 Les modalités d'application des exonérations visées ci-dessus sont fixées par arrêté du ministre chargé du budget.
 
@@ -9271,13 +11037,14 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 	  - Code des douanes - art. 266 quindecies (V)
 	  - Code des douanes - art. 266 ter (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 266 quinquies A
 
 
 ###### Article 265 bis A
@@ -9362,6 +11129,65 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	**Cite**:
 
 	  - Code des douanes - art. 265
+
+
+###### Article 265 C
+
+I.- Les produits énergétiques mentionnés à l'article 265 ne sont pas soumis aux taxes intérieures de consommation : 
+
+1° Lorsqu'il s'agit de produits repris aux codes NC 4401 et 4402 de la nomenclature douanière ; 
+
+2° Lorsqu'ils font l'objet d'un double usage, c'est-à-dire lorsqu'ils sont utilisés à la fois comme combustible et pour des
+usages autres que carburant ou combustible. 
+
+Sont notamment considérés comme produits à double usage les combustibles utilisés dans des procédés métallurgiques ou de
+réduction chimique. Le bénéfice de la présente mesure est limité aux seules quantités de produits énergétiques utilisés pour
+ce double usage ; 
+
+3° Lorsqu'ils sont utilisés dans un procédé de fabrication de produits minéraux non métalliques, classé dans la nomenclature
+statistique des activités économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du
+9 octobre 1990 du Conseil, sous la rubrique " DI 26 ". 
+
+II.-Les modalités d'application du I ainsi que les modalités du contrôle de la destination des produits et de leur
+affectation aux usages qui y sont mentionnés sont fixées par décret. 
+
+III.-La consommation de produits énergétiques réalisée dans l'enceinte des établissements de production de produits
+énergétiques n'est pas soumise aux taxes intérieures de consommation mentionnées aux articles 265 et 266 quater lorsque cette
+consommation est effectuée pour la production des produits énergétiques eux-mêmes ou pour la production de tout ou partie de
+l'énergie nécessaire à leur fabrication.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 10 (V)
+	  - Décret n°2008-676 du 2 juillet 2008 - art. 1 (Ab)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 2 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 3 (V)
+	  - Décret n°2008-1001 du 24 septembre 2008 - art. 4 (V)
+	  - Décret n°2008-1001  du 24 septembre 2008 - art. 1 (V)
+	  - Arrêté du 13 octobre 2008 - art. 1 (V)
+	  - Arrêté du 13 octobre 2008 - art. 4 (V)
+	  - Arrêté du 13 octobre 2008 - art. 7 (V)
+	  - Décret n°2012-382 du 19 mars 2012 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+	  - Arrêté du 14 avril 2015 (V)
+	  - Décret n°2016-649 du 20 mai 2016 (V)
+	  - Décret n°2016-649 du 20 mai 2016 - art. 1 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 5
+	  - Code des douanes - art. 266 quinquies (VD)
+	  - Code des douanes - art. 266 quinquies B (VD)
+
+	**Créé par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+	**Cite**:
+
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 266 quater
 
 
 ###### Article 265 octies
@@ -9651,28 +11477,17 @@ s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 
 
 ###### Article 265 sexies
 
-Le taux de la taxe intérieure sur les produits pétroliers perçu sur les carburants utilisés par les chauffeurs de taxi est
-réduit de 100 % dans la limite de 5.000 litres par an pour chaque véhicule.
+Les exploitants de taxis bénéficient d'un remboursement de la taxe intérieure de consommation applicable au gazole repris à
+l'indice d'identification 22 du 1 du tableau B du 1 de l'article 265 et au supercarburant repris à l'indice d'identification
+11 du même tableau, utilisés pour les besoins de leur activité professionnelle. 
 
-A compter du 1er janvier 1990, la taxe intérieure de consommation sur les carburants utilisés par les commerçants sédentaires
-dont le principal établissement est situé dans une commune de moins de 3.000 habitants et qui réalisent une partie de leur
-chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1.500 litres par an et par entreprise.
-
-A compter du 1er janvier 1999, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
-produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de transport public en commun
-de voyageurs, dans la limite de 40 000 litres par an et par véhicule. A compter du 1er janvier 2000, ces taxes sont
-remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers.
-
-Les modalités d'application de ces mesures sont fixées par décret.
-
-A compter du 1er janvier 1999, la limite visée au premier alinéa est fixée à 9 000 litres pour le gaz naturel véhicules et
-pour le gaz de pétrole liquéfié carburant.
+Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité
+territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants
+concernés après application éventuelle de la modulation décidée par les conseils régionaux ou l'Assemblée de Corse dans les
+conditions prévues au 2 de l'article 265 et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le
+supercarburant.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Liens**:
 
@@ -9720,8 +11535,11 @@ pour le gaz de pétrole liquéfié carburant.
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (V) JORF 31 décembre 2000
-	  - Loi - art. 41 () JORF 31 décembre 2000
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+	**Cite**:
+
+	  - Code des douanes - art. 265
 
 
 ###### Article 265 ter
@@ -9847,16 +11665,16 @@ En cas de relèvement ou d'abaissement des taux de la taxe intérieure de consom
 et assimilés) du 1 de l'article 265 ci-dessus et des autres taxes perçues sur les mêmes produits, ce relèvement ou cet
 abaissement s'applique aux produits déclarés pour la consommation avant la date de changement du tarif existant en stock à
 cette date chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
-l'exception des produits se trouvant dans les cuves des stations-services.
+l'exception des produits se trouvant dans les cuves des stations-services. 
 
 Le relèvement n'est pas recouvré et l'abaissement de taxes n'est pas remboursé lorsque leur montant est inférieur à 300
-euros.
+euros. 
+
+Ce dispositif ne s'applique pas aux réductions ou augmentations de la réfaction du taux de la taxe intérieure de consommation
+votées par les conseils régionaux ou l'Assemblée de Corse conformément aux dispositions du troisième alinéa du 2 de l'article
+265.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -9866,12 +11684,11 @@ euros.
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001
-	  - Loi n°2001-1276 2001-12-28 art. 51 II, X Finances rectificative pour 2001 JORF 29 décembre 2001
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 66
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265 (V)
 
 
 ###### Article 266 decies
@@ -9888,9 +11705,9 @@ douze mois précédant la date limite de dépôt de la déclaration. Cette dédu
 concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
-assouplissants pour le linge, les matériaux d'extraction, les produits antiparasitaires à usage agricole et les produits
-assimilés mentionnés respectivement aux 5, 6 et 7 du I de l'article 266 sexies donnent lieu, sur demande, à remboursement de
-la taxe acquittée lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
+assouplissants pour le linge, les matériaux d'extraction, mentionnés respectivement aux 5, et 6 du I de l'article 266 sexies
+donnent lieu, sur demande, à remboursement de la taxe acquittée lorsqu'ils sont expédiés à destination d'un Etat membre de la
+Communauté européenne ou exportés.
 
 4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales dont ils réceptionnent les déchets.
@@ -9898,7 +11715,7 @@ avec les personnes physiques ou morales dont ils réceptionnent les déchets.
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
 
-6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5, 6 et 7 du I de l'article 266 sexies
+6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5, et 6 du I de l'article 266 sexies
 sont autorisées à acquérir ou importer, en suspension de la taxe générale sur les activités polluantes, ces mêmes produits
 qu'elles destinent à une livraison à l'exportation ou vers un autre Etat membre de la Communauté européenne, dans la limite
 de la taxe générale sur les activités polluantes qui aurait été acquittée au cours de l'année précédente si les livraisons
@@ -9913,10 +11730,6 @@ les activités polluantes au cas où les produits ne recevraient pas la destinat
 Pour l'application du deuxième alinéa, toute personne qui a été autorisée à acquérir ou importer des produits visés ci-dessus
 en suspension de la taxe générale sur les activités polluantes est tenue au paiement de tout ou partie de la taxe, lorsque
 les conditions auxquelles est subordonné l'octroi de cette suspension ne sont pas remplies.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -9949,8 +11762,7 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi - art. 51 (V) JORF 29 décembre 2001
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 	**Codifié par**:
 
@@ -10038,23 +11850,6 @@ Matériaux d'extraction.
 
 Matériaux d'extraction, 0,10.
 
-Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
-produits assimilés.
-
-Catégorie 1, 0.
-
-Catégorie 2, 381,12.
-
-Catégorie 3, 609,80.
-
-Catégorie 4, 838,47.
-
-Catégorie 5, 1067,14.
-
-Catégorie 6, 1372,04.
-
-Catégorie 7, 1676,94.
-
 Installations classées.
 
 Délivrance d'autorisation :
@@ -10101,53 +11896,7 @@ le protoxyde d'azote.
 
 5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
 
-7. Les substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
-produits assimilés mentionnés au 7 du I de l'article 266 sexies sont réparties en sept catégories affectées d'un taux
-unitaire spécifique en fonction de leurs caractéristiques écotoxicologiques et toxicologiques définies par les arrêtés pris
-pour l'application de l'article R. 231-51 du code du travail :
-
-Danger toxicologique, phrase de risque écotoxicologique.
-
-T+ ou T aggravé par l'une des phrases de risque R 33, R 40, R 45, R 46, R 48, R 49 ou R 60 à R 64 :
-
-- R 50/53, R 50 : catégorie 7.
-
-- R 51/53 : catégorie 6.
-
-- R 52/53, R 52 ou R 53 : catégorie 5.
-
-- autres : catégorie 4.
-
-T non aggravé par l'une des phrases de risque précitées ou Xn aggravé par l'une des phrases de risque R 33, R 40, R 48 ou R
-62 à R 64 :
-
-- R 50/53, R 50 : catégorie 6.
-
-- R 51/53 : catégorie 5.
-
-- R 52/53, R 52 ou R 53 : catégorie 4.
-
-- autres : catégorie 3.
-
-Xn non aggravé par l'une des phrases de risque précitées, Xi ou C :
-
-- R 50/53, R 50 : catégorie 5.
-
-- R 51/53 : catégorie 4.
-
-- R 52/53, R 52 ou R 53 : catégorie 3.
-
-- autres : catégorie 2.
-
-Autres :.
-
-- R 50/53, R 50 : catégorie 4.
-
-- R 51/53 : catégorie 3.
-
-- R 52/53, R 52 ou R 53 : catégorie 2.
-
-- autres : catégorie 1.
+7. Alinéa abrogé ;
 
 8. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre
 un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le
@@ -10156,12 +11905,14 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Nota:**
 
-NOTA : Les modifications induites par le 1° du I de l'article 39 de la loi n°2006-1771 du 30 décembre 2006 entrent en vigueur
-à compter du 1er juillet 2007.
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Conformément à l'article 101 III de la loi n° 2006-1772 du 30 décembre 2006, le 7 de l'article 266 nonies est abrogé à
+compter du 1er janvier 2008.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -10197,11 +11948,15 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 39 (V) JORF 31 décembre 2006
+	  - Loi n°2006-1772 2006-12-30 art. 101 III, V JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 266 septies (M)
+	  - Code des douanes - art. 266 sexies (M)
+	  - Code du travail - art. R231-51 (M)
+	  - Code de l'environnement - art. L571-15 (M)
 
 
 ###### Article 266 octies
@@ -10222,16 +11977,10 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
 
-7. Le poids des substances classées dangereuses selon les critères définis par les arrêtés pris pour l'application de
-l'article R. 231-51 du code du travail qui entrent dans la composition des produits antiparasitaires à usage agricole ou des
-produits assimilés mentionnés au 7 du I de l'article 266 sexies ;
+7. Alinéa abrogé ;
 
 8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L.
 541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -10249,7 +11998,7 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 4
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 
 ###### Article 266 quater
@@ -10692,72 +12441,75 @@ sont fixés par décret en Conseil d'Etat.
 
 ###### Article 266 quinquies B
 
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et 2704 et destinés à être utilisés comme
-combustible sont soumis à une taxe intérieure de consommation.
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 et destinés à être utilisés comme
+combustible sont soumis à une taxe intérieure de consommation. 
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à
 un utilisateur final. Le fait générateur intervient et la taxe est également exigible au moment de l'importation, lorsque les
-produits sont directement importés par l'utilisateur final pour ses besoins propres.
+produits sont directement importés par l'utilisateur final pour ses besoins propres. 
 
-3. La taxe est due :
+3. La taxe est due : 
 
 1° Par le fournisseur des produits. Est considérée comme fournisseur de houilles, de lignites ou de cokes toute personne qui
-se livre au négoce de ces produits ;
+se livre au négoce de ces produits ; 
 
-2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane d'importation.
+2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
+d'importation. 
 
-4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés :
+4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
-a) Autrement que comme combustible ;
+a) Autrement que comme combustible ; 
 
 b) A un double usage, c'est-à-dire lorsqu'ils sont utilisés, dans le même processus, comme combustible et pour des usages
 autres que combustible. Sont notamment considérés comme tels les houilles, les lignites et les cokes utilisés dans des
 procédés métallurgiques ou de réduction chimique. Le bénéfice de la présente mesure est limité aux seules quantités de
-produits affectés à ce double usage ;
+produits affectés à ce double usage ; 
 
 c) Dans un procédé de fabrication de produits minéraux non métalliques classé dans la nomenclature statistique des activités
-économiques dans la Communauté européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037/90 du Conseil, du 9
-octobre 1990, sous la rubrique "DI 26" ;
+économiques dans la Communauté européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du Conseil, du 9
+octobre 1990, sous la rubrique " DI 26 " ; 
 
-2° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont consommés dans
-l'enceinte des établissements de production de produits pétroliers ou assimilés mentionnés au tableau B du 1 de l'article 265
-du présent code, lorsque cette consommation est effectuée pour la production de ces produits énergétiques ou pour la
-production de tout ou partie de l'énergie nécessaire à leur fabrication ;
+2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de consommation mentionnée au 1 lorsqu'ils sont
+consommés dans les conditions prévues au III de l'article 265 C ; 
 
 3° Les modalités d'application des 1° et 2° ainsi que les modalités du contrôle de la destination des produits et de leur
-affectation aux usages qui y sont mentionnés sont fixées par décret.
+affectation aux usages qui y sont mentionnés sont fixées par décret. 
 
-5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
+5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
-quinquies A ;
+quinquies A ; 
 
-2° Pour les besoins de leur extraction et de leur production ;
+2° Pour les besoins de leur extraction et de leur production ; 
 
-3° Pour la consommation des particuliers, y compris sous forme collective.
+3° Pour la consommation des particuliers, y compris sous forme collective ; 
+
+4° Par les entreprises de valorisation de la biomasse, sous réserve qu'elles soient soumises au régime des quotas d'émission
+de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles appliquent des accords
+volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux équivalents ou
+d'accroître leur rendement énergétique. 
 
 6. La taxe intérieure de consommation est assise sur la quantité de produit effectivement livré, exprimée en mégawattheures,
-après arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19  par mégawattheure.
+après arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure. 
 
 7. 1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
-au commencement de leur activité.
+au commencement de leur activité. 
 
 Ils tiennent une comptabilité des livraisons qu'ils effectuent en France et communiquent à l'administration chargée du
 recouvrement le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire. La comptabilité des
-livraisons doit être présentée à toute réquisition de l'administration ;
+livraisons doit être présentée à toute réquisition de l'administration ; 
 
 2° Les fournisseurs non établis en France désignent une personne qui y est établie et a été enregistrée auprès de
 l'administration des douanes et droits indirects pour effectuer en leurs lieu et place les obligations qui leur incombent et
-acquitter la taxe intérieure de consommation.
+acquitter la taxe intérieure de consommation. 
 
 8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits soient soumis à la taxe intérieure de
 consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 sont tenues,
 sans préjudice des pénalités applicables, au paiement de la taxe lorsque ces produits n'ont pas été affectés à la destination
-ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
+ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération. 
 
-9. Le produit de la taxe intérieure de consommation applicable aux houilles, aux lignites et aux cokes est affecté à l'Agence
-de l'environnement et de la maîtrise de l'énergie.
+9. Abrogé (à compter du 1er janvier 2008).
 
 **Liens relatifs à cet article**
 
@@ -10775,14 +12527,15 @@ de l'environnement et de la maîtrise de l'énergie.
 	  - Code des douanes - art. 411 (V)
 	  - Code des douanes - art. 427 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 266 quinquies (M)
+	  - Code des douanes - art. 265 C
+	  - Code des douanes - art. 266 quinquies A
+	  - Code de l'environnement - art. L229-5
 
 
 ###### Article 266 septies
@@ -10805,7 +12558,7 @@ intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au 
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
-c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
 
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
@@ -10820,10 +12573,7 @@ b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat 
 matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre
 utilisation ;
 
-7. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des produits antiparasitaires
-à usage agricole ou des produits assimilés dans la composition desquels entrent des substances classées dangereuses
-mentionnés au 7 du I de l'article 266 sexies ;
+7. Alinéa abrogé ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
@@ -10833,11 +12583,11 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
 du I de l'article 266 sexies.
 
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -10866,112 +12616,105 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L512-1
-	  - Code de l'environnement - art. L512-8
-	  - Règlement CEE 259-93 1993-02-01 Conseil
+	  - Code de l'environnement - art. L512-1 (M)
+	  - Code de l'environnement - art. L512-8 (V)
 
 
 ###### Article 266 sexies
 
-I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
-suivantes :
+I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+suivantes : 
 
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
 d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
 biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
-transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
-février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
-européenne ;
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259 / 93 du Conseil du
+1er février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la
+Communauté européenne ; 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
 d'incinération d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en une année
 lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en Conseil
-d'Etat ;
+d'Etat ; 
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ; 
 
 4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
 cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
-usagées ;
+usagées ; 
 
 b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
-le rejet dans le milieu naturel est interdit ;
+le rejet dans le milieu naturel est interdit ; 
 
 c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes
 aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en systèmes
-ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a).
+ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a). 
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
 préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
-pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à 38099100 du tarif douanier ;
+pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ; 
 
 6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
 matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches
 concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
-caractéristiques et usages sont fixés par décret ;
+caractéristiques et usages sont fixés par décret ; 
 
 b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des
-matériaux mentionnés au a, pour les besoins de sa propre utilisation ;
+matériaux mentionnés au a, pour les besoins de sa propre utilisation ; 
 
-7. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
-achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-produits antiparasitaires à usage agricole ou des produits assimilés relevant de la rubrique 3808 du tarif douanier dont la
-mise sur le marché est autorisée en application de la loi n° 525 du 2 novembre 1943 relative à l'organisation du contrôle des
-produits antiparasitaires à usage agricole et dans la composition desquels entrent des substances classées dangereuses selon
-les critères définis par les arrêtés pris pour l'application de l'article R. 231-51 du code du travail ;
+7. Alinéa abrogé ; 
 
 8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
 commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
-l'environnement ;
+l'environnement ; 
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement ;
+particuliers à l'environnement ; 
 
 9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
 année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
 déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans
-les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
+les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas : 
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
-par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
+par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
 
 1 bis. Aux transferts de déchets industriels spéciaux vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une
-valorisation comme matière ;
+valorisation comme matière ; 
 
-1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ;
+1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ; 
 
 1 quater. Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et
-valorisent la totalité de leur production de biogaz ; (1)
+valorisent la totalité de leur production de biogaz ; (1) 
 
-2. (alinéa abrogé) ;
+2. (alinéa abrogé) ; 
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
-produit sec d'au moins 97 % d'oxyde de silicium ;
+produit sec d'au moins 97 % d'oxyde de silicium ; 
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits
-adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, aux produits antiparasitaires à usage agricole et
-aux produits assimilés mentionnés respectivement au a du 4 et aux 5, 6 et 7 du I du présent article lorsque la première
-livraison après fabrication nationale consiste en une expédition directe à destination d'un Etat membre de la Communauté
-européenne ou en une exportation ;
+adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5, et 6
+du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
+destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ;
+5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
 écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
-du label écologique communautaire aux lubrifiants.
+du label écologique communautaire aux lubrifiants. 
 
-III. - Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
+III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
 installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
 décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
 détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
@@ -10981,9 +12724,11 @@ de l'environnement ou de nuire à la santé humaine.
 
 (1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -11056,13 +12801,8 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
-
-	**Cite**:
-
-	  - Code du travail - art. R231-51
-	  - Loi n°43-525 1943-11-02
-	  - Règlement CEE 259-93 1993-02-01 Conseil
+	  - Loi n°2006-1772 2006-12-30 art. 101 III, V JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
 
 
 ###### Article 266 terdecies
@@ -11253,22 +12993,26 @@ garanties et sanctions prévues en matière de droits de douane.
 
 ###### Article 267
 
-1. Les taxes intérieures de consommation, les redevances et la taxe spéciale visées aux articles 265, 266 ter, 266 quater,
-266 quinquies et 266 quinquies B ci-dessus sont perçues comme en matière de douane ; les infractions sont recherchées,
-constatées et réprimées, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane
-et par les tribunaux compétents en cette matière.
+1. Les taxes intérieures de consommation et la taxe spéciale de consommation respectivement mentionnées aux articles 265, 266
+quater, 266 quinquies et 266 quinquies B sont déclarées, contrôlées et recouvrées selon les règles, garanties, privilèges et
+sanctions prévus par le présent code. Les infractions sont recherchées, constatées et réprimées, les poursuites sont
+effectuées et les instances sont instruites et jugées comme en matière de douane par les tribunaux compétents en cette
+matière. 
 
-Les taxes ou redevances dont sont passibles les produits visés aux articles énumérés ci-dessus, sous réserve des dispositions
-du 2 de l'article 266 quinquies B sont exigibles lors de la mise à la consommation de ces produits sur le marché intérieur et
-dans les cas prévus au II de l'article 57 de la loi n° 92-677 du 17 juillet 1992 et à l'article 267 bis.
+Les taxes intérieures de consommation et la taxe spéciale de consommation mentionnées au précédent alinéa, sous réserve des
+dispositions du 2 des articles 266 quinquies et 266 quinquies B, sont exigibles lors de la mise à la consommation des
+produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus au II de l'article 57 de la
+loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
+Communautés européennes (CEE) n° 91-680 complétant le système commun de la taxe sur la valeur ajoutée et modifiant, en vue de
+la suppression des contrôles aux frontières, la directive (CEE) n° 77-388 et de la directive (CEE) n° 92-12 relative au
+régime général, à la détention, à la circulation et au contrôle des produits soumis à accise et à l'article 267 bis du
+présent code. 
 
-2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes et
-redevances dont il s'agit.
+2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes
+mentionnées au 1. 
 
-3. La taxe intérieure de consommation applicable aux produits pétroliers ou assimilés repris au tableau B de l'article 265
-ci-dessus, les redevances destinées au fonds de soutien aux hydrocarbures ou assimilés prévues à l'article 266 ter ci-dessus
-et la taxe spéciale de consommation mentionnée à l'article 266 quater ci-dessus sont perçues suivant les caractéristiques du
-produit au moment de la mise à la consommation.
+3. Les taxes intérieures de consommation mentionnées au 1 sont perçues suivant les caractéristiques du produit au moment de
+l'exigibilité.
 
 **Liens relatifs à cet article**
 
@@ -11284,50 +13028,50 @@ produit au moment de la mise à la consommation.
 	  - Décret n°93-80 du 19 janvier 1993 - art. 5 (V)
 	  - Arrêté du 9 septembre 1993 - art. 1 (V)
 	  - Arrêté du 6 décembre 1993 - art. 1 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 	  - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
 	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
 	  - Décret n°94-753 du 31 août 1994 - art. 4 (V)
 	  - Décret n°94-1214 du 30 décembre 1994 - art. 6 (V)
 	  - Décret n°97-201 du 5 mars 1997 - art. 6 (V)
 	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 
 	**Cite**:
 
-	  - Loi n°92-677 1992-07-17 art. 57
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 266 quater (M)
-	  - Code des douanes - art. 266 quinquies (M)
-	  - Code des douanes - art. 266 ter (M)
-	  - Code des douanes - art. 267 bis (V)
-	  - Code des douanes 265, 266 ter, 266 quater, 266 quinquies, 266 quinquies B, 267 bis
+	  - Loi n°92-677 du 17 juillet 1992 - art. 57
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 266 quater
+	  - Code des douanes - art. 266 quinquies
+	  - Code des douanes - art. 266 ter
+	  - Code des douanes - art. 267 bis
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ###### Article 267 bis
 
 Par dérogation aux dispositions du a du I de l'article 57 de la loi n° 92-677 du 17 juillet 1992, les combustibles visés au
-tableau B de l'article 265 du présent code sont soumis à la taxe intérieure sur les produits pétroliers, s'ils ne l'ont pas
-déjà supportée, lorsqu'ils sont transportés par un particulier ou pour son compte.
+tableau B de l'article 265 du présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà
+supportée, lorsqu'ils sont transportés par un particulier ou pour son compte. 
 
 Il en est de même des carburants visés au tableau B de l'article 265 du présent code lorsqu'ils sont transportés par un
-particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve.
+particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve. 
 
-L'impôt est exigible dès la réalisation du transport.
+La taxe est exigible dès la réalisation du transport. 
+
+Les carburants déjà soumis à taxation dans un autre État membre de la Communauté européenne et contenus dans les réservoirs
+normaux des véhicules ainsi que ceux contenus dans les réservoirs des conteneurs à usages spéciaux et qui assurent le
+fonctionnement des systèmes dont sont équipés ces conteneurs pendant le transport ne sont pas soumis à la taxe intérieure de
+consommation prévue à l'article 265.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°92-677 1992-07-17 art. 57
-	  - Code des douanes - art. 265 (M)
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 101 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 57
+	  - Code des douanes - art. 265
 
 	**Cité par**:
 
@@ -11337,9 +13081,9 @@ L'impôt est exigible dès la réalisation du transport.
 	  - Code des douanes - art. 100 ter (V)
 	  - Code des douanes - art. 267 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
 ###### Article 268
@@ -14219,62 +15963,55 @@ recouvrement observées par elle à l'égard de ce tiers.
 
 L'administration peut requérir des Etats membres de la Communauté européenne et est tenue de leur prêter assistance en
 matière de recouvrement et d'échange de renseignements, relatifs aux créances de droits, taxes et perceptions de toute nature
-à l'importation et à l'exportation, aux droits d'accises sur les huiles minérales, ainsi qu'aux intérêts, pénalités, amendes
-administratives et frais relatifs à ces créances, à l'exclusion de toute sanction à caractère pénal.
+à l'importation et à l'exportation, aux droits d'accises sur les produits énergétiques mentionnés aux articles 265, 266
+quinquies et 266 quinquies B, ainsi qu'aux intérêts, pénalités, amendes administratives et frais relatifs à ces créances, à
+l'exclusion de toute sanction à caractère pénal. 
 
 Le recouvrement des créances visées par le présent article est confié aux comptables des douanes, à la demande d'un Etat
 membre de la Communauté européenne requérant.
 
 L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté
-européenne dès lors que :
+européenne dès lors que : 
 
 1° Cette demande contient une déclaration certifiant que la créance ou le titre de recouvrement ne sont pas contestés dans
 l'Etat requérant et que les procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent aboutir au
-paiement intégral de la créance ;
+paiement intégral de la créance ; 
 
-2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1500 euros.
+2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1500 euros. 
 
 Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat membre lorsque la demande initiale concerne
 des créances fondées sur un titre exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre en cause
 font l'objet d'une contestation, le délai de cinq ans court à compter de la date à laquelle il a été définitivement statué
-sur la créance ou le titre de l'Etat requérant.
+sur la créance ou le titre de l'Etat requérant. 
 
 Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance,
 l'administration compétente suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance
 compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la procédure de
-recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée.
+recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée. 
 
 Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
-sont notifiés au débiteur.
+sont notifiés au débiteur. 
 
 Ces créances sont recouvrées selon les procédures et sûretés applicables en matière de droits de douane, sous réserve des
-exceptions ci-après :
+exceptions ci-après : 
 
-1° Elles ne bénéficient pas du privilège prévu à l'article 379 ;
+1° Elles ne bénéficient pas du privilège prévu à l'article 379 ; 
 
 2° Les questions relatives à la prescription de l'action en recouvrement sont régies par la législation de l'Etat membre
 requérant. Le caractère interruptif ou suspensif des actes effectués par le comptable public pour le recouvrement des
 créances de l'Etat membre requérant est apprécié selon la législation de cet Etat.
 
 A la demande de l'Etat membre requérant, le comptable prend toutes mesures conservatoires utiles pour garantir le
-recouvrement de la créance de cet Etat.
+recouvrement de la créance de cet Etat. 
 
 Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, tous
 renseignements utiles pour le recouvrement de la créance, à l'exception de ceux qui, sur la base de la législation en
-vigueur, ne pourraient être obtenus pour le recouvrement de leurs propres créances de même nature.
+vigueur, ne pourraient être obtenus pour le recouvrement de leurs propres créances de même nature. 
 
 Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel, ou dont la
 communication serait de nature à porter atteinte à la sécurité ou l'ordre public français.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 29 () JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -14287,9 +16024,18 @@ communication serait de nature à porter atteinte à la sécurité ou l'ordre pu
 	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
 	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
 	**Cite**:
 
-	  - Code des douanes - art. 379 (M)
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 379
 
 
 ### Section 2 : Voies d'exécution
@@ -15181,33 +16927,34 @@ n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un 
 1. Est passible d'une amende comprise entre une et deux fois le montant des droits et taxes éludés ou compromis toute
 infraction aux dispositions des lois et règlements que l'administration des douanes est chargée d'appliquer lorsque cette
 irrégularité a pour but ou pour résultat d'éluder ou de compromettre le recouvrement d'un droit ou d'une taxe quelconque et
-qu'elle n'est pas spécialement réprimée par le présent code.
+qu'elle n'est pas spécialement réprimée par le présent code. 
 
 2. Tombent, en particulier, sous le coup des dispositions du paragraphe précédent, les infractions ci-après quand elles se
-rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes :
+rapportent à des marchandises de la catégorie de celles qui sont passibles de droits ou taxes : 
 
 a) les déficits dans le nombre des colis déclarés, manifestés ou transportés sous acquit-à-caution ou document en tenant
-lieu :
+lieu ; 
 
 b) les déficits sur la quantité des marchandises placées sous un régime suspensif, en magasins et aires de dédouanement ou en
-magasins et aires d'exportation ;
+magasins et aires d'exportation ; 
 
-c) la non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ;
+c) la non-représentation des marchandises placées en entrepôt privé, en entrepôt spécial ou en entrepôt industriel ; 
 
-d) la présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ;
+d) la présentation à destination sous scellé rompu ou altéré de marchandises expédiées sous plombs ou cachets de douane ; 
 
-e) l'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ;
+e) l'inexécution totale ou partielle des engagements souscrits dans les acquits-à-caution et soumissions ; 
 
-f) les excédents sur le poids, le nombre ou la mesure déclarés ;
+f) les excédents sur le poids, le nombre ou la mesure déclarés ; 
 
-g) toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
-d'un dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits pétroliers ;
+g) toute manœuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération, d'un
+dégrèvement ou d'une taxe réduite prévus en ce qui concerne les produits énergétiques mentionnés aux articles 265,266
+quinquies ou 266 quinquies B ; 
 
-h) Toute manoeuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération,
-d'un dégrèvement, d'une déduction, d'un remboursement ou d'une taxe réduite prévus en ce qui concerne l'octroi de mer et
-l'octroi de mer régional ;
+h) Toute manœuvre ayant pour but ou pour résultat de faire bénéficier indûment son auteur ou un tiers d'une exonération, d'un
+dégrèvement, d'une déduction, d'un remboursement ou d'une taxe réduite prévus en ce qui concerne l'octroi de mer et l'octroi
+de mer régional ; 
 
-i) l'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus.
+i) l'inobservation totale ou partielle des obligations prévues à l'article 122 ci-dessus. 
 
 3. Sont également sanctionnées des peines contraventionnelles de la 2e classe toutes infractions compromettant le
 recouvrement de droits de port ou de redevances d'équipement.
@@ -15226,15 +16973,14 @@ recouvrement de droits de port ou de redevances d'équipement.
 
 	**Modifié par**:
 
-	  - Loi n°2004-639 du 2 juillet 2004 - art. 43 () JORF 3 juillet 2004 en vigueur le 1er août 2004
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 	**Cite**:
 
 	  - Code des douanes - art. 122 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 265 (V)
+	  - Code des douanes - art. 266 quinquies (V)
+	  - Code des douanes - art. 266 quinquies B (V)
 
 
 ##### C. - Troisième classe.
@@ -15845,46 +17591,41 @@ prohibition d'exportation ou d'importation.
 
 ###### Article 427
 
-Sont réputés importations sans déclaration de marchandises prohibées :
+Sont réputés importations sans déclaration de marchandises prohibées : 
 
-1° le débarquement en fraude des objets visés à l'article 424-2° ci-dessus ;
+1° le débarquement en fraude des objets visés à l'article 424-2° ci-dessus ; 
 
-2° le défaut de dépôt, dans les délais impartis, de la déclaration prévue par l'article 230-2, ci-dessus ;
+2° le défaut de dépôt, dans les délais impartis, de la déclaration prévue par l'article 230-2, ci-dessus ; 
 
 3° la francisation frauduleuse des navires ainsi que le fait pour les navires de se trouver, sous couvert de documents de
 bord ou de titre de nationalité faux, falsifiés ou inapplicables, dans les eaux territoriales, rades et ports, s'il s'agit de
 navires de tout tonnage, et, dans la zone maritime du rayon des douanes, s'il s'agit de navires de moins de 100 tonneaux de
-jauge nette ou de 500 tonneaux de jauge brute ;
+jauge nette ou de 500 tonneaux de jauge brute ; 
 
 4° l'immatriculation, frauduleuse ou non, sans accomplissement préalable des formalités douanières, d'automobiles, de
-motocyclettes ou d'aéronefs ;
+motocyclettes ou d'aéronefs ; 
 
-5° le détournement de marchandises prohibées de leur destination privilégiée ;
+5° le détournement de marchandises prohibées de leur destination privilégiée ; 
 
-6° le détournement de produits pétroliers d'une destination privilégiée au point de vue fiscal et notamment l'utilisation de
-carburants agricoles à des usages autres que ceux qui sont fixés par la loi.
+6° le détournement de produits énergétiques mentionnés aux articles 265, 266 quinquies ou 266 quinquies B d'une destination
+privilégiée au point de vue fiscal et notamment l'utilisation de carburants agricoles à des usages autres que ceux qui sont
+fixés par la loi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Modifié par**:
 
-	  - Décret n°70-340 1970-04-06 art. 1 JORF 19 avril 1970
-	  - Loi n°68-1247 1968-12-31 art. 15, art. 16, art. 17, art. 18 JORF 3 janvier 1969
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+
+	**Cite**:
+
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 424
 
 	**Cité par**:
 
 	  - Code des douanes - art. 417 (V)
 	  - Code des douanes - art. 434 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 424 (V)
-	  - Code des douanes 424, 230-2
 
 
 ###### Article 428
