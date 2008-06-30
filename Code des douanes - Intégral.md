@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2008-05-24
+Version Consolidée au 2008-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -4478,33 +4478,46 @@ d'application des articles 125 à 130 ci-dessus.
 
 ###### Article 131 bis
 
-1. Les produits pétroliers circulent en France en suspension de taxes entre entrepôts fiscaux, sous couvert du document
-d'accompagnement visé à l'article 66 de la loi n° 92-677 du 17 juillet 1992.
+1. Les produits énergétiques mentionnés à l'article 265 circulent entre entrepôts fiscaux en suspension des taxes intérieures
+de consommation prévues aux articles 265 et 266 quater, sous couvert du document d'accompagnement visé à l'article 66 de la
+loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
+Communautés européennes (CEE) n° 91 / 680 complétant le système commun de taxe sur la valeur ajoutée et modifiant, en vue de
+la suppression des contrôles aux frontières, la directive (CEE) n° 77 / 388 et la directive (CEE) n° 92 / 12 relative au
+régime général, à la détention, à la circulation et au contrôle des produits soumis à accises.
 
 L'entrepositaire agréé destinataire des produits renvoie à l'entrepositaire agréé expéditeur l'exemplaire de ce document
 prévu à cet effet dans les quinze jours à compter de la date d'expédition des produits.
 
 L'entrepositaire agréé expéditeur est déchargé de sa responsabilité par l'apurement du régime suspensif dans les conditions
-fixées au I de l'article 69 de la loi n° 92-677 du 17 juillet 1992.
+fixées au I de l'article 69 de la loi n° 92-677 du 17 juillet 1992. 
 
-2. A défaut d'apurement dans les deux mois à compter de la date d'expédition, l'expéditeur informe l'administration.
+2.A défaut d'apurement dans les deux mois à compter de la date d'expédition, l'expéditeur informe l'administration.
 
 A défaut d'apurement dans les quatre mois à compter de la date d'expédition des produits, l'impôt est liquidé au taux en
-vigueur à la date d'expédition des produits et acquitté par l'expéditeur selon les règles applicables en matière de douane.
+vigueur à la date d'expédition des produits et acquitté par l'expéditeur selon les règles applicables en matière de douane. 
+
+3. Le document d'accompagnement prévu au 1 peut être établi au moyen du service de suivi informatique des mouvements de
+marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects (1).
+
+**Nota:**
+
+Le 3 du présent article entre en vigueur à compter du 1er juillet 2008.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cite**:
 
-	  - Loi n°92-677 1992-07-17 art. 66, art. 69
+	  - Loi n°92-677 du 17 juillet 1992 - art. 66
+	  - Loi n°92-677 du 17 juillet 1992 - art. 69
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 97 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 78
+
+	**Abrogé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 
 ## Chapitre III : Entrepôt de douane
@@ -11975,14 +11988,10 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 7. Alinéa abrogé ;
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L.
-541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers mentionnés au I de l'article L.  541-10-1 du code de
+l'environnement, pour lesquels la contribution prévue à ce même  article n'a pas été acquittée.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -11994,7 +12003,7 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 
 ###### Article 266 quater
@@ -12653,10 +12662,6 @@ du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
@@ -12684,12 +12689,7 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L512-1 (M)
-	  - Code de l'environnement - art. L512-8 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 
 ###### Article 266 sexies
@@ -12700,9 +12700,9 @@ suivantes :
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
 d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
 biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
-transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259 / 93 du Conseil du
-1er février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la
-Communauté européenne ; 
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+européenne ; 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -12720,8 +12720,8 @@ b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles vi
 le rejet dans le milieu naturel est interdit ; 
 
 c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes
-aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en systèmes
-ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a). 
+aux catégories suivantes (Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées en systèmes ouverts
+(3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2), huiles de démoulage/ décoffrage (6 C/ K. 4a). 
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -12747,12 +12747,9 @@ b. Tout exploitant d'un établissement mentionné au a dont les activités, figu
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
 particuliers à l'environnement ; 
 
-9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
-année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
-déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans
-les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
-
-II.-La taxe ne s'applique pas : 
+9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
+émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
+contribution financière ou en nature qui y est prévue. II.-La taxe ne s'applique pas : 
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
 par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
@@ -12775,10 +12772,10 @@ adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, menti
 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
 destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
 
-5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants. 
 
@@ -12793,10 +12790,6 @@ de l'environnement ou de nuire à la santé humaine.
 (1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -12869,8 +12862,7 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 2006-12-30 art. 101 III, V JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 
 ###### Article 266 terdecies

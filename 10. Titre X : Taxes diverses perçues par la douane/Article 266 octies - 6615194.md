@@ -18,14 +18,10 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 7. Alinéa abrogé ;
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés mentionnés à la première phrase du premier alinéa de l'article L.
-541-10-1 du code de l'environnement, mis à disposition ou distribués par les personnes mentionnées au même article.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers mentionnés au I de l'article L.  541-10-1 du code de
+l'environnement, pour lesquels la contribution prévue à ce même  article n'a pas été acquittée.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -37,4 +33,4 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)

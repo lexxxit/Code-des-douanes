@@ -6,9 +6,9 @@ suivantes :
 1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
 d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
 biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
-transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259 / 93 du Conseil du
-1er février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la
-Communauté européenne ; 
+transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
+février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
+européenne ; 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -26,8 +26,8 @@ b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles vi
 le rejet dans le milieu naturel est interdit ; 
 
 c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes
-aux catégories suivantes (Europalub / CPL) : huiles pour moteur deux-temps (1C / D. dt), graisses utilisées en systèmes
-ouverts (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes (6B / B2), huiles de démoulage / décoffrage (6 C / K. 4a). 
+aux catégories suivantes (Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées en systèmes ouverts
+(3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2), huiles de démoulage/ décoffrage (6 C/ K. 4a). 
 
 5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
 achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
@@ -53,12 +53,9 @@ b. Tout exploitant d'un établissement mentionné au a dont les activités, figu
 d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
 particuliers à l'environnement ; 
 
-9. Toute personne, mentionnée au premier alinéa de l'article L. 541-10-1 du code de l'environnement, qui, au titre d'une
-année civile, a mis à disposition, fait mettre à disposition, distribué ou fait distribuer des imprimés (Dispositions
-déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) dans
-les conditions mentionnées audit article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
-
-II.-La taxe ne s'applique pas : 
+9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
+émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
+contribution financière ou en nature qui y est prévue. II.-La taxe ne s'applique pas : 
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
 par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
@@ -81,10 +78,10 @@ adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, menti
 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
 destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
 
-5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants. 
 
@@ -99,10 +96,6 @@ de l'environnement ou de nuire à la santé humaine.
 (1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -175,5 +168,4 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 2006-12-30 art. 101 III, V JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)

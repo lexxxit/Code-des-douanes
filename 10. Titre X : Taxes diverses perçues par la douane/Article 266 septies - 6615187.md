@@ -45,10 +45,6 @@ du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Loi n°85-696 du 11 juillet 1985 - art. 2 (Ab)
@@ -76,9 +72,4 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L512-1 (M)
-	  - Code de l'environnement - art. L512-8 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
