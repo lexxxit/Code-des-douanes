@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2008-12-20
+Version Consolidée au 2008-12-29
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7547,19 +7547,19 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 ###### Article 224
 
-1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté en 2007
-et 2008 au Conservatoire de l'espace littoral et des rivages lacustres.
+1.A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
+de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté pour
+les années 2007 à 2011 au Conservatoire de l'espace littoral et des rivages lacustres.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
-Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
-affecté au budget général.
+Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2, 5 % du montant dudit produit. Ce prélèvement est
+affecté au budget général. 
 
-Il est recouvré par année civile.
+Il est recouvré par année civile. 
 
 En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
-lorsque son montant excède 8 euros.
+lorsque son montant excède 8 euros. 
 
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
 le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année. 
@@ -7574,7 +7574,7 @@ des sports ;
 - les bateaux classés au titre des monuments historiques conformément à l'article L. 622-1 du code du patrimoine ;
 
 - les bateaux d'intérêt patrimonial ayant reçu le label de la Fondation du patrimoine maritime et fluvial, dans des
-conditions fixées par décret.
+conditions fixées par décret. 
 
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
@@ -7583,7 +7583,7 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 - 55 % pour les bateaux de 20 à 25 ans,
 
-- 80 % pour le bateaux de plus de 25 ans.
+- 80 % pour le bateaux de plus de 25 ans. 
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
 euros.
@@ -7606,12 +7606,16 @@ euros.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 52
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 65
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 	**Cite**:
 
 	  - Code des douanes - art. 223
-	  - Code du patrimoine - art. L622-1
+	  - Code du patrimoine - art. L122-1
 
 
 ###### Article 225
@@ -8915,20 +8919,38 @@ Hectolitre.
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>Supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que les supercarburants correspondant
+aux indices d'identification 11 et 11 bis, et contenant jusqu'à 10 % v / v d'éthanol, 22 % v / v d'éthers contenant 5
+d'atomes de carbone, ou plus, par molécule et d'une teneur en oxygène maximum de 4 % en m / m d'oxygène. 
+
+Ce super-carburant est dénommé E10. 
+
+</td>
+      <td>
+
+11 ter 
+
+</td>
+      <td>
+
+Hectolitre
+
+</td>
+      <td>
+
+60,69
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 ----carburéacteurs, type essence :
 
 </td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
-      <td align="center">
-
-</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
       <td align="center">
@@ -10300,7 +10322,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-28,33. 
+23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010, puis 17,29 à compter du 1er janvier 2011. 
 
 </td>
     </tr>
@@ -10910,7 +10932,8 @@ chargé du budget.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 17
 
 
 ###### Article 265 A
@@ -11100,29 +11123,190 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 
 ###### Article 265 bis A
 
-1. Compte tenu du bilan environnemental global, notamment en termes de lutte contre les émissions de gaz à effet de serre, de
-leur production et de leur consommation, les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés
-comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe
-intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265. Cette réduction est modulée en
-fonction de l'évolution des cours des matières premières agricoles et des énergies fossiles et de la productivité des
-filières agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité des biocarburants par rapport aux
-carburants fossiles sans toutefois aboutir à une surcompensation de l'écart de prix de revient entre ces produits. A compter
-du 1er janvier 2008, cette réduction est fixée à :
+1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
+bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation dont les
+tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction
+du contexte économique. Cette réduction est fixée comme suit : 
 
-a) 22 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
-au gazole ou au fioul domestique ;
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="3">
 
-b) 27 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
-composante alcool est d'origine agricole ;
+DÉSIGNATION DES PRODUITS 
 
-c) 27 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
-repris à l'indice d'identification 55 ;
+</th>
+      <th colspan="3">
 
-d) 22 euros par hectolitre pour le biogazole de synthèse et 27 euros par hectolitre pour les esters éthyliques d'huile
-végétale, incorporés au gazole ou au fioul domestique.
+RÉDUCTION 
+
+(en euros par hectolitre) 
+
+</th>
+    </tr>
+    <tr>
+      <th colspan="3">
+
+Année 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+2009 
+
+</th>
+      <th>
+
+2010 
+
+</th>
+      <th>
+
+2011 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2. Esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine
+agricole 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4. Alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85 repris à l'indice
+d'identification 55 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5. Biogazole de synthèse 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure
-de consommation visée aux b et c du 1.
+de consommation mentionnée au tableau du 1.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques
 d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
@@ -11175,7 +11359,7 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 35 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
 
 	**Cite**:
 
@@ -11619,7 +11803,7 @@ directeur régional des douanes territorialement compétents. A cet effet, ils c
 directeur régional des douanes territorialement compétents. Les huiles végétales sont utilisées dans ce cadre sous l'entière
 responsabilité des utilisateurs. Elles sont soumises à la taxe intérieure de consommation au tarif applicable au gazole
 identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265. Ce tarif est diminué de la valeur de la réduction
-appliquée aux esters méthyliques d'huile végétale mentionnés au a du 1 de l'article 265 bis A.
+appliquée aux esters méthyliques d'huile végétale mentionnés au 1 du tableau du 1 de l'article 265 bis A.
 
 Un décret détermine les conditions d'application du 2.
 
@@ -11667,14 +11851,14 @@ Un décret détermine les conditions d'application du 2.
 	  - Arrêté du 28 février 2017 (V)
 	  - Code des douanes - art. 265 quater (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°2006-11 2006-01-05
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 265 bis (M)
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 265 bis
 
 
 ###### Article 266
@@ -12273,41 +12457,42 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 
 ###### Article 266 quindecies
 
-I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis du tableau B du 1
-de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même tableau sont
-redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
+I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du
+tableau B du 1 de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même
+tableau sont redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes. 
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
-chaque carburant concerné.
+chaque carburant concerné. 
 
-III. - Son taux est fixé à 1,75 % en 2006. Il est majoré de 1,75 point en 2007, de 2,25 points en 2008, de 0,50 point en 2009
-et de 0,75 point en 2010.
+III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en 2007, de 2, 25 points en 2008, de 0, 50 point en
+2009 et de 0, 75 point en 2010. 
 
 Lors de la mise à la consommation des carburants mentionnés au I, les redevables émettent des certificats représentatifs des
-quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au 1 de l'article 265 bis A que ces carburants
-incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret.
+quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces
+carburants incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
 
-Le taux du prélèvement est diminué :
+Le taux du prélèvement est diminué : 
 
-1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de produits mentionnés aux b et c du 1 de
-l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
-calorifique inférieur, de ces carburants, soumises au prélèvement ;
+1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de produits mentionnés aux 3 et 4 du tableau du 1
+de l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
+calorifique inférieur, de ces carburants, soumises au prélèvement ; 
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans
-les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
-soumises au prélèvement.
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux 1, 2, 5 et 6 du tableau du 1 de l'article
+précité inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique
+inférieur, de ce carburant, soumises au prélèvement. 
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
 produits mentionnés au I à usage de carburant.
 
 V. - Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
 la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
-du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95.
+du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
-VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2010.
+VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier
+2010. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
-undecies.
+undecies. 
 
 Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
 privilèges que ceux prévus par le présent code.
@@ -12317,14 +12502,10 @@ privilèges que ceux prévus par le présent code.
 	**Cite**:
 
 	  - CGI 298
-	  - Code des douanes - art. 265 (M)
-	  - Code des douanes - art. 265 bis (M)
-	  - Code des douanes - art. 266 undecies (M)
-	  - Code des douanes - art. 95 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 265 bis
+	  - Code des douanes - art. 266 undecies
+	  - Code des douanes - art. 95
 
 	**Liens**:
 
@@ -12341,6 +12522,11 @@ privilèges que ceux prévus par le présent code.
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 7 (V)
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
 	  - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 17
 
 	**Cité par**:
 
@@ -13192,42 +13378,42 @@ consommation prévue à l'article 265.
 
 1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler
 les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
+de la Martinique et de la Réunion, sont passibles d'un droit de consommation. 
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces
-délibérations prennent effet au plus tôt au 1er janvier 2001.
+délibérations prennent effet au plus tôt au 1er janvier 2001. 
 
 Pour les produits mentionnés au premier alinéa ayant fait l'objet d'une homologation en France continentale en application de
 l'article 572 du code général des impôts, le montant du droit est déterminé par application du taux fixé par le conseil
-général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en
-France continentale.
+général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en
+France continentale. 
 
 Pour les produits mentionnés au premier alinéa n'ayant pas fait l'objet d'une homologation en France continentale, le montant
 du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil,
-supérieur à 66 % et au plus égal à 100 % du prix de vente au détail en France continentale correspondant à la moyenne
-pondérée des prix homologués.
+supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en France continentale correspondant à la moyenne
+pondérée des prix homologués. 
 
 Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article
-575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
+575 A du code général des impôts qui frappent les produits de même catégorie en France continentale. 
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un minimum de perception spécifique fixé
 pour 1000 unités, tel que mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de consommation sur
 les cigarettes dans leur circonscription administrative. Ce minimum de perception ne peut être supérieur au droit de
 consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale
-des cigarettes de la classe de prix la plus demandée.
+des cigarettes de la classe de prix la plus demandée. 
 
 Les conseils généraux des départements d'outre-mer peuvent également établir un minimum de perception fixé pour 1 000 grammes
 pour les tabacs fine coupe destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les deux tiers du
-minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes.
+minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes. 
 
-2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
+2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales. 
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
-les instances instruites et jugées conformément aux dispositions du code des douanes.
+les instances instruites et jugées conformément aux dispositions du code des douanes. 
 
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à
 fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la
-Martinique à compter du 1er janvier 2001.
+Martinique à compter du 1er janvier 2001. 
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé
 aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en
@@ -13238,21 +13424,21 @@ application du premier alinéa du même article L. 3511-3.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 572, 575 A, 575
-	  - Code des douanes
-	  - Code de la santé publique - art. L3511-3
-
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 85
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 161
 
 	**Cité par**:
 
 	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
 	  - Code des douanes - art. 268 ter (M)
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 575 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 575 A (V)
+	  - Code de la santé publique - art. L3511-3 (V)
 
 
 ###### Article 268 ter
@@ -17089,43 +17275,37 @@ recouvrement de droits de port ou de redevances d'équipement.
 
 ###### Article 412
 
-Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 euros à 1500 euros :
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 euros à 1 500 euros : 
 
 1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
 sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
-taxes de consommation intérieure, ni prohibées ou taxés à la sortie ;
+taxes de consommation intérieure, ni prohibées ou taxés à la sortie ; 
 
 2° toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
-régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse
+déclaration ; 
 
-3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
+3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ; 
 
 4° toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions prévues par la réglementation
-communautaire en matière de franchises ;
+communautaire en matière de franchises ; 
 
-5° tout détournement de marchandises non prohibées de leur destination privilégiée ;
+5° tout détournement de marchandises non prohibées de leur destination privilégiée ; 
 
 6° la présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
-quelque manière que ce soit ;
+quelque manière que ce soit ; 
 
 7° le transport de marchandises par navires étrangers d'un port français à un autre port français, hors les cas prévus à
-l'article 259 ci-dessus ;
+l'article 259 ci-dessus ; 
 
 8° l'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
 manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
-sommairement ;
+sommairement ; 
 
 9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
-non autorisées ;
-
-10° Toute omission ou irrégularité qui a pour but ou pour résultat d'éluder ou de compromettre le recouvrement de la taxe
-visée à l'article 285 septies.
+non autorisées.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -17133,10 +17313,13 @@ visée à l'article 285 septies.
 	  - Code des douanes - art. 370 (M)
 	  - Code des douanes - art. 387 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (M)
+
 	**Cite**:
 
-	  - Code des douanes - art. 259 (M)
-	  - Code des douanes - art. 285 septies (M)
+	  - Code des douanes - art. 259 (V)
 
 
 ##### E. - Cinquième classe.

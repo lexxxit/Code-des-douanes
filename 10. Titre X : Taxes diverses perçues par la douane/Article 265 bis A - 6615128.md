@@ -1,28 +1,189 @@
 # Article 265 bis A
 
-1. Compte tenu du bilan environnemental global, notamment en termes de lutte contre les émissions de gaz à effet de serre, de
-leur production et de leur consommation, les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés
-comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe
-intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265. Cette réduction est modulée en
-fonction de l'évolution des cours des matières premières agricoles et des énergies fossiles et de la productivité des
-filières agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité des biocarburants par rapport aux
-carburants fossiles sans toutefois aboutir à une surcompensation de l'écart de prix de revient entre ces produits. A compter
-du 1er janvier 2008, cette réduction est fixée à :
+1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
+bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation dont les
+tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction
+du contexte économique. Cette réduction est fixée comme suit : 
 
-a) 22 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
-au gazole ou au fioul domestique ;
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="3">
 
-b) 27 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
-composante alcool est d'origine agricole ;
+DÉSIGNATION DES PRODUITS 
 
-c) 27 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
-repris à l'indice d'identification 55 ;
+</th>
+      <th colspan="3">
 
-d) 22 euros par hectolitre pour le biogazole de synthèse et 27 euros par hectolitre pour les esters éthyliques d'huile
-végétale, incorporés au gazole ou au fioul domestique.
+RÉDUCTION 
+
+(en euros par hectolitre) 
+
+</th>
+    </tr>
+    <tr>
+      <th colspan="3">
+
+Année 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+2009 
+
+</th>
+      <th>
+
+2010 
+
+</th>
+      <th>
+
+2011 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2. Esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine
+agricole 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+4. Alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85 repris à l'indice
+d'identification 55 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+5. Biogazole de synthèse 
+
+</td>
+      <td align="center">
+
+15, 00 
+
+</td>
+      <td align="center">
+
+11, 00 
+
+</td>
+      <td align="center">
+
+8, 00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+
+</td>
+      <td align="center">
+
+21, 00 
+
+</td>
+      <td align="center">
+
+18, 00 
+
+</td>
+      <td align="center">
+
+14, 00 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure
-de consommation visée aux b et c du 1.
+de consommation mentionnée au tableau du 1.
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques
 d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
@@ -75,7 +236,7 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1822 du 24 décembre 2007 - art. 35 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
 
 	**Cite**:
 
