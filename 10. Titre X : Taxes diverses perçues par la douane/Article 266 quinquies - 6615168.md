@@ -79,7 +79,7 @@ c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui import
 se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments
 d'assiette nécessaires pour l'établissement de la taxe. 
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du bureau de douane désigné lors de l'enregistrement. 
+10. La taxe est acquittée, selon une périodicité mensuelle, auprès du  service des douanes désigné lors de l'enregistrement. 
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
 final au titre d'un mois, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée avant le 15
@@ -149,10 +149,10 @@ peut s'effectuer par imputation sur le montant de la taxe due.
 
 	**Cite**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 10 (V)
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 5 (V)
-	  - Code des douanes - art. 265 C (V)
+	  - Loi n°2000-108 du 10 février 2000 - art. 10
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 5
+	  - Code des douanes - art. 265 C
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)

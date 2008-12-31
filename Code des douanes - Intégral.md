@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3994,8 +3994,7 @@ délais spécialement accordés par le service des douanes.
 ###### Article 114
 
 1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant
-liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée et sous l'obligation, pour
-les redevables, de payer une remise de 1 pour 1000 du montant des droits et taxes qui seront liquidés.
+liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée.
 
 1 bis. Sont dispensés, pour la taxe sur la valeur ajoutée, sur leur demande, de fournir la caution mentionnée au 1, les
 personnes qui :
@@ -4009,8 +4008,7 @@ de redressement ou de liquidation judiciaire.
 1 ter. Les conditions de l'octroi et de l'abrogation de la dispense mentionnée au premier alinéa du 1 bis sont fixées par
 décret en Conseil d'Etat.
 
-2. La répartition de la remise de 1 pour 1000 entre le comptable et le Trésor est fixée par arrêté du ministre de l'économie
-et des finances.
+2. (Abrogé).
 
 3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 50000 euros doit être fait par
 virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ;
@@ -4046,11 +4044,7 @@ Cette majoration est recouvrée selon les règles, garanties et sanctions prévu
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 91 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 67
 
 
 ### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.
@@ -7227,11 +7221,11 @@ Cette opération administrative est constatée par l'acte de francisation.
 
 ###### Article 218
 
-1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation soumis à un visa annuel.
+1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation.
 
 2. Toutefois, les navires et bateaux de plaisance ou de sport d'une longueur de coque inférieure à sept mètres et dont la
-puissance de moteur est inférieure à 22 CV sont dispensés de l'obligation de la formalité de francisation s'ils ne se rendent
-pas dans les eaux territoriales étrangères.
+puissance administrative des moteurs est inférieure à 22 CV sont dispensés de l'obligation de la formalité de francisation.
+Une carte de circulation leur est délivrée par les services déconcentrés des affaires maritimes.
 
 **Liens relatifs à cet article**
 
@@ -7240,9 +7234,9 @@ pas dans les eaux territoriales étrangères.
 	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
@@ -7467,61 +7461,291 @@ jaugeage des navires, est inférieure à 24 mètres n'est pas obligatoire.
 
 ###### Article 223
 
-Les navires francisés sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à la charge
-des propriétaires, au 1er janvier de l'année considérée.
+Les navires francisés dont la longueur de coque est supérieure ou égale à 7 mètres ou dont la puissance administrative des
+moteurs est supérieure ou égale à 22 CV sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de
+navigation, à la charge des propriétaires, au 1er janvier de l'année considérée.
 
-L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit :
+L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit : 
 
-Tonnage brut du navire ou longueur de coque, quotité du droit :
+<table>
+  <tbody>
+    <tr>
+      <td width="307" valign="top">
 
-I. - Navires de commerce.
+TONNAGE BRUT
 
-De tout tonnage : exonération.
+du navire ou longueur de coque
 
-II. - Navires de pêche.
+</td>
+      <td width="307" valign="top">
 
-De tout tonnage : exonération.
+QUOTITE DU DROIT
 
-III. - Navires de plaisance ou de sport.
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+      </td><td valign="top" width="307">
 
-a) Droit sur la coque.
+I.-Navires de commerce
 
-De moins de 7 mètres, exonération.
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
 
-De 7 mètres inclus à 8 mètres exclus, 92 euros.
+De tout tonnage
 
-De 8 mètres inclus à 9 mètres exclus, 131 euros.
+</td>
+      <td valign="top" width="307">
 
-De 9 mètres inclus à 10 mètres exclus, 223 euros.
+Exonération
 
-De 10 mètres inclus à 11 mètres exclus, 300 euros.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+      </td><td width="307" valign="top">
 
-De 11 mètres inclus à 12 mètres exclus, 342 euros.
+II.-Navires de pêche
 
-De 12 mètres inclus à 15 mètres exclus, 573 euros.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
 
-De 15 mètres et plus, 1108 euros.
+De tout tonnage
 
-b) Droit sur le moteur des navires (puissance administrative) :
+</td>
+      <td width="307" valign="top">
 
-Jusqu'à 5 CV inclusivement, exonération.
+Exonération
 
-De 6 à 8 CV, 13 euros par CV au-dessus du cinquième.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+      </td><td width="307" valign="top">
 
-De 9 à 10 CV, 15 euros par CV au-dessus du cinquième.
+III.-Navires de plaisance ou de sport
 
-De 11 à 20 CV, 32 euros par CV au-dessus du cinquième.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+      </td><td valign="top" width="307">
 
-De 21 à 25 CV, 36 euros par CV au-dessus du cinquième.
+a) Droit sur la coque
 
-De 26 à 50 CV, 40 euros par CV au-dessus du cinquième.
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
 
-De 51 à 99 CV, 45 euros par CV au-dessus du cinquième.
+De moins de 7 mètres
 
-c) Taxe spéciale :
+</td>
+      <td valign="top" width="307">
+
+Exonération
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 7 mètres inclus à 8 mètres exclus
+
+</td>
+      <td width="307" valign="top">
+
+92 euros
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 8 mètres inclus à 9 mètres exclus
+
+</td>
+      <td valign="top" width="307">
+
+131 euros
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 9 mètres inclus à 10 mètres exclus
+
+</td>
+      <td width="307" valign="top">
+
+223 euros
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 10 mètres inclus à 11 mètres exclus
+
+</td>
+      <td width="307" valign="top">
+
+300 euros
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 11 mètres inclus à 12 mètres exclus
+
+</td>
+      <td width="307" valign="top">
+
+342 euros
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 12 mètres inclus à 15 mètres exclus
+
+</td>
+      <td width="307" valign="top">
+
+573 euros
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 15 mètres et plus
+
+</td>
+      <td valign="top" width="307">
+
+1108 euros
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+      </td><td width="307" valign="top">
+
+b) Droit sur le moteur des navires (puissance administrative)
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+Jusqu'à 5 CV inclusivement
+
+</td>
+      <td width="307" valign="top">
+
+Exonération
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 6 à 8 CV
+
+</td>
+      <td valign="top" width="307">
+
+13 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 9 à 10 CV
+
+</td>
+      <td width="307" valign="top">
+
+15 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 11 à 20 CV
+
+</td>
+      <td valign="top" width="307">
+
+32 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="307">
+
+De 21 à 25 CV
+
+</td>
+      <td valign="top" width="307">
+
+36 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 26 à 50 CV
+
+</td>
+      <td width="307" valign="top">
+
+40 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+
+De 51 à 99 CV
+
+</td>
+      <td valign="top" width="307">
+
+45 euros par CV au-dessus du cinquième
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+      </td><td width="307" valign="top">
+
+c) Taxe spéciale
+
+</td>
+    </tr>
+    <tr>
+      <td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
-taxe spéciale de 57,96 euros par CV.
+taxe spéciale de 57, 96 euros par CV. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
 port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
@@ -7540,9 +7764,9 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 	  - Code des ports maritimes - art. L221-1 (VT)
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
 ###### Article 224
@@ -7561,8 +7785,7 @@ En cas de retard dans le versement du droit de francisation et de navigation par
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
 lorsque son montant excède 8 euros. 
 
-2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
-le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année. 
+2. (Abrogé).
 
 3. Sont exonérés du droit de francisation et de navigation :
 
@@ -7605,10 +7828,6 @@ euros.
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
 
 	**Modifié par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 65
-
-	**Abrogé par**:
 
 	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
@@ -7791,72 +8010,7 @@ annote en conséquence l'acte de francisation.
 	  - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Congés.
-
-###### Article 232
-
-Tout navire français qui prend la mer doit avoir à bord un congé délivré par le service des douanes du port d'attache.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
-
-	**Cité par**:
-
-	  - Code des douanes - art. 410 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 233
-
-Sont dispensés du congé :
-
-a) les navires affranchis de la francisation ;
-
-b) en temps de guerre, les navires hospitaliers remplissant les conditions prescrites par les articles 1er, 2 et 3 de la
-convention signée à La Haye le 13 octobre 1907.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
-
-	**Cité par**:
-
-	  - Code des douanes - art. 238 (V)
-
-	**Cite**:
-
-	  - Convention 1907-10-13, signée à La Haye art. 1, art. 2, art. 3
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
 ### Section 4 : Dispositions diverses relatives à la francisation et aux congés.
-
-###### Article 234
-
-Les actes de francisation et les congés doivent, dans les vingt-quatre heures de l'arrivée du navire, être déposés au bureau
-de douane où ils demeurent jusqu'au départ.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
-
 
 ###### Article 235
 
@@ -7877,24 +8031,24 @@ territoire douanier qui transfère son port d'attache dans le territoire douanie
 
 ###### Article 236
 
-1. L'acte de francisation et le congé ne peuvent être utilisés que pour le service du navire pour lequel ils ont été
-délivrés. Il est interdit aux propriétaires de navires de vendre, donner, prêter ou autrement disposer de ces documents.
+1. L'acte de  francisation ne peut être utilisé que pour le service du navire pour lequel il a  été délivré. Il est interdit
+aux propriétaires de navires de vendre, donner,  prêter ou autrement disposer de ce document.
 
-2. Les propriétaires de navires sont tenus de rapporter l'acte de francisation et le congé au bureau de douane du port
-d'attache, dans un délai de trois mois, si le navire est perdu de quelque manière que ce soit ou si les conditions requises
-pour la francisation ne sont plus satisfaites.
+2. Les propriétaires de navires sont tenus de rapporter l'acte de francisation au bureau de douane du port d'attache, dans un
+délai de trois mois, si le navire est perdu de quelque manière que ce soit ou si les conditions requises pour la francisation
+ne sont plus satisfaites.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 	**Cité par**:
 
 	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (VD)
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 	  - Code des douanes - art. 410 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ### Section 5 : Passeports.
@@ -7921,11 +8075,11 @@ Tout navire étranger qui prend la mer doit avoir à bord un passeport délivré
 
 Le passeport délivré aux navires de plaisance ou de sport appartenant à des personnes physiques ou morales, quelle que soit
 leur nationalité, ayant leur résidence principale ou leur siège social en France, ou dont ces mêmes personnes ont la
-jouissance, est soumis à un visa annuel donnant lieu à la perception d'un droit de passeport.
+jouissance,  donne lieu à la perception d'un droit de passeport.
 
 Ce droit est à la charge du propriétaire ou de l'utilisateur du navire. Il est calculé dans les mêmes conditions, selon la
 même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu à
-l'article 233 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
+l'article 223 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
 sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en
 vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit de passeport est perçu à un taux triple du droit
 de francisation et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux quintuple de ce
@@ -7940,10 +8094,6 @@ pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 31 (M)
@@ -7952,11 +8102,7 @@ pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Cite**:
-
-	  - Code des douanes - art. 233 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
 ###### Article 239
@@ -10284,9 +10430,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-30,2. 
-
-</td>
+26,27</td>
     </tr>
     <tr>
       <td align="center">
@@ -10932,8 +11076,7 @@ chargé du budget.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 17
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 76 (V)
 
 
 ###### Article 265 A
@@ -11380,8 +11523,10 @@ réduction chimique. Le bénéfice de la présente mesure est limité aux seules
 ce double usage ; 
 
 3° Lorsqu'ils sont utilisés dans un procédé de fabrication de produits minéraux non métalliques, classé dans la nomenclature
-statistique des activités économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du
-9 octobre 1990 du Conseil, sous la rubrique " DI 26 ". 
+statistique des activités économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CE) n° 1893 / 2006
+du Parlement européen et du Conseil du 20 décembre 2006 établissant la nomenclature statistique des activités économiques
+NACE Rév. 2 et modifiant le règlement (CEE) n° 3037 / 90 du Conseil ainsi que certains règlements (CE) relatifs à des
+domaines statistiques spécifiques, sous la division 23.
 
 II.-Les modalités d'application du I ainsi que les modalités du contrôle de la destination des produits et de leur
 affectation aux usages qui y sont mentionnés sont fixées par décret. 
@@ -11415,9 +11560,9 @@ l'énergie nécessaire à leur fabrication.
 	  - Code des douanes - art. 266 quinquies (VD)
 	  - Code des douanes - art. 266 quinquies B (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 70 (V)
 
 	**Cite**:
 
@@ -11936,7 +12081,7 @@ expédiés à destination d'un Etat membre de la Communauté européenne, export
 prévus par l'article 3 de la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie, sont
 autorisées à déduire des cotisations de taxe dues par elles au titre de leurs installations situées dans la zone surveillée
 par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci dans les
-douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 152500 euros ou à
+douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 171000 euros ou à
 concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
@@ -11970,8 +12115,8 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Cite**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 3 (Ab)
-	  - Code des douanes - art. 266 sexies (M)
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 3
+	  - Code des douanes - art. 266 sexies
 
 	**Cité par**:
 
@@ -11997,33 +12142,30 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
 
 
 ###### Article 266 duodecies
 
 Sans préjudice des dispositions du III de l'article 45 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998), la
 taxe mentionnée à l'article 266 sexies est déclarée, contrôlée et recouvrée selon les règles, garanties, privilèges et
-sanctions prévus par le présent code.
+sanctions prévus par le présent code. 
+
+Lorsqu'une personne non établie en France est redevable de la taxe mentionnée à l'article 266 sexies ou doit accomplir des
+obligations déclaratives relatives à cette taxe, elle est tenue de désigner auprès de l'administration une personne morale
+établie en France qui s'engage, en qualité de représentant, à remplir les formalités incombant à cette personne et à
+acquitter la taxe, la garantir et, le cas échéant, acquitter les majorations et pénalités qui s'y rapportent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi - art. 45 (V) JORF 31 décembre 1998
-
 	**Cite**:
 
-	  - Loi n°98-1266 1998-12-30 art. 45 finances
-	  - Code des douanes - art. 266 sexies (M)
+	  - Loi - art. 45 (V)
+	  - Code des douanes - art. 266 sexies (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
 
 	**Cité par**:
 
@@ -12032,122 +12174,944 @@ sanctions prévus par le présent code.
 
 ###### Article 266 nonies
 
-1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
+1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit : 
 
-Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en euros.
+A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 sexies : 
 
-Déchets.
+a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou
+transférés vers une telle installation située dans un autre Etat : 
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée au titre du titre Ier
-du livre V du code de l'environnement pour ladite réception, 38,90.
+<table>
+  <tbody>
+    <tr>
+      <th>
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée au titre du titre Ier du
-livre V du code de l'environnement pour ladite réception :
+DÉSIGNATION DES MATIÈRES 
 
-- ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
-(EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le système de
-management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité, 8,10.
+ou opérations imposables 
 
-- autre, 9,90.
+</th>
+      <th>
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, ou transférés
-vers une telle installation située dans un autre Etat, 9,90.
+UNITÉ 
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, ou transférés vers une telle
-installation située dans un autre Etat, 19,75.
+de perception 
 
-Substances émises dans l'atmosphère.
+</th>
+      <th colspan="7">
 
-Oxydes de soufre et autres composés soufrés, 42,68.
+QUOTITÉ EN EUROS 
 
-Acide chlorhydrique, 42,68.
+</th>
+    </tr>
+    <tr>
+      <th>
 
-Protoxyde d'azote, 64,03.
+</th>
+      <th>
 
-Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 51,22.
+</th>
+      <th>
 
-Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 42,68.
+2009 
 
-Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
+</th>
+      <th>
 
-Lubrifiants, huiles et préparations lubrifiantes, 43,45.
+2010 
 
-Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour
-le linge.
+</th>
+      <th>
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 39.
+2011 
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 168.
+</th>
+      <th>
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 280.
+2012 
 
-Matériaux d'extraction.
+</th>
+      <th>
 
-Matériaux d'extraction, 0,10.
+2013 
 
-Installations classées.
+</th>
+      <th>
+
+2014 
+
+</th>
+      <th>
+
+A compter 
+
+de 2015 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée en application du titre
+Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un
+autre Etat. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+50 
+
+</td>
+      <td align="center">
+
+60 
+
+</td>
+      <td align="center">
+
+70 
+
+</td>
+      <td align="center">
+
+100 
+
+</td>
+      <td align="center">
+
+100 
+
+</td>
+      <td align="center">
+
+100 
+
+</td>
+      <td align="center">
+
+150 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier
+du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre
+Etat et autorisée en vertu d'une réglementation d'effet équivalent : 
+
+A.-Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
+(EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
+management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+13 
+
+</td>
+      <td align="center">
+
+17 
+
+</td>
+      <td align="center">
+
+17 
+
+</td>
+      <td align="center">
+
+24 
+
+</td>
+      <td align="center">
+
+24 
+
+</td>
+      <td align="center">
+
+24 
+
+</td>
+      <td align="center">
+
+32 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+B.-Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+10 
+
+</td>
+      <td align="center">
+
+11 
+
+</td>
+      <td align="center">
+
+11 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+20 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+C.-Autre. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+15 
+
+</td>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+20 
+
+</td>
+      <td align="center">
+
+30 
+
+</td>
+      <td align="center">
+
+30 
+
+</td>
+      <td align="center">
+
+30 
+
+</td>
+      <td align="center">
+
+40 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A du tableau du présent
+a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet
+équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de
+traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle
+est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global. 
+
+Cette réduction est égale à 0, 50 € par tonne en 2009, 0, 60 € par tonne en 2010 et 2011, 0, 70 € par tonne en 2012, 0, 80 €
+par tonne en 2013, 0, 90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016,
+revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ; 
+
+b) Déchets ménagers et assimilés réceptionnés dans une installation d'incinération de déchets ou transférés vers une telle
+installation située dans un autre Etat : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DÉSIGNATION DES MATIÈRES 
+
+ou opérations imposables 
+
+</th>
+      <th>
+
+UNITÉ 
+
+de perception 
+
+</th>
+      <th colspan="5">
+
+QUOTITÉ EN EUROS 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+</th>
+      <th>
+
+</th>
+      <th>
+
+2009 
+
+</th>
+      <th>
+
+2010 
+
+</th>
+      <th>
+
+2011 
+
+</th>
+      <th>
+
+2012 
+
+</th>
+      <th>
+
+A compter 
+
+de 2013 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle
+installation située dans un autre Etat : 
+
+A.-Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
+(EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
+management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+4 
+
+</td>
+      <td align="center">
+
+6, 4 
+
+</td>
+      <td align="center">
+
+6, 4 
+
+</td>
+      <td align="center">
+
+8 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+B.-Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des
+ministres chargés du budget et de l'environnement, est élevé. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+      <td align="center">
+
+5, 6 
+
+</td>
+      <td align="center">
+
+5, 6 
+
+</td>
+      <td align="center">
+
+7 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+C.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg / Nm ³. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+      <td align="center">
+
+3, 5 
+
+</td>
+      <td align="center">
+
+5, 6 
+
+</td>
+      <td align="center">
+
+5, 6 
+
+</td>
+      <td align="center">
+
+7 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+D.-Relevant à la fois du A et du B, du A et du C, du B et du C ou des A, B et C qui précèdent. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+3, 2 
+
+</td>
+      <td align="center">
+
+3, 2 
+
+</td>
+      <td align="center">
+
+4 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Autres. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+7 
+
+</td>
+      <td align="center">
+
+11, 2 
+
+</td>
+      <td align="center">
+
+11, 2 
+
+</td>
+      <td align="center">
+
+14 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du
+tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison
+des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire
+ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de
+l'itinéraire global. 
+
+Cette réduction est égale à 0, 50 € par tonne en 2009 et 2010, 0, 80 € par tonne en 2011 et 2012 et 1 € par tonne à compter
+de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
+tranche de l'impôt sur le revenu.
+
+B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit : 
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+
+DÉSIGNATION DES MATIÈRES 
+
+ou opérations imposables 
+
+</th>
+      <th>
+
+UNITÉ DE PERCEPTION 
+
+</th>
+      <th>
+
+QUOTITÉ 
+
+(en euros) 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés
+vers une telle installation située dans un autre Etat. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+10, 03 (10,32 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle
+installation située dans un autre Etat. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+20, 01 (20,59 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Substances émises dans l'atmosphère : 
+
+- oxydes de soufre et autres composés soufrés 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+43, 24 (44,49 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- acide chlorhydrique 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+43, 24 (44,49 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- protoxyde d'azote 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+64, 86 (66,74 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+51, 89 (53,39 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+43, 24 (44,49 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- poussières totales en suspension 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+64, 86 en 2009 et 85 à compter de 2010 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+44, 02 (45,30 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour
+le linge : 
+
+- dont la teneur en phosphate est inférieure à 5 % du poids 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+39, 51(40,66 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- dont la teneur en phosphate est comprise entre 5 % et 30 % du poids 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+170, 19 (175,13 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- dont la teneur en phosphate est supérieure à 30 % du poids 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+283, 65 (291,88 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Matériaux d'extraction. 
+
+</td>
+      <td align="center">
+
+Tonne 
+
+</td>
+      <td align="center">
+
+0, 20 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Installations classées : 
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 495,15.
+- artisan n'employant pas plus de deux salariés 
 
-- autres entreprises inscrites au répertoire des métiers, 1195,20.
+</td>
+      <td align="center">
+      </td><td align="center">
 
-- autres entreprises, 2492,85.
+501, 61 (516,16 en 2009)
 
-Exploitation au cours d'une année civile (tarif de base) :
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- autres entreprises inscrites au répertoire des métiers 
+
+</td>
+      <td align="center">
+      </td><td align="center">
+
+1 210, 78 (1 245,89 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- autres entreprises 
+
+</td>
+      <td align="center">
+      </td><td align="center">
+
+2 525, 35  (2 598,59 en 2009)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Exploitation au cours d'une année civile (tarifs de base) : 
 
 - installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et
-d'audit (EMAS) défini par le règlement (CE) n° 761-2001 du Parlement européen et du Conseil, du 19 mars 2001, ou dont le
-système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité, 335.
+d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le
+système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
-- Autres installations, 375,54.
+</td>
+      <td align="center">
+      </td><td align="center">
 
-Imprimés (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29
-décembre 2003) mis à disposition ou distribués gratuitement aux particuliers, sans demande préalable de leur part, dans les
-boîtes aux lettres, dans les parties communes des habitations collectives, dans les locaux commerciaux, dans les lieux
-publics ou sur la voie publique, unité kilogramme, 0,9.
+339, 37 (349,21 en 2009)
 
-1 bis. A compter de 2008, les tarifs applicables aux déchets, aux substances émises dans l'atmosphère, aux lubrifiants,
-huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées, aux préparations pour lessives, y compris
-les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour le linge, aux matériaux d'extraction,
-aux installations classées et aux imprimés mentionnés dans le tableau du 1 sont relevés, chaque année, dans la même
-proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
+- autres installations 
 
-2 bis. Le montant minimal annuel de la taxe prévue au 9 du I de l'article 266 sexies est de 450 Euros par redevable.
+</td>
+      <td align="center">
+      </td><td align="center">
 
-3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
-s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
+380, 44 (391,47 en 2009)
 
-3 bis. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, autorisée au titre du
-titre Ier du livre V du code de l'environnement pour ladite réception, après la date limite d'exploitation figurant dans
-l'arrêté préfectoral d'autorisation, sont taxés au taux correspondant aux déchets réceptionnés dans les installations non
-autorisées au titre du titre Ier du livre V du même code.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-4. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
-le protoxyde d'azote.
+Imprimés papiers émis à destination des utilisateurs finaux. 
 
-5. et 6. (alinéas abrogés à compter du 1er janvier 2005).
+</td>
+      <td align="center">
 
-7. Alinéa abrogé ;
+Kg 
 
-8. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre
+</td>
+      <td align="center">
+
+0, 91 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+1 bis.A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la
+limite supérieure de la première tranche du barème de l'impôt sur le revenu. 
+
+Toutefois, l'alinéa précédent ne s'applique : 
+
+a) Qu'à compter du 1er janvier 2010 aux tarifs applicables aux poussières totales en suspension et aux matériaux
+d'extraction ; 
+
+b) Qu'à compter du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
+
+c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1. 
+
+2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
+266 sexies est de 450 € par installation. 
+
+3. Le montant minimal annuel de la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 450 € par
+redevable. 
+
+4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
+s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe. 
+
+5. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée à ce titre en
+application du titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans
+l'arrêté préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non
+autorisées en application du même titre Ier. 
+
+6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
+le protoxyde d'azote. 
+
+7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre
 un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le
 montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au
-produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coefficient multiplicateur.
+produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur. 
+
+8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies
+est fixé à 50 tonnes par an.
 
 **Nota:**
 
-Conformément à l'article 101 III de la loi n° 2006-1772 du 30 décembre 2006, le 7 de l'article 266 nonies est abrogé à
-compter du 1er janvier 2008.
+Les modifications induites par le 1° du I de l'article 39 de la loi n° 2006-1771 du 30 décembre 2006 entrent en vigueur à
+compter du 1er juillet 2007.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -12183,15 +13147,13 @@ compter du 1er janvier 2008.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 2006-12-30 art. 101 III, V JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 septies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code du travail - art. R231-51 (M)
-	  - Code de l'environnement - art. L571-15 (M)
+	  - Code des douanes - art. 266 sexies (V)
+	  - Code de l'environnement (V)
 
 
 ###### Article 266 octies
@@ -12420,7 +13382,7 @@ de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 ###### Article 266 quaterdecies
 
 I. - L'organisme agréé par les ministères chargés de l'environnement, des collectivités territoriales, de l'économie et de
-l'industrie mentionné au deuxième alinéa de l'article L. 541-10-1 du code de l'environnement communique chaque année à
+l'industrie mentionné au premier alinéa du IV de l'article L. 541-10-1 du code de l'environnement communique chaque année à
 l'administration chargée du recouvrement la liste des personnes qui ont acquitté la contribution.
 
 II. - Les redevables mentionnés au 9 du I de l'article 266 sexies liquident et acquittent la taxe due au titre d'une année
@@ -12440,19 +13402,15 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 20 () JORF 31 décembre 2003
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code des douanes - art. 95 (M)
-	  - Code de l'environnement - art. L541-10-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 266 sexies
+	  - Code des douanes - art. 95
+	  - Code de l'environnement - art. L541-10-1
 
 
 ###### Article 266 quindecies
@@ -12626,7 +13584,7 @@ c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui import
 se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments
 d'assiette nécessaires pour l'établissement de la taxe. 
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du bureau de douane désigné lors de l'enregistrement. 
+10. La taxe est acquittée, selon une périodicité mensuelle, auprès du  service des douanes désigné lors de l'enregistrement. 
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
 final au titre d'un mois, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée avant le 15
@@ -12696,13 +13654,13 @@ peut s'effectuer par imputation sur le montant de la taxe due.
 
 	**Cite**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 10 (V)
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 5 (V)
-	  - Code des douanes - art. 265 C (V)
+	  - Loi n°2000-108 du 10 février 2000 - art. 10
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 5
+	  - Code des douanes - art. 265 C
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
 
 
 ###### Article 266 quinquies A
@@ -12746,12 +13704,15 @@ sont fixés par décret en Conseil d'Etat.
 
 ###### Article 266 quinquies B
 
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 et destinés à être utilisés comme
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et 2704 et destinés à être utilisés comme
 combustible sont soumis à une taxe intérieure de consommation. 
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à
 un utilisateur final. Le fait générateur intervient et la taxe est également exigible au moment de l'importation, lorsque les
 produits sont directement importés par l'utilisateur final pour ses besoins propres. 
+
+Dans les autres cas, le fait générateur et l'exigibilité de la taxe interviennent lors de la consommation des houilles,
+lignites et cokes effectuée sur le territoire douanier de la France par un utilisateur final. 
 
 3. La taxe est due : 
 
@@ -12761,18 +13722,17 @@ se livre au négoce de ces produits ;
 2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
 d'importation. 
 
+3° Par l'utilisateur final mentionné au dernier alinéa du 2. 
+
 4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
 a) Autrement que comme combustible ; 
 
-b) A un double usage, c'est-à-dire lorsqu'ils sont utilisés, dans le même processus, comme combustible et pour des usages
-autres que combustible. Sont notamment considérés comme tels les houilles, les lignites et les cokes utilisés dans des
-procédés métallurgiques ou de réduction chimique. Le bénéfice de la présente mesure est limité aux seules quantités de
-produits affectés à ce double usage ; 
+b) A un double usage au sens du 2° du I de l'article 265 C ; 
 
-c) Dans un procédé de fabrication de produits minéraux non métalliques classé dans la nomenclature statistique des activités
-économiques dans la Communauté européenne (NACE), telle qu'elle résulte du règlement (CEE) n° 3037 / 90 du Conseil, du 9
-octobre 1990, sous la rubrique " DI 26 " ; 
+c) Dans un procédé de fabrication de produits minéraux non métalliques, classé dans la nomenclature statistique des activités
+économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CE) n° 1893 / 2006 du Parlement européen et du
+Conseil du 20 décembre 2006 précité, sous la division 23 ; 
 
 2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de consommation mentionnée au 1 lorsqu'ils sont
 consommés dans les conditions prévues au III de l'article 265 C ; 
@@ -12789,13 +13749,14 @@ quinquies A ;
 
 3° Pour la consommation des particuliers, y compris sous forme collective ; 
 
-4° Par les entreprises de valorisation de la biomasse, sous réserve qu'elles soient soumises au régime des quotas d'émission
-de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles appliquent des accords
-volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux équivalents ou
-d'accroître leur rendement énergétique. 
+4° Par les entreprises de valorisation de la biomasse dont les achats de combustibles et d'électricité utilisés pour cette
+valorisation représentent au moins 3 % de leur chiffre d'affaires, sous réserve qu'elles soient soumises au régime des quotas
+d'émission de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles appliquent
+des accords volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux
+équivalents ou d'accroître leur rendement énergétique. 
 
-6. La taxe intérieure de consommation est assise sur la quantité de produit effectivement livré, exprimée en mégawattheures,
-après arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure. 
+6. La taxe intérieure de consommation est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après
+arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1, 19 par mégawattheure. 
 
 7. 1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -12834,7 +13795,8 @@ ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 70 (V)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 77 (V)
 
 	**Cite**:
 
@@ -12849,34 +13811,28 @@ Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitu
 
 1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
 
-1 bis. Le transfert des déchets industriels spéciaux à la date figurant sur le document de suivi adressé aux autorités
-compétentes du pays d'expédition en application du règlement (CEE) n° 259/93 du Conseil du 1er février 1993, précité ;
+1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays
+d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant
+les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
-méthaniques, solvants et autres composés organiques volatils ;
+méthaniques, solvants et autres composés organiques volatils ainsi que de poussières totales en suspension ;
 
 3. (alinéa abrogé) ;
 
-4. a. La première livraison après fabrication nationale, la livraison sur le marché intérieur en cas d'acquisition
-intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
+4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ; 
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
 c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
 
-5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
-lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
-mentionnés au 5 du I de l'article 266 sexies ;
+5. La première livraison ou la première utilisation des préparations ou produits mentionnés au 5 du I de l'article 266
+sexies ;
 
-6. a) La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
-fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des matériaux d'extraction de
-toutes origines mentionnés au a du 6 du I de l'article 266 sexies ;
+6. a) La première livraison des matériaux d'extraction mentionnés au a du 6 du I de l'article 266 sexies ;
 
-b) L'extraction, la production ou l'introduction, en provenance d'un autre Etat membre de la Communauté européenne, des
-matériaux mentionnés au a, par une personne mentionnée au b du 6 du I de l'article 266 sexies, pour les besoins de sa propre
-utilisation ;
+b) La première utilisation de ces matériaux ;
 
 7. Alinéa abrogé ;
 
@@ -12917,7 +13873,12 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-8
 
 
 ###### Article 266 sexies
@@ -12925,12 +13886,11 @@ du I de l'article 266 sexies.
 I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes : 
 
-1. Tout exploitant d'une installation de stockage de déchets ménagers et assimilés, tout exploitant d'une installation
-d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage, traitement physico-chimique ou
-biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait
-transférer des déchets industriels spéciaux vers un autre Etat en application du règlement (CEE) n° 259/93 du Conseil du 1er
-février 1993, concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
-européenne ; 
+1. Tout exploitant d'une installation d'élimination par stockage ou par incinération de déchets ménagers et assimilés, tout
+exploitant d'une installation d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage,
+traitement physico-chimique ou biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute
+personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013 / 2006 du
+Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ; 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -12940,30 +13900,29 @@ d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ; 
 
-4. a. Toute personne qui effectue une première livraison après fabrication nationale ou qui livre sur le marché intérieur en
-cas d'acquisition intracommunautaire ou qui met à la consommation des lubrifiants susceptibles de produire des huiles
-usagées ; 
+4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
+utilise pour la première fois des lubrifiants susceptibles de produire des huiles usagées ; 
 
-b. Tout utilisateur d'huiles et préparations lubrifiantes, autres que celles visées au a produisant des huiles usagées dont
-le rejet dans le milieu naturel est interdit ; 
+b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
+autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ; 
 
-c) Tout utilisateur d'huiles et préparations lubrifiantes à usage perdu, autres que celles visées aux a et b, correspondantes
-aux catégories suivantes (Europalub/ CPL) : huiles pour moteur deux-temps (1C/ D. dt), graisses utilisées en systèmes ouverts
-(3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/ B2), huiles de démoulage/ décoffrage (6 C/ K. 4a). 
+c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
+usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub / CPL) : huiles pour
+moteur deux-temps (1C / D. dt), graisses utilisées en système ouvert (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes
+(6B / B2), huiles de démoulage / décoffrage (6C / K. 4a) ; 
 
-5. Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
-achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants
-pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ; 
+5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
+utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
+produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à
+38099100 du tarif douanier ; 
 
-6. a) Toute personne qui livre pour la première fois après fabrication nationale ou qui livre sur le marché intérieur après
-achat, importation ou fabrication dans un autre Etat membre de la Communauté européenne ou qui met à la consommation des
-matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains, ou obtenus à partir de roches
-concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
+6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
+des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de
+roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
 caractéristiques et usages sont fixés par décret ; 
 
-b) Toute personne qui extrait, produit ou introduit, en provenance d'un autre Etat membre de la Communauté européenne, des
-matériaux mentionnés au a, pour les besoins de sa propre utilisation ; 
+b) Toute personne qui, pour les besoins de son activité économique, utilise pour la première fois des matériaux mentionnés au
+a ; 
 
 7. Alinéa abrogé ; 
 
@@ -12977,13 +13936,15 @@ particuliers à l'environnement ;
 
 9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
 émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue. II.-La taxe ne s'applique pas : 
+contribution financière ou en nature qui y est prévue. 
+
+II.-La taxe ne s'applique pas : 
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
 par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
 
-1 bis. Aux transferts de déchets industriels spéciaux vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une
-valorisation comme matière ; 
+1 bis. Aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme
+matière ; 
 
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ; 
 
@@ -13000,10 +13961,10 @@ adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, menti
 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
 destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
+5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants. 
 
@@ -13090,7 +14051,7 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
 
 
 ###### Article 266 terdecies
@@ -13171,67 +14132,46 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 ###### Article 266 undecies
 
 A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
-à l'article 266 sexies sous la forme d'une déclaration annuelle et de trois acomptes. Chaque acompte est égal à un tiers du
-montant de la taxe due au titre de l'année précédente et fait l'objet d'un paiement au plus tard les 10 avril, 10 juillet et
-10 octobre.
+à cet article due à compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font
+l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre de l'année au titre de laquelle la taxe est due.
+Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5
+et 6 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre
+de laquelle la taxe est due. 
 
-Les redevables déposent, au plus tard le 10 avril de chaque année et pour la première fois le 10 avril 2003, la déclaration
-de la taxe due au titre de l'année précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de
-celle-ci. La forme de la déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4
-de l'article 95.
+Les redevables déposent, au plus tard le 10 avril de chaque année, la déclaration de la taxe due au titre de l'année
+précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration
+et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95. 
 
 En cas de cessation définitive d'activité taxable, les assujettis déposent la déclaration susvisée dans les trente jours qui
 suivent la date de fin de leur activité. La taxe due est immédiatement établie. La déclaration est le cas échéant accompagnée
-du paiement.
+du paiement. 
 
 Les assujettis qui transmettent la déclaration de la taxe due au titre de l'année précédente par voie électronique sont
-dispensés de joindre à cette déclaration les pièces mentionnées au 3 de l'article 266 nonies et au 6 de l'article 266 decies.
-Ils doivent néanmoins pouvoir les présenter à première réquisition du service des douanes.
-
-En l'absence de déclaration, les redevables mentionnés au 3 du I de l'article 266 sexies sont avertis par le service des
-douanes qu'à défaut de régularisation sous trente jours à compter de cet avertissement, il sera procédé à une taxation
-d'office égale au produit de la taxe appliquée à l'aéronef le plus fortement taxé par le service des douanes au cours de
-l'année civile précédente, tous redevables confondus, par le nombre de décollages relevés pour le redevable concerné. Les
-éléments nécessaires à l'établissement de cette taxation sont communiqués, à la demande du service, par l'autorité
-responsable de la circulation aérienne. A l'expiration du délai de trente jours et à défaut de déclaration, la taxe est
-établie d'office par le comptable des douanes. Elle est adressée au redevable et devient exigible dès la date de réception de
-cette liquidation. Le paiement intervient au plus tard sous dix jours à compter de cette réception.
-
-Lorsqu'elle est établie, la taxation d'office tient lieu d'assiette pour le calcul des acomptes de l'année.
-
-En cas de non-paiement, de paiement insuffisant ou de non-paiement des acomptes dus au titre de l'année en cours, le service
-des douanes peut, après avoir mis en demeure le redevable de régulariser sous trente jours et à l'expiration de ce délai,
-requérir la saisie conservatoire d'un aéronef exploité par le redevable ou lui appartenant auprès du juge du lieu d'exécution
-de la mesure.
-
-L'ordonnance du juge de l'exécution est transmise par le service des douanes aux autorités responsables de la circulation
-aérienne de l'aérodrome aux fins d'immobilisation de l'aéronef. L'ordonnance est notifiée au redevable et au propriétaire de
-l'aéronef lorsque le redevable est l'exploitant. Ces derniers disposent d'un délai d'un mois pour interjeter appel auprès de
-la cour du lieu d'exécution de la mesure.
-
-Les frais entraînés par la saisie conservatoire sont à la charge du redevable.
-
-Le paiement des sommes dues entraîne la mainlevée de la saisie conservatoire.
+dispensés de joindre à cette déclaration les pièces mentionnées au 6 de l'article 266 decies. Ils doivent néanmoins pouvoir
+les présenter à première réquisition du service des douanes.
 
 L'écart entre le montant de la taxe payée sous la forme d'acomptes et le montant de la taxe porté sur la déclaration fait
-l'objet d'une régularisation. Cette régularisation est liquidée par le redevable sur la déclaration.
+l'objet d'une régularisation. Cette régularisation est liquidée par le redevable sur la déclaration. 
 
 Lorsque le montant des acomptes versés est inférieur à celui de la taxe porté sur la déclaration, le redevable acquitte la
-différence en même temps que le premier acompte de l'année en cours.
+différence en même temps que le premier acompte de l'année en cours. 
 
 Lorsque le montant des acomptes versés est supérieur au montant de la taxe porté sur la déclaration, le redevable est
 autorisé à imputer cet excédent sur les acomptes à venir, jusqu'à épuisement de cet excédent. Si l'excédent constaté est
 supérieur à la somme des trois acomptes dus au titre de l'année en cours, la fraction de taxe excédant la somme des acomptes
-est remboursée et aucun acompte n'est versé au titre de cette année.
+est remboursée et aucun acompte n'est versé au titre de cette année. 
 
-Les acomptes sont versés spontanément par les redevables.
+Les acomptes sont versés spontanément par les redevables. 
 
 Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de la
-Banque de France, lorsque son montant excède 7600 euros.
+Banque de France, lorsque son montant excède 7600 euros. 
 
-La méconnaissance de l'obligation prévue à l'alinéa précédent entraîne l'application d'une majoration de 0,2 % du montant des
-sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles,
-garanties et sanctions prévues en matière de droits de douane.
+La méconnaissance de l'obligation prévue à l'alinéa précédent entraîne l'application d'une majoration de 0, 2 % du montant
+des sommes dont le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les
+règles, garanties et sanctions prévues en matière de droits de douane. 
+
+Si le montant de l'un des acomptes dus est supérieur de plus de 20 % au montant versé, une majoration de 5 % est appliquée
+aux sommes dont le paiement a été différé.
 
 **Liens relatifs à cet article**
 
@@ -13265,18 +14205,14 @@ garanties et sanctions prévues en matière de droits de douane.
 
 	**Modifié par**:
 
-	  - Loi - art. 20 () JORF 31 décembre 2003
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 decies (M)
-	  - Code des douanes - art. 266 nonies (M)
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code des douanes - art. 95 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 266 decies (V)
+	  - Code des douanes - art. 266 septies (V)
+	  - Code des douanes - art. 266 sexies (V)
+	  - Code des douanes - art. 95 (V)
 
 
 ###### Article 267
@@ -13718,82 +14654,309 @@ particulier les traités instituant les communautés européennes.
 
 ###### Article 284 ter
 
-I. - 1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par trimestre ou par fraction de trimestre
-civil :
+I.-1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par trimestre ou par fraction de trimestre
+civil : 
 
-catégorie de véhicules, poids total autorisé en charge ou poids total roulant autorisé (en tonnes), tarifs par trimestres en
-euros (tarif pour suspension pneumatique de l'(des) essieu(x) moteur(s) et tarif pour d'autres systèmes de suspension de
-l'(des) essieu(x) moteur(s)) :
+<table>
+  <tbody>
+    <tr>
+      <td align="center" rowspan="2">CATÉGORIE DE VÉHICULES 
 
-Véhicules automobiles porteurs :
+</td>
+      <td colspan="2" align="center">POIDS TOTAL AUTORISÉ 
 
-a) à deux essieux :
+en charge ou poids 
 
-poids de 12 à 18, tarifs : 68,60 et 99,09.
+total roulant autorisé 
 
-poids égal ou supérieur à 18, tarifs : 91,47 et 137,20.
+(en tonnes) 
 
-b) à trois essieux :
+</td>
+      <td align="center" colspan="2">TARIFS PAR TRIMESTRE 
 
-poids égal ou supérieur à 12, tarifs : 68,60 et 99,09.
+(en euros) 
 
-c) à quatre essieux :
+</td>
+    </tr>
+    <tr>
+      <td align="center">Egal ou 
 
-poids de 12 à 27, tarifs : 68,60 et 99,09.
+supérieur à 
 
-poids égal ou supérieur à 27, tarifs : 91,47 et 135,68.
+</td>
+      <td align="center">Inférieur à 
 
-Véhicules articulés composés d'un tracteur et d'une semi-remorque :
+</td>
+      <td align="center">Suspension 
 
-a) semi-remorque à un essieu :
+pneumatique 
 
-poids de 12 à 20, tarifs : 94,52 et 131,11.
+de l'(des) 
 
-poids de 20 à 27, tarifs : 144,83 et 176,84.
+essieu (x) 
 
-poids égal ou supérieur à 27, tarifs : 221,05 et 251,54.
+moteur (s) 
 
-b) semi-remorque à deux essieux :
+</td>
+      <td align="center">
 
-poids de 12 à 27, tarifs : 94,52 et 131,11.
+Autres systèmes
 
-poids de 27 à 33, tarifs : 117,39 et 163,12.
+de suspension 
 
-poids de 33 à 39, tarifs : 144,83 et 193,61.
+de l'(des) 
 
-poids égal ou supérieur à 39, tarifs : 158,55 et 234,77.
+essieu (x) 
 
-c) semi-remorque à trois essieux :
+moteur (s) 
 
-poids de 12 à 27, tarifs : 94,52 et 131,11.
+</td>
+    </tr>
+    <tr>
+      <td>I.-Véhicules automobiles 
 
-poids de 27 à 38, tarifs : 117,39 et 163,12.
+porteurs : 
 
-poids égal ou supérieur à 38, tarifs : 131,11 et 176,84.
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>a) A deux essieux ; 
 
-Remorques :
+</td>
+      <td align="center">12 
 
-poids égal ou supérieur à 16, tarifs : 68,60.
+</td>
+      <td align="center">
+      </td><td align="center">31 
+
+</td>
+      <td align="center">69 
+
+</td>
+    </tr>
+    <tr>
+      <td>b) A trois essieux ; 
+
+</td>
+      <td align="center">12 
+
+</td>
+      <td align="center">
+      </td><td align="center">56 
+
+</td>
+      <td align="center">87 
+
+</td>
+    </tr>
+    <tr>
+      <td>c) A quatre essieux et 
+
+plus. 
+
+</td>
+      <td align="center">12 
+
+</td>
+      <td align="center">27 
+
+</td>
+      <td align="center">37 
+
+</td>
+      <td align="center">57 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">27 
+
+</td>
+      <td align="center">
+      </td><td align="center">91 
+
+</td>
+      <td align="center">135 
+
+</td>
+    </tr>
+    <tr>
+      <td>II.-Véhicules articulés 
+
+composés d'un tracteur et 
+
+d'une semi-remorque : 
+
+</td>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td>a) Semi-remorque à un 
+
+essieu ; 
+
+</td>
+      <td align="center">12 
+
+</td>
+      <td align="center">20 
+
+</td>
+      <td align="center">4 
+
+</td>
+      <td align="center">8 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">20 
+
+</td>
+      <td align="center">
+      </td><td align="center">44 
+
+</td>
+      <td align="center">77 
+
+</td>
+    </tr>
+    <tr>
+      <td>b) Semi-remorque à deux 
+
+essieux ; 
+
+</td>
+      <td align="center">12 
+
+</td>
+      <td align="center">27 
+
+</td>
+      <td align="center">29 
+
+</td>
+      <td align="center">43 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">27 
+
+</td>
+      <td align="center">33 
+
+</td>
+      <td align="center">84 
+
+</td>
+      <td align="center">117 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">33 
+
+</td>
+      <td align="center">39 
+
+</td>
+      <td align="center">117 
+
+</td>
+      <td align="center">177 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">39 
+
+</td>
+      <td align="center">
+      </td><td align="center">157 
+
+</td>
+      <td align="center">233 
+
+</td>
+    </tr>
+    <tr>
+      <td>c) Semi-remorque à trois 
+
+essieux et plus. 
+
+</td>
+      <td align="center">12 
+
+</td>
+      <td align="center">38 
+
+</td>
+      <td align="center">93 
+
+</td>
+      <td align="center">129 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+      </td><td align="center">38 
+
+</td>
+      <td align="center">
+      </td><td align="center">129 
+
+</td>
+      <td align="center">175 
+
+</td>
+    </tr>
+    <tr>
+      <td>III.-Remorques : 
+
+</td>
+      <td align="center">16 
+
+</td>
+      <td align="center">
+      </td><td align="center">30 
+
+</td>
+      <td align="center">30 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 Les tarifs prévus pour les véhicules équipés de suspension pneumatique de l'essieu moteur sont applicables aux véhicules dont
-l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92/7/CEE du
-Conseil du 10 février 1992, modifiant la directive 85/3/CEE relative aux poids, aux dimensions et à certaines autres
-caractéristiques techniques de certains véhicules routiers.
+l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92 / 7 /
+CEE du Conseil du 10 février 1992, modifiant la directive 85 / 3 / CEE relative aux poids, aux dimensions et à certaines
+autres caractéristiques techniques de certains véhicules routiers. 
 
-La taxe peut être payée sur la base d'un tarif journalier égal au vingt-cinquième du tarif trimestriel.
+La taxe peut être payée sur la base d'un tarif journalier égal au vingt-cinquième du tarif trimestriel. 
 
-2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route.
+2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route. 
 
-II. - Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge
+II.-Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge
 maximal de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils
 ont acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
 autorisé défini ci-dessus.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -13804,8 +14967,11 @@ autorisé défini ci-dessus.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 28 (V)
+
+	**Liens**:
+
+	  - RECTIFICATION: Loi n°2008-1425 du 27 décembre 2008, (rectificatif)
 
 
 ## Chapitre VI : Droits et taxes divers.
@@ -15429,14 +16595,26 @@ les mêmes conditions que l'action publique en matière de délits de droit comm
 
 Aucune personne n'est recevable à former, contre l'administration des douanes, des demandes en restitution de droits et de
 marchandises et paiements de loyers, trois ans après l'époque que les réclamateurs donnent aux paiements des droits, dépôts
-des marchandises et échéances des loyers.
+des marchandises et échéances des loyers, à l'exclusion des demandes formulées en application des  articles 236 à 239 du code
+des douanes communautaire.
+
+La  réclamation mentionnée à l'alinéa précédent doit être présentée au directeur  régional des douanes du lieu de paiement ou
+du lieu où se situent les  marchandises. Le directeur régional des douanes statue sur cette demande dans un  délai de quatre
+mois à compter de sa réception.
+
+L'action contre la  décision de l'administration, prise à la suite de cette réclamation, doit être  introduite devant le
+tribunal désigné à l'article 358 du présent code, dans les  deux mois à compter de la notification de la décision de
+l'administration ou, à  défaut de réponse, à l'expiration du délai de quatre mois prévu à l'alinéa  précédent.
+
+2. L'action contre une décision de l'administration,  prise à la suite d'une demande de remise ou de remboursement fondée sur
+les  articles 236 à 239 du code des douanes communautaire, doit être présentée devant  le tribunal désigné à l'article 358 du
+présent code dans les trois mois à  compter de la notification de la décision de l'administration ou, à défaut de  réponse, à
+l'expiration du délai de quatre mois prévu par le décret n° 2001-908  du 3 octobre 2001 pris pour l'application du deuxième
+alinéa du 2 de l'article 6  du règlement (CEE) n° 2913/92 du Conseil du 12 octobre 1992 établissant le code  des douanes
+communautaire. Il est suspendu en cas de saisine de la commission de  conciliation et d'expertise douanière dans les
+conditions prévues à l'article  450 du présent code.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°68-1247 1968-12-31 art. 13 JORF 3 janvier 1969
-	  - Loi - art. 44 (V) JORF décembre 2002
 
 	**Cité par**:
 
@@ -15459,9 +16637,9 @@ des marchandises et échéances des loyers.
 	  - Code des douanes - art. 355 (V)
 	  - Code des douanes - art. 358 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 57
 
 
 ###### Article 352 bis
@@ -15585,9 +16763,9 @@ La prescription est interrompue par la notification d'un procès-verbal de douan
 
 ###### Article 355
 
-1. Les prescriptions visées par les articles 352, 353 et 354 ci-dessus n'ont pas lieu et deviennent trentenaires quand il y
-a, avant les termes prévus, demande formée en justice, condamnation, promesse, convention ou obligation particulière et
-spéciale relative à l'objet qui est répété.
+1. Les prescriptions visées par le 1 de l'article 352 et les articles, 353 et 354 ci-dessus n'ont pas lieu et deviennent
+trentenaires quand il y a, avant les termes prévus, demande formée en justice, condamnation, promesse, convention ou
+obligation particulière et spéciale relative à l'objet qui est répété.
 
 2. Il en est de même à l'égard de la prescription visée à l'article 354 lorsque c'est par un acte frauduleux du redevable que
 l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui compétait pour en
@@ -15600,17 +16778,13 @@ ans pour recouvrer la créance.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 57
 
 	**Cite**:
 
-	  - Code des douanes - art. 352 (V)
-	  - Code des douanes - art. 353 (V)
-	  - Code des douanes - art. 354 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 352
+	  - Code des douanes - art. 353
+	  - Code des douanes - art. 354
 
 
 ## Chapitre III : Procédure devant les tribunaux
@@ -15685,17 +16859,13 @@ des juridictions répressives.
 1. Les instances résultant d'infractions douanières constatées par procès-verbal de saisie sont portées devant le tribunal
 dans le ressort duquel est situé le bureau de douane le plus proche du lieu de constatation de l'infraction.
 
-2. Les litiges relatifs à la créance et ceux relatifs aux décisions en matière de garantie sont portés devant le tribunal
-d'instance dans le ressort duquel est situé le bureau de douane ou la direction régionale des douanes où la créance a été
-constatée.
+2. Les litiges relatifs à la créance, aux demandes formulées en application de l'article 352 et ceux relatifs aux décisions
+en matière de garantie sont portés devant le tribunal d'instance dans le ressort duquel est situé le bureau de douane ou la
+direction régionale des douanes où la créance a été constatée.
 
 3. Les règles ordinaires de compétence en vigueur sur le territoire sont applicables aux autres instances.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -15704,7 +16874,7 @@ constatée.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 57
 
 
 ### Section 2 : Procédure devant les juridictions civiles
@@ -16154,53 +17324,59 @@ de l'autorité judiciaire.
 commerçants et personnes morales de droit privé, même non commerçantes, au titre des créances énumérées au 1 de l'article
 379.
 
-2. La publicité est faite à la diligence de l'administration chargée du recouvrement.
+2. La publicité est faite à la diligence de l'administration chargée du recouvrement. 
 
 3. L'inscription ne peut être requise, selon la nature de la créance, qu'à partir de la date à laquelle un titre exécutoire a
-été émis.
+été émis. 
 
-4. La publicité est obligatoire lorsque les sommes dues, au titre d'un semestre civil, par un redevable à un même poste
-comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées.
+4. La publicité est obligatoire lorsque les sommes dues, au titre des neuf mois qui suivent l'émission d'un titre exécutoire,
+par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites demeurent impayées et
+dépassent un seuil fixé par décret. 
+
+Ne sont pas soumises à la publicité les sommes visées à l'alinéa précédent lorsque le débiteur respecte un plan d'apurement
+échelonné de sa dette. Dès que le plan est dénoncé, le comptable public doit procéder à la publication dans un délai de deux
+mois. 
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le
-présent article à la charge de l'administration, quel que soit le montant du paiement.
+présent article à la charge de l'administration, quel que soit le montant du paiement. 
 
 Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu au 3, l'inscription ne peut être requise que six
-mois au moins après le paiement.
+mois au moins après le paiement. 
 
-6. Les frais de l'inscription du privilège sont à la charge du Trésor.
+6. Les frais de l'inscription du privilège sont à la charge du Trésor. 
 
 7. En cas de sauvegarde, de redressement ou de liquidation judiciaire du redevable ou d'un tiers tenu légalement au paiement
 des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances qui étaient soumises à titre
 obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre du
-redevable.
+redevable. 
 
-8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
+8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement. 
 
 9. Le comptable compétent demande, dans un délai d'un mois, la radiation totale de l'inscription devenue sans objet, dès lors
-que le débiteur s'est acquitté de sa dette.
+que le débiteur s'est acquitté de sa dette. 
 
 10. Les modalités d'application du présent article et notamment les formes et délais des inscriptions et de leur radiation
 sont fixés par un décret en Conseil d'Etat.
 
+**Nota:**
+
+LOI n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 58 IV : le présent article s'applique aux
+créances nées à compter du 1er juillet  2008.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 175 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cité par**:
 
 	  - Décret n°2007-568 du 17 avril 2007 - art. 2 (V)
 	  - Décret n°2009-197 du 18 février 2009 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 58 (V)
+
 	**Cite**:
 
-	  - Code des douanes - art. 379 (M)
+	  - Code des douanes - art. 379 (V)
 
 
 ###### Article 380
@@ -17157,30 +18333,24 @@ Toute tentative de délit douanier est considérée comme le délit même.
 
 ###### Article 410
 
-1. Est passible d'une amende de 300 euros à 3000 euros toute infraction aux dispositions des lois et règlements que
+1. Est passible d'une amende de 300 euros à 3 000 euros toute infraction aux dispositions des lois et règlements que
 l'administration des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
-présent code.
+présent code. 
 
-2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
+2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent : 
 
 a) toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
-l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ; 
 
-b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
+b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ; 
 
-c) toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
-pour l'application de l'article 24-2 du présent code ;
+c) toute infraction aux dispositions des articles 72,77-1,236 et 261 ci-dessus ou aux dispositions des arrêtés pris pour
+l'application de l'article 24-2 du présent code ; 
 
 d) toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
 n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Cité par**:
 
@@ -17194,18 +18364,18 @@ n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un 
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 	  - Code rural et de la pêche maritime - art. L236-7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+
 	**Cite**:
 
-	  - Code des douanes - art. 232 (V)
 	  - Code des douanes - art. 236 (V)
+	  - Code des douanes - art. 24 (V)
 	  - Code des douanes - art. 261 (V)
 	  - Code des douanes - art. 72 (V)
+	  - Code des douanes - art. 77 (V)
 	  - Code des douanes - art. 92 (V)
-	  - Code des douanes 24-2, 72, 77-1, 92, 232, 236, 261
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ##### B. - Deuxième classe.

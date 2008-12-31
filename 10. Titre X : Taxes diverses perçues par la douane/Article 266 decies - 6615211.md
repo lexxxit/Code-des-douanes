@@ -8,7 +8,7 @@ expédiés à destination d'un Etat membre de la Communauté européenne, export
 prévus par l'article 3 de la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie, sont
 autorisées à déduire des cotisations de taxe dues par elles au titre de leurs installations situées dans la zone surveillée
 par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci dans les
-douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 152500 euros ou à
+douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 171000 euros ou à
 concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
@@ -42,8 +42,8 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Cite**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 3 (Ab)
-	  - Code des douanes - art. 266 sexies (M)
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 3
+	  - Code des douanes - art. 266 sexies
 
 	**Cité par**:
 
@@ -69,8 +69,4 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Modifié par**:
 
-	  - Loi n°2006-1772 du 30 décembre 2006 - art. 101 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2008
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)

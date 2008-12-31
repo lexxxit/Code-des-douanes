@@ -1,7 +1,7 @@
 # Article 266 quaterdecies
 
 I. - L'organisme agréé par les ministères chargés de l'environnement, des collectivités territoriales, de l'économie et de
-l'industrie mentionné au deuxième alinéa de l'article L. 541-10-1 du code de l'environnement communique chaque année à
+l'industrie mentionné au premier alinéa du IV de l'article L. 541-10-1 du code de l'environnement communique chaque année à
 l'administration chargée du recouvrement la liste des personnes qui ont acquitté la contribution.
 
 II. - Les redevables mentionnés au 9 du I de l'article 266 sexies liquident et acquittent la taxe due au titre d'une année
@@ -21,16 +21,12 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 20 () JORF 31 décembre 2003
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 sexies (M)
-	  - Code des douanes - art. 95 (M)
-	  - Code de l'environnement - art. L541-10-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code des douanes - art. 266 sexies
+	  - Code des douanes - art. 95
+	  - Code de l'environnement - art. L541-10-1
