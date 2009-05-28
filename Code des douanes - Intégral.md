@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-29
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -17908,6 +17908,29 @@ douanes, soit lorsqu'ils sont commis en bande organisée.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 414-1
+
+Est passible des peines prévues au premier alinéa de l'article 414 : 
+
+1° Le fait d'exporter de Guyane de l'or natif soit sans déclaration en détail ou sous couvert d'une déclaration en détail non
+applicable aux marchandises présentées, soit en soustrayant la marchandise à la visite du service des douanes par
+dissimulation ; 
+
+2° La détention ou le transport d'or natif dans le rayon des douanes de Guyane sans présentation d'un des justificatifs
+prévus à l'article 198.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Cite**:
+
+	  - Code des douanes - art. 198
+	  - Code des douanes - art. 414
 
 
 ##### B. - Deuxième classe.
