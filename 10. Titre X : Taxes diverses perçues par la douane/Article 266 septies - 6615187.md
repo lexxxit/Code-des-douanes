@@ -33,9 +33,8 @@ b) La première utilisation de ces matériaux ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
-9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés (Dispositions déclarées non conformes à la
-Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
-du I de l'article 266 sexies.
+9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les
+conditions mentionnées au 9 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -66,9 +65,4 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-
-	**Cite**:
-
-	  - Code de l'environnement - art. L512-1
-	  - Code de l'environnement - art. L512-8
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)

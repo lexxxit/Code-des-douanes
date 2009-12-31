@@ -1,25 +1,26 @@
 # Article 266 octies
 
-La taxe mentionnée à l'article 266 sexies est assise sur :
+La taxe mentionnée à l'article 266 sexies est assise sur : 
 
 1. Le poids des déchets reçus ou transférés vers un autre Etat par les exploitants ou les personnes mentionnés au 1 du I de
-l'article 266 sexies ;
+l'article 266 sexies ; 
 
-2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
+2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ; 
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ; 
 
-4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
+4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ; 
 
 5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
-assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
+assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ; 
 
-6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
+6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ; 
 
-7. Alinéa abrogé ;
+7. Alinéa abrogé ; 
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers mentionnés au I de l'article L.  541-10-1 du code de
-l'environnement, pour lesquels la contribution prévue à ce même  article n'a pas été acquittée.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers et des papiers à usage graphique, respectivement
+mentionnés au I et au III de l'article L. 541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même
+article n'a pas été acquittée.
 
 **Liens relatifs à cet article**
 
@@ -33,4 +34,4 @@ l'environnement, pour lesquels la contribution prévue à ce même  article n'a 
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)

@@ -2,12 +2,12 @@
 
 A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
 à cet article due à compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font
-l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre de l'année au titre de laquelle la taxe est due.
+l'objet d'un paiement au plus tard les 30 avril, 31 juillet et 31 octobre de l'année au titre de laquelle la taxe est due.
 Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5
 et 6 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre
 de laquelle la taxe est due. 
 
-Les redevables déposent, au plus tard le 10 avril de chaque année, la déclaration de la taxe due au titre de l'année
+Les redevables déposent, au plus tard le 30 avril de chaque année, la déclaration de la taxe due au titre de l'année
 précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration
 et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95. 
 
@@ -74,11 +74,11 @@ aux sommes dont le paiement a été différé.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 24
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 decies (V)
-	  - Code des douanes - art. 266 septies (V)
-	  - Code des douanes - art. 266 sexies (V)
-	  - Code des douanes - art. 95 (V)
+	  - Code des douanes - art. 266 decies
+	  - Code des douanes - art. 266 septies
+	  - Code des douanes - art. 266 sexies
+	  - Code des douanes - art. 95

@@ -10,9 +10,14 @@ chaque carburant concerné.
 III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en 2007, de 2, 25 points en 2008, de 0, 50 point en
 2009 et de 0, 75 point en 2010. 
 
-Lors de la mise à la consommation des carburants mentionnés au I, les redevables émettent des certificats représentatifs des
-quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces
-carburants incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
+Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22 et 55 du
+tableau B du 1 de l'article 265, les redevables émettent des certificats représentatifs des quantités, exprimées en pouvoir
+calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces carburants incorporent. 
+
+Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en compte pour le double de leur valeur réelle en
+pouvoir calorifique inférieur, dans des conditions précisées par arrêté du ministre chargé du budget.
+
+Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
 
 Le taux du prélèvement est diminué : 
 
@@ -32,7 +37,7 @@ la première fois avant le 10 avril 2006. La déclaration est accompagnée du pa
 du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
 VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier
-2010. 
+2013. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies. 
@@ -41,14 +46,6 @@ Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sou
 privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298
-	  - Code des douanes - art. 265
-	  - Code des douanes - art. 265 bis
-	  - Code des douanes - art. 266 undecies
-	  - Code des douanes - art. 95
 
 	**Liens**:
 
@@ -68,8 +65,7 @@ privilèges que ceux prévus par le présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 17
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 61
 
 	**Cité par**:
 
