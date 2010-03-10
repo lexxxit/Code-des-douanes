@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-03-11
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -8147,7 +8147,7 @@ goudrons reconstitués, utilisés comme combustibles.
 </td>
       <td align="center">
 
-1,50. 
+1, 50. 
 
 </td>
     </tr>
@@ -8312,7 +8312,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-5,66.
+5, 66.
 
 </td>
     </tr>
@@ -8350,7 +8350,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-58,92.
+58, 92.
 
 </td>
     </tr>
@@ -8424,14 +8424,14 @@ Hectolitre.
 </td>
       <td align="center">
 
-35,90.
+35, 90.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
------supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, autre que le supercarburant correspondant à
+-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, autre que le supercarburant correspondant à
 l'indice d'identi-fication n° 11 bis ; 
 
 </td>
@@ -8447,14 +8447,14 @@ Hectolitre.
 </td>
       <td align="center">
 
-60,69.
+60, 69.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
------supercarburant d'une teneur en plomb n'excédant pas 0,005 g / litre, contenant un additif spécifique améliorant les
+-----supercarburant d'une teneur en plomb n'excédant pas 0, 005 g / litre, contenant un additif spécifique améliorant les
 caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
 dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. 
 
@@ -8471,7 +8471,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-63,96.
+63, 96. 
 
 </td>
     </tr>
@@ -8490,12 +8490,12 @@ Ce super-carburant est dénommé E10.
 </td>
       <td>
 
-Hectolitre
+Hectolitre 
 
 </td>
       <td>
 
-60,69
+60, 69
 
 </td>
     </tr>
@@ -8527,7 +8527,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-2,54.
+2, 54.
 
 </td>
     </tr>
@@ -8549,7 +8549,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-30,20.
+30, 20.
 
 </td>
     </tr>
@@ -8571,7 +8571,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-58,92.
+58, 92.
 
 </td>
     </tr>
@@ -8593,7 +8593,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-58,92.
+58, 92.
 
 </td>
     </tr>
@@ -8647,7 +8647,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-5,66.
+5, 66.
 
 </td>
     </tr>
@@ -8669,7 +8669,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-41,69.
+41, 69.
 
 </td>
     </tr>
@@ -8707,7 +8707,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-2,54.
+2, 54.
 
 </td>
     </tr>
@@ -8729,7 +8729,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-30,2.
+30, 2.
 
 </td>
     </tr>
@@ -8751,7 +8751,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-41,69.
+41, 69.
 
 </td>
     </tr>
@@ -8773,7 +8773,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-41,69.
+41, 69.
 
 </td>
     </tr>
@@ -8827,7 +8827,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-5,66.
+5, 66.
 
 </td>
     </tr>
@@ -8849,7 +8849,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-5,66.
+5, 66.
 
 </td>
     </tr>
@@ -8871,7 +8871,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-42,84.
+42, 84.
 
 </td>
     </tr>
@@ -8893,7 +8893,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-1,85.
+1, 85.
 
 </td>
     </tr>
@@ -8986,7 +8986,7 @@ représente plus de 50 % en poids) :
 </td>
       <td align="center">
 
-4,68.
+4, 68.
 
 </td>
     </tr>
@@ -9008,7 +9008,7 @@ représente plus de 50 % en poids) :
 </td>
       <td align="center">
 
-10,76.
+10, 76.
 
 </td>
     </tr>
@@ -9099,7 +9099,7 @@ représente au moins 50 % en poids) :
 </td>
       <td align="center">
 
-4,68.
+4, 68.
 
 </td>
     </tr>
@@ -9121,7 +9121,7 @@ représente au moins 50 % en poids) :
 </td>
       <td align="center">
 
-10,76.
+10, 76.
 
 </td>
     </tr>
@@ -9249,7 +9249,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
       <td align="center">
 
-4,68.
+4, 68.
 
 </td>
     </tr>
@@ -9271,7 +9271,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
       <td align="center">
 
-10,76. 
+10, 76. 
 
 </td>
     </tr>
@@ -9481,7 +9481,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
     <tr>
       <td align="center">
 
-- Paraffine contenant en poids moins de 0,75 % d'huile. 
+- Paraffine contenant en poids moins de 0, 75 % d'huile. 
 
 </td>
       <td align="center">
@@ -9819,7 +9819,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-2,1.
+2, 1.
 
 </td>
     </tr>
@@ -9841,7 +9841,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-24,78</td>
+28, 71</td>
     </tr>
     <tr>
       <td align="center">
@@ -9877,7 +9877,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-23,24 à compter du 1er janvier 2009, puis 20,69 à compter du 1er janvier 2010, puis 17,29 à compter du 1er janvier 2011. 
+23, 24 à compter du 1er janvier 2009, puis 20, 69 à compter du 1er janvier 2010, puis 17, 29 à compter du 1er janvier 2011. 
 
 </td>
     </tr>
@@ -10124,19 +10124,19 @@ Tous produits de la position.
   </tbody>
 </table>
 
-2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris à
-l'indice d'identification 11 et au gazole repris à l'indice d'identification 22.
+2. Une réfaction peut être effectuée sur les taux de taxe intérieure de consommation applicable au supercarburant repris
+aux indices d'identification 11 et 11 ter et au gazole repris à l'indice d'identification 22.
 
-A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de
-1,15 euro par hectolitre pour le gazole.
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1, 77 euro par hectolitre pour le supercarburant et de 1,
+15 euro par hectolitre pour le gazole.
 
 A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la
 réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur
 territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse
 en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation
-financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
-mentionné à l'indice d'identification 11 et 1,15 euro par hectolitre pour le gazole mentionné à l'indice d'identification
-22. 
+financière des transferts de compétences aux régions et de respectivement 1, 77 euro par hectolitre pour le supercarburant
+mentionné       aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre pour le gazole mentionné à l'indice
+d'identification 22. 
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
 le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
@@ -10155,8 +10155,8 @@ lesquels un tarif de taxe intérieure de consommation est prévu par le présent
 applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B. 
 
 4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des
-carburants visés aux indices d'identification 11 et 22 dans des régions ou collectivités territoriales où le taux de la taxe
-intérieure de consommation diffère du taux appliqué lors de la mise à la consommation : 
+carburants visés aux indices d'identification 11, 11 ter et 22 dans des régions ou collectivités territoriales où le taux de
+la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation : 
 
 a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ; 
 
@@ -10487,7 +10487,8 @@ chargé du budget.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 76 (V)
+	  - Loi n°2010-237 du 9 mars 2010 - art. 4
+	  - Loi n°2010-237 du 9 mars 2010 - art. 5
 
 
 ###### Article 265 A
