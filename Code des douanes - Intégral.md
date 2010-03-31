@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-04-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3774,23 +3774,22 @@ ponctuelles, globales ou récapitulatives, dans les conditions prévues aux arti
 
 La sortie de produits énergétiques mentionnés à l'article 265 d'entrepôts fiscaux, leur mise à la consommation, leur
 exportation doivent faire l'objet, selon le cas, de déclarations ponctuelles, globales ou récapitulatives, dans les
-conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appliquent également aux cas prévus à l'article 267
-bis du présent code et au II de l'article 57 de la loi n° 92-677 du 17 juillet 1992.
+conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appliquent également aux cas prévus aux articles
+158 unvicies, 158 duovicies et 267 bis.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 57
-	  - Code des douanes - art. 265
-	  - Code des douanes - art. 267 bis
-	  - Code des douanes - art. 84
-	  - Code des douanes - art. 85
-	  - Code des douanes - art. 95
-
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 undecies (V)
+	  - Code des douanes - art. 265 (V)
+	  - Code des douanes - art. 267 bis (V)
+	  - Code des douanes - art. 84 (V)
+	  - Code des douanes - art. 95 (V)
 
 
 ## Chapitre II : Vérification des marchandises
@@ -4618,50 +4617,6 @@ d'application des articles 125 à 130 ci-dessus.
 	  - Code des douanes - art. 125 (V)
 
 
-###### Article 131 bis
-
-1. Les produits énergétiques mentionnés à l'article 265 circulent entre entrepôts fiscaux en suspension des taxes intérieures
-de consommation prévues aux articles 265 et 266 quater, sous couvert du document d'accompagnement visé à l'article 66 de la
-loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
-Communautés européennes (CEE) n° 91 / 680 complétant le système commun de taxe sur la valeur ajoutée et modifiant, en vue de
-la suppression des contrôles aux frontières, la directive (CEE) n° 77 / 388 et la directive (CEE) n° 92 / 12 relative au
-régime général, à la détention, à la circulation et au contrôle des produits soumis à accises.
-
-L'entrepositaire agréé destinataire des produits renvoie à l'entrepositaire agréé expéditeur l'exemplaire de ce document
-prévu à cet effet dans les quinze jours à compter de la date d'expédition des produits.
-
-L'entrepositaire agréé expéditeur est déchargé de sa responsabilité par l'apurement du régime suspensif dans les conditions
-fixées au I de l'article 69 de la loi n° 92-677 du 17 juillet 1992. 
-
-2.A défaut d'apurement dans les deux mois à compter de la date d'expédition, l'expéditeur informe l'administration.
-
-A défaut d'apurement dans les quatre mois à compter de la date d'expédition des produits, l'impôt est liquidé au taux en
-vigueur à la date d'expédition des produits et acquitté par l'expéditeur selon les règles applicables en matière de douane. 
-
-3. Le document d'accompagnement prévu au 1 peut être établi au moyen du service de suivi informatique des mouvements de
-marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects (1).
-
-**Nota:**
-
-Le 3 du présent article entre en vigueur à compter du 1er juillet 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 66
-	  - Loi n°92-677 du 17 juillet 1992 - art. 69
-
-	**Modifié par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 78
-
-	**Abrogé par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
-
-
 ## Chapitre III : Entrepôt de douane
 
 ### Section 6 : Dispositions applicables à tous les entrepôts de stockage.
@@ -4692,7 +4647,677 @@ l'entrepôt peuvent être vendues d'office aux enchères publiques par l'adminis
 	  - Loi n°2009-526 du 12 mai 2009 - art. 59
 
 
+## Chapitre III bis : Régime général d'accise relatif aux produits énergétiques 
+
+###### Article 158 bis
+
+Le présent chapitre s'applique aux opérations d'échanges entre Etats membres de la Communauté européenne et en France
+métropolitaine, sauf dispositions expresses contraires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-48 du 14 janvier 2013 (V)
+
+
+###### Article 158 decies
+
+I. ― Les personnes qui n'ont pas la qualité d'entrepositaire agréé mais qui ont été préalablement agréées par le directeur
+général des douanes et droits indirects en tant qu'expéditeur enregistré, sont exclusivement autorisées à expédier, dans
+l'exercice de leur profession, des produits soumis à accise sous un régime de suspension de droits à la suite de leur mise en
+libre pratique conformément à l'article 79 du règlement (CEE) n° 2913/92 du Conseil du 12 octobre 1992 établissant le code
+des douanes communautaire.
+
+II. ― Le directeur général des douanes et droits indirects accorde la qualité d'expéditeur enregistré à la personne qui
+fournit une caution solidaire garantissant le paiement des droits. L'expéditeur enregistré tient une comptabilité des
+expéditions de produits soumis à accise et la présente à toute réquisition des services de contrôle.
+
+En cas de violation par l'expéditeur enregistré de ses obligations, de défaillance de la caution ou de dénonciation par cette
+caution de son engagement, le directeur général des douanes et droits indirects peut retirer l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes
+
+
+###### Article 158 duodecies
+
+I. ― Les pertes, constatées dans les conditions et limites prévues en régime intérieur, de produits circulant en suspension
+de droits à destination d'un entrepositaire agréé ou d'un destinataire enregistré ne sont pas soumises à l'impôt s'il est
+justifié auprès de l'administration des douanes et droits indirects qu'elles résultent d'un cas fortuit ou d'un cas de force
+majeure ou qu'elles sont inhérentes à la nature des produits. 
+
+II. ― Les pertes, constatées dans les conditions et limites prévues en régime intérieur, de produits mis à la consommation
+dans un Etat membre de la Communauté européenne, à destination d'une personne mentionnée aux I ou II de l'article 158
+unvicies ne sont pas soumises à l'impôt s'il est justifié auprès de l'administration des douanes et droits indirects qu'elles
+résultent d'un cas fortuit ou d'un cas de force majeure ou qu'elles sont inhérentes à la nature des produits. 
+
+La consignation mise en place au titre des articles 158 unvicies et 158 duovicies est alors levée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 unvicies (V)
+
+
+###### Article 158 duovicies
+
+L'opérateur établi dans un autre Etat membre de la Communauté européenne qui expédie des produits en France, dans les
+conditions prévues au II de l'article 158 unvicies, à destination d'une personne autre qu'un entrepositaire agréé ou un
+destinataire enregistré qui n'exerce pas d'activité économique indépendante, est tenu de désigner un représentant fiscal
+établi en France autre que le vendeur.
+
+A l'occasion de chaque expédition de produits soumis à accise, le représentant fiscal doit se conformer aux prescriptions
+suivantes :
+
+a) Préalablement à l'expédition des produits soumis à accise, s'identifier et consigner, auprès du bureau des douanes et
+droits indirects compétent, le paiement des droits d'accise dus au titre de cette opération ;
+
+b) Déclarer à ce bureau le lieu de livraison des marchandises ainsi que le nom et l'adresse du destinataire ;
+
+c) Acquitter les droits d'accise auprès de ce bureau après l'arrivée des produits soumis à accise ;
+
+d) Tenir une comptabilité des livraisons de produits.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 158 unvicies (V)
+
+
+###### Article 158 nonies
+
+I. ― Les personnes qui n'ont pas la qualité d'entrepositaire agréé peuvent, dans l'exercice de leur profession, recevoir des
+produits expédiés en suspension de droits d'accise en provenance d'un autre Etat membre de la Communauté européenne, si elles
+ont préalablement été agréées par l'administration des douanes et droits indirects en tant que destinataires enregistrés.
+Elles ne peuvent ni détenir, ni expédier des produits soumis à accise en suspension de droits.
+
+II. ― Le directeur général des douanes et droits indirects accorde la qualité de destinataire enregistré à la personne qui
+justifie être en mesure de remplir les obligations prévues au IV et qui, avant l'expédition des produits soumis à accise,
+fournit une caution solidaire garantissant le paiement des droits.
+
+L'impôt est exigible dès la réception des produits. Il est dû par le destinataire enregistré.
+
+En cas de violation par le destinataire enregistré de ses obligations, de défaillance de la caution ou de dénonciation par
+cette caution de son engagement, le directeur général des douanes et droits indirects peut retirer l'agrément.
+
+III. ― Le destinataire enregistré ne recevant des produits soumis à accise qu'à titre occasionnel doit, préalablement à
+l'expédition, en être autorisé par l'administration des douanes et droits indirects et consigner auprès d'elle le paiement
+des droits dus au titre de cette opération. Cette autorisation est limitée, pour une opération, à la quantité de produits
+pour laquelle les droits d'accise ont été consignés, à un seul expéditeur et est valable le temps nécessaire à l'acheminement
+et à la réception des marchandises par le destinataire.
+
+Dès la réception des produits par l'opérateur, les droits d'accise sont acquittés sur la base d'une déclaration dans les
+conditions et selon les modalités fixées par l'administration des douanes et droits indirects.
+
+Il est joint au document d'accompagnement une attestation de l'administration des douanes et droits indirects pour les
+produits reçus en France établissant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée.
+
+Lorsqu'un entrepositaire agréé ou un expéditeur enregistré expédie des produits à un destinataire enregistré établi dans un
+autre Etat membre de la Communauté européenne, il joint au document d'accompagnement une attestation délivrée par l'autorité
+compétente de l'Etat de destination justifiant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée.
+
+IV. ― Un destinataire enregistré est tenu :
+
+a) Dès la fin du mouvement, d'inscrire dans sa comptabilité les produits soumis à accise reçus en suspension de droits. La
+comptabilité doit être présentée à toute réquisition des services de contrôle ;
+
+b) De se prêter à tout contrôle permettant à l'administration des douanes et droits indirects de s'assurer de la réception
+effective des produits.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 novodecies
+
+I. ― L'impôt supporté au titre des produits mis à la consommation en France est remboursé à l'opérateur professionnel qui,
+dans le cadre de son activité, les a expédiés dans un autre Etat membre de la Communauté européenne, si les conditions
+suivantes sont remplies :
+
+1° La demande de remboursement a été présentée avant l'expédition des produits hors de France ;
+
+2° Le demandeur justifie par tout moyen qu'il a acquis les produits tous droits acquittés en France ;
+
+3° Le demandeur présente un exemplaire du document d'accompagnement annoté par le destinataire et une attestation de
+l'administration fiscale du pays de destination qui certifie que l'impôt a été payé dans cet Etat ou, le cas échéant,
+qu'aucun impôt n'était dû au titre de la livraison en cause.
+
+L'impôt est remboursé, dans un délai d'un an à partir de la présentation à l'administration des documents visés au présent
+3°, au taux en vigueur à la date de l'acquisition des produits par l'opérateur professionnel ou, à défaut d'individualisation
+de ces produits dans son stock, au taux en vigueur lors de l'acquisition des produits de même nature qui sont les plus
+anciens dans son stock.
+
+II. ― L'impôt supporté par des produits mis à la consommation en France est remboursé à l'opérateur professionnel lorsque des
+pertes ont été constatées, dans les conditions prévues en régime intérieur et s'il est justifié auprès de l'administration
+des douanes et droits indirects qu'elles résultent d'un cas fortuit ou d'un cas de force majeure ou qu'elles sont inhérentes
+à la nature des produits. Le demandeur doit justifier par tout moyen que les droits d'accise ont été acquittés sur les
+produits.
+
+Les droits d'accise sont remboursés, dans un délai d'un an à partir de la présentation à l'administration de la demande de
+remboursement, au taux en vigueur à la date de l'acquisition des produits par l'opérateur professionnel ou, à défaut
+d'individualisation de ces produits dans son stock, au taux en vigueur lors de l'acquisition des produits de même nature les
+plus anciens dans son stock.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 octies
+
+I. ― Les entrepositaires agréés en France sont habilités à recevoir en suspension des droits, dans un entrepôt fiscal, des
+produits en provenance d'un autre Etat membre de la Communauté européenne ou à expédier en suspension de droits des produits
+à destination d'un autre Etat membre de la Communauté européenne. Ils sont également habilités à produire, transformer et
+détenir des produits en suspension de droits.
+
+II. ― L'entrepositaire agréé est tenu :
+
+a) De fournir une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation et à la
+détention des produits soumis à accise et garantissant le paiement des droits ;
+
+b) De tenir, pour chaque entrepôt fiscal, une comptabilité des stocks et des mouvements de produits soumis à accise ;
+
+c) D'introduire dans son entrepôt fiscal et d'inscrire dans sa comptabilité, dès leur réception, tous les produits soumis à
+accise circulant sous un régime de suspension de droits ;
+
+d) De se prêter à tout contrôle et à toute vérification de ses stocks.
+
+III. ― Le directeur général des douanes et droits indirects accorde la qualité d'entrepositaire agréé à la personne qui
+justifie être en mesure de remplir les obligations prévues au II. En cas de violation par l'entrepositaire de ses
+obligations, de défaillance de la caution ou de dénonciation par cette caution de son engagement, le directeur général des
+douanes et droits indirects peut retirer l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 octodecies
+
+I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie en suspension des droits et leur caution solidaire sont
+déchargés de leur responsabilité par l'apurement du régime suspensif ; à cette fin, l'entrepositaire agréé ou l'expéditeur
+enregistré produit un exemplaire du document d'accompagnement, soit rempli par le destinataire, soit comportant la
+certification, par un bureau de douane, d'un placement en régime suspensif douanier ou de la sortie du territoire
+communautaire.
+
+Lorsque des produits sont expédiés en suspension des droits d'accise par l'intermédiaire du service de suivi informatique des
+mouvements de marchandises soumises à accise, l'entrepositaire agréé ou l'expéditeur enregistré et leur caution solidaire
+sont déchargés de leur responsabilité par l'obtention de l'accusé de réception ou du rapport d'exportation établi dans les
+conditions et selon les modalités fixées par voie réglementaire.
+
+II. ― A défaut d'apurement dans les deux mois et demi à compter de la date d'expédition, l'expéditeur en informe
+l'administration.
+
+L'impôt est exigible au terme d'un délai de quatre mois à compter de la date d'expédition, sauf si la preuve est apportée
+dans ce même délai de la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de
+manquants a été commise hors de France.
+
+Si l'entrepositaire agréé ou l'expéditeur enregistré n'a pas eu ou a pu ne pas avoir connaissance du fait que les produits ne
+sont pas arrivés à destination, il dispose d'un délai d'un mois supplémentaire à compter de la communication de l'information
+qui lui a été notifiée par l'administration des douanes et droits indirects pour apporter cette preuve. Lorsque l'impôt est
+exigible, l'administration des douanes et droits indirects procède à la mise en recouvrement des droits à l'encontre du
+soumissionnaire et de sa caution. La procédure de recouvrement de l'administration doit être mise en œuvre, sous peine de
+déchéance, dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement.
+
+III. ― L'administration des douanes et droits indirects dispose d'un délai de trois ans à compter de la date d'expédition
+figurant sur le document d'accompagnement pour mettre en recouvrement les droits consécutifs à une infraction commise en
+France.
+
+Si, dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement, l'Etat membre de
+la Communauté européenne où l'infraction a été commise procède au recouvrement des droits, les droits perçus en France sont
+remboursés.
+
+IV. ― Les règles fixées en régime intérieur concernant la responsabilité de l'expéditeur s'appliquent sans préjudice des
+dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 quater
+
+I. ― Pour l'application du présent chapitre, la France s'entend du territoire de la France métropolitaine.
+
+II. ― Pour l'application de ce même chapitre, le territoire communautaire s'entend :
+
+1° Du territoire de la Communauté européenne tel que défini par l'article 299 du traité instituant la Communauté européenne
+du 7 février 1992 modifié, à l'exclusion des départements français d'outre-mer, de l'île d'Helgoland, du territoire de
+Büsingen, de Livigno, de Campione d'Italia, des eaux italiennes du lac de Lugano, de Ceuta, de Melilla, des îles Canaries,
+des îles Aland et des îles anglo-normandes ;
+
+2° De Jungholz, de Mittelberg, de l'île de Man, de Saint-Marin et des zones de souveraineté du Royaume-Uni d'Akrotiri et de
+Dhekelia.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+
+
+###### Article 158 quaterdecies
+
+I. ― Pour l'application de l'article 158 terdecies, les produits en suspension de droits en provenance ou à destination d'un
+autre Etat membre de la Communauté européenne circulent, lorsqu'ils ne sont pas placés sous une procédure douanière
+suspensive ou sous un régime suspensif douanier, sous couvert d'un document d'accompagnement établi par l'expéditeur et
+permettant de vérifier leur situation au regard de l'impôt. 
+
+Le modèle et les conditions d'utilisation de ce document d'accompagnement sont fixés par le règlement (CEE) n° 2719/92 de la
+Commission du 11 septembre 1992 relatif au document administratif d'accompagnement lors de la circulation en régime de
+suspension des produits soumis à accise, modifié par le règlement (CEE) n° 2225/93 de la Commission du 27 juillet 1993. 
+
+Ce document d'accompagnement est également requis pour les produits qui circulent en suspension de droits entre deux
+entrepôts suspensifs des droits d'accise situés en France via le territoire d'un autre Etat membre. 
+
+II. ― Les produits soumis à accise mis à la consommation conformément au a du I de l'article 158 quinquies ou qui sont
+exonérés ou exemptés des droits et les produits qui ont déjà été mis à la consommation en provenance ou à destination d'un
+autre Etat membre de la Communauté européenne dont le destinataire est une personne mentionnée au I de l'article 158
+unvicies, circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les
+conditions d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au
+document d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
+consommation dans l'Etat membre de départ ; il en est de même pour les produits qui ont été mis à la consommation en France
+et qui sont expédiés en France via le territoire d'un autre Etat membre. 
+
+III. ― Les documents d'accompagnement prévus aux I et II peuvent être établis au moyen du service de suivi informatique des
+mouvements de marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects. 
+
+Les dispositions mentionnées à l'article 158 septdecies sont applicables aux entrepositaires agréés ou aux expéditeurs
+enregistrés qui souhaitent utiliser ce service en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+	  - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
+	  - Arrêté du 14 janvier 2011 (V)
+	  - Code des douanes - art. 158 quindecies (V)
+	  - Code des douanes - art. 158 sexdecies (VT)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 septdecies (V)
+	  - Code des douanes - art. 158 terdecies (V)
+
+
+###### Article 158 quindecies
+
+I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le
+document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer au verso soit un nouveau destinataire
+qui doit être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
+
+II. ― L'entrepositaire agréé expéditeur ou l'expéditeur enregistré doit aviser immédiatement l'administration des douanes et
+droits indirects de ces changements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 quaterdecies (V)
+
+
+###### Article 158 quinquies
+
+I. ― L'impôt est exigible :
+
+a) Lors de la mise à la consommation en France. Le produit est mis à la consommation soit lorsqu'il cesse de bénéficier du
+régime suspensif, soit lorsqu'il est importé. L'importation s'entend de l'entrée en France en provenance de pays ou
+territoires non compris dans le territoire communautaire, ou de la sortie d'un régime douanier suspensif ; l'impôt est dû par
+la personne qui met à la consommation ;
+
+b) Lors de la constatation de manquants ;
+
+c) Lorsque les produits sont détenus en France à des fins commerciales alors qu'ils n'ont pas supporté l'impôt en France ;
+l'impôt est dû par le détenteur des produits.
+
+II. ― Lorsque plusieurs débiteurs sont redevables d'une même dette liée à un droit d'accise, ils sont tenus au paiement de
+cette dette à titre solidaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 267 bis (V)
+
+
+###### Article 158 septdecies
+
+Dans les échanges intracommunautaires, les mouvements de produits soumis à accise sont effectués en suspension de droits
+s'ils sont réalisés sous le couvert d'un document administratif électronique établi par l'expéditeur dans les conditions
+prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en œuvre la directive 2008/118/CE du
+Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en suspension de droits de produits soumis
+à accise et selon des modalités fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+	  - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
+	  - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
+	  - Code des douanes - art. 158 quaterdecies (VD)
+
+	**Cite**:
+
+	  - règlement (CE) n°684/2009
+
+
+###### Article 158 septies
+
+I. ― Les produits soumis à accise sont exonérés du paiement de l'accise lorsqu'ils sont destinés à être utilisés :
+
+a) Dans le cadre de relations diplomatiques ou consulaires ;
+
+b) Par les organismes internationaux reconnus comme tels par les autorités publiques de l'Etat membre d'accueil ainsi qu'aux
+membres de ces organismes, dans les limites et sous les conditions fixées par les conventions internationales instituant ces
+organismes ou par les accords de siège ;
+
+c) Par les forces armées de tout Etat partie au traité de l'Atlantique Nord autre que l'Etat membre à l'intérieur duquel
+l'accise est exigible, pour l'usage de ces forces ou du personnel civil qui les accompagne ou pour l'approvisionnement de
+leurs mess ou cantines ;
+
+d) Par les forces armées du Royaume-Uni stationnées à Chypre conformément au traité établissant la République de Chypre, en
+date du 16 août 1960, pour l'usage de ces forces ou du personnel civil qui les accompagne ou pour l'approvisionnement de
+leurs mess ou cantines ;
+
+e) Pour être consommés dans le cadre d'un accord conclu avec des pays tiers ou des organismes internationaux, pour autant
+qu'un tel accord soit admis ou autorisé en matière d'exonération de la taxe sur la valeur ajoutée.
+
+II. ― Les produits soumis à accise livrés à un destinataire mentionné au I circulent en suspension de droits, sous couvert
+d'un document d'accompagnement et d'un certificat d'exonération dont le modèle est repris au règlement CE n° 31/96 de la
+Commission du 10 janvier 1996 relatif au certificat d'exonération des droits d'accise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Décret n°2010-632 du 9 juin 2010 - art. 4 (V)
+
+	**Cite**:
+
+	  - règlement CE n°31/96
+
+
+###### Article 158 sexdecies
+
+Dans les quinze premiers jours du mois suivant la réception, l'entrepositaire agréé ou le destinataire enregistré qui reçoit
+des produits en suspension de droits d'accise adresse à l'expéditeur l'exemplaire prévu à cet effet, dûment annoté et visé en
+tant que de besoin par l'administration des douanes et droits indirects, du document d'accompagnement mentionné au I de
+l'article 158 quaterdecies. 
+
+Il adresse un autre exemplaire de ce document à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 quaterdecies
+
+
+###### Article 158 sexies
+
+L'exportation de produits placés sous régime suspensif d'accise met fin au bénéfice de ce régime. Elle s'effectue en
+exonération de droits d'accise.
+
+L'exportation s'entend de la sortie de France à destination de pays ou territoires non compris dans le territoire
+communautaire, ou du placement sous un régime douanier suspensif à destination de ces mêmes pays ou territoires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 ter
+
+Sont soumis au présent chapitre les produits énergétiques soumis aux taxes intérieures de consommation prévues aux articles
+265 et 266 quater.
+
+Les dispositions du présent chapitre relatives aux contrôles et à la circulation des produits mentionnés à l'article 265
+s'appliquent aux produits suivants, y compris lorsqu'ils sont destinés à un usage qui les place en dehors du champ
+d'application de l'accise harmonisée telle que prévue par la directive 2003/96/CE du Conseil du 27 octobre 2003 restructurant
+le cadre communautaire de taxation des produits énergétiques et de l'électricité :
+
+a) Produits des codes NC 1507 à 1518 de la nomenclature douanière, lorsqu'ils sont destinés à être utilisés comme carburant
+ou combustible ;
+
+b) Produits des codes NC 2707-10, 2707-20, 2707-30 et 2707-50 de la nomenclature douanière ;
+
+c) Produits des codes NC 2710-11 à 2710-19-69 de la nomenclature douanière, à l'exception des produits relevant des codes NC
+2710-11-21, 2710-11-25 et 2710-19-29 non expédiés en vrac ;
+
+d) Produits du code NC 2711 de la nomenclature douanière, à l'exception des produits repris aux sous-positions 2711-11,
+2711-21 et 2711-29 ;
+
+e) Produits du code NC 2901-10 de la nomenclature douanière ;
+
+f) Produits des codes NC 2902-20, 2902-30, 2902-41, 2902-42, 2902-43 et 2902-44 de la nomenclature douanière ;
+
+g) Produits du code NC 2905-11-00 de la nomenclature douanière qui ne sont pas d'origine synthétique, lorsqu'ils sont
+destinés à être utilisés comme carburant ou combustible ;
+
+h) Produits du code NC 3824-90-98 de la nomenclature douanière, lorsqu'ils sont destinés à être utilisés comme carburant ou
+combustible.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 terdecies
+
+I. ― La circulation des produits en suspension de droits en provenance ou à destination d'un autre Etat membre de la
+Communauté européenne s'effectue soit :
+
+1° Entre entrepositaires agréés ;
+
+2° D'un expéditeur enregistré à la suite de leur mise en libre pratique vers un entrepositaire agréé ;
+
+3° Lorsque les produits sont exportés au sens de l'article 158 sexies.
+
+II. ― L'expédition de produits dans un autre Etat membre de la Communauté européenne par un entrepositaire agréé ou par un
+expéditeur enregistré à la suite de leur mise en libre pratique s'effectue en suspension de droits lorsqu'elle est réalisée :
+
+1° Vers un destinataire enregistré ;
+
+2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 793 du règlement (CEE) n°
+2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
+Conseil établissant le code des douanes communautaire, qui n'est pas situé en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes
+
+	**Cité par**:
+
+	  - Code des douanes - art. 158 quaterdecies (V)
+
+
+###### Article 158 undecies
+
+Les personnes morales de droit public qui, pour les besoins de leur mission, sont agréées en tant qu'entrepositaire agréé,
+expéditeur enregistré ou destinataire enregistré sont dispensées de la présentation d'une caution ou de la consignation des
+droits dus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 100 ter (V)
+
+
+###### Article 158 unvicies
+
+I. ― 1. Lorsque des produits déjà mis à la consommation dans un autre Etat membre de la Communauté européenne sont livrés en
+France à un opérateur, autre qu'un particulier, qui entend les commercialiser, la personne qui effectue la livraison, celle
+qui détient les produits ou celle à qui sont destinés les produits établit, préalablement à l'expédition, une déclaration
+auprès de l'administration des douanes et droits indirects et consigne auprès d'elle le paiement des droits dus au titre de
+cette opération. 
+
+Cette personne acquitte, dès réception des produits, les droits et taxes dus au regard d'une déclaration dont les conditions
+et les modalités sont fixées par l'administration des douanes et droits indirects. 
+
+Il est joint au document d'accompagnement une attestation de l'administration des douanes et droits indirects pour les
+produits reçus en France établissant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée. 
+
+2. Lorsque des produits sont expédiés de France à un opérateur, autre qu'un particulier, qui entend les commercialiser et
+établi dans un autre Etat membre de la Communauté européenne, la personne qui effectue la livraison joint au document
+d'accompagnement une attestation délivrée par l'autorité compétente de l'Etat membre de destination justifiant que l'impôt a
+été acquitté ou qu'une garantie de leur paiement a été acceptée. 
+
+II. ― Lorsque des produits soumis à accise déjà mis à la consommation dans un Etat membre de la Communauté européenne sont
+achetés par une personne autre qu'un entrepositaire agréé ou un destinataire enregistré établie en France, qui n'exerce pas
+d'activité économique indépendante, et qui sont expédiés ou transportés directement ou indirectement en France par le vendeur
+ou pour le compte de celui-ci, l'impôt est dû par le représentant fiscal du vendeur mentionné à l'article 158 duovicies, lors
+de la réception des produits. 
+
+III. ― A défaut de déclaration préalable ou de mise en place d'une garantie conformément aux I et II du présent article et à
+l'article 158 duovicies, les droits d'accise sont exigibles dès la réception des produits, sauf si la preuve est apportée de
+la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de manquants a été commise
+hors de France. 
+
+Dans ce cas, l'impôt est dû : 
+
+a) Par les personnes mentionnées au I du présent article ; 
+
+b) Dans le cas mentionné au II par le représentant fiscal mentionné à l'article 158 duovicies ou, à défaut, par le
+destinataire des produits soumis à accises. 
+
+L'action de l'administration des douanes et droits indirects doit être intentée, sous peine de déchéance, dans un délai de
+trois ans à compter de la date de réception des produits. 
+
+Si, dans un délai de trois ans à compter de la date de réception des produits, l'Etat membre de la Communauté européenne où
+l'infraction a été commise procède au recouvrement des droits d'accise, les droits perçus en France sont remboursés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 158 duodecies (V)
+	  - Code des douanes - art. 267 (VD)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 duovicies (V)
+
+
+###### Article 158 vicies
+
+L'impôt n'est pas recouvré au titre des produits expédiés ou transportés dans un autre Etat membre de la Communauté
+européenne par un entrepositaire agréé ou un expéditeur enregistré établi en France ou pour son compte à destination d'une
+personne autre qu'un entrepositaire agréé ou un destinataire enregistré et qui n'exerce pas d'activité économique
+indépendante pour lesquels l'impôt dû dans l'Etat membre de destination a été acquitté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
 ## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.
+
+## Chapitre III ter : L'entrepôt fiscal de stockage des produits pétroliers.
 
 ###### Article 158 A
 
@@ -13724,12 +14349,8 @@ matière.
 
 Les taxes intérieures de consommation et la taxe spéciale de consommation mentionnées au précédent alinéa, sous réserve des
 dispositions du 2 des articles 266 quinquies et 266 quinquies B, sont exigibles lors de la mise à la consommation des
-produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus au II de l'article 57 de la
-loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
-Communautés européennes (CEE) n° 91-680 complétant le système commun de la taxe sur la valeur ajoutée et modifiant, en vue de
-la suppression des contrôles aux frontières, la directive (CEE) n° 77-388 et de la directive (CEE) n° 92-12 relative au
-régime général, à la détention, à la circulation et au contrôle des produits soumis à accise et à l'article 267 bis du
-présent code. 
+produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus aux articles 158 unvicies, 158
+duovicies et 267 bis. 
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes
 mentionnées au 1. 
@@ -13759,25 +14380,16 @@ l'exigibilité.
 	  - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 
-	**Cite**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 57
-	  - Code des douanes - art. 265
-	  - Code des douanes - art. 266 quater
-	  - Code des douanes - art. 266 quinquies
-	  - Code des douanes - art. 266 ter
-	  - Code des douanes - art. 267 bis
-
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 
 ###### Article 267 bis
 
-Par dérogation aux dispositions du a du I de l'article 57 de la loi n° 92-677 du 17 juillet 1992, les combustibles visés au
-tableau B de l'article 265 du présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà
-supportée, lorsqu'ils sont transportés par un particulier ou pour son compte. 
+Par dérogation aux dispositions du a du I de l'article 158 quinquies, les combustibles visés au tableau B de l'article 265 du
+présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà supportée, lorsqu'ils sont transportés
+par un particulier ou pour son compte. 
 
 Il en est de même des carburants visés au tableau B de l'article 265 du présent code lorsqu'ils sont transportés par un
 particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve. 
@@ -13791,11 +14403,6 @@ consommation prévue à l'article 265.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 57
-	  - Code des douanes - art. 265
-
 	**Cité par**:
 
 	  - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
@@ -13806,7 +14413,12 @@ consommation prévue à l'article 265.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 158 quinquies (V)
+	  - Code des douanes - art. 265 (V)
 
 
 ###### Article 268
