@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-04-01
+Version Consolidée au 2010-04-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5314,8 +5314,6 @@ indépendante pour lesquels l'impôt dû dans l'Etat membre de destination a ét
 
 	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
-
-## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.
 
 ## Chapitre III ter : L'entrepôt fiscal de stockage des produits pétroliers.
 
@@ -14055,12 +14053,12 @@ commercial dont certaines installations sont soumises à autorisation au titre d
 l'environnement ; 
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
-d'Etat après avis du Conseil supérieur des installations classées, font courir, par leur nature ou leur volume, des risques
-particuliers à l'environnement ; 
+d'Etat après avis du    Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
+volume, des risques particuliers à l'environnement ; 
 
 9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
 émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue. 
+contribution financière ou en nature qui y est prévue.
 
 A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
 l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
@@ -14175,7 +14173,7 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
+	  - Ordonnance n°2010-418  du 27 avril 2010 - art. 3 (V)
 
 
 ###### Article 266 terdecies
