@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-13
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2278,6 +2278,18 @@ articles.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 65 ter
+
+L'Autorité de régulation des jeux en ligne et la direction générale des douanes et droits indirects peuvent se communiquer
+spontanément tous les renseignements et documents recueillis dans le cadre de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 60
 
 
 ### Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne.
