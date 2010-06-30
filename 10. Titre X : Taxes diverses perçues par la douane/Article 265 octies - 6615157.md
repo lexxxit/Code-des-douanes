@@ -8,13 +8,13 @@ Ce remboursement est calculé, au choix de l'entreprise :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans
 chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y
-est applicable en application de l'article 265 ; 
+est applicable en application des articles 265 et 265 A bis ; 
 
 - soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis
 dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement
-calculé en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 par les volumes
-de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant
-de ce taux moyen pondéré est fixé annuellement par arrêté.
+calculé en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 et à l'article
+265 A bis par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité
+territoriale de Corse. Le montant de ce taux moyen pondéré est fixé annuellement par arrêté.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -28,8 +28,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 **Nota:**
 
-Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 66 IV : Les II et III de la présente loi
-s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -78,7 +77,7 @@ s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 66
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 94
 
 	**Cite**:
 

@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-06-01
+Version Consolidée au 2010-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -11162,6 +11162,39 @@ commission.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 265 A bis
+
+Les conseils régionaux et l'assemblée de Corse peuvent majorer le tarif de la taxe intérieure de consommation applicable aux
+carburants vendus aux consommateurs finals sur leur territoire, dans la limite de 0, 73 euros par hectolitre pour les
+supercarburants mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1, 35 euros par
+hectolitre pour le gazole mentionné à l'indice d'identification 22 du même tableau B. 
+
+Les recettes issues de la majoration prévue au premier alinéa sont exclusivement affectées au financement d'une
+infrastructure de transport durable, ferroviaire ou fluvial, mentionnée aux articles 11 et 12 de la loi n° 2009-967 du 3 août
+2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement. 
+
+Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
+le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
+douanes et des droits indirects qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés
+au plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de
+consommation entrent en vigueur le 1er janvier de l'année suivante.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 94
+
+	**Cité par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 89 (V)
+	  - Code des douanes - art. 265 septies (VD)
+
+
 ###### Article 265 B
 
 1. Si les produits visés au tableau B annexé à l'article 265 ci-dessus bénéficient d'un régime fiscal privilégié sous
@@ -11625,13 +11658,13 @@ Ce remboursement est calculé, au choix de l'entreprise :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans
 chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y
-est applicable en application de l'article 265 ; 
+est applicable en application des articles 265 et 265 A bis ; 
 
 - soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis
 dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement
-calculé en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 par les volumes
-de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant
-de ce taux moyen pondéré est fixé annuellement par arrêté.
+calculé en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 et à l'article
+265 A bis par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité
+territoriale de Corse. Le montant de ce taux moyen pondéré est fixé annuellement par arrêté.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -11645,8 +11678,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 **Nota:**
 
-Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 66 IV : Les II et III de la présente loi
-s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -11695,7 +11727,7 @@ s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 66
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 94
 
 	**Cite**:
 
@@ -11816,13 +11848,13 @@ Ce remboursement est calculé, au choix de l'entreprise :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
 région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est
-applicable en application de l'article 265 ; 
+applicable en application des articles 265 et 265 A bis ; 
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
 au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé
-en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 par les volumes de
-gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de
-ce taux moyen pondéré est fixé annuellement par arrêté. 
+en pondérant les différents taux régionaux votés dans les conditions précisées au 2 de l'article 265 et à l'article 265 A bis
+par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de
+Corse. Le montant de ce taux moyen pondéré est fixé annuellement par arrêté. 
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du premier jour
 ouvrable suivant respectivement la fin du premier et du second semestre de chaque année et au plus tard dans les trois ans
@@ -11836,8 +11868,7 @@ Les modalités d'application du présent article sont fixées par décret.
 
 **Nota:**
 
-Loi n° 2007-1824 du 25 décembre 2007 de finances rectificative pour 2007, article 66 IV : Les II et III de la présente loi
-s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 2008.
+
 
 **Liens relatifs à cet article**
 
@@ -11892,7 +11923,7 @@ s'appliquent aux demandes de remboursement déposées à compter du 1er juillet 
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 66
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 94
 
 	**Cite**:
 
@@ -20449,21 +20480,25 @@ code général des impôts n'est pas appliquée.
 
 ###### Article 467
 
-1. Les échanges de biens entre Etats membres de la Communauté européenne font l'objet de la déclaration périodique prévue à
-l'article 13 du règlement (CEE) n° 3330-91 du 7 novembre 1991 relatif aux statistiques des échanges de biens entre Etats
-membres. 
+1. Les échanges de biens entre Etats membres de la Communauté européenne font l'objet de la déclaration périodique, prévue à
+l'article 5 du règlement (CE) n° 638/2004 du 31 mars 2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux
+statistiques communautaires des échanges de biens entre Etats membres et abrogeant le règlement (CEE) n° 3330/91 du Conseil. 
 
-2.L'Etat récapitulatif des clients mentionné au II de l'article 289 B du code général des impôts et la déclaration
+2. L'état récapitulatif des clients mentionné au II de l'article 289 B du code général des impôts et la déclaration
 statistique périodique prévue au 1 ci-dessus font l'objet d'une déclaration unique. Un décret détermine le contenu et les
 modalités de cette déclaration. 
 
-2 bis.L'état récapitulatif des clients mentionné au III de l'article 289 B du code général des impôts fait l'objet d'une
+2 bis. L'état récapitulatif des clients mentionné au III de l'article 289 B du code général des impôts fait l'objet d'une
 déclaration dont le contenu et les modalités sont déterminés par décret. 
 
-3. La déclaration visée au 2 ci-dessus peut être transmise par voie informatique. Les déclarants, utilisateurs de cette
-méthode de transmission, doivent respecter les prescriptions d'un cahier des charges, publié par arrêté du ministre chargé du
-budget, définissant notamment les modalités de cette transmission, les supports autorisés et les conditions
-d'authentification des déclarations ainsi souscrites. 
+3. La déclaration mentionnée au 2 peut être transmise par voie électronique.
+
+Elle est obligatoirement souscrite par voie électronique par le redevable qui a réalisé au cours de l'année civile précédente
+des expéditions ou des introductions d'un montant hors taxes supérieur à 2 300 000 euros, ou atteint ce seuil en cours
+d'année.
+
+Les déclarants qui utilisent le mode de transmission électronique respectent les prescriptions d'un cahier des charges,
+établi et publié par arrêté du ministre chargé du budget. 
 
 3 bis. Les documents nécessaires à l'établissement de la déclaration prévue au 2 ci-dessus doivent être conservés par les
 assujettis pendant un délai de six ans à compter de la date de l'opération faisant l'objet de cette déclaration. 
@@ -20471,10 +20506,10 @@ assujettis pendant un délai de six ans à compter de la date de l'opération fa
 4. Le défaut de production dans les délais de la déclaration prévue au 2 ou au 2 bis ci-dessus donne lieu à l'application
 d'une amende de 750 euros. 
 
-Elle est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure. 
+Elle est portée à 1 500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure. 
 
 Chaque omission ou inexactitude dans la déclaration prévue au 2 ci-dessus donne lieu à l'application d'une amende de 15
-euros, sans que le total puisse excéder 1500 euros.
+euros, sans que le total puisse excéder 1 500 euros.
 
 L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du
 document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs
@@ -20486,14 +20521,18 @@ prononce l'amende suivant les mêmes procédures, et sous les mêmes garanties, 
 taxe. 
 
 Lorsqu'une infraction prévue au 4 ci-dessus a fait l'objet d'une amende prononcée par l'une des deux administrations, elle ne
-peut plus être sanctionnée par l'autre. 
+peut plus être sanctionnée par l'autre.
+
+4 bis. Le non-respect de l'obligation de souscrire par voie électronique la déclaration mentionnée au 2 entraîne
+l'application d'une amende de 15 euros par déclaration déposée selon un autre procédé que celui requis, sans que le total des
+amendes mises en recouvrement puisse être inférieur à 60 euros ni supérieur à 150 euros. 
 
 5. Les agents des douanes peuvent adresser aux personnes tenues de souscrire la déclaration mentionnée au 2 ci-dessus des
 demandes de renseignements et de documents destinées à rechercher et à constater les manquements visés au 4 ci-dessus. Ces
 demandes fixent un délai de réponse qui ne peut être inférieur à cinq jours.
 
 L'administration peut procéder à la convocation du redevable de la déclaration. Celui-ci est entendu, à sa demande, par
-l'administration.L'audition donne lieu à l'établissement d'un procès-verbal d'audition dont une copie est remise au
+l'administration. L'audition donne lieu à l'établissement d'un procès-verbal d'audition dont une copie est remise au
 redevable. Le redevable peut se faire représenter. 
 
 Les agents des douanes peuvent exiger sans préavis, à des fins de contrôle statistique, la communication des documents
@@ -20502,7 +20541,7 @@ souscrire celle-ci.
 
 Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignements écrite, ou la non-remise de
 documents nécessaires à l'établissement de la déclaration mentionnée au 2 ci-dessus donne lieu à l'application d'une amende
-de 1500 euros. 
+de 1 500 euros. 
 
 Cette amende est recouvrée selon les modalités prévues aux quatrième et cinquième alinéa du 4 ci-dessus. Le contentieux de
 l'amende est assuré et suivi selon les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que ceux prévus
@@ -20521,12 +20560,12 @@ pour la taxe sur la valeur ajoutée.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 102 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 26 (V)
 
 	**Cite**:
 
-	  - CGI 289 B
-	  - Règlement CEE 3330-91 1991-11-07 art. 13
+	  - Code général des impôts, CGI. - art. 289 B
+	  - article 5 du règlement (CE) n°638/2004 du 31 mars 2004
 
 
 ## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.
