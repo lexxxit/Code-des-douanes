@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-12-19
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -840,28 +840,26 @@ cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière gé
 des titulaires auxquels ils ont été nominativement accordés. 
 
 4. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont applicables aux
-marchandises relevant des articles 2, 3, 4, 5 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
+marchandises relevant des articles 2,3,4,5 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
 certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane aux
-substances classifiées en catégorie 1 par l'annexe I du règlement (CE) n° 273 / 2004 du Parlement européen et du Conseil du
-11 février 2004 relatif aux précurseurs de drogues , aux marchandises visées à l'article L. 5132-9 du code de la santé
-publique, aux médicaments à usage humain visés à l'article L. 5124-13 du code de la santé publique, aux micro-organismes et
-aux toxines mentionnés à l'article L. 5139-1 du code de la santé publique, aux médicaments à usage vétérinaire mentionnés à
-l'article L. 5142-7 du code de la santé publique, aux marchandises présentées sous une marque contrefaisante ou incorporant
-un dessin ou modèle tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par
-l'article 19 du règlement (CE) n° 6 / 2002 du Conseil, du 12 décembre 2001, sur les dessins ou modèles communautaires, ainsi
-qu'aux produits sanguins labiles et aux pâtes plasmatiques mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, au
-sang, ses composants et ses produits dérivés à des fins scientifiques mentionnés à l'article L. 1221-12, aux organes, tissus
-et leurs dérivés, cellules, gamètes et tissus germinaux issus du corps humain ainsi qu'aux préparations de thérapie
-cellulaire et aux échantillons biologiques mentionnés aux articles L. 1235-1, L. 1243-1, L. 2141-11-1 et L. 1245-5 dudit
-code, aux tissus ou cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux sources
-artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des
-articles L. 1333-2 et L. 1333-4 du même code et aux déchets définis au II de l'article L. 541-1 du code de l'environnement
-dont l'importation, l'exportation ou le transit sont régis soit par les articles L. 541-40 à L. 541-42 du même code et les
-dispositions réglementaires prises pour leur application, soit par le règlement (CEE) n° 259 / 93 du Conseil du 1er février
-1993 concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté
-européenne, ainsi que par les décisions des autorités communautaires prises en application de ce règlement. Les dispositions
-du présent article s'appliquent également aux objets de toute nature comportant des images ou des représentations d'un mineur
-à caractère pornographique visées par l'article 227-23 du code pénal. 
+substances classifiées en catégorie 1 par l'annexe I du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11
+février 2004 relatif aux précurseurs de drogues, aux marchandises visées à l'article L. 5132-9 du code de la santé publique,
+aux médicaments à usage humain visés à l'article L. 5124-13 du code de la santé publique, aux micro-organismes et aux toxines
+mentionnés à l'article L. 5139-1 du code de la santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L.
+5142-7 du code de la santé publique, aux marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou
+modèle tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du
+règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les dessins ou modèles communautaires, ainsi qu'aux produits
+sanguins labiles et aux pâtes plasmatiques mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, au sang, ses
+composants et ses produits dérivés à des fins scientifiques mentionnés à l'article L. 1221-12, aux organes, tissus et leurs
+dérivés, cellules, gamètes et tissus germinaux issus du corps humain ainsi qu'aux préparations de thérapie cellulaire et aux
+échantillons biologiques mentionnés aux articles L. 1235-1, L. 1243-1, L. 2141-11-1 et L. 1245-5 dudit code, aux tissus ou
+cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux sources artificielles et naturelles de
+radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des articles L. 1333-2 et L. 1333-4 du
+même code et aux déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le
+transit sont régis par les articles L. 541-40 à L. 541-42-2 du même code, ainsi que par les décisions des autorités
+communautaires prises en application de ce règlement. Les dispositions du présent article s'appliquent également aux objets
+de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique visées par l'article
+227-23 du code pénal. 
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -977,8 +975,9 @@ chargé des douanes et du ou des ministres concernés.
 	  - Code de la santé publique - art. L5132-9
 	  - Code de la santé publique - art. L5139-1
 	  - Code de la santé publique - art. L5142-7
-	  - Code de l'environnement - art. L541-1
-	  - Code de l'environnement - art. L541-40
+	  - Code de l'environnement - art. L541-1-1 (V)
+	  - Code de l'environnement - art. L541-40 (V)
+	  - Code de l'environnement - art. L541-42-2 (V)
 
 	**Cité par**:
 
@@ -1009,7 +1008,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1340 du 18 décembre 2008 - art. 18
+	  - Ordonnance n°2010-1579 du 17 décembre 2010 - art. 23
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
