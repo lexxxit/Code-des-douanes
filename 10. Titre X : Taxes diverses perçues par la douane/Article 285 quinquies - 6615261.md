@@ -1,8 +1,11 @@
 # Article 285 quinquies
 
 1. Une redevance pour contrôle vétérinaire est perçue lors de l'importation sur le territoire douanier, sous tous régimes
-douaniers, de produits animaux ou d'origine animale et d'animaux vivants, de statut non communautaire, en provenance d'un
-Etat n'appartenant pas à la Communauté européenne.
+douaniers, de produits animaux ou d'origine animale, d'animaux vivants et d'aliments pour animaux d'origine non animale visés
+par le règlement (CE) n° 669/2009 du 24 juillet 2009 portant modalités d'exécution du règlement (CE) n° 882/2004 du Parlement
+européen et du Conseil en ce qui concerne les contrôles officiels renforcés à l'importation de certains aliments pour animaux
+et certaines denrées alimentaires d'origine non animale et modifiant la décision 2006/504/CE, de statut non communautaire, en
+provenance d'un Etat n'appartenant pas à l'Union européenne.
 
 Elle est également perçue sur les produits animaux ou d'origine animale, originaires d'un Etat n'appartenant pas à la
 Communauté européenne, importés sur le territoire douanier de la Communauté, à destination de la France, par un autre Etat
@@ -15,8 +18,8 @@ Communauté européenne pour lesquels seul le contrôle documentaire est effectu
 2. La redevance pour contrôle vétérinaire est due par l'importateur, son représentant légal ou le commissionnaire en douane
 agréé.
 
-Elles est recouvrée par le service des douanes selon les mêmes règles, sous les mêmes garanties et privilèges qu'en matière
-de droits de douane. Les infractions sont constatées et réprimées, et les instances instruites et jugées conformément aux
+Elle est recouvrée par le service des douanes selon les mêmes règles, sous les mêmes garanties et privilèges qu'en matière de
+droits de douane. Les infractions sont constatées et réprimées, et les instances instruites et jugées conformément aux
 dispositions du code des douanes.
 
 3. Les taux de redevance sont fixés par tonne de produits, avec un montant minimal par lot, dans la limite de 150 % des
@@ -33,11 +36,10 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 93

@@ -20,7 +20,9 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers et des papiers à usage graphique, respectivement
 mentionnés au I et au III de l'article L. 541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même
-article n'a pas été acquittée.
+article n'a pas été acquittée ; 
+
+9. Le poids des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -34,4 +36,8 @@ article n'a pas été acquittée.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+
+	**Cite**:
+
+	  - Code des douanes - art. 266 sexies

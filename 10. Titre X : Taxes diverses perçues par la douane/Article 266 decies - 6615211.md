@@ -12,17 +12,18 @@ douze mois précédant la date limite de dépôt de la déclaration. Cette dédu
 concurrence de 25 % des cotisations de taxe dues.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
-assouplissants pour le linge, les matériaux d'extraction, mentionnés respectivement aux 5, et 6 du I de l'article 266 sexies
-donnent lieu, sur demande, à remboursement de la taxe acquittée lorsqu'ils sont expédiés à destination d'un Etat membre de la
-Communauté européenne ou exportés.
+assouplissants pour le linge, les matériaux d'extraction, les sacs de caisse à usage unique en matière plastique, mentionnés
+respectivement aux 5, 6 et 10 du I de l'article 266 sexies donnent lieu, sur demande, à remboursement de la taxe acquittée
+lorsqu'ils sont expédiés à destination d'un Etat membre de la Communauté européenne ou exportés.
 
 4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
-avec les personnes physiques ou morales dont ils réceptionnent les déchets.
+avec les personnes physiques ou morales dont ils réceptionnent les déchets.  Elles adressent chaque année auxdites personnes
+physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des douanes. 
 
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants.
 
-6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5, et 6 du I de l'article 266 sexies
+6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5, 6 et 10 du I de l'article 266 sexies
 sont autorisées à acquérir ou importer, en suspension de la taxe générale sur les activités polluantes, ces mêmes produits
 qu'elles destinent à une livraison à l'exportation ou vers un autre Etat membre de la Communauté européenne, dans la limite
 de la taxe générale sur les activités polluantes qui aurait été acquittée au cours de l'année précédente si les livraisons
@@ -70,3 +71,5 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 	**Modifié par**:
 
 	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 45
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47

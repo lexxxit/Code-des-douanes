@@ -34,7 +34,10 @@ b) La première utilisation de ces matériaux ;
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
 9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les
-conditions mentionnées au 9 du I de l'article 266 sexies.
+conditions mentionnées au 9 du I de l'article 266 sexies ;
+
+10. La première livraison ou la première utilisation des sacs de caisse à usage  unique en matière plastique mentionnés au 10
+du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -65,4 +68,4 @@ conditions mentionnées au 9 du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47

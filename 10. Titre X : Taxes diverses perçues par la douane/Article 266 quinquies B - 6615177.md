@@ -1,6 +1,6 @@
 # Article 266 quinquies B
 
-1. Les houilles, les lignites et les cokes repris aux codes NC 2701, 2702 et 2704 et destinés à être utilisés comme
+1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 et destinés à être utilisés comme
 combustible sont soumis à une taxe intérieure de consommation. 
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à
@@ -18,16 +18,16 @@ se livre au négoce de ces produits ;
 2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
 d'importation. 
 
-3° Par l'utilisateur final mentionné au dernier alinéa du 2. 
+3° Par l'utilisateur final mentionné au dernier alinéa du 2.
 
-4. 1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés : 
+4.1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
 a) Autrement que comme combustible ; 
 
 b) A un double usage au sens du 2° du I de l'article 265 C ; 
 
 c) Dans un procédé de fabrication de produits minéraux non métalliques, classé dans la nomenclature statistique des activités
-économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CE) n° 1893 / 2006 du Parlement européen et du
+économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CE) n° 1893/2006 du Parlement européen et du
 Conseil du 20 décembre 2006 précité, sous la division 23 ; 
 
 2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de consommation mentionnée au 1 lorsqu'ils sont
@@ -39,7 +39,8 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
-quinquies A ; 
+quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de
+l'article L. 3333-2 du code général des collectivités territoriales ; 
 
 2° Pour les besoins de leur extraction et de leur production ; 
 
@@ -52,9 +53,9 @@ des accords volontaires de réduction de gaz à effet de serre permettant d'atte
 équivalents ou d'accroître leur rendement énergétique. 
 
 6. La taxe intérieure de consommation est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après
-arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1, 19 par mégawattheure. 
+arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure. 
 
-7. 1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
+7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
 au commencement de leur activité. 
 
@@ -91,11 +92,11 @@ ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 70 (V)
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 77 (V)
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L3333-2
 	  - Code des douanes - art. 265 C
 	  - Code des douanes - art. 266 quinquies A
 	  - Code de l'environnement - art. L229-5

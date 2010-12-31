@@ -21,7 +21,7 @@ loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électrici
 b) A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
 d'importation ; 
 
-c) Par l'utilisateur final mentionné au dernier alinéa du 2. 
+c) Par l'utilisateur final mentionné au dernier alinéa du 2.
 
 4. a. Le gaz naturel n'est pas soumis à la taxe intérieure de consommation prévue au 1 lorsqu'il est utilisé : 
 
@@ -36,7 +36,8 @@ conditions prévues au III de l'article 265 C.
 
 5. Le gaz naturel est exonéré de la taxe intérieure de consommation prévue au 1 lorsqu'il est utilisé : 
 
-a) Pour la production d'électricité. 
+a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé par les petits producteurs d'électricité au sens du
+4° du V de l'article L. 3333-2 du code général des collectivités territoriales. 
 
 Cette exonération ne s'applique pas au gaz naturel destiné à être utilisé dans les installations visées à l'article 266
 quinquies A. Toutefois, les producteurs dont l'installation ne bénéficie pas d'un contrat d'achat d'électricité conclu dans
@@ -52,15 +53,15 @@ L'exonération prévue au premier alinéa s'applique aux réseaux de chaleur en 
 chauffage de logements ; 
 
 d) Pour la consommation des autorités régionales et locales ou des autres organismes de droit public pour les activités ou
-opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er janvier 2009. 
+opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er janvier 2009.
 
 6. Les modalités d'application des 4 et 5, ainsi que les modalités du contrôle et de la destination des produits et de leur
 affectation aux usages qui y sont mentionnés sont fixées par décret. 
 
-7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705. 
+7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705.
 
 8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
-mégawattheures, après arrondissement au mégawattheure le plus voisin et le tarif de la taxe est fixé à 1, 19 euros par
+mégawattheures, après arrondissement au mégawattheure le plus voisin et le tarif de la taxe est fixé à 1,19 euros par
 mégawattheure. 
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de
@@ -79,7 +80,7 @@ c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui import
 se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments
 d'assiette nécessaires pour l'établissement de la taxe. 
 
-10. La taxe est acquittée, selon une périodicité mensuelle, auprès du  service des douanes désigné lors de l'enregistrement. 
+10. La taxe est acquittée, selon une périodicité mensuelle, auprès du service des douanes désigné lors de l'enregistrement. 
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
 final au titre d'un mois, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée avant le 15
@@ -151,8 +152,9 @@ peut s'effectuer par imputation sur le montant de la taxe due.
 
 	  - Loi n°2000-108 du 10 février 2000 - art. 10
 	  - Loi n°2003-8 du 3 janvier 2003 - art. 5
+	  - Code général des collectivités territoriales - art. L3333-2
 	  - Code des douanes - art. 265 C
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
+	  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)

@@ -8,59 +8,62 @@ du contexte économique. Cette réduction est fixée comme suit :
 <table>
   <tbody>
     <tr>
-      <td valign="middle" rowspan="3" align="center">
-        <font size="1">DÉSIGNATION DES PRODUITS</font>
-      </td>
-      <td align="center" valign="middle" colspan="3">
-        <font size="1">RÉDUCTION
+      <td rowspan="3">
 
-</font>
-        <font size="1">(en euros par hectolitre) </font>
-      </td>
+DÉSIGNATION DES PRODUITS 
+
+</td>
+      <td colspan="3">
+
+RÉDUCTION
+
+(en euros par hectolitre)
+
+</td>
     </tr>
     <tr>
       <td colspan="3">
 
-<font size="1">Année</font>
+Année
 
 </td>
     </tr>
     <tr>
       <td>
 
-<font size="1">2009 </font>
+2011
 
 </td>
       <td>
 
-<font size="1">2010 </font>
+2012
 
 </td>
       <td>
 
-<font size="1">2011</font>
+2013
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique
 
 </td>
-      <td align="center">
+      <td>
 
-15,00 
-
-</td>
-      <td align="center">
-
-11,00 
+8,00
 
 </td>
-      <td align="center">
+      <td>
 
-8,00 
+8,00
+
+</td>
+      <td>
+
+8,00
 
 </td>
     </tr>
@@ -72,17 +75,17 @@ du contexte économique. Cette réduction est fixée comme suit :
 </td>
       <td align="center">
 
-15,00 
+8,00 
 
 </td>
       <td align="center">
 
-11 00 
+8,00 
 
 </td>
       <td align="center">
 
-8 00
+8,00 
 
 </td>
     </tr>
@@ -90,17 +93,17 @@ du contexte économique. Cette réduction est fixée comme suit :
       <td align="center">
 
 3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine
-agricole, sous nomenclature douanière combinée NC 220710 
+agricole, sous nomenclature douanière combinée NC 220710
 
 </td>
       <td align="center">
 
-21,00 
+14,00 
 
 </td>
       <td align="center">
 
-18,00 
+14,00 
 
 </td>
       <td align="center">
@@ -113,22 +116,22 @@ agricole, sous nomenclature douanière combinée NC 220710
       <td align="center">
 
 4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC 220710, incorporé aux supercarburants ou au
-superéthanol E85 repris à l'indice d'identification 55 
+superéthanol E85 repris à l'indice d'identification 55
 
 </td>
       <td align="center">
 
-21,00
+14,00
 
 </td>
       <td align="center">
 
-18,00 
+14,00
 
 </td>
       <td align="center">
 
-14,00 
+14,00
 
 </td>
     </tr>
@@ -140,17 +143,17 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-15,00 
+8,00
 
 </td>
       <td align="center">
 
-11,00 
+8,00
 
 </td>
       <td align="center">
 
-8,00 
+8,00
 
 </td>
     </tr>
@@ -162,17 +165,17 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-21,00 
+14,00
 
 </td>
       <td align="center">
 
-18,00 
+14,00
 
 </td>
       <td align="center">
 
-14,00 
+14,00
 
 </td>
     </tr>
@@ -233,8 +236,7 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 39
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 8
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 138
 
 	**Cite**:
 

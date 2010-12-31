@@ -48,16 +48,20 @@ commercial dont certaines installations sont soumises à autorisation au titre d
 l'environnement ; 
 
 b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
-d'Etat après avis du    Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
+d'Etat après avis du Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
 volume, des risques particuliers à l'environnement ; 
 
 9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
 émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue.
+contribution financière ou en nature qui y est prévue ;
 
 A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
 l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
-mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
+mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
+
+10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
+fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
+les caractéristiques sont définies par décret. 
 
 II.-La taxe ne s'applique pas : 
 
@@ -69,8 +73,11 @@ matière ;
 
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ; 
 
-1 quater. Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et
-valorisent la totalité de leur production de biogaz ; 
+1 quater. (Abrogé) ;
+
+1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par
+arrêté, entre la date de début de sinistre et soixante jours après la fin du sinistre. Les quantités non taxables font
+l'objet d'une comptabilité matière séparée ;
 
 2. (alinéa abrogé) ; 
 
@@ -87,7 +94,10 @@ destination d'un Etat membre de la Communauté européenne ou en une exportation
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
 écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
-du label écologique communautaire aux lubrifiants. 
+du label écologique communautaire aux lubrifiants ;
+
+7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret,
+d'un minimum de 40 % de matières végétales en masse. 
 
 III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
 installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
@@ -168,4 +178,5 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-418  du 27 avril 2010 - art. 3 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 45
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
