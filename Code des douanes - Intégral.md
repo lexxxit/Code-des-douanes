@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-05-19
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1564,18 +1564,18 @@ intervenir dans l'application de la législation des douanes.
 
 Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique, les agents de la direction générale des finances publiques, de la direction générale des douanes et droits
-indirects, et de la direction générale de la concurrence, de la consommation et de la répression des fraudes transmettent,
-spontanément ou sur demande, aux officiers et agents de police judiciaire les renseignements et documents de nature
-financière, fiscale ou douanière, sans que puisse être opposée l'obligation au secret. Dans ce même cadre, les officiers et
-agents de police judiciaire transmettent, spontanément ou sur demande, aux agents des trois directions précitées tous les
-éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que puisse être opposée
+indirects, et de la    concurrence, de la consommation et de la répression des fraudes transmettent, spontanément ou sur
+demande, aux officiers et agents de police judiciaire les renseignements et documents de nature financière, fiscale ou
+douanière, sans que puisse être opposée l'obligation au secret. Dans ce même cadre, les officiers et agents de police
+judiciaire transmettent, spontanément ou sur demande, aux agents des trois directions précitées tous les éléments
+susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que puisse être opposée
 l'obligation au secret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 106
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cité par**:
 
@@ -1588,12 +1588,12 @@ Les services et établissements de l'Etat et des autres collectivités publiques
 direction générale des douanes et des droits indirects tous les renseignements et documents en leur possession qui peuvent
 s'avérer utiles à la lutte contre la contrefaçon, à l'exception de ceux qu'ils ont recueillis ou échangés en application du
 règlement (CE) n° 1/2003 du Conseil, du 16 décembre 2002, relatif à la mise en oeuvre des règles de concurrence prévues aux
-articles 81 et 82 du traité, sans que puisse être opposée l'obligation de secret professionnel.
+articles 81 et 82 du traité, sans que puisse être opposée l'obligation de secret professionnel. 
 
-Les agents de la direction générale des douanes et des droits indirects, les agents de la direction générale de la
-concurrence, de la consommation et de la répression des fraudes, ainsi que les officiers et agents de police judiciaire
-peuvent se communiquer spontanément tous les renseignements et documents détenus ou recueillis dans le cadre de leur mission
-de lutte contre la contrefaçon.
+Les agents de la direction générale des douanes et des droits indirects, les                 agents de la concurrence, de la
+consommation et de la répression des fraudes, ainsi que les officiers et agents de police judiciaire peuvent se communiquer
+spontanément tous les renseignements et documents détenus ou recueillis dans le cadre de leur mission de lutte contre la
+contrefaçon.
 
 **Liens relatifs à cet article**
 
@@ -1601,9 +1601,9 @@ de lutte contre la contrefaçon.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 45 () JORF 30 octobre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cité par**:
 
@@ -2554,6 +2554,8 @@ article.
 
 
 ### Section 6 : Présentation des passeports.
+
+### Section 6 :  Présentation des titres et documents d'identité
 
 ###### Article 67
 
@@ -17733,39 +17735,41 @@ d'objets saisis, confisqués ou abandonnés.
 
 #### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.
 
+#### Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive
+
 ###### Article 369
 
-1. S'il retient les circonstances atténuantes, le tribunal peut :
+1. Eu égard à l'ampleur et à la gravité de l'infraction commise, ainsi qu'à la personnalité de son auteur, le tribunal
+peut : 
 
-a) libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
-dans les cas où les actes de contrebande ou assimilés ont été commis par dissimulation dans des cachettes spécialement
-aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
+a) Libérer les contrevenants de la confiscation des moyens de transport, sauf dans le cas où les actes de contrebande ou
+assimilés ont été commis par dissimulation dans des cachettes spécialement aménagées ou dans des cavités ou espaces vides qui
+ne sont pas normalement destinés au logement des marchandises ; 
 
-b) libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
+b) Libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ; 
 
-c) réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
-marchandises ;
+c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
+marchandises ; 
 
-d) réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
-437 ci-après ;
+d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
+437 ; 
 
-e) en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus, limiter ou supprimer la solidarité de certains
-condamnés.
+e) En ce qui concerne les sanctions fiscales visées au c et au d du présent 1, limiter ou supprimer la solidarité de certains
+condamnés ; 
 
-Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains co-prévenus pour un même fait de fraude, le
-tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
-seront solidairement tenus. Il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
-fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
+f) Dispenser le coupable des sanctions pénales prévues par le présent code, ordonner qu'il soit sursis à leur exécution,
+décider que la condamnation ne soit pas mentionnée au bulletin n° 2 du casier judiciaire. 
 
-S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut : dispenser le prévenu des sanctions
-pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
-soit pas mentionnée au bulletin n° 2 du casier judiciaire.
+En cas de pluralité de contrevenants pour un même fait de fraude, le tribunal peut, en ce qui concerne les sommes tenant lieu
+de confiscation et les amendes fiscales, limiter l'étendue de la solidarité à l'égard de certains d'entre eux seulement. Dans
+ce cas, le tribunal prononce tout d'abord les sanctions fiscales applicables aux autres contrevenants et auxquelles ceux-ci
+seront solidairement tenus. 
 
-2. (paragraphe abrogé).
+2. (paragraphe abrogé). 
 
 3. Lorsque les marchandises saisies ne sont pas explicitement prohibées au titre de la réglementation douanière, les
 tribunaux peuvent en donner mainlevée avant de juger définitivement le tout, moyennant caution solvable ou consignation de la
-valeur.
+valeur. 
 
 4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues ni de la confiscation
 des marchandises dangereuses pour la santé ou la moralité et la sécurité publiques, des marchandises contrefaisantes, ainsi
@@ -17775,7 +17779,7 @@ que de celles qui sont soumises à des restrictions quantitatives.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 	**Cité par**:
 
@@ -17783,7 +17787,7 @@ que de celles qui sont soumises à des restrictions quantitatives.
 
 	**Cite**:
 
-	  - Code des douanes - art. 437 (M)
+	  - Code des douanes - art. 437
 
 	**Codifié par**:
 
@@ -18215,19 +18219,20 @@ communication serait de nature à porter atteinte à la sécurité ou l'ordre pu
 
 ###### Article 382
 
-1. L'exécution des jugements et arrêts rendus en matière de douane peut avoir lieu par toutes voies de droit.
+1. L'exécution des jugements et arrêts rendus en matière de douane peut avoir lieu par toutes voies de droit. 
 
-2. Les jugements et arrêts portant condamnation pour infraction aux lois de douane sont, en outre, exécutés par corps.
+2. Les articles 749 à 762 du code de procédure pénale sont en outre applicables aux condamnations à l'amende et à la
+confiscation ordonnée en valeur prononcées pour délits douaniers et contraventions douanières. 
 
-3. (alinéa abrogé).
+3. (alinéa abrogé). 
 
 4. Lorsqu'un contrevenant vient à décéder avant d'avoir effectué le règlement des amendes, confiscations et autres
 condamnations pécuniaires prononcées contre lui par jugement définitif, ou stipulées dans les transactions ou soumissions
 contentieuses acceptées par lui, le recouvrement peut en être poursuivi contre la succession par toutes voies de droit, sauf
-par corps.
+par contrainte judiciaire. 
 
 5. Les amendes et confiscations douanières, quel que soit le tribunal qui les a prononcées, se prescrivent dans les mêmes
-délais que les peines correctionnelles de droit commun et dans les mêmes conditions que les dommages-intérêts.
+délais que les peines correctionnelles de droit commun et dans les mêmes conditions que les dommages-intérêts. 
 
 6. En cas de condamnation à une pénalité pécuniaire prévue au présent code, lorsque l'administration dispose d'éléments
 permettant de présumer que le condamné a organisé son insolvabilité, elle peut demander au juge de condamner à la solidarité
@@ -18235,13 +18240,17 @@ de paiement des sommes dues les personnes qui auront participé à l'organisatio
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 749
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
 #### Paragraphe 2 : Droits particuliers réservés à la douane.
@@ -18418,32 +18427,6 @@ sociétés pour les dettes de ces sociétés constituant une créance douanière
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.
-
-###### Article 388
-
-Par décision expresse du tribunal, celui qui est condamné pour un délit douanier ou une infraction en matière de
-contributions indirectes peut, nonobstant appel ou pourvoi en cassation, être maintenu en détention jusqu'à ce qu'il ait
-acquitté le montant des sanctions fiscales prononcées contre lui ; sauf dans le cas de trafic de stupéfiants, la durée de la
-détention accomplie dans ces conditions à compter de la condamnation s'impute sur celle de la contrainte judiciaire prononcée
-par le tribunal et ne peut excéder le minimum prévu par le code de procédure pénale pour une condamnation pécuniaire de même
-montant que celui des sanctions fiscales prononcées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
 #### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane
@@ -18984,8 +18967,8 @@ amendes individuelles.
 ###### Article 407
 
 Les propriétaires des marchandises de fraude, ceux qui se sont chargés de les importer ou de les exporter, les intéressés à
-la fraude, les complices et adhérents sont tous solidaires et contraignables par corps pour le paiement de l'amende, des
-sommes tenant lieu de confiscation et des dépens.
+la fraude, les complices et adhérents sont tous solidaires    pour le paiement de l'amende et peuvent être soumis à une
+contrainte judiciaire, des sommes tenant lieu de confiscation et des dépens.
 
 **Liens relatifs à cet article**
 
@@ -18995,7 +18978,7 @@ sommes tenant lieu de confiscation et des dépens.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
 ## Chapitre VI : Dispositions répressives
@@ -19244,26 +19227,22 @@ l'autorisation de dédouaner ceux qui en auraient été atteints.
 
 ###### Article 414
 
-Sont passibles d'un emprisonnement maximum de trois ans, de la confiscation de l'objet de fraude, de la confiscation des
-moyens de transport, de la confiscation des objets servant à  masquer la fraude, de la confiscation des biens et avoirs qui
-sont le produit direct ou indirect de l'infraction  et d'une amende comprise entre une et deux fois la valeur de l'objet de
-fraude, tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque ces infractions
-se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou fortement taxées au sens du présent code. 
+Sont passibles d'un emprisonnement de trois ans, de la confiscation de l'objet de fraude, de la confiscation des moyens de
+transport, de la confiscation des objets servant à masquer la fraude, de la confiscation des biens et avoirs qui sont le
+produit direct ou indirect de l'infraction et d'une amende comprise entre une et deux fois la valeur de l'objet de fraude,
+tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque ces infractions se
+rapportent à des marchandises de la catégorie de celles qui sont prohibées ou fortement taxées au sens du présent code. 
 
 La peine d'emprisonnement est portée à une durée maximale de cinq ans et l'amende peut aller jusqu'à trois fois la valeur de
 l'objet de fraude lorsque les faits de contrebande, d'importation ou d'exportation portent sur des biens à double usage,
 civil et militaire, dont la circulation est soumise à restriction par la réglementation européenne. 
 
-La peine d'emprisonnement est portée à une durée maximale de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de
-l'objet de la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises
-dangereuses pour la santé, la moralité ou la sécurité publiques, dont la liste est fixée par arrêté du ministre chargé des
-douanes, soit lorsqu'ils sont commis en bande organisée.
+La peine d'emprisonnement est portée à une durée de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de l'objet de
+la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises dangereuses pour
+la santé, la moralité ou la sécurité publiques, dont la liste est fixée par arrêté du ministre chargé des douanes, soit
+lorsqu'ils sont commis en bande organisée.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -19304,13 +19283,18 @@ douanes, soit lorsqu'ils sont commis en bande organisée.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 109
+	  - Loi n°2003-239 du 18 mars 2003 - art. 14
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 	**Anciens textes**:
 
 	  - Code des douanes - art. 413 (T)
 	  - Code des douanes - art. 415 (T)
 	  - Code des douanes - art. 416 (T)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 414-1
@@ -19983,16 +19967,15 @@ redressement et à la liquidation judiciaire des entreprises.
 
 ###### Article 432 bis
 
-1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
-prévues aux articles 414 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne interposée,
-pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du permis de
-conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la suspension
-ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
-faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues pour
-l'application du 1° de l'article 131-6 du code pénal.
+Les personnes physiques coupables des infractions prévues aux articles 414 et 459 encourent les peines complémentaires
+suivantes : 
 
-2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
-de 15000 euros ou de l'une de ces deux peines seulement.
+1° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une profession commerciale ou
+industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale ; 
+
+2° La suspension, pour une durée de trois ans au plus, ou de six ans au plus en cas de récidive, du permis de conduire, la
+juridiction pouvant limiter cette peine à la conduite en dehors de l'activité professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -20002,15 +19985,13 @@ de 15000 euros ou de l'une de ces deux peines seulement.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 	**Cite**:
 
-	  - Code pénal - art. 131-6 (M)
-	  - Code des douanes - art. 459 (M)
-	  - Code des douanes 431-1, 459
+	  - Code pénal - art. 131-27
+	  - Code des douanes - art. 414
+	  - Code des douanes - art. 459
 
 
 ###### Article 433
@@ -20795,15 +20776,9 @@ exercée que sur la plainte du ministre de l'économie et des finances ou de l'u
 l'étranger, soit en ne respectant pas les obligations de déclaration ou de rapatriement, soit en n'observant pas les
 procédures prescrites ou les formalités exigées, soit en ne se munissant pas des autorisations requises ou en ne satisfaisant
 pas aux conditions dont ces autorisations sont assorties sera puni d'une peine d'emprisonnement de cinq ans, de la
-confiscation du corps du délit, de la confiscation des moyens de transport   utilisés pour la fraude, de la confiscation des
-biens et avoirs qui sont le produit direct ou indirect de l'infraction  et d'une amende égale au minimum au montant et au
-maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction. En outre, les personnes
-physiques encourent à titre de peines complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du
-code pénal, soit d'exercer une fonction publique ou d'exercer l'activité professionnelle ou sociale dans l'exercice ou à
-l'occasion de l'exercice de laquelle l'infraction a été commise, soit d'exercer une profession commerciale ou industrielle,
-de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour leur propre
-compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale. Ces interdictions
-d'exercice peuvent être prononcées cumulativement. 
+confiscation du corps du délit, de la confiscation des moyens de transport utilisés pour la fraude, de la confiscation des
+biens et avoirs qui sont le produit direct ou indirect de l'infraction et d'une amende égale au minimum au montant et au
+maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction. 
 
 1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou de tenter de contrevenir aux mesures de
 restriction des relations économiques et financières prévues par la réglementation communautaire prise en application des
@@ -20818,7 +20793,7 @@ l'article 131-38 du code pénal, les peines prévues par l'article 131-39 du mê
 par le délinquant ou lorsque le ministre du budget ou son représentant en fait la demande, le tribunal doit, pour tenir lieu
 de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets. 
 
-3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225000 euros toute personne qui aura incité par
+3. Sera punie d'un emprisonnement de cinq ans et d'une amende de 450 euros à 225 000 euros toute personne qui aura incité par
 écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non
 suivie d'effet. 
 
@@ -20859,12 +20834,11 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 109
+	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-27
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
 	  - Traité 1957-03-25, fait à Rome art. 60, art. 301
