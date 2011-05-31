@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2553,8 +2553,6 @@ article.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 L (V)
 
 
-### Section 6 : Présentation des passeports.
-
 ### Section 6 :  Présentation des titres et documents d'identité
 
 ###### Article 67
@@ -2901,15 +2899,15 @@ Les agents des douanes informent sans délai le procureur de la République de l
 et du lieu de cette retenue. Au cours de la retenue provisoire, la personne est conduite devant l'officier de police
 judiciaire territorialement compétent ou maintenue à sa disposition. La durée de la retenue provisoire est limitée au temps
 strictement nécessaire à l'accomplissement de ces diligences, sans pouvoir excéder trois heures à compter de la constatation
-des infractions aux mêmes articles L. 621-1 et L. 621-2.A l'expiration de ce délai, la personne est laissée libre si elle n'a
-pu être remise à l'officier de police judiciaire territorialement compétent et si elle n'a pas commis d'infraction douanière.
-Le procureur de la République peut mettre fin à tout moment à la retenue provisoire. 
+des infractions aux mêmes articles L. 621-1 et L. 621-2. A l'expiration de ce délai, la personne est laissée libre si elle
+n'a pu être remise à l'officier de police judiciaire territorialement compétent et si elle n'a pas commis d'infraction
+douanière. Le procureur de la République peut mettre fin à tout moment à la retenue provisoire. 
 
 Lorsque la personne retenue est placée en garde à vue au terme de la retenue provisoire, la durée de la retenue provisoire
 s'impute sur celle de la garde à vue. 
 
-Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière, dans les conditions prévues à l'article 323 du
-présent code, la durée de la retenue s'impute sur celle de la retenue douanière. 
+Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière, dans les conditions prévues aux articles 323-1
+à 323-10 du présent code, la durée de la retenue s'impute sur celle de la retenue douanière. 
 
 Les agents des douanes mentionnent par procès-verbal de constat, dont un double est remis à l'officier de police judiciaire,
 le jour et l'heure du début et de la fin de la retenue provisoire.
@@ -2919,10 +2917,11 @@ le jour et l'heure du début et de la fin de la retenue provisoire.
 	**Cite**:
 
 	  - Accord 1985-06-14, signé à Schengen
+	  - Convention 1990-06-19, signée à Schengen
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L621-1
 	  - Code des douanes - art. 323
-	  - Convention 1990-06-19, signée à Schengen
+	  - Code des douanes - art. 323-1
 
 	**Cité par**:
 
@@ -2947,7 +2946,7 @@ le jour et l'heure du début et de la fin de la retenue provisoire.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 69
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
 
 	**Codifié par**:
 
@@ -2965,19 +2964,19 @@ l'objet d'un signalement ou qui sont détentrices d'un objet signalé.
 Les agents des douanes informent sans délai le procureur de la République de la retenue provisoire. Au cours de la retenue
 provisoire, la personne est conduite devant l'officier de police judiciaire territorialement compétent ou maintenue à sa
 disposition. La durée de la retenue provisoire est limitée au temps strictement nécessaire à l'accomplissement de ces
-diligences, sans pouvoir excéder trois heures à compter de la demande de l'officier de police judiciaire.A l'expiration de ce
-délai, la personne est laissée libre si elle n'a pu être remise à l'officier de police judiciaire territorialement
+diligences, sans pouvoir excéder trois heures à compter de la demande de l'officier de police judiciaire. A l'expiration de
+ce délai, la personne est laissée libre si elle n'a pu être remise à l'officier de police judiciaire territorialement
 compétent. 
 
 Lorsque la personne retenue est placée en garde à vue au terme de la retenue provisoire, la durée de la retenue provisoire
 s'impute sur celle de la garde à vue. 
 
-Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière dans les conditions prévues à l'article 323 du
-présent code, la durée de la retenue provisoire s'impute sur celle de la retenue douanière. 
+Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière dans les conditions prévues aux articles 323-1
+à 323-10 du présent code, la durée de la retenue provisoire s'impute sur celle de la retenue douanière. 
 
 Les agents des douanes mentionnent, par procès-verbal de constat, dont un double est remis à l'officier de police judiciaire,
 le jour et l'heure du début et de la fin de la retenue provisoire ; ces mentions figurent également sur le registre mentionné
-à l'article 323 précité.
+à l'article 323-8.
 
 **Liens relatifs à cet article**
 
@@ -2988,11 +2987,12 @@ le jour et l'heure du début et de la fin de la retenue provisoire ; ces mention
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 26
-	  - Code des douanes - art. 323
+	  - Code des douanes - art. 323-1
+	  - Code des douanes - art. 323-8
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 15
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
 
 
 ## Chapitre V : Procédure préalable à la prise de décision :  le droit d'être entendu. 
@@ -16337,7 +16337,7 @@ la consignation.
 
 ### Section 1 : Constatation par procès-verbal de saisie
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.
+#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière
 
 ###### Article 323
 
@@ -16348,31 +16348,18 @@ administration.
 expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
 la sûreté des pénalités.
 
-3. Ils ne peuvent procéder à la capture des prévenus qu'en cas de flagrant délit.
+**Nota:**
 
-Le procureur de la République en est immédiatement informé.
-
-La durée de la retenue ne peut excéder vingt-quatre heures sauf prolongation d'une même durée autorisée par le procureur de
-la République.
-
-Pendant la retenue, le procureur de la République peut se transporter sur les lieux pour vérifier les modalités de la retenue
-et se faire communiquer les procès-verbaux et registres prévus à cet effet. S'il l'estime nécessaire, il peut désigner un
-médecin.
-
-Les agents mentionnent, par procès-verbal de constat, la durée des interrogatoires et des repos qui ont séparé ces
-interrogatoires, le jour et l'heure du début et de la fin de la retenue.
-
-Ces mentions figurent également sur un registre spécial tenu dans les locaux de douane.
-
-Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée
-de la garde à vue.
+Dans sa décision n° 2010-32 QPC du 22 septembre 2010 (NOR : CSCX1024329S), le Conseil constitutionnel a déclaré contraire à
+la Constitution le 3 de l'article 323 du code des douanes. Cette déclaration d'inconstitutionnalité prend effet le 1er
+juillet 2011 dans les conditions fixées au considérant 9. Les 1 et 2 de l'article 323 du code des douanes sont conformes à la
+Constitution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 22 JORF 9 juillet 1987
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Décision n°2010-32 QPC du 22 septembre 2010, v. init.
 
 	**Cité par**:
 
@@ -16380,9 +16367,235 @@ de la garde à vue.
 	  - Code des douanes - art. 67 quater (VD)
 	  - Code des douanes - art. 67 ter (V)
 
-	**Codifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+###### Article 323-1
+
+Les agents des douanes ne peuvent procéder à l'arrestation et au placement en retenue douanière d'une personne qu'en cas de
+flagrant délit douanier puni d'une peine d'emprisonnement et lorsque cette mesure est justifiée par les nécessités de
+l'enquête douanière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cité par**:
+
+	  - Code des douanes - art. 323-6 (V)
+	  - Code des douanes - art. 338 (V)
+	  - Code des douanes - art. 67 quater (VD)
+	  - Code des douanes - art. 67 ter (VD)
+
+
+###### Article 323-2
+
+La durée de la retenue douanière ne peut excéder vingt-quatre heures. 
+
+Toutefois, la retenue peut être prolongée pour un nouveau délai de vingt-quatre heures au plus, sur autorisation écrite et
+motivée du procureur de la République, si les nécessités de l'enquête douanière le justifient. 
+
+L'autorisation est accordée dans les conditions prévues au II de l'article 63 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 402 (V)
+
+
+###### Article 323-3
+
+Dès le début de la retenue douanière, le procureur de la République dans le ressort duquel est constaté le flagrant délit en
+est informé par tout moyen. 
+
+Il est avisé de la qualification des faits qui a été notifiée à la personne. Le procureur de la République peut modifier
+cette qualification ; dans ce cas, la nouvelle qualification est notifiée à la personne dans les conditions prévues à
+l'article 323-6.
+
+Si la mesure doit être exécutée dans un autre ressort que celui du procureur de la République où l'infraction a été
+constatée, ce dernier en est informé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code des douanes - art. 323-6
+
+
+###### Article 323-4
+
+La retenue douanière s'exécute sous le contrôle du procureur de la République qui assure la sauvegarde des droits reconnus
+par la loi à la personne retenue. 
+
+Il peut se transporter sur les lieux pour vérifier les modalités de la retenue et se faire communiquer les procès-verbaux et
+registres prévus à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+
+###### Article 323-5
+
+La personne placée en retenue douanière bénéficie du droit de faire prévenir un proche ou son curateur ou son tuteur, de
+faire prévenir son employeur, d'être examinée par un médecin et de l'assistance d'un avocat dans les conditions et sous les
+réserves définies aux articles 63-2 à 63-4-4 du code de procédure pénale. Lorsque la personne placée en retenue douanière est
+de nationalité étrangère, elle peut faire contacter les autorités consulaires de son pays. Les attributions conférées à
+l'officier de police judiciaire par les articles 63-2 à 63-3-1, 63-4-2 et 63-4-3 du même code sont exercées par un agent des
+douanes. 
+
+Lorsque la personne est retenue pour un délit douanier mentionné au dernier alinéa de l'article 414 ou à l'article 415 du
+présent code ou pour un délit connexe à une infraction mentionnée à l'article 706-73 du code de procédure pénale,
+l'intervention de l'avocat peut être différée dans les conditions prévues aux sixième à dernier alinéas de l'article 706-88
+du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-2
+	  - Code de procédure pénale - art. 706-73
+	  - Code de procédure pénale - art. 706-88
+	  - Code des douanes - art. 414
+	  - Code des douanes - art. 415
+
+	**Cité par**:
+
+	  - Code des douanes - art. 323-6 (VD)
+
+
+###### Article 323-6
+
+La personne placée en retenue douanière est immédiatement informée par un agent des douanes, dans les conditions prévues à
+l'article 63-1 du code de procédure pénale : 
+
+1° De son placement en retenue ainsi que de la durée de la mesure et de la prolongation dont celle-ci peut faire l'objet ; 
+
+2° De la nature et de la date présumée de l'infraction qu'elle est soupçonnée d'avoir commise ou tenté de commettre ; 
+
+3° Du fait qu'elle bénéficie des droits énoncés à l'article 323-5 du présent code ; 
+
+4° Du fait qu'elle a le choix, après avoir décliné son identité, de faire des déclarations, de répondre aux questions qui lui
+sont posées ou de se taire. 
+
+Mention de l'information donnée en application du présent article est portée au procès-verbal et émargée par la personne
+retenue. En cas de refus d'émargement, il en est fait mention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-1
+	  - Code des douanes - art. 323-5
+
+	**Cité par**:
+
+	  - Code des douanes - art. 323-3 (VD)
+
+
+###### Article 323-7
+
+Les articles 63-5 et 63-6 et le premier alinéa de l'article 63-7 du code de procédure pénale sont applicables en cas de
+retenue douanière. 
+
+Les mesures de sécurité mentionnées à l'article 63-6 du même code sont limitativement énumérées par arrêté du ministre chargé
+des douanes. 
+
+Les attributions conférées à l'officier de police judiciaire par l'article 63-7 du même code sont exercées par un agent des
+douanes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 63-5
+	  - Code de procédure pénale - art. 63-6
+	  - Code de procédure pénale - art. 63-7
+
+
+###### Article 323-8
+
+Le procès-verbal de retenue douanière est rédigé conformément au I de l'article 64 du code de procédure pénale. 
+
+Figurent également sur un registre spécial tenu, éventuellement sous forme dématérialisée, dans les locaux de douane
+susceptibles de recevoir une personne retenue, les mentions prévues au premier alinéa du II du même article 64.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 64
+
+	**Cité par**:
+
+	  - Code des douanes - art. 67 ter (VD)
+
+
+###### Article 323-9
+
+A l'issue de la retenue douanière, le procureur de la République peut ordonner que la personne retenue soit présentée devant
+lui, un officier de police judiciaire ou un agent des douanes habilité en application de l'article 28-1 du code de procédure
+pénale ou qu'elle soit remise en liberté. 
+
+Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée
+de la garde à vue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 28-1
+
+
+###### Article 323-10
+
+En cas de flagrant délit douanier commis par un mineur, la retenue douanière se déroule selon les conditions prévues à
+l'article 4 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 4
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 19
 
 
 #### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.
@@ -17732,8 +17945,6 @@ d'objets saisis, confisqués ou abandonnés.
 
 	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
-
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.
 
 #### Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive
 
