@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-06-01 00:00:01 +0200
+Version Consolidée au 2011-07-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -11329,13 +11329,14 @@ commission.
 ###### Article 265 A bis
 
 Les conseils régionaux et l'assemblée de Corse peuvent majorer le tarif de la taxe intérieure de consommation applicable aux
-carburants vendus aux consommateurs finals sur leur territoire, dans la limite de 0, 73 euros par hectolitre pour les
-supercarburants mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1, 35 euros par
+carburants vendus aux consommateurs finals sur leur territoire, dans la limite de 0,73 euro par hectolitre pour les
+supercarburants mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1,35 euro par
 hectolitre pour le gazole mentionné à l'indice d'identification 22 du même tableau B. 
 
 Les recettes issues de la majoration prévue au premier alinéa sont exclusivement affectées au financement d'une
 infrastructure de transport durable, ferroviaire ou fluvial, mentionnée aux articles 11 et 12 de la loi n° 2009-967 du 3 août
-2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement. 
+2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement ou à l'amélioration du réseau de transports
+urbains en Ile-de-France. 
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
 le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
@@ -11349,9 +11350,14 @@ consommation entrent en vigueur le 1er janvier de l'année suivante.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 94
+	  - Loi n°2009-967 du 3 août 2009 - art. 11 (V)
+	  - Code des douanes - art. 265 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 34 (V)
 
 	**Cité par**:
 
@@ -13994,10 +14000,8 @@ a) Pour la production d'électricité, à l'exclusion du gaz naturel utilisé pa
 4° du V de l'article L. 3333-2 du code général des collectivités territoriales. 
 
 Cette exonération ne s'applique pas au gaz naturel destiné à être utilisé dans les installations visées à l'article 266
-quinquies A. Toutefois, les producteurs dont l'installation ne bénéficie pas d'un contrat d'achat d'électricité conclu dans
-le cadre de l'article 10 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service
-public de l'électricité ou mentionné à l'article 50 de cette même loi, renonçant à bénéficier de l'exonération des taxes
-intérieures de consommation prévues à l'article 266 quinquies A, bénéficient du régime prévu au présent a ; 
+quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de
+l'énergie ou mentionné à l'article L. 121-27 du même code ; 
 
 b) Pour les besoins de l'extraction et de la production du gaz naturel ; 
 
@@ -14111,7 +14115,7 @@ peut s'effectuer par imputation sur le montant de la taxe due.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 17
 
 
 ###### Article 266 quinquies A
@@ -14194,8 +14198,9 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés : 
 
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
-quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de
-l'article L. 3333-2 du code général des collectivités territoriales ; 
+quinquies A   et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de
+l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits
+producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ; 
 
 2° Pour les besoins de leur extraction et de leur production ; 
 
@@ -14247,7 +14252,7 @@ ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
+	  - Loi n°2011-900 du 29 juillet 2011 - art. 17
 
 	**Cite**:
 
