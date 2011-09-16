@@ -1,28 +1,27 @@
 # Article 265 bis A
 
 1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
-bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation dont les
+bénéficient, dans la limite des quantités fixées par agrément et sous réserve de respecter les critères de durabilité prévus
+par les articles L. 661-3 à L. 661-6 du code de l'énergie, d'une réduction de la taxe intérieure de consommation dont les
 tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction
-du contexte économique. Cette réduction est fixée comme suit : 
+du contexte économique. Cette réduction est fixée comme suit :
+
+(En euros par hectolitre)
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="3">
-
-DÉSIGNATION DES PRODUITS 
+      <td align="center" rowspan="3">DÉSIGNATION DES PRODUITS 
 
 </td>
-      <td colspan="3">
+      <td colspan="2" align="center">
 
-RÉDUCTION
-
-(en euros par hectolitre)
+RÉDUCTION 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="2">
 
 Année
 
@@ -31,17 +30,12 @@ Année
     <tr>
       <td>
 
-2011
+2014
 
 </td>
       <td>
 
-2012
-
-</td>
-      <td>
-
-2013
+2015
 
 </td>
     </tr>
@@ -53,17 +47,12 @@ Année
 </td>
       <td>
 
-8,00
+4,5
 
 </td>
       <td>
 
-8,00
-
-</td>
-      <td>
-
-8,00
+3
 
 </td>
     </tr>
@@ -75,17 +64,12 @@ Année
 </td>
       <td align="center">
 
-8,00 
+4,5
 
 </td>
       <td align="center">
 
-8,00 
-
-</td>
-      <td align="center">
-
-8,00 
+3
 
 </td>
     </tr>
@@ -98,17 +82,12 @@ agricole, sous nomenclature douanière combinée NC 220710
 </td>
       <td align="center">
 
-14,00 
+8,25 
 
 </td>
       <td align="center">
 
-14,00 
-
-</td>
-      <td align="center">
-
-14,00 
+7
 
 </td>
     </tr>
@@ -121,17 +100,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-14,00
+8,25 
 
 </td>
       <td align="center">
 
-14,00
-
-</td>
-      <td align="center">
-
-14,00
+7
 
 </td>
     </tr>
@@ -143,17 +117,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-8,00
+4,5
 
 </td>
       <td align="center">
 
-8,00
-
-</td>
-      <td align="center">
-
-8,00
+3
 
 </td>
     </tr>
@@ -165,17 +134,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-14,00
+8,25 
 
 </td>
       <td align="center">
 
-14,00
-
-</td>
-      <td align="center">
-
-14,00
+7
 
 </td>
     </tr>
@@ -205,9 +169,12 @@ quantité annuelle fixée par l'agrément, cette dernière peut être réduite d
 
 5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants
 et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux
-produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité désignée par l'Etat membre de
-production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles
-minérales. 
+produits désignés au 1, sur présentation de la déclaration de durabilité conforme aux prescriptions de l'article L. 661-7 du
+code de l'énergie, d'un certificat de production émis par l'autorité désignée par l'Etat membre de production et d'un
+certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles minérales. 
+
+5-1. Les agents de l'administration des douanes, habilités par les textes particuliers qui leur sont applicables, sont
+chargés du contrôle du dépôt et de la validité de la déclaration de durabilité. 
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à
 candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
@@ -234,10 +201,16 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - Décret n°2008-93 du 29 janvier 2008 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 138
-
 	**Cite**:
 
+	  - Code de l'énergie - art. L661-3
 	  - Code des douanes - art. 265
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 5
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 34
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 34

@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-07-31
+Version Consolidée au 2011-09-17
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -11521,28 +11521,27 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 ###### Article 265 bis A
 
 1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
-bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation dont les
+bénéficient, dans la limite des quantités fixées par agrément et sous réserve de respecter les critères de durabilité prévus
+par les articles L. 661-3 à L. 661-6 du code de l'énergie, d'une réduction de la taxe intérieure de consommation dont les
 tarifs sont fixés au tableau B du 1 de l'article 265, ces taux de défiscalisation pouvant être revus à la hausse en fonction
-du contexte économique. Cette réduction est fixée comme suit : 
+du contexte économique. Cette réduction est fixée comme suit :
+
+(En euros par hectolitre)
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="3">
-
-DÉSIGNATION DES PRODUITS 
+      <td align="center" rowspan="3">DÉSIGNATION DES PRODUITS 
 
 </td>
-      <td colspan="3">
+      <td colspan="2" align="center">
 
-RÉDUCTION
-
-(en euros par hectolitre)
+RÉDUCTION 
 
 </td>
     </tr>
     <tr>
-      <td colspan="3">
+      <td colspan="2">
 
 Année
 
@@ -11551,17 +11550,12 @@ Année
     <tr>
       <td>
 
-2011
+2014
 
 </td>
       <td>
 
-2012
-
-</td>
-      <td>
-
-2013
+2015
 
 </td>
     </tr>
@@ -11573,17 +11567,12 @@ Année
 </td>
       <td>
 
-8,00
+4,5
 
 </td>
       <td>
 
-8,00
-
-</td>
-      <td>
-
-8,00
+3
 
 </td>
     </tr>
@@ -11595,17 +11584,12 @@ Année
 </td>
       <td align="center">
 
-8,00 
+4,5
 
 </td>
       <td align="center">
 
-8,00 
-
-</td>
-      <td align="center">
-
-8,00 
+3
 
 </td>
     </tr>
@@ -11618,17 +11602,12 @@ agricole, sous nomenclature douanière combinée NC 220710
 </td>
       <td align="center">
 
-14,00 
+8,25 
 
 </td>
       <td align="center">
 
-14,00 
-
-</td>
-      <td align="center">
-
-14,00 
+7
 
 </td>
     </tr>
@@ -11641,17 +11620,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-14,00
+8,25 
 
 </td>
       <td align="center">
 
-14,00
-
-</td>
-      <td align="center">
-
-14,00
+7
 
 </td>
     </tr>
@@ -11663,17 +11637,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-8,00
+4,5
 
 </td>
       <td align="center">
 
-8,00
-
-</td>
-      <td align="center">
-
-8,00
+3
 
 </td>
     </tr>
@@ -11685,17 +11654,12 @@ superéthanol E85 repris à l'indice d'identification 55
 </td>
       <td align="center">
 
-14,00
+8,25 
 
 </td>
       <td align="center">
 
-14,00
-
-</td>
-      <td align="center">
-
-14,00
+7
 
 </td>
     </tr>
@@ -11725,9 +11689,12 @@ quantité annuelle fixée par l'agrément, cette dernière peut être réduite d
 
 5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants
 et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux
-produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité désignée par l'Etat membre de
-production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles
-minérales. 
+produits désignés au 1, sur présentation de la déclaration de durabilité conforme aux prescriptions de l'article L. 661-7 du
+code de l'énergie, d'un certificat de production émis par l'autorité désignée par l'Etat membre de production et d'un
+certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles minérales. 
+
+5-1. Les agents de l'administration des douanes, habilités par les textes particuliers qui leur sont applicables, sont
+chargés du contrôle du dépôt et de la validité de la déclaration de durabilité. 
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à
 candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
@@ -11754,13 +11721,19 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 	  - Décret n°2008-93 du 29 janvier 2008 (V)
 	  - Code de l'énergie - art. L661-2 (VD)
 
-	**Modifié par**:
-
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 138
-
 	**Cite**:
 
+	  - Code de l'énergie - art. L661-3
 	  - Code des douanes - art. 265
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 5
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 34
+
+	**Abrogé par**:
+
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 34
 
 
 ###### Article 265 C
@@ -13873,23 +13846,25 @@ III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la pre
 
 ###### Article 266 quindecies
 
-I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du
-tableau B du 1 de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même
-tableau sont redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes. 
+I.-Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du tableau
+B du 1 de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même tableau sont
+redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes. 
 
-II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
+II.-Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
 chaque carburant concerné. 
 
-III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en 2007, de 2, 25 points en 2008, de 0, 50 point en
-2009 et de 0, 75 point en 2010. 
+III.-Son taux est fixé à 1,75 % en 2006. Il est majoré de 1,75 point en 2007, de 2,25 points en 2008, de 0,50 point en 2009
+et de 0,75 point en 2010. 
 
-Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22 et 55 du
+Lors de la mise à la consommation des carburants repris aux indices d'identification 11,11 bis, 11 ter, 20,22 et 55 du
 tableau B du 1 de l'article 265, les redevables émettent des certificats représentatifs des quantités, exprimées en pouvoir
-calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces carburants incorporent. 
+calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces carburants incorporent, sous
+réserve que ces produits respectent les critères de durabilité prévus par les articles L. 661-3 à L. 661-6 du code de
+l'énergie.
 
 Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en compte pour le double de leur valeur réelle en
 pouvoir calorifique inférieur, dans des conditions précisées par arrêté du ministre chargé du budget et dans la limite de la
-moitié des quantités agréées spécifiquement pour les  esters méthyliques d'huile animale.
+moitié des quantités agréées spécifiquement pour les esters méthyliques d'huile animale. 
 
 Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
 
@@ -13899,19 +13874,18 @@ Le taux du prélèvement est diminué :
 de l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ; 
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux 1, 2, 5 et 6 du tableau du 1 de l'article
-précité inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique
-inférieur, de ce carburant, soumises au prélèvement. 
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux 1,2,5 et 6 du tableau du 1 de l'article précité
+inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de
+ce carburant, soumises au prélèvement. 
 
-IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
-produits mentionnés au I à usage de carburant.
+IV.-Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
+produits mentionnés au I à usage de carburant. 
 
-V. - Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
+V.-Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
 la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
 du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
-VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier
-2013. 
+VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2013. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies. 
@@ -13955,7 +13929,11 @@ privilèges que ceux prévus par le présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 48
+	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code de l'énergie - art. L661-3 (V)
 
 
 ###### Article 266 quinquies
