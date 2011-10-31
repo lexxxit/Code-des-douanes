@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-09-17
+Version Consolidée au 2011-11-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -14483,7 +14483,7 @@ suivantes :
 1. Tout exploitant d'une installation d'élimination par stockage ou par incinération de déchets ménagers et assimilés, tout
 exploitant d'une installation d'élimination des déchets industriels spéciaux par incinération, coincinération, stockage,
 traitement physico-chimique ou biologique non exclusivement utilisée pour les déchets que l'entreprise produit ou toute
-personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013 / 2006 du
+personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du
 Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts de déchets ; 
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
@@ -14501,13 +14501,13 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise de
 autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ; 
 
 c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub / CPL) : huiles pour
-moteur deux-temps (1C / D. dt), graisses utilisées en système ouvert (3A1 / J1 et 3A2 / J2), huiles pour scies à chaînes
-(6B / B2), huiles de démoulage / décoffrage (6C / K. 4a) ; 
+usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
+moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
+B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ; 
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
 utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
-produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à
+produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à
 38099100 du tarif douanier ; 
 
 6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
@@ -14530,11 +14530,11 @@ volume, des risques particuliers à l'environnement ;
 
 9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
 émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue ;
+contribution financière ou en nature qui y est prévue ; 
 
 A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
 l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
-mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue.
+mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
 
 10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
 fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
@@ -14550,13 +14550,14 @@ matière ;
 
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ; 
 
-1 quater. (Abrogé) ;
+1 quater. (Abrogé) ; 
 
 1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par
 arrêté, entre la date de début de sinistre et soixante jours après la fin du sinistre. Les quantités non taxables font
-l'objet d'une comptabilité matière séparée ;
+l'objet d'une comptabilité matière séparée ; 
 
-2. (alinéa abrogé) ; 
+2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
+30 juillet 2003  relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ; 
@@ -14566,12 +14567,12 @@ adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, menti
 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
 destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
 
-5.A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
+5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005 / 360 / CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
-du label écologique communautaire aux lubrifiants ;
+du label écologique communautaire aux lubrifiants ; 
 
 7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret,
 d'un minimum de 40 % de matières végétales en masse. 
@@ -14653,10 +14654,13 @@ de l'environnement ou de nuire à la santé humaine.
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
 
+	**Cite**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 84 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 45
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 22
 
 
 ###### Article 266 terdecies
