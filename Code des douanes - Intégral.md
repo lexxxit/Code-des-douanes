@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-12-02
+Version Consolidée au 2011-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -7718,8 +7718,9 @@ jaugeage des navires, est inférieure à 24 mètres n'est pas obligatoire.
 ###### Article 223
 
 Les navires francisés dont la longueur de coque est supérieure ou égale à 7 mètres ou dont la puissance administrative des
-moteurs est supérieure ou égale à 22 CV sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de
-navigation, à la charge des propriétaires, au 1er janvier de l'année considérée.
+moteurs est supérieure ou égale à 22 CV et les véhicules nautiques à moteur francisés dont la puissance réelle des moteurs
+est supérieure ou égale à 90 kW sont soumis au paiement d'un droit annuel, dénommé droit de francisation et de navigation, à
+la charge des propriétaires, au 1er janvier de l'année considérée.
 
 L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit : 
 
@@ -7735,13 +7736,13 @@ du navire ou longueur de coque
 </td>
       <td width="307" valign="top">
 
-QUOTITE DU DROIT
+QUOTITÉ DU DROIT
 
 </td>
     </tr>
     <tr>
       <td width="307" valign="top">
-      </td><td valign="top" width="307">
+      </td><td width="307" valign="top">
 
 I.-Navires de commerce
 
@@ -7753,14 +7754,14 @@ I.-Navires de commerce
 De tout tonnage
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
       </td><td width="307" valign="top">
 
 II.-Navires de pêche
@@ -7773,7 +7774,7 @@ II.-Navires de pêche
 De tout tonnage
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Exonération
 
@@ -7788,8 +7789,8 @@ III.-Navires de plaisance ou de sport
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
-      </td><td valign="top" width="307">
+      <td width="307" valign="top">
+      </td><td width="307" valign="top">
 
 a) Droit sur la coque
 
@@ -7813,9 +7814,9 @@ Exonération
 De 7 mètres inclus à 8 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
-92 euros
+77 euros
 
 </td>
     </tr>
@@ -7827,7 +7828,7 @@ De 8 mètres inclus à 9 mètres exclus
 </td>
       <td valign="top" width="307">
 
-131 euros
+105 euros
 
 </td>
     </tr>
@@ -7837,9 +7838,9 @@ De 8 mètres inclus à 9 mètres exclus
 De 9 mètres inclus à 10 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
-223 euros
+178 euros
 
 </td>
     </tr>
@@ -7849,9 +7850,9 @@ De 9 mètres inclus à 10 mètres exclus
 De 10 mètres inclus à 11 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
-300 euros
+240 euros
 
 </td>
     </tr>
@@ -7861,21 +7862,21 @@ De 10 mètres inclus à 11 mètres exclus
 De 11 mètres inclus à 12 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
-342 euros
+274 euros
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 12 mètres inclus à 15 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
-573 euros
+458 euros
 
 </td>
     </tr>
@@ -7887,25 +7888,25 @@ De 15 mètres et plus
 </td>
       <td valign="top" width="307">
 
-1108 euros
+886 euros
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
-      </td><td width="307" valign="top">
+      <td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 b) Droit sur le moteur des navires (puissance administrative)
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Jusqu'à 5 CV inclusivement
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Exonération
 
@@ -7917,21 +7918,21 @@ Exonération
 De 6 à 8 CV
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
-13 euros par CV au-dessus du cinquième
+14 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 9 à 10 CV
 
 </td>
       <td width="307" valign="top">
 
-15 euros par CV au-dessus du cinquième
+16 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
@@ -7943,7 +7944,7 @@ De 11 à 20 CV
 </td>
       <td valign="top" width="307">
 
-32 euros par CV au-dessus du cinquième
+35 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
@@ -7955,7 +7956,7 @@ De 21 à 25 CV
 </td>
       <td valign="top" width="307">
 
-36 euros par CV au-dessus du cinquième
+40 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
@@ -7967,7 +7968,7 @@ De 26 à 50 CV
 </td>
       <td width="307" valign="top">
 
-40 euros par CV au-dessus du cinquième
+44 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
@@ -7977,14 +7978,14 @@ De 26 à 50 CV
 De 51 à 99 CV
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
-45 euros par CV au-dessus du cinquième
+50 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
       </td><td width="307" valign="top">
 
 c) Taxe spéciale
@@ -7996,16 +7997,38 @@ c) Taxe spéciale
       </td><td valign="top" width="307">
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
-taxe spéciale de 57, 96 euros par CV. 
+taxe spéciale de 64 euros par CV. 
 
 </td>
+    </tr>
+    <tr>
+      <td>
+      </td><td>d) Droit sur le moteur appliqué aux véhicules nautiques à moteur (puissance réelle)</td>
+    </tr>
+    <tr>
+      <td>Jusqu'à 90 kW exclus</td>
+      <td>exonération</td>
+    </tr>
+    <tr>
+      <td>De 90 kW à 159 kW</td>
+      <td>3 € par kW ou fraction de kW</td>
+    </tr>
+    <tr>
+      <td>A partir de 160 kW</td>
+      <td>4 € par kW ou fraction de kW </td>
     </tr>
   </tbody>
 </table>
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
 port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
-et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+et doit être compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 70 II : les dispositions du premier alinéa
+de l'article 223 ainsi que le 
+  _d_ du tableau tels qu'ils résultent de l'article 70 C de ladite loi, entrent en vigueur à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -8022,7 +8045,7 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 70 (V)
 
 
 ###### Article 224
@@ -8888,14 +8911,14 @@ Ces marchandises ou épaves sont placées sous double surveillance des services 
 
 ###### Article 265
 
-1.-Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme
+1. Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme
 carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit : 
 
 Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992). 
 
 Tableau B : Produits pétroliers et assimilés. 
 
-1. Nomenclature et tarif. 
+1° Nomenclature et tarif. 
 
 <table>
   <tbody>
@@ -8905,14 +8928,14 @@ Tableau B : Produits pétroliers et assimilés.
 DÉSIGNATION DES PRODUITS 
 
 </td>
-      <td valign="top" align="left" rowspan="2">
+      <td align="left" valign="top" rowspan="2">
 
 INDICE
 
 d'identification 
 
 </td>
-      <td valign="top" rowspan="2" align="left">
+      <td rowspan="2" valign="top" align="left">
 
 UNITÉ
 
@@ -8926,7 +8949,7 @@ TARIF
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 (Numéros du tarif des douanes) 
 
@@ -8938,7 +8961,7 @@ TARIF
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 1 + 2 
 
@@ -8948,7 +8971,7 @@ TARIF
 3 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 4 
 
@@ -8960,23 +8983,23 @@ TARIF
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ex 2706-00
 
 </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-    </tr>
-    <tr>
       <td valign="top" align="left">
+      </td><td valign="top" align="left">
+      </td><td valign="top" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
 
 - Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les
 goudrons reconstitués, utilisés comme combustibles. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 1 
 
@@ -8986,7 +9009,7 @@ goudrons reconstitués, utilisés comme combustibles.
 100 kg net 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 1,50 
 
@@ -9004,18 +9027,18 @@ Ex 2707-50
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume (y compris les pertes) à 250° C
 d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 2 
 
@@ -9025,7 +9048,7 @@ d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou
 Hectolitre ou 100 kg net suivant les caractéristiques du produit. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Taxe intérieure applicable aux huiles légères ou moyennes du 2710, suivant les caractéristiques du produit. 
 
@@ -9043,7 +9066,7 @@ Taxe intérieure applicable aux huiles légères ou moyennes du 2710, suivant le
       <td align="left" valign="top">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -9063,7 +9086,7 @@ Taxe intérieure applicable aux huiles légères ou moyennes du 2710, suivant le
 Hectolitre ou 100 kg net suivant les caractéristiques du produit. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Taxe intérieure applicable aux huiles légères, moyennes ou lourdes du 2710, suivant les caractéristiques du produit. 
 
@@ -9075,10 +9098,10 @@ Taxe intérieure applicable aux huiles légères, moyennes ou lourdes du 2710, s
 2710
 
 </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-    </tr>
+      <td align="left" valign="top">
+      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
       <td valign="top" align="left">
 
@@ -9087,13 +9110,13 @@ ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux b
 l'élément de base, autres que les déchets :
 
 </td>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
-
-</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -9106,7 +9129,7 @@ l'élément de base, autres que les déchets :
       <td align="left" valign="top">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -9114,7 +9137,7 @@ l'élément de base, autres que les déchets :
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ---essences spéciales :
 
@@ -9122,10 +9145,10 @@ l'élément de base, autres que les déchets :
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -9133,7 +9156,7 @@ l'élément de base, autres que les déchets :
       <td valign="top" align="left">
 
 ----White spirit destiné à être utilisé comme combustible ;</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 4 bis 
 
@@ -9143,19 +9166,19 @@ l'élément de base, autres que les déchets :
 Hectolitre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 5,66
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ----autres essences spéciales :
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -9171,7 +9194,7 @@ Hectolitre
 -----destinées à être utilisées comme carburants ou combustibles ;
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 6 
 
@@ -9188,7 +9211,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 -----autres. 
 
@@ -9198,15 +9221,15 @@ Hectolitre
 9
 
 </td>
-      <td valign="top" align="left"> </td>
       <td align="left" valign="top">
+      </td><td align="left" valign="top">
 
 Exemption
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ---autres huiles légères et préparations :
 
@@ -9217,12 +9240,12 @@ Exemption
       <td align="left" valign="top">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ----essences pour moteur :
 
@@ -9251,7 +9274,7 @@ Exemption
 Hectolitre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 35,90
 
@@ -9264,7 +9287,7 @@ Hectolitre
 d'identi-fication n° 11 bis ; 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 11 
 
@@ -9274,7 +9297,7 @@ d'identi-fication n° 11 bis ;
 Hectolitre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 60,69
 
@@ -9288,12 +9311,12 @@ caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout
 dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 11 bis 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre 
 
@@ -9318,7 +9341,7 @@ Ce super-carburant est dénommé E10.
 11 ter 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Hectolitre 
 
@@ -9330,42 +9353,42 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ----carburéacteurs, type essence :
 
 </td>
-      <td valign="top" align="left"> </td>
-      <td align="left" valign="top"> </td>
-      <td valign="top" align="left"> </td>
-    </tr>
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 -----sous condition d'emploi ;</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 13 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Hectolitre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 2,54
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 -----carburant pour moteurs d'avions ; 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 13 bis
 
@@ -9382,12 +9405,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 -----autres.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 13 ter
 
@@ -9404,7 +9427,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ----autres huiles légères.
 
@@ -9419,7 +9442,7 @@ Hectolitre
 Hectolitre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 58,92
 
@@ -9431,28 +9454,28 @@ Hectolitre
 --huiles moyennes :
 
 </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-    </tr>
+      <td valign="top" align="left">
+      </td><td valign="top" align="left">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ---Pétrole lampant :
 
 </td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-
-</td>
-      <td valign="top" align="left">
-
-</td>
-      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ----destiné à être utilisé comme combustible :
 
@@ -9462,7 +9485,7 @@ Hectolitre
 15 bis
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
@@ -9474,7 +9497,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 -----autres.
 
@@ -9501,7 +9524,7 @@ Hectolitre
 ---carburéacteurs, type pétrole lampant :
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -9512,7 +9535,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ----sous condition d'emploi ;
 
@@ -9522,7 +9545,7 @@ Hectolitre
 17
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
@@ -9544,7 +9567,7 @@ Hectolitre
 17 bis
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Hectolitre
 
@@ -9561,17 +9584,17 @@ Hectolitre
 ---autres.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 17 ter
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 41,69
 
@@ -9583,12 +9606,12 @@ Hectolitre
 ---autres huiles moyennes.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 18
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
@@ -9616,12 +9639,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ---gazole :
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -9632,44 +9655,44 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ----destiné à être utilisé comme carburant sous condition d'emploi ;
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 20
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
 </td>
       <td valign="top" align="left">
 
-5,66
+7,20
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ----fioul domestique ;
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 21
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Hectolitre
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 5,66
 
@@ -9686,7 +9709,7 @@ Hectolitre
 22
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
@@ -9698,29 +9721,29 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ----fioul lourd.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 24
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 100 kg net
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 1,85
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ---huiles lubrifiantes et autres.
 
@@ -9735,14 +9758,14 @@ Hectolitre
 Hectolitre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 2711-12
 
@@ -9758,15 +9781,15 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -9774,7 +9797,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 --destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids) :
@@ -9796,7 +9819,7 @@ représente plus de 50 % en poids) :
 ---sous condition d'emploi. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 30 bis 
 
@@ -9806,46 +9829,46 @@ représente plus de 50 % en poids) :
 100 kg net
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 4,68
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 --autres ; 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 30 ter
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 100 kg net
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 10,76
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 --destiné à d'autres usages. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 31
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -9863,7 +9886,7 @@ Exemption
       <td align="left" valign="top">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -9871,15 +9894,15 @@ Exemption
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Butanes liquéfiés :
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -9893,10 +9916,10 @@ Exemption
 représente au moins 50 % en poids) :
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -9904,7 +9927,7 @@ représente au moins 50 % en poids) :
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 ---sous condition d'emploi ; 
 
@@ -9914,7 +9937,7 @@ représente au moins 50 % en poids) :
 31 bis
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 100 kg net
 
@@ -9926,7 +9949,7 @@ représente au moins 50 % en poids) :
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 ---autres. 
 
@@ -9973,18 +9996,18 @@ Exemption
 2711-14
 
 </td>
+      <td valign="top" align="left">
+
+</td>
+      <td valign="top" align="left">
+
+</td>
       <td align="left" valign="top">
-
-</td>
-      <td valign="top" align="left">
-
-</td>
-      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 - Ethylène, propylène, butylène et butadiène.
 
@@ -9994,12 +10017,12 @@ Exemption
 33
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 100 kg net.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10014,7 +10037,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
       <td valign="top" align="left">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -10022,7 +10045,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Autres gaz de pétrole liquéfiés :
 
@@ -10030,7 +10053,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -10038,7 +10061,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 --destinés à être utilisés comme carburant :
 
@@ -10059,7 +10082,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 ---sous condition d'emploi ; 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 33 bis
 
@@ -10081,17 +10104,17 @@ Taxe intérieure applicable conformément au 3 du présent article.
 ---autres. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 34
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 100 kg net
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 10,76
 
@@ -10103,12 +10126,12 @@ Taxe intérieure applicable conformément au 3 du présent article.
 2711-21
 
 </td>
-      <td valign="top" align="left"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-    </tr>
-    <tr>
       <td valign="top" align="left">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
+    <tr>
+      <td align="left" valign="top">
 
 - Gaz naturel à l'état gazeux :
 
@@ -10129,17 +10152,17 @@ Taxe intérieure applicable conformément au 3 du présent article.
 --destiné à être utilisé comme carburant ; 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 36
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 100 m³
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 0
 
@@ -10151,44 +10174,44 @@ Taxe intérieure applicable conformément au 3 du présent article.
 --destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y compris dans le cadre d'essais. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 36 bis
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 100 m³
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 0
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 2711-29
 
 </td>
-      <td valign="top" align="left"> </td>
-      <td align="left" valign="top"> </td>
-      <td align="left" valign="top"> </td>
-    </tr>
+      <td valign="top" align="left">
+      </td><td align="left" valign="top">
+      </td><td align="left" valign="top">
+    </td></tr>
     <tr>
       <td align="left" valign="top">
 
 - Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 38 bis
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 100 m³
 
@@ -10206,23 +10229,23 @@ d'emploi.
 --destinés à être utilisés comme carburant ;
 
 </td>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
-
-</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 --destinés à d'autres usages. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 39
 
@@ -10237,12 +10260,12 @@ Exemption
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 2712-10
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -10253,7 +10276,7 @@ Exemption
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Vaseline.
 
@@ -10263,15 +10286,15 @@ Exemption
 40
 
 </td>
-      <td valign="top" align="left"> </td>
       <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 2712-20
 
@@ -10287,7 +10310,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Paraffine contenant en poids moins de 0,75 % d'huile.
 
@@ -10297,8 +10320,8 @@ Taxe intérieure applicable conformément au 3 du présent article.
 41
 
 </td>
-      <td align="left" valign="top"> </td>
       <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10310,10 +10333,10 @@ Taxe intérieure applicable conformément au 3 du présent article.
 Ex 2712-90
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td align="left" valign="top">
@@ -10326,28 +10349,28 @@ Ex 2712-90
 - Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 42
 
 </td>
-      <td valign="top" align="left"> </td>
       <td valign="top" align="left">
+      </td><td valign="top" align="left">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 2713-20
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -10355,20 +10378,20 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Bitume de pétrole.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 46
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10386,12 +10409,12 @@ Taxe intérieure applicable conformément au 3 du présent article.
       <td align="left" valign="top">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Autres résidus des huiles de pétrole ou de minéraux bitumineux :
 
@@ -10401,10 +10424,10 @@ Taxe intérieure applicable conformément au 3 du présent article.
 46 bis
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10416,13 +10439,13 @@ Taxe intérieure applicable conformément au 3 du présent article.
 --autres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -10432,10 +10455,10 @@ Taxe intérieure applicable conformément au 3 du présent article.
 2715-00
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -10443,26 +10466,26 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Mélange bitumeux à base d'asphalte ou de bitume naturel, de bitume de pétrole, de goudron minéral ou de brai de goudron
 minéral.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 47
 
 </td>
-      <td align="left" valign="top"> </td>
       <td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 3403-11
 
@@ -10504,13 +10527,13 @@ Taxe intérieure applicable conformément au 3 du présent article.
 Ex 3403-19
 
 </td>
+      <td align="left" valign="top">
+
+</td>
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
-
-</td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
     </tr>
@@ -10520,13 +10543,13 @@ Ex 3403-19
 - Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 49
 
 </td>
-      <td align="left" valign="top"> </td>
       <td align="left" valign="top">
+      </td><td align="left" valign="top">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10538,7 +10561,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 3811-21
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
       <td valign="top" align="left">
@@ -10549,7 +10572,7 @@ Taxe intérieure applicable conformément au 3 du présent article.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux.
 
@@ -10559,8 +10582,8 @@ Taxe intérieure applicable conformément au 3 du présent article.
 51
 
 </td>
-      <td valign="top" align="left"> </td>
       <td valign="top" align="left">
+      </td><td align="left" valign="top">
 
 Taxe intérieure applicable conformément au 3 du présent article.
 
@@ -10572,10 +10595,10 @@ Taxe intérieure applicable conformément au 3 du présent article.
 Ex 3824-90-98
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td valign="top" align="left">
@@ -10583,7 +10606,7 @@ Ex 3824-90-98
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 - Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 %
 en volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :
@@ -10592,10 +10615,10 @@ en volume sans dépasser 20 % en volume, destinée à être utilisée comme carb
       <td valign="top" align="left">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
     </tr>
@@ -10610,7 +10633,7 @@ en volume sans dépasser 20 % en volume, destinée à être utilisée comme carb
 52
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Hectolitre
 
@@ -10627,17 +10650,17 @@ Hectolitre
 - autres.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 53
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Hectolitre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 28,71
 
@@ -10652,7 +10675,7 @@ Ex 3824-90-98
       <td valign="top" align="left">
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 </td>
       <td align="left" valign="top">
@@ -10675,7 +10698,7 @@ Ex 3824-90-98
 Hectolitre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 17,29 à compter du 1er janvier 2011
 
@@ -10684,7 +10707,7 @@ Hectolitre
   </tbody>
 </table>
 
-2. Règles d'application. 
+2° Règles d'application. 
 
 a) et b) (alinéas abrogés). 
 
@@ -10700,14 +10723,14 @@ d) (alinéa abrogé).
 
 Tableau C : Autres produits énergétiques. 
 
-1. Définition (division abrogée). 
+1° Définition (division abrogée). 
 
-2. Tarif et règles d'application. 
+2° Tarif et règles d'application. 
 
 Les produits visés au présent tableau sont exemptés de la taxe intérieure de consommation, sauf lorsqu'ils sont destinés à
 être utilisés comme carburant ou combustible. 
 
-3. Nomenclature. 
+3° Nomenclature. 
 
 <table>
   <tbody>
@@ -10935,7 +10958,7 @@ réfaction du taux de la taxe intérieure de consommation applicable aux carbura
 territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité territoriale de Corse
 en vertu du I de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation
 financière des transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant
-mentionné aux indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre pour le gazole mentionné à l'indice
+mentionné aux indices d'identification 11 et 11 ter et 1,15 euro par hectolitre pour le gazole mentionné à l'indice
 d'identification 22. 
 
 Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
@@ -11287,7 +11310,7 @@ chargé du budget.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 138
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 21
 
 
 ###### Article 265 A
@@ -14919,42 +14942,42 @@ consommation prévue à l'article 265.
 
 1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler
 les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion, sont passibles d'un droit de consommation. 
+de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces
-délibérations prennent effet au plus tôt au 1er janvier 2001. 
+délibérations prennent effet au plus tôt au 1er janvier 2001.
 
 Pour les produits mentionnés au premier alinéa ayant fait l'objet d'une homologation en France continentale en application de
 l'article 572 du code général des impôts, le montant du droit est déterminé par application du taux fixé par le conseil
 général à un pourcentage fixé par ce même conseil, supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en
-France continentale. 
+France continentale.
 
 Pour les produits mentionnés au premier alinéa n'ayant pas fait l'objet d'une homologation en France continentale, le montant
 du droit est déterminé par application du taux fixé par le conseil général à un pourcentage fixé par ce même conseil,
 supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en France continentale correspondant à la moyenne
-pondérée des prix homologués. 
+pondérée des prix homologués.
 
 Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article
-575 A du code général des impôts qui frappent les produits de même catégorie en France continentale. 
+575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un minimum de perception spécifique fixé
 pour 1000 unités, tel que mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de consommation sur
 les cigarettes dans leur circonscription administrative. Ce minimum de perception ne peut être supérieur au droit de
 consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale
-des cigarettes de la classe de prix de référence. 
+des cigarettes de la classe de prix de référence.
 
 Les conseils généraux des départements d'outre-mer peuvent également établir un minimum de perception fixé pour 1 000 grammes
 pour les tabacs fine coupe destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les deux tiers du
-minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes. 
+minimum de perception fixé par le conseil général pour 1 000 unités de cigarettes.
 
-2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales. 
+2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
-les instances instruites et jugées conformément aux dispositions du code des douanes. 
+les instances instruites et jugées conformément aux dispositions du code des douanes.
 
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à
 fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la
-Martinique à compter du 1er janvier 2001. 
+Martinique à compter du 1er janvier 2001.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé
 aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en
@@ -14962,11 +14985,20 @@ deçà duquel ces différents produits du tabac ne peuvent être vendus dans leu
 ces produits, ce prix est supérieur à 66 % et au plus égal à 110 % de la moyenne pondérée des prix homologués mentionnée au
 1.
 
+5. La livraison, à destination des départements de la Martinique et de la Guadeloupe, de tabacs manufacturés qui ont fait
+l'objet d'une importation dans l'un de ces départements donne lieu à un versement du droit de consommation au profit du
+département de destination.
+
+Le versement est prélevé sur le produit du droit de consommation sur les tabacs perçu dans le département d'importation.
+
+Il est procédé au versement six mois au plus tard après la date à laquelle a été réalisée la livraison des tabacs dans le
+département de destination.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 73 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 135
 
 	**Cité par**:
 
@@ -15681,6 +15713,46 @@ de douane.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 285 octies
+
+I. - Une redevance pour contrôles renforcés est perçue lors de l'importation sur le territoire douanier, sous tous régimes
+douaniers, de denrées alimentaires d'origine non animale mentionnées à l'annexe I au règlement (CE) n° 669/2009 de la
+Commission, du 24 juillet 2009, portant modalités d'exécution du règlement (CE) n° 882/2004 du Parlement européen et du
+Conseil en ce qui concerne les contrôles officiels renforcés à l'importation de certains aliments pour animaux et certaines
+denrées alimentaires d'origine non animale et modifiant la décision 2006/504/ CE, de statut non communautaire, en provenance
+d'un Etat n'appartenant pas à l'Union européenne. 
+
+II. - La redevance est due par l'importateur ou son représentant au sens de l'article 5 du code des douanes communautaire. 
+
+Elle est recouvrée par le service des douanes selon les mêmes règles et sous les mêmes garanties et privilèges qu'en matière
+de droits de douane. 
+
+III. - Les infractions sont constatées et réprimées, les poursuites sont effectuées et les instances sont instruites et
+jugées conformément aux dispositions du présent code. 
+
+IV. - La redevance est due pour chaque lot importé tel que défini au c de l'article 3 du règlement (CE) n° 669/2009 de la
+Commission, du 24 juillet 2009, précité. Son montant est fixé entre 33 € et 300 € pour chaque type de produit, selon le
+risque sanitaire et la fréquence de contrôle définis à l'annexe I au même règlement, par arrêté des ministres chargés des
+douanes et de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 57
+
+	**Cité par**:
+
+	  - Arrêté du 18 septembre 2014 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 5
+	  - annexe I au règlement (CE) n°669/2009
+	  - c de l'article 3 du règlement (CE) n°669/2009
+	  - règlement (CE) n°882/2004
+
+
 ###### Article 285 quater
 
 Il est perçu une taxe due par les entreprises de transport public maritime. Cette taxe est assise sur le nombre de passagers
@@ -16052,34 +16124,33 @@ A que si le montant à recouvrer, à rembourser ou à remettre excède 61 euros.
 
 Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion une taxe due par les
 entreprises de transport public aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur le
-nombre de passagers embarquant dans ces régions.
+nombre de passagers embarquant dans ces régions. 
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par
-chaque conseil régional dans la limite de 4,57 euros par passager.
+chaque conseil régional dans la limite de 4,57 euros par passager. 
 
 La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de la
-délibération du conseil régional.
+délibération du conseil régional. 
 
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions
-qu'en matière de droits de douane.
+qu'en matière de droits de douane. 
 
 Une part égale à 30 % du produit de la taxe est affectée au budget des communes littorales érigées en stations classées de
 tourisme au sens de l'article L. 133-13 du code du tourisme. Ce prélèvement est réparti entre les communes concernées au
-prorata de leur population.
+prorata de leur population. 
 
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
 dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 2011.
-
-**Nota:**
-
-Les modifications induites par le 1° du I de l'article 117 de la loi n° 2006-1771 du 30 décembre 2006 entre en vigueur dans
-un délai de six mois à compter de la publication du décret mentionné à l'article L. 133-18 du code du tourisme. 
-
-Celles induites par le 2° du I de l'article 117 de la même loi entrent en vigueur à compter du 1er janvier 2007.
-
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 71
 
 	**Cité par**:
 
@@ -16088,11 +16159,7 @@ Celles induites par le 2° du I de l'article 117 de la même loi entrent en vigu
 
 	**Cite**:
 
-	  - Code du tourisme. - art. L133-13 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
+	  - Code du tourisme. - art. L133-13
 
 
 # Titre XI : Zones franches.
@@ -16272,6 +16339,33 @@ Les dispositions du présent titre ne portent pas atteinte aux règles établies
 
 
 # Titre XII : Contentieux et recouvrement
+
+## Chapitre préliminaire : La dématérialisation des actes
+
+###### Article 322
+
+Les procès-verbaux et les autres actes établis en application du présent  code peuvent être revêtus d'une signature numérique
+ou électronique. La  liste des actes concernés ainsi que les modalités de cette signature et  les personnes qui peuvent y
+recourir sont précisées par décret en  Conseil d'Etat. 
+
+Les actes mentionnés au premier  alinéa peuvent être conservés sous forme dématérialisée dans des  conditions garantissant
+leur intégrité et leur sécurité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+	**Cité par**:
+
+	  - Décret n°2013-559 du 26 juin 2013 (V)
+	  - Décret n°2013-956 du 24 octobre 2013 (V)
+
 
 ## Chapitre Ier : Constatation des infractions douanières
 
@@ -20758,14 +20852,18 @@ Les modalités de la procédure de conciliation et d'expertise douanière sont f
 
 ###### Article 451
 
-Les dispositions du titre XII du présent code sont applicables à la législation et à la réglementation des relations
-financières avec l'étranger sous réserve des articles 453 à 459 ci-dessous.
+Les titres II et XII du présent code sont applicables à la législation et à la réglementation des relations financières avec
+l'étranger sous réserve des articles 453 à 459 ci-dessous.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 60
+
 	**Cite**:
 
-	  - Code des douanes 453 à 459
+	  - Code des douanes - art. 453 (V)
 
 	**Cité par**:
 
@@ -20775,17 +20873,13 @@ financières avec l'étranger sous réserve des articles 453 à 459 ci-dessous.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
-
 
 ###### Article 451 bis
 
 Pour l'application du présent code, sont assimilées à des relations financières avec l'étranger toutes les opérations
 financières effectuées en France par ou pour le compte des personnes physiques et morales visées par les règlements
-communautaires pris en application des articles 60 et 301 du traité instituant la Communauté européenne ou par les traités et
-accords internationaux régulièrement approuvés et ratifiés.
+communautaires pris en application de l'article 215 du traité sur le fonctionnement de l'Union européenne ou par les traités
+et accords internationaux régulièrement approuvés et ratifiés.
 
 **Liens relatifs à cet article**
 
@@ -20793,13 +20887,9 @@ accords internationaux régulièrement approuvés et ratifiés.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 73 () JORF 29 décembre 2001
-
-	**Cite**:
-
-	  - Traité 1957-03-25, fait à Rome art. 60, art. 301
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 60
 
 
 ###### Article 452
@@ -20822,22 +20912,27 @@ Les dispositions du présent titre XIV sont applicables dans les territoires d'o
 ###### Article 453
 
 Les agents ci-après désignés sont habilités à constater les infractions à la législation et à la réglementation des relations
-financières avec l'étranger :
+financières avec l'étranger : 
 
-1° les agents des douanes ;
+1° les agents des douanes ; 
 
-2° les autres agents de l'administration des finances ayant au moins le grade de contrôleur ;
+2° les autres agents de l'administration des finances ayant au moins le grade de contrôleur ; 
 
-3° les officiers de police judiciaire.
+3° les officiers de police judiciaire et les agents des douanes mentionnés à l'article 28-1 du code de procédure pénale. 
 
-Les procès-verbaux de constatation dressés par les officiers de police judiciaire sont transmis au ministre de l'économie et
-de finances qui saisit le parquet s'il le juge à propos.
+Les procès-verbaux de constatation dressés par les officiers de police judiciaire et les agents des douanes mentionnés à
+l'article 28-1 du code de procédure pénale sont transmis au ministre de l'économie et des finances qui saisit le parquet s'il
+le juge à propos.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 60
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 28-1 (V)
 
 	**Cité par**:
 
@@ -20972,9 +21067,9 @@ biens et avoirs qui sont le produit direct ou indirect de l'infraction et d'une 
 maximum au double de la somme sur laquelle a porté l'infraction ou la tentative d'infraction. 
 
 1 bis. Est puni des mêmes peines le fait, pour toute personne, de contrevenir ou de tenter de contrevenir aux mesures de
-restriction des relations économiques et financières prévues par la réglementation communautaire prise en application des
-articles 60 et 301 du traité instituant la Communauté européenne ou par les traités et accords internationaux régulièrement
-approuvés et ratifiés par la France. 
+restriction des relations économiques et financières prévues par la réglementation communautaire prise en application de
+l'article 215 du traité sur le fonctionnement de l'Union européenne ou par les traités et accords internationaux
+régulièrement approuvés et ratifiés par la France. 
 
 1 ter. Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
 pénal, des infractions définies aux 1 et 1 bis du présent article encourent, outre l'amende suivant les modalités prévues par
@@ -21025,14 +21120,13 @@ insérées en entier ou par extraits dans les journaux qu'ils désigneront.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 161
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 60
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Traité 1957-03-25, fait à Rome art. 60, art. 301
 
 	**Liens**:
 
