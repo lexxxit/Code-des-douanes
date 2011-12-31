@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1998,7 +1998,7 @@ mentionnées au 1, de faire appel à un conseil de son choix.
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. Il se prononce par une mention expresse sur
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.  Il se prononce par une mention expresse sur
 la saisie de biens et avoirs pouvant provenir directement ou indirectement des délits dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
@@ -2010,7 +2010,7 @@ verbal prévu au b du 2.
 Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
 ou avoirs se rapportant aux agissements visés au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
 pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette
-autorisation est portée au procès-verbal prévu au b du présent 2. 
+autorisation est portée au procès-verbal prévu au b du présent 2.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -2039,7 +2039,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
-constituer avoué. 
+constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
 adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
@@ -2081,7 +2081,7 @@ dont la preuve est recherchée, il ordonne la mainlevée de la saisie et la rest
 
 Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
 autorisées en application du a. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et
-la voie de recours. Les parties ne sont pas tenues de constituer avoué. 
+la voie de recours. Les parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
@@ -2099,7 +2099,7 @@ titre de pacage ;
 b) pour la recherche des marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 332
 ci-après, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon. 
 
-4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
+4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
 judiciaire.
 
 **Nota:**
@@ -2132,7 +2132,7 @@ compter de la date d'entrée en vigueur de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 109
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
 
 	**Cite**:
 
@@ -8051,8 +8051,9 @@ de l'article 223 ainsi que le
 ###### Article 224
 
 1.A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté pour
-les années 2007 à 2011 au Conservatoire de l'espace littoral et des rivages lacustres.
+de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans
+la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au
+Conservatoire de l'espace littoral et des rivages lacustres.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
 Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2, 5 % du montant dudit produit. Ce prélèvement est
@@ -8108,7 +8109,7 @@ euros.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
 
 	**Cite**:
 
@@ -17488,6 +17489,204 @@ L'insertion d'une virgule après la citation de l'article 387 bis fera l'objet d
 	  - Décret n°48-1985 1948-12-08
 
 
+### Section 2 bis : Assistance internationale au recouvrement 
+
+###### Article 349 octies
+
+Les fonctionnaires des administrations des autres Etats membres dûment habilités par l'autorité requérante par un mandat
+écrit et autorisés par l'administration française peuvent assister les agents de l'administration dans le cadre des
+procédures judiciaires engagées en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article 349 quater
+
+L'administration compétente n'est pas tenue d'accorder l'assistance pour recouvrer ou prendre des mesures conservatoires,
+pour notifier des actes ou des décisions, y compris judiciaires, et pour fournir des renseignements lorsque la demande vise
+des créances exigibles depuis plus de cinq ans. Ce délai n'est pas opposable lorsqu'une première demande a été formulée avant
+cette échéance. 
+
+Les modalités de computation de ce délai sont les suivantes : 
+
+1° Lorsque la créance ou le titre de recouvrement initial font l'objet d'une contestation, le délai de cinq ans court à
+compter de la date à laquelle il a été définitivement statué sur la créance ou le titre de l'Etat requérant ; 
+
+2° Lorsqu'un délai de paiement ou un paiement échelonné des créances a été accordé au redevable par l'Etat requérant, le
+délai de cinq ans court à compter de l'expiration du délai de paiement. 
+
+Dans tous les cas, l'administration n'est pas tenue d'accorder l'assistance lorsque la demande concerne des créances
+exigibles depuis plus de dix ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article 349 quinquies
+
+I. ― Le recouvrement des créances mentionnées à l'article 349 ter dont le montant est supérieur ou égal à 1 500 € et la prise
+de mesures conservatoires au titre des créances précitées issues des Etats membres de l'Union européenne sont confiés au
+comptable des douanes compétent. 
+
+II. ― Ces créances sont recouvrées selon les modalités applicables aux créances de même nature nées sur le territoire
+national et les intérêts de retard courent à compter de la date de réception de la demande de recouvrement. 
+
+III. ― Les créances mentionnées au I ne bénéficient d'aucun privilège. 
+
+IV. ― L'administration compétente donne suite à la demande d'assistance au recouvrement lorsque la créance a fait l'objet
+d'un titre de recouvrement. 
+
+La demande d'assistance au recouvrement est accompagnée d'un instrument uniformisé établi par l'Etat requérant et permettant
+l'adoption de mesures exécutoires. Cet instrument reflète la substance du titre exécutoire initial. 
+
+Les informations minimales qu'il doit comporter sont fixées par voie réglementaire. 
+
+Cet instrument est transmis par l'Etat membre requérant. Il constitue le fondement unique des mesures de recouvrement et des
+mesures conservatoires qui sont prises pour garantir le recouvrement de la créance de cet Etat et il est directement reconnu
+comme un titre exécutoire. 
+
+V. ― L'assistance au recouvrement est accordée pour autant que la créance ou le titre de recouvrement ne sont pas contestés
+dans l'Etat membre requérant et que les procédures de recouvrement appropriées ont été mises en œuvre dans cet Etat. 
+
+VI. ― L'Etat membre requérant peut également demander l'assistance au recouvrement : 
+
+1° Lorsqu'il est manifeste qu'il n'existe pas d'actifs pouvant être recouvrés sur son territoire ou que les procédures de
+recouvrement ne peuvent aboutir au paiement intégral de la créance et qu'il dispose d'informations spécifiques indiquant que
+le redevable dispose d'actifs en France ; 
+
+2° Lorsque la mise en œuvre des procédures de recouvrement donne lieu à des difficultés ou à un coût disproportionnés pour
+l'Etat membre requérant. 
+
+VII. ― Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance ou
+du titre, l'administration compétente suspend la procédure de recouvrement jusqu'à la notification de la décision de
+l'instance compétente de l'Etat membre requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la
+procédure de recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance
+contestée. 
+
+VIII. ― A la demande de l'Etat membre requérant ou lorsqu'il l'estime nécessaire, le comptable des douanes compétent prend
+toutes mesures conservatoires utiles pour garantir le recouvrement de la créance de cet Etat. 
+
+IX. ― L'administration compétente donne suite à une demande de prise de mesures conservatoires : 
+
+1° Lorsque la créance a fait l'objet d'un titre de recouvrement mais que la créance ou le titre de recouvrement sont
+contestés au moment où la demande est présentée ; 
+
+2° Lorsque la créance ne fait pas encore l'objet d'un titre de recouvrement, dans la mesure où la législation de l'Etat
+membre requérant permet de prendre des mesures conservatoires en l'absence d'un titre exécutoire. 
+
+X. ― Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des actes
+effectués par le comptable des douanes pour le recouvrement des créances d'un autre Etat membre sont appréciées selon la
+législation de l'Etat membre requérant. 
+
+Lorsque la législation de l'Etat membre requis ne permet pas d'interrompre, de suspendre ou de proroger le délai de
+prescription, les actes effectués par l'administration de cet Etat sont réputés avoir les mêmes effets interruptifs ou
+suspensifs que s'ils avaient été accomplis dans l'Etat membre requérant. 
+
+Le présent X s'applique sans préjudice de la possibilité pour l'Etat membre requérant de diligenter des actes destinés à
+interrompre, suspendre ou proroger le délai de prescription de l'action en recouvrement de ses créances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article 349 septies
+
+Les fonctionnaires des administrations des autres Etats membres de l'Union européenne dûment habilités par l'autorité
+requérante par un mandat écrit et autorisés par l'administration française peuvent, selon des modalités fixées par décret en
+Conseil d'Etat : 
+
+1° Etre présents dans les bureaux où les agents exécutent leurs tâches ; 
+
+2° Assister aux procédures administratives conduites sur le territoire français ; 
+
+3° Interroger les contribuables et leur demander des renseignements ; 
+
+4° Examiner des dossiers et recevoir des copies des informations recherchées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article 349 sexies
+
+I. ― Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, toute
+information vraisemblablement pertinente pour le recouvrement des créances mentionnées aux 1° à 3° du II de l'article 349
+ter, à l'exception de celle qui ne pourrait être obtenue pour le recouvrement de leurs propres créances de même nature sur la
+base de la législation en vigueur. 
+
+II. ― Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel ou dont
+la communication serait de nature à porter atteinte à la sécurité ou à l'ordre publics. 
+
+Toutefois, les administrations financières ne peuvent refuser de fournir ces informations pour la seule raison qu'elles sont
+détenues par une banque, un autre établissement financier, une personne désignée ou agissant en qualité d'agent ou de
+fiduciaire ou qu'elles se rapportent à une participation au capital d'une personne. 
+
+III. ― Les informations échangées dans le cadre des dispositions des articles 349 ter à 349 octies ne peuvent être transmises
+qu'aux fins de mise en œuvre de mesures de recouvrement ou conservatoires portant sur les créances visées aux 1° à 3° du II
+de l'article 349 ter du présent code. L'administration bénéficiaire de ces informations est soumise au secret professionnel
+dans les termes des articles 226-13 et 226-14 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
+	  - Code des douanes - art. 349 ter (V)
+
+
+###### Article 349 ter
+
+I. ― Au sens de la présente section, l'Etat membre requérant s'entend de l'Etat membre de l'Union européenne qui formule une
+demande d'assistance et l'Etat membre requis de l'Etat membre de l'Union européenne auquel cette demande est adressée. 
+
+II. ― L'administration peut requérir des Etats membres de l'Union européenne et elle est tenue de leur prêter assistance en
+matière de recouvrement, de notification d'actes ou de décisions, y compris judiciaires, de prises de mesures conservatoires
+et d'échange de renseignements relatifs à toutes les créances afférentes : 
+
+1° A l'ensemble des taxes, impôts et droits quels qu'ils soient, perçus par un Etat membre ou pour le compte de celui-ci ou
+par ses subdivisions territoriales ou administratives ou pour le compte de celles-ci, y compris les autorités locales, ou
+pour le compte de l'Union européenne ; 
+
+2° Aux sanctions, amendes, redevances et majorations administratives liées aux créances pouvant faire l'objet d'une demande
+d'assistance mutuelle conformément au 1° prononcées par les autorités administratives chargées de la perception des taxes,
+impôts ou droits concernés ou des enquêtes administratives y afférentes ou ayant été confirmées, à la demande de ces
+autorités administratives, par des organes administratifs ou judiciaires ; 
+
+3° Aux intérêts et frais relatifs aux créances pouvant faire l'objet d'une demande d'assistance conformément aux 1° et 2°. 
+
+Néanmoins, sont exclues les créances relatives aux sanctions pénales infligées sur la base de poursuites à la diligence du
+ministère public ou aux autres sanctions pénales qui ne sont pas mentionnées au 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+	**Cité par**:
+
+	  - Décret n°2012-417 du 28 mars 2012 (V)
+	  - Décret n°2012-417 du 28 mars 2012 - art. 2 (V)
+	  - Code des douanes - art. 349 sexies (V)
+
+
 ### Section 3 : Extinction des droits de poursuite et de répression
 
 #### Paragraphe 1 : Droit de transaction.
@@ -18415,87 +18614,6 @@ recouvrement observées par elle à l'égard de ce tiers.
 	**Modifié par**:
 
 	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
-
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.
-
-###### Article 381 bis
-
-L'administration peut requérir des Etats membres de la Communauté européenne et est tenue de leur prêter assistance en
-matière de recouvrement et d'échange de renseignements, relatifs aux créances de droits, taxes et perceptions de toute nature
-à l'importation et à l'exportation, aux droits d'accises sur les produits énergétiques mentionnés aux articles 265, 266
-quinquies et 266 quinquies B, ainsi qu'aux intérêts, pénalités, amendes administratives et frais relatifs à ces créances, à
-l'exclusion de toute sanction à caractère pénal. 
-
-Le recouvrement des créances visées par le présent article est confié aux comptables des douanes, à la demande d'un Etat
-membre de la Communauté européenne requérant.
-
-L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté
-européenne dès lors que : 
-
-1° Cette demande contient une déclaration certifiant que la créance ou le titre de recouvrement ne sont pas contestés dans
-l'Etat requérant et que les procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent aboutir au
-paiement intégral de la créance ; 
-
-2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1500 euros. 
-
-Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat membre lorsque la demande initiale concerne
-des créances fondées sur un titre exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre en cause
-font l'objet d'une contestation, le délai de cinq ans court à compter de la date à laquelle il a été définitivement statué
-sur la créance ou le titre de l'Etat requérant. 
-
-Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance,
-l'administration compétente suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance
-compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la procédure de
-recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée. 
-
-Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
-sont notifiés au débiteur. 
-
-Ces créances sont recouvrées selon les procédures et sûretés applicables en matière de droits de douane, sous réserve des
-exceptions ci-après : 
-
-1° Elles ne bénéficient pas du privilège prévu à l'article 379 ; 
-
-2° Les questions relatives à la prescription de l'action en recouvrement sont régies par la législation de l'Etat membre
-requérant. Le caractère interruptif ou suspensif des actes effectués par le comptable public pour le recouvrement des
-créances de l'Etat membre requérant est apprécié selon la législation de cet Etat.
-
-A la demande de l'Etat membre requérant, le comptable prend toutes mesures conservatoires utiles pour garantir le
-recouvrement de la créance de cet Etat. 
-
-Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, tous
-renseignements utiles pour le recouvrement de la créance, à l'exception de ceux qui, sur la base de la législation en
-vigueur, ne pourraient être obtenus pour le recouvrement de leurs propres créances de même nature. 
-
-Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel, ou dont la
-communication serait de nature à porter atteinte à la sécurité ou l'ordre public français.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
-	  - Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 265
-	  - Code des douanes - art. 379
 
 
 ### Section 2 : Voies d'exécution
