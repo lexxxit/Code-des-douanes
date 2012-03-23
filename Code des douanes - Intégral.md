@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-24
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3743,9 +3743,16 @@ Les conditions d'application des dispositions des articles 86 à 93 sont fixées
 1. Les déclarations doivent être faites par écrit sauf lorsqu'en application des règlements communautaires en vigueur, il
 leur est substitué une déclaration verbale.
 
-1 bis. Dans les cas dont la liste et les conditions d'application sont fixées par arrêtés du ministre chargé du budget, les
+1 bis. Dans les cas dont la liste et les conditions d'application sont fixées par arrêtés du ministre chargé des douanes, les
 déclarations peuvent être faites par voie électronique. Ces arrêtés fixent notamment les conditions d'identification des
-déclarants et les modalités d'archivage des documents qui ne sont pas annexés aux déclarations.
+déclarants et les modalités de conservation des documents dont la production est nécessaire pour permettre l'application des
+dispositions régissant le régime douanier pour lequel les marchandises sont déclarées. 
+
+Sans préjudice des contrôles prévus en application du code des douanes communautaire, toute personne qui détient les
+documents mentionnés au premier alinéa du présent 1 bis les remet aux agents des douanes. 
+
+Les agents des douanes ont également accès aux documents qui sont conservés sur support informatique soit chez la personne,
+soit en ligne et permettent le téléchargement et l'utilisation des données conservées. 
 
 2. Elles doivent contenir toutes les indications nécessaires pour l'application des mesures douanières et pour
 l'établissement des statistiques de douane.
@@ -3753,8 +3760,8 @@ l'établissement des statistiques de douane.
 3. Sauf dans les cas prévus au 1 bis, les déclarations doivent être signés par le déclarant. Dans les cas prévus au 1 bis, la
 transmission d'une déclaration électronique dans les conditions arrêtées par le ministre chargé du budget emporte les mêmes
 effets juridiques que le dépôt d'une déclaration faite par écrit, signée et ayant le même objet. Cette transmission vaut
-engagement en ce qui concerne l'exactitude des énonciations de la déclaration et l'authenticité des documents y annexés ou
-archivés.
+engagement en ce qui concerne l'exactitude des énonciations de la déclaration et l'authenticité des documents mentionnés au
+même 1 bis.
 
 3 bis. Pour les déclarations en douane régies par les règlements communautaires, le déclarant est la personne qui fait la
 déclaration en douane en son nom propre ou celle au nom de laquelle une déclaration en douane est faite.
@@ -3779,6 +3786,10 @@ annexés.
 	  - Code des douanes - art. 266 quindecies (V)
 	  - Code des douanes - art. 266 undecies (VD)
 	  - Code des douanes - art. 99 bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Codifié par**:
 
@@ -4014,81 +4025,25 @@ conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appl
 
 ###### Article 101
 
-1. Après enregistrement de la déclaration en détail, le service des douanes procède, s'il le juge utile, à la vérification de
-tout ou partie des marchandises déclarées.
-
-2. En cas de contestation, le déclarant a le droit de récuser le résultats de la vérification partielle et de demander la
-vérification intégrale des énonciations de la déclaration sur lesquelles porte la contestation.
+En  cas de vérification des marchandises prévue au titre IV du règlement  (CEE) n° 2913/92 du Conseil du 12 octobre 1992
+établissant le code des douanes communautaire  et au titre VIII de la partie I du règlement (CEE) n° 2454/93 de la
+Commission du 2 juillet 1993 fixant certaines dispositions d'application  du règlement (CEE) n° 2913/92 du Conseil
+établissant le code des douanes communautaire, les modalités de prélèvement des échantillons sont définies par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 102
-
-1. La vérification des marchandises s'effectue dans les bureaux de douane et pendant les heures légales d'ouverture desdits
-bureaux.
-
-Toutefois, le service des douanes peut autoriser, à la demande du déclarant, la vérification des marchandises dans des lieux
-ou pendant des heures autres que ceux visés ci-dessus.
-
-Les frais qui peuvent en résulter sont à la charge du déclarant.
-
-2. Le transport des marchandises sur les lieux de la vérification, le déballage, le remballage et toutes les autres
-manipulations nécessitées par la vérification sont effectués aux frais et sous la responsabilité du déclarant.
-
-3. Les marchandises qui ont été conduites dans les magasins de la douane ou sur les lieux de la vérification ne peuvent être
-déplacées sans la permission du service des douanes.
-
-4. Les personnes employées par le déclarant pour la manipulation des marchandises en douane doivent être agréées par le
-service des douanes ; à défaut de cet agrément, l'accès des magasins de la douane et des lieux désignés pour la vérification
-leur est interdit.
-
-**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 59 () JORF 30 décembre 1990
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (M)
-	  - Décret n°2006-421 du 7 avril 2006 - art. 1 (V)
-	  - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
-	  - Arrêté du 12 avril 2013 - art. (V)
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Abrogé par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 103
-
-1. La vérification a lieu en présence du déclarant.
-
-2. Lorsque le déclarant ne se présente pas pour assister à la vérification, le service des douanes lui notifie par lettre
-recommandée son intention de commencer les opérations de visite, ou de les poursuivre s'il les avait suspendues ; si, à
-l'expiration d'un délai de huit jours après cette notification, celle-ci est restée sans effet, le tribunal d'instance dans
-le ressort duquel est situé le bureau de douane désigne d'office, à la requête du receveur des douanes, une personne pour
-représenter le déclarant défaillant et assister à la vérification.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-	  - Code des douanes - art. 185 (MMN)
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
 
 
 ### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.
@@ -4099,40 +4054,15 @@ représenter le déclarant défaillant et assister à la vérification.
 déclaration relatives à l'espèce, à l'origine ou à la valeur des marchandises, la contestation est réglée conformément aux
 dispositions du titre XIII ci-après, lorsque le déclarant n'accepte pas l'appréciation du service.
 
-2. Toutefois, il n'y a pas lieu de recourir à cette procédure lorsque la loi prévoit une procédure particulière pour
-déterminer l'espèce, l'origine ou la valeur des marchandises.
+2. Toutefois, il n'y a pas de recours à cette procédure lorsqu'une  procédure particulière pour régler les litiges, l'espèce,
+l'origine ou  la valeur des marchandises est prévue.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°50-102 1950-01-20
-
-	**Modifié par**:
-
-	  - Loi n°68-1247 1968-12-31 art. 1 JORF 3 janvier 1969
 
 	**Cité par**:
 
+	  - Code des douanes - art. 441 (Ab)
 	  - Décret n°2010-428 du 28 avril 2010 - art. 5 (V)
-
-
-### Section 3 : Application des résultats de la vérification.
-
-###### Article 107
-
-1. Les droits, taxes et autres mesures douanières sont appliqués d'après les résultats de la vérification et, le cas échéant,
-conformément aux conclusions non contestées de la commission de conciliation et d'expertise prévue au titre XIII ci-dessous
-ou conformément aux décisions de justice ayant l'autorité de la chose jugée.
-
-2. Lorsque le service ne procède pas à la vérification des marchandises déclarées, les droits, taxes et autres mesures
-douanières sont appliqués d'après les énonciations de la déclaration.
-
-**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -4140,11 +4070,11 @@ douanières sont appliqués d'après les énonciations de la déclaration.
 
 	**Modifié par**:
 
-	  - Loi n°68-1247 1968-12-31 art. 3 JORF 3 janvier 1969
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Abrogé par**:
 
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
 ## Chapitre III : Liquidation et acquittement des droits et taxes
@@ -6336,28 +6266,27 @@ cas d'infraction ou de non-décharge des acquits.
 doivent faire l'objet d'acquits-à-caution par lesquels les exportateurs s'engagent à les réintroduire dans ce territoire,
 dans le même délai fixé.
 
-2. La formalité du passavant est substituée à celle de l'acquit-à-caution lorsque les animaux ne sont passibles d'aucun droit
-de sortie et que leur exportation n'est pas prohibée ou soumise à des restrictions ou formalités particulières.
+2. (Abrogé)
 
 3. Les animaux mis bas pendant le pacage hors du territoire douanier sont considérés comme d'origine étrangère.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
 	**Modifié par**:
 
-	  - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cite**:
 
-	  - Code des douanes - art. 208 (V)
+	  - Code des douanes - art. 208
 
 	**Cité par**:
 
 	  - Code des douanes - art. 422 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 181
@@ -6454,14 +6383,12 @@ déperdition pendant leur séjour en dépôt ne peut donner lieu à dommages et 
 ###### Article 185
 
 Les agents des douanes ne peuvent procéder à l'ouverture des colis constitués en dépôt de douane et à la vérification de leur
-contenu qu'en présence du propriétaire ou du destinataire ou, à défaut, d'une personne désignée par le juge d'instance dans
-les conditions prévues par l'article 103 ci-dessus.
+contenu qu'en présence du propriétaire ou du destinataire ou, à défaut, et  à la requête de l'administration des douanes,
+d'une personne désignée  par le président du tribunal de grande instance dans le ressort duquel  est situé le bureau de
+douane. Cette désignation ne peut être faite qu'à  l'expiration d'un délai de huit jours après notification par lettre
+recommandée restée sans effet.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 103 (V)
 
 	**Codifié par**:
 
@@ -6471,6 +6398,10 @@ les conditions prévues par l'article 103 ci-dessus.
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
 ## Chapitre II : Vente des marchandises en dépôt.
@@ -6884,292 +6815,6 @@ minérales et organiques dont la liste est fixée par décret, sont exemptés de
 
 ## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes
 
-### Section 1 : Circulation des marchandises.
-
-###### Article 197
-
-1. Les marchandises ne peuvent circuler dans la zone terrestre du rayon des douanes sans être accompagnées d'un passavant.
-
-2. Le directeur général des douanes et droits indirects peut dispenser certaines marchandises de cette formalité et
-déterminer les conditions auxquelles cette dispense est subordonnée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-###### Article 198
-
-1. Les marchandises soumises à la formalité du passavant provenant de l'intérieur du territoire douanier qui pénètrent dans
-la zone terrestre du rayon des douanes doivent être conduites au bureau de douane le plus proche pour y être déclarées dans
-la même forme que pour l'acquittement des droits.
-
-2. Les transporteurs desdites marchandises doivent présenter aux agents des douanes à la première réquisition :
-
-a) les titres de transport dont ils sont porteurs ;
-
-b) le cas échéant, les titres de régie et autres expéditions accompagnant les marchandises ;
-
-c) des quittances attestant que ces marchandises ont été régulièrement importées ou des factures d'achat, bordereaux de
-fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés régulièrement établies à l'intérieur
-du territoire douanier de la communauté européenne.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°94-114 du 10 février 1994 - art. 13 () JORF 11 février 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Code des douanes - art. 199 (Ab)
-	  - Code des douanes - art. 200 (Ab)
-	  - Code des douanes - art. 414-1 (V)
-	  - Code des douanes - art. 417 (V)
-
-
-###### Article 199
-
-1. Les marchandises soumises à la formalité du passavant que l'on désire enlever dans la zone terrestre du rayon des douanes
-pour y circuler ou pour être transportées hors du rayon dans l'intérieur du territoire douanier doivent être déclarées au
-bureau de douane le plus proche du lieu d'enlèvement.
-
-2. Cette déclaration doit être faite avant l'enlèvement des marchandises, à moins que le service des douanes ne subordonne la
-délivrance du passavant à la présentation desdites marchandises au bureau, auquel cas leur enlèvement et leur transport
-jusqu'au bureau ont lieu sous le couvert des documents visés au 2 de l'article 198 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Code des douanes - art. 200 (Ab)
-	  - Code des douanes - art. 417 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 198
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 200
-
-Les passavants nécessaires au transport, dans la zone terrestre du rayon des douanes, des marchandises visées aux articles
-198 et 199 ci-dessus, sont délivrés par les bureaux de douane où ces marchandises ont été déclarées.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 198
-	  - Code des douanes - art. 199
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-###### Article 201
-
-1. Les passavants nécessaires au transport des marchandises importées qui doivent circuler dans la zone terrestre du rayon
-après dédouanement sont délivrés par les bureaux de douane où lesdites marchandises ont été déclarées en détail.
-
-2. Les quittances, acquits-à-caution et autres expéditions de douane peuvent tenir lieu de passavants ; dans ce cas, ces
-documents doivent comporter toutes les indications dont sont revêtus les passavants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Cité par**:
-
-	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-###### Article 202
-
-1. Les passavants et autres expéditions destinées à couvrir la circulation des marchandises dans la zone terrestre du rayon
-des douanes doivent indiquer le lieu de destination desdites marchandises, la route à parcourir et le délai dans lequel le
-transport doit être effectué. A l'expiration du délai fixé, le transport n'est plus couvert par les documents délivrés.
-
-2. Pour les marchandises enlevées dans la zone terrestre du rayon des douanes, les passavants doivent comporter les mêmes
-indications que ci-dessus et, en outre, la désignation précise du lieu du dépôt des marchandises, ainsi que le jour et
-l'heure de leur enlèvement.
-
-3. La forme des passavants, les conditions de leur délivrance et leur emploi sont déterminés par des arrêtés du directeur
-général des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-###### Article 203
-
-Pour l'enlèvement des marchandises soumises au régime du compte ouvert, le service des douanes ne peut établir de passavant
-que pour les espèces et quantités inscrites au compte de l'expéditeur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-###### Article 204
-
-Les agents des douanes peuvent se transporter au lieu où les marchandises sont déposées et en exiger la représentation avant
-leur enlèvement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-###### Article 205
-
-1. Les transporteurs sont tenus de ne pas s'écarter de la route indiquée sur le passavant, sauf cas de force majeure dûment
-justifié.
-
-2. Ils doivent représenter les marchandises ainsi que les passavants et autres titres en tenant lieu :
-
-a) aux divers bureaux de douane qui se trouvent sur leur route ;
-
-b) hors des bureaux, à toute réquisition des agents des douanes.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2015-1415 du 5 novembre 2015 - art. Annexe I (V)
-	  - Code des douanes - art. 417 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
-### Section 2 : Détention des marchandises.
-
-###### Article 206
-
-Sont interdites dans le rayon des douanes, à l'exception des agglomérations dont la population s'élève au moins à deux mille
-habitants :
-
-a) la détention des marchandises prohibées ou fortement taxées à l'entrée pour lesquelles on ne peut produire à la première
-réquisition des agents des douanes, soit des quittances attestant que ces marchandises ont été régulièrement importées, soit
-des factures d'achat, bordereaux de fabrication ou toutes autres justifications d'origine émanant de personnes ou sociétés
-régulièrement établies à l'intérieur du territoire douanier de la communauté européenne ;
-
-b) la détention de stocks de marchandises autres que du cru du pays, prohibées ou taxées à la sortie, non justifiés par les
-besoins normaux de l'exploitation ou dont l'importance excède manifestement les besoins de l'approvisionnement familial
-apprécié selon les usages locaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°94-114 du 10 février 1994 - art. 13 () JORF 11 février 1994
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Cité par**:
-
-	  - Code des douanes - art. 418 (V)
-
-
-### Section 3 : Compte ouvert des marchandises.
-
-###### Article 207
-
-1. Dans la zone de deux kilomètres et demi des frontières terrestres du territoire douanier, à l'exception des agglomérations
-dont la population s'élève au moins à deux mille habitants, tout commerçant est tenu de faire inscrire au bureau de douane le
-plus proche, sur les registres ouverts à cet effet, les marchandises des catégories prohibées ou fortement taxées qu'il
-reçoit en magasin.
-
-2. Il doit justifier que les marchandises déclarées sont d'origine française ou, si elles sont d'origine étrangère, qu'elles
-ont été régulièrement importées, en produisant des passavants, quittances de douane ou autres expéditions.
-
-3. Les agents des douanes peuvent vérifier, dans les magasins du déclarant, l'exactitude de ses déclarations.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 420 (Ab)
-	  - Code des transports - art. R5432-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
 ### Section 4 : Compte ouvert du bétail.
 
 ###### Article 208
@@ -7216,18 +6861,21 @@ faciliter la répression de la fraude.
 1. Dans la zone soumise à la formalité du compte ouvert les animaux ne peuvent circuler ou pacager sans un acquit-à-caution
 délivré par le service des douanes.
 
-2. Des décisions du directeur général des douanes et droits indirects peuvent substituer la formalité du passavant à celle de
-l'acquit-à-caution.
+2. (Abrogé)
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 421 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+	**Cité par**:
+
+	  - Code des douanes - art. 421 (V)
 
 
 ###### Article 211
@@ -7235,18 +6883,22 @@ l'acquit-à-caution.
 1. Les agents des douanes peuvent procéder aux visites, recensements et contrôles qu'ils jugent nécessaires pour
 l'application des dispositions relatives au compte ouvert, à la circulation et au pacage.
 
-2. Les acquits-à-caution ou passavants doivent leur être représentés à toute réquisition.
+2. Les acquits-à-caution doivent leur être représentés à toute réquisition.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des douanes - art. 421 (V)
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 421 (V)
 
 
 ###### Article 212
@@ -16734,15 +16386,16 @@ le lieu de la rédaction du procès-verbal et l'heure de sa clôture.
 
 ###### Article 326
 
-1. Lorsque les marchandises saisies ne sont pas prohibées, il est offert mainlevée des moyens de transport sous caution
-solvable ou sous consignation de la valeur.
+1.  La mainlevée des moyens de transport saisis est offerte sous caution  solvable ou sous consignation de la valeur.
+Toutefois, cette mainlevée  est offerte, sans caution ni consignation, au propriétaire de bonne foi  non poursuivi en
+application du présent code. 
 
-2. Cette offre, ainsi que la réponse, sont mentionnées au procès-verbal.
+2.  Par dérogation au 1, la mainlevée d'un moyen de transport comportant des  cachettes aménagées en vue d'y dissimuler la
+marchandise de fraude ne  peut être offerte qu'après résorption de ces cachettes. 
 
-3. La mainlevée du moyen de transport est accordée sans caution ni consignation au propriétaire de bonne foi, lorsqu'il a
-conclu le contrat de transport, de location ou de crédit-bail le liant au contrevenant conformément aux lois et règlements en
-vigueur et selon les usages de la profession. Toutefois, cette mainlevée est subordonnée au remboursement des frais
-éventuellement engagés par le service des douanes pour assurer la garde et la conservation du moyen de transport saisi.
+3. Dans tous les cas, la mainlevée est subordonnée au remboursement des  frais éventuellement engagés par l'administration
+pour assurer la garde  et la conservation du moyen de transport et pour assurer la résorption  des éventuelles cachettes
+aménagées.
 
 **Liens relatifs à cet article**
 
@@ -16752,8 +16405,7 @@ vigueur et selon les usages de la profession. Toutefois, cette mainlevée est su
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 17 () JORF 1er janvier 1982
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
 ###### Article 327
@@ -16855,39 +16507,29 @@ vacation.
 ###### Article 332
 
 1. En dehors du rayon, les dispositions des articles précédents sont applicables aux infractions relevées dans les bureaux,
-entrepôts et autres lieux soumis à la surveillance du service des douanes.
+entrepôts et autres lieux soumis à la surveillance du service des douanes. 
 
 2. Des saisies peuvent également être pratiquées en tous lieux dans le cas de poursuite à vue, d'infraction flagrante,
 d'infraction à l'article 215 ci-dessus ou de découverte inopinée de marchandises dont l'origine frauduleuse ressort
 manifestement des déclarations de leur détenteur ou de documents probants trouvés en sa possession.
 
-3. En cas de saisie après poursuite à vue, le procès-verbal doit constater :
-
-a) s'il s'agit de marchandises assujetties à la formalité du passavant, que lesdites marchandises ont été suivies sans
-interruption depuis leur franchissement de la limite intérieure du rayon jusqu'au moment de leur saisie et qu'elles étaient
-dépourvues de l'expédition nécessaire à leur transport dans le rayon des douanes ;
-
-b) s'il s'agit d'autres marchandises, que lesdites marchandises ont été suivies sans interruption depuis leur franchissement
-de la frontière jusqu'au moment de leur saisie.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Modifié par**:
 
-	  - Ordonnance 58-1238 1958-12-17 art. 8 JORF 18 décembre 1958
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cite**:
 
-	  - Code des douanes - art. 215 (M)
+	  - Code des douanes - art. 215 (V)
 
 	**Cité par**:
 
 	  - Code des douanes - art. 64 (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.
@@ -18381,14 +18023,21 @@ séparément.
 1. Les objets saisis ou confisqués ne peuvent être revendiqués par les propriétaires, ni le prix, qu'il soit consigné ou non,
 réclamé par les créanciers même privilégiés, sauf leur recours contre les auteurs de la fraude.
 
+1  bis. Toutefois, lorsque la marchandise ayant servi à masquer la fraude a  été saisie, la mainlevée est offerte, sans
+caution ni consignation, au  propriétaire de bonne foi non poursuivi en application du présent code.  Cette mainlevée est
+subordonnée au remboursement des frais  éventuellement engagés par l'administration pour assurer la garde et la  conservation
+de la marchandise. 
+
+1 ter. Par  dérogation au 1 bis, aucune mainlevée n'est proposée lorsque la  marchandise ayant servi à masquer la fraude a
+été détériorée en raison  de son utilisation à cette fin.
+
 2. Les délais d'appel, de tierce opposition et de vente expirés, toutes répétitions et actions sont non recevables.
 
-**Nota:**
-
-Dans sa décision n° 2011-208 QPC du 13 janvier 2012 (NOR : CSCX1201292S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article 376 du code des douanes. La déclaration d'insconstitutionnalité prend effet le 1er janvier 2013.
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cité par**:
 
@@ -18397,10 +18046,6 @@ Constitution l'article 376 du code des douanes. La déclaration d'insconstitutio
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ##### E. - Fausses déclarations.
@@ -19708,14 +19353,15 @@ Est passible des peines prévues au premier alinéa de l'article 414 :
 applicable aux marchandises présentées, soit en soustrayant la marchandise à la visite du service des douanes par
 dissimulation ; 
 
-2° La détention ou le transport d'or natif dans le rayon des douanes de Guyane sans présentation d'un des justificatifs
-prévus à l'article 198.
+2° La détention ou le transport d'or natif dans le rayon des douanes de Guyane sans présentation  soit  d'un document de
+transport, soit d'un document émanant d'une personne  régulièrement établie sur le territoire douanier, soit d'un document
+attestant que l'or natif est destiné à être régulièrement exporté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cite**:
 
@@ -19794,24 +19440,24 @@ classées comme stupéfiants.
 
 1. La contrebande s'entend des importations ou exportations en dehors des bureaux ainsi que de toute violation des
 dispositions légales ou réglementaires relatives à la détention et au transport des marchandises à l'intérieur du territoire
-douanier.
+douanier. 
 
-2. Constituent, en particulier, des faits de contrebande :
+2. Constituent, en particulier, des faits de contrebande : 
 
-a) la violation des dispositions des articles 75, 76-2, 78-1, 81-1, 83, 198, 199 et 205 ci-dessus ;
+a) La violation des articles 75,76-2,78-1,81-1 et 83 ; 
 
 b) les versements frauduleux ou embarquements frauduleux effectués soit dans l'enceinte des ports, soit sur les côtes, à
-l'exception des débarquements frauduleux visés à l'article 427, 1° ci-après ;
+l'exception des débarquements frauduleux visés à l'article 427,1° ci-après ; 
 
 c) les soustractions ou substitutions en cours de transport de marchandises expédiées sous un régime suspensif,
 l'inobservation sans motif légitime des itinéraires et horaires fixés, les manoeuvres ayant pour but ou pour résultat
 d'altérer ou de rendre inefficaces les moyens de scellement, de sûreté ou d'identification et, d'une manière générale, toute
-fraude douanière relative au transport de marchandises expédiées sous régime suspensif ;
+fraude douanière relative au transport de marchandises expédiées sous régime suspensif ; 
 
 d) la violation des dispositions, soit législatives, soit réglementaires, portant prohibition d'exportation ou de
 réexportation ou bien subordonnant l'exportation ou la réexportation au paiement des droits ou taxes ou à l'accomplissement
 de formalités particulières lorsque la fraude a été faite ou tentée en dehors des bureaux et qu'elle n'est pas spécialement
-réprimée par une autre disposition du présent code.
+réprimée par une autre disposition du présent code. 
 
 3. Sont assimilées à des actes de contrebande les importations ou exportations sans déclaration lorsque les marchandises
 passant par un bureau de douane sont soustraites à la visite du service des douanes par dissimulation dans des cachettes
@@ -19822,9 +19468,7 @@ marchandises.
 
 	**Modifié par**:
 
-	  - Loi n°61-1396 1961-12-21 art. 77 Finances pour 1962 JORF 22 décembre 1961
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-	  - Ordonnance 58-1170 1958-12-05 art. 1 JORF 9 décembre 1958
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cité par**:
 
@@ -19834,13 +19478,12 @@ marchandises.
 
 	**Cite**:
 
-	  - Code des douanes - art. 198 (M)
-	  - Code des douanes - art. 199 (V)
-	  - Code des douanes - art. 205 (V)
 	  - Code des douanes - art. 427 (V)
 	  - Code des douanes - art. 75 (V)
+	  - Code des douanes - art. 76 (V)
+	  - Code des douanes - art. 78 (V)
+	  - Code des douanes - art. 81 (V)
 	  - Code des douanes - art. 83 (V)
-	  - Code des douanes 75, 76-2, 78-1, 81-1, 83, 198, 199, 205, 427
 
 	**Codifié par**:
 
@@ -19852,35 +19495,24 @@ marchandises.
 Les marchandises de la catégorie de celles qui sont prohibées à l'entrée ou fortement taxées ou soumises à des taxes de
 consommation intérieure sont réputées avoir été introduites en contrebande et les marchandises de la catégorie de celles dont
 la sortie est prohibée ou assujettie à des droits sont réputées faire l'objet d'une tentative d'exportation en contrebande
-dans tous les cas d'infraction ci-après indiqués :
-
-1° lorsqu'elles sont trouvées dans la zone terrestre du rayon sans être munies d'un acquit de paiement, passavant ou autre
-expédition valable pour la route qu'elles suivent et pour le temps dans lequel se fait le transport, à moins qu'elles ne
-viennent de l'intérieur du territoire douanier par la route qui conduit directement au bureau de douane le plus proche et
-soient accompagnées des documents prévus par l'article 198-2 ci-dessus ;
-
-2° lorsque, même étant accompagnées d'une expédition portant l'obligation expresse de la faire viser à un bureau de passage,
-elles ont dépassé ce bureau sans que ladite obligation ait été remplie ;
-
-3° lorsque, ayant été amenées au bureau, dans le cas prévu à l'article 199-2 ci-dessus, elles se trouvent dépourvues des
-documents indiqués à l'article 198-2 ;
-
-4° lorsqu'elles sont trouvées dans la zone terrestre du rayon en infraction à l'article 206 ci-dessus.
+lorsque,  même étant accompagnées d'un document attestant de leur placement sous  un régime douanier suspensif portant
+l'obligation expresse de le faire  viser à un bureau de douane de passage, elles ont dépassé ce bureau sans  que ladite
+obligation ait été remplie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
+
 	**Cite**:
 
-	  - Code des douanes - art. 206 (M)
-	  - Code des douanes 198-2, 199-2, 206
+	  - Code des douanes
+	  - Code des douanes - art. 206
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
 ###### Article 419
@@ -19926,57 +19558,31 @@ produites.
 	  - Code des douanes - art. 414 (M)
 
 
-###### Article 420
-
-Est réputée importée en contrebande toute quantité en excédent au compte ouvert prévu par l'article 207 ci-dessus ou toute
-marchandise non inscrite à ce compte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des douanes - art. 207
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-
 ###### Article 421
 
 Les animaux de la catégorie de ceux qui sont prohibés ou fortement taxés à l'entrée sont réputés avoir été importés en fraude
 et les animaux de la catégorie de ceux dont la saisie est prohibée ou assujettie à des droits sont réputés faire l'objet
-d'une tentative d'exportation en contrebande dans tous les cas d'infraction ci-après indiqués :
+d'une tentative d'exportation en contrebande dans tous les cas d'infraction ci-après indiqués : 
 
 1° Lorsqu'ils sont trouvés dans la zone définie à l'article 208-1 en violation des dispositions des articles 208 et 210 ci-
-dessus et des décrets, arrêtés et règlements pris pour leur application ;
+dessus et des décrets, arrêtés et règlements pris pour leur application ; 
 
-2° En cas de déficit constaté lors des recensements et contrôles prévus par l'article 211 ci-dessus ;
+2° En cas de déficit constaté lors des recensements et contrôles prévus par l'article 211 ci-dessus ; 
 
 3° En cas de manoeuvre ou fausse déclaration tendant à obtenir indûment la délivrance de titres de circulation, l'inscription
-d'animaux à un compte ouvert ou leur radiation, ou l'annulation des engagements figurant sur les acquits-à-caution ou
-passavants.
+d'animaux à un compte ouvert ou leur radiation, ou l'annulation des engagements figurant sur les acquits-à-caution.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cite**:
 
 	  - Code des douanes - art. 208 (V)
 	  - Code des douanes - art. 210 (V)
 	  - Code des douanes - art. 211 (V)
-	  - Code des douanes 208-1, 208, 210, 211
 
 	**Cité par**:
 
@@ -20046,9 +19652,8 @@ en détail non applicable aux marchandises présentées ;
 
 Sont réputés faire l'objet d'une importation sans déclaration :
 
-1° les marchandises déclarées pour l'exportation temporaire ou pour l'obtention d'un passavant de circulation dans le rayon,
-en cas de non-représentation ou de différence dans la nature ou l'espèce entre lesdites marchandises et celles présentées au
-départ ;
+1° les marchandises déclarées pour l'exportation temporaire, en cas de non-représentation ou de différence dans la nature ou
+l'espèce entre lesdites marchandises et celles présentées au départ ;
 
 2° les objets prohibés ou fortement taxés à l'entrée ou passibles de taxes intérieures découverts à bord des navires se
 trouvant dans les limites des ports et rades de commerce indépendamment des objets régulièrement manifestés ou composant la
@@ -20064,10 +19669,7 @@ zone maritime du rayon des douanes ;
 
 	**Modifié par**:
 
-	  - Loi n°65-525 1965-07-03 art. 3 JORF 4 juillet 1965
-	  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
-	  - Loi n°71-545 1971-07-08 art. 5 JORF 9 juillet 1971
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 	**Cité par**:
 
@@ -20079,8 +19681,8 @@ zone maritime du rayon des douanes ;
 
 	**Cite**:
 
-	  - Code des douanes - art. 289 (V)
-	  - Code des douanes 287-1, 288-2 à 288-4, 289
+	  - Code des douanes
+	  - Code des douanes - art. 289
 
 	**Codifié par**:
 
