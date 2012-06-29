@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-06-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -144,115 +144,6 @@ européenne.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-
-###### Article 2 ter
-
-1. S'effectuent selon les dispositions du présent code les importations et les exportations en provenance ou à destination
-d'un autre Etat membre de la Communauté européenne, sous tous régimes, y compris le transit en France, des matériels de
-guerre et des matériels assimilés, ainsi que des poudres et substances explosives destinées à des fins militaires, ayant le
-statut de marchandises communautaires, et régis, respectivement, par les dispositions du décret du 18 avril 1939 fixant le
-régime des matériels de guerre, armes et munitions et celles de la loi n° 70-575 du 3 juillet 1970 portant réforme du régime
-des poudres et substances explosives.
-
-2. Par dérogation aux dispositions de l'article 215, les personnes qui détiennent ou transportent les biens définis au 1 ci-
-dessus doivent, à première réquisition des agents des douanes, produire soit les documents attestant que ces marchandises ont
-été régulièrement importées dans le territoire douanier, soit tout autre document justifiant de leur origine, émanant de
-personnes ou de sociétés régulièrement établies à l'intérieur du territoire douanier.
-
-3. Ceux qui ont détenu, transporté, vendu, cédé ou échangé lesdits biens et ceux qui ont établi les justifications d'origine
-sont également tenus de présenter les documents visés au 2 ci-dessus à toute réquisition des agents des douanes, formulée
-dans un délai de trois ans soit à compter du jour où les marchandises ont cessé d'être entre leurs mains, soit à partir de la
-délivrance des justifications d'origine.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-575 du 3 juillet 1970
-	  - Code des douanes - art. 215
-	  - Décret n°1939-04-18
-
-	**Créé par**:
-
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 1 () JORF 5 janvier 1993
-
-	**Cité par**:
-
-	  - Arrêté du 2 février 1993 - art. 1 (VT)
-	  - Arrêté du 7 septembre 1995 - art. 18 (V)
-	  - Arrêté du 4 octobre 2007 - art. 6 (Ab)
-	  - Arrêté du 18 décembre 2007 - art. 10 (V)
-	  - Arrêté du 18 décembre 2007 - art. 28 (V)
-	  - Arrêté du 8 juin 2009 - art. Annexe (V)
-	  - Arrêté du 20 juin 2012 - art. 2 (VD)
-	  - Code des douanes - art. 419 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 12 février 1993
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 1 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 10 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 11 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 12 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 13 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 14 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 15 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 16 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 17 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 18 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 19 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 2 (M)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 20 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 21 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 22 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 23 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 24 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 25 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 26 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 27 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 28 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 29 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 3 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 30 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 31 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 32 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 33 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 34 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 35 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 36 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 37 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 38 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 39 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 4 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 40 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 41 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 42 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 43 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 44 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 45 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 46 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 47 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 48 (Ab)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 49 (T)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 5 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 50 (T)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 51 (T)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 52 (T)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 6 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 7 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 8 (VT)
-	  - TXT_SOURCE: Arrêté du 12 février 1993 - art. 9 (VT)
-	  - TXT_SOURCE: Arrêté du 12 décembre 1994
-	  - TXT_SOURCE: Arrêté du 12 décembre 1994 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Abrogé par**:
-
-	  - Loi n°2011-702 du 22 juin 2011 - art. 4
 
 
 ###### Article 3
@@ -840,26 +731,29 @@ cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière gé
 des titulaires auxquels ils ont été nominativement accordés. 
 
 4. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont applicables aux
-marchandises relevant des articles 2,3,4,5 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
-certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane aux
-substances classifiées en catégorie 1 par l'annexe I du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11
-février 2004 relatif aux précurseurs de drogues, aux marchandises visées à l'article L. 5132-9 du code de la santé publique,
-aux médicaments à usage humain visés à l'article L. 5124-13 du code de la santé publique, aux micro-organismes et aux toxines
-mentionnés à l'article L. 5139-1 du code de la santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L.
-5142-7 du code de la santé publique, aux marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou
-modèle tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du
-règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, sur les dessins ou modèles communautaires, ainsi qu'aux produits
-sanguins labiles et aux pâtes plasmatiques mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, au sang, ses
-composants et ses produits dérivés à des fins scientifiques mentionnés à l'article L. 1221-12, aux organes, tissus et leurs
-dérivés, cellules, gamètes et tissus germinaux issus du corps humain ainsi qu'aux préparations de thérapie cellulaire et aux
-échantillons biologiques mentionnés aux articles L. 1235-1, L. 1243-1, L. 2141-11-1 et L. 1245-5 dudit code, aux tissus ou
-cellules embryonnaires ou foetaux mentionnés à l'article L. 2151-6 du même code, aux sources artificielles et naturelles de
-radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des articles L. 1333-2 et L. 1333-4 du
-même code et aux déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le
-transit sont régis par les articles L. 541-40 à L. 541-42-2 du même code, ainsi que par les décisions des autorités
-communautaires prises en application de ce règlement. Les dispositions du présent article s'appliquent également aux objets
-de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique visées par l'article
-227-23 du code pénal. 
+produits liés à la défense dont le transfert est soumis à l'autorisation préalable prévue à l'article L. 2335-10 du code de
+la défense, aux produits chimiques du tableau 1 annexé à la convention de Paris et mentionnés à l'article L. 2342-8 du code
+de la défense, aux matériels mentionnés à l'article L. 2335-18 du même code ainsi qu'aux produits explosifs destinés à des
+fins militaires mentionnés à l'article L. 2352-1 dudit code, aux marchandises relevant des articles 2, 3, 4, 5 et 19 de la
+loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la
+complémentarité entre les services de police, de gendarmerie et de douane aux substances classifiées en catégorie 1 par
+l'annexe I du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de
+drogues, aux marchandises visées à l'article L. 5132-9 du code de la santé publique, aux médicaments à usage humain visés à
+l'article L. 5124-13 du code de la santé publique, aux micro-organismes et aux toxines mentionnés à l'article L. 5139-1 du
+code de la santé publique, aux médicaments à usage vétérinaire mentionnés à l'article L. 5142-7 du code de la santé publique,
+aux marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article
+L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du
+12 décembre 2001, sur les dessins ou modèles communautaires, ainsi qu'aux produits sanguins labiles et aux pâtes plasmatiques
+mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, au sang, ses composants et ses produits dérivés à des fins
+scientifiques mentionnés à l'article L. 1221-12, aux organes, tissus et leurs dérivés, cellules, gamètes et tissus germinaux
+issus du corps humain ainsi qu'aux préparations de thérapie cellulaire et aux échantillons biologiques mentionnés aux
+articles L. 1235-1, L. 1243-1, L. 2141-11-1 et L. 1245-5 dudit code, aux tissus ou cellules embryonnaires ou fœtaux
+mentionnés à l'article L. 2151-6 du même code, aux sources artificielles et naturelles de radionucléides définies à l'article
+L. 1333-1 du code de la santé publique et relevant des articles L. 1333-2 et L. 1333-4 du même code et aux déchets définis à
+l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le transit sont régis par les articles
+L. 541-40 à L. 541-42-2 du même code, ainsi que par les décisions des autorités communautaires prises en application de ce
+règlement. Les dispositions du présent article s'appliquent également aux objets de toute nature comportant des images ou des
+représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal. 
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -960,13 +854,17 @@ chargé des douanes et du ou des ministres concernés.
 	  - Loi n°92-1477 du 31 décembre 1992 - art. 2
 	  - Code de la propriété intellectuelle - art. L513-4
 	  - Code pénal - art. 227-23
+	  - Code de la défense. - art. L2335-10
+	  - Code de la défense. - art. L2335-18
+	  - Code de la défense. - art. L2342-8
+	  - Code de la défense. - art. L2352-1
 	  - Code des douanes - art. 2 bis
 	  - Code de la santé publique - art. L1221-12
 	  - Code de la santé publique - art. L1221-8
 	  - Code de la santé publique - art. L1235-1
 	  - Code de la santé publique - art. L1243-1
 	  - Code de la santé publique - art. L1245-5
-	  - Code de la santé publique - art. L1331-1
+	  - Code de la santé publique - art. L1333-1 (VT)
 	  - Code de la santé publique - art. L1333-2
 	  - Code de la santé publique - art. L1333-4
 	  - Code de la santé publique - art. L2141-11-1
@@ -975,9 +873,9 @@ chargé des douanes et du ou des ministres concernés.
 	  - Code de la santé publique - art. L5132-9
 	  - Code de la santé publique - art. L5139-1
 	  - Code de la santé publique - art. L5142-7
-	  - Code de l'environnement - art. L541-1-1 (V)
-	  - Code de l'environnement - art. L541-40 (V)
-	  - Code de l'environnement - art. L541-42-2 (V)
+	  - Code de l'environnement - art. L541-1-1
+	  - Code de l'environnement - art. L541-40
+	  - Code de l'environnement - art. L541-42-2
 
 	**Cité par**:
 
@@ -1008,7 +906,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-1579 du 17 décembre 2010 - art. 23
+	  - Loi n°2011-702 du 22 juin 2011 - art. 4
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
@@ -3766,12 +3664,15 @@ même 1 bis.
 3 bis. Pour les déclarations en douane régies par les règlements communautaires, le déclarant est la personne qui fait la
 déclaration en douane en son nom propre ou celle au nom de laquelle une déclaration en douane est faite.
 
-4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations applicables aux
-opérations mentionnées à l'article 2 ter ainsi que la forme des déclarations autres que celles prévues par les règlements
-communautaires en vigueur. Il fixe également les énonciations qu'elles doivent contenir et les documents qui doivent y être
-annexés.
+4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations autres que celles
+prévues par les règlements communautaires en vigueur. Il fixe également les énonciations qu'elles doivent contenir et les
+documents qui doivent y être annexés.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -3789,11 +3690,8 @@ annexés.
 
 	**Modifié par**:
 
+	  - Loi n°2011-702 du 22 juin 2011 - art. 4
 	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 96
@@ -19514,13 +19412,12 @@ obligation ait été remplie.
 
 ###### Article 419
 
-1. Les marchandises visées aux articles 2 ter, 215, 215 bis et 215 ter sont réputées avoir été importées en contrebande à
-défaut soit de justification d'origine, soit de présentation de l'un des documents prévus par ces mêmes articles ou si les
-documents présentés sont faux, inexacts, incomplets ou non applicables.
+1. Les marchandises visées aux articles 215, 215 bis et 215 ter sont réputées avoir été importées en contrebande à défaut
+soit de justification d'origine, soit de présentation de l'un des documents prévus par ces mêmes articles ou si les documents
+présentés sont faux, inexacts, incomplets ou non applicables. 
 
-2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 2 et 3 de l'article 2 ter, aux 1 et 2
-de l'article 215, à l'article 215 bis et à l'article 215 ter sont poursuivies et punies conformément aux dispositions de
-l'article 414 ci-dessus.
+2. Elles sont saisies en quelque lieu qu'elles se trouvent et les personnes visées aux 1 et 2 de l'article 215, à l'article
+215 bis et à l'article 215 ter sont poursuivies et punies conformément aux dispositions de l'article 414 ci-dessus. 
 
 3. Lorsqu'ils auront eu connaissance que celui qui leur a délivré les justifications d'origine ne pouvait le faire
 valablement ou que celui qui leur a vendu, cédé, échangé ou confié les marchandises n'était pas en mesure de justifier de
@@ -19536,11 +19433,7 @@ produites.
 
 	**Modifié par**:
 
-	  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
-	  - Loi n°92-1477 du 31 décembre 1992 - art. 22 () JORF 5 janvier 1993
-	  - Loi n°94-114 du 10 février 1994 - art. 15 () JORF 11 février 1994
-	  - Loi n°94-679 du 8 août 1994 - art. 60 () JORF 10 août 1994
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2011-702 du 22 juin 2011 - art. 4
 
 	**Cité par**:
 
@@ -19548,11 +19441,8 @@ produites.
 
 	**Cite**:
 
-	  - Code des douanes - art. 2 ter (V)
-	  - Code des douanes - art. 215 (M)
-	  - Code des douanes - art. 215 bis (M)
-	  - Code des douanes - art. 215 ter (M)
-	  - Code des douanes - art. 414 (M)
+	  - Code des douanes - art. 215
+	  - Code des douanes - art. 414
 
 
 ###### Article 421
