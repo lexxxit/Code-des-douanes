@@ -15,9 +15,9 @@ tarification est associé un point de tarification. Ces sections de tarification
 sont définis par arrêté conjoint des ministres chargés des transports et du budget. La longueur maximale des sections de
 tarification est de quinze kilomètres. 
 
-3. Les véhicules de transport de marchandises mentionnés au 1 s'entendent des véhicules seuls ou tractant une remorque, dont
-le poids total en charge autorisé, ou dont le poids total roulant autorisé pour les ensembles articulés, est égal ou
-supérieur à douze tonnes. 
+3. Les  véhicules de transport de marchandises mentionnés au 1 s'entendent des  véhicules à moteur dont le poids total
+autorisé en charge est supérieur à  douze tonnes ainsi que des ensembles de véhicules dont le véhicule  tracteur a un poids
+total autorisé en charge supérieur à douze tonnes.
 
 Ne sont toutefois pas considérés comme des véhicules de transport de marchandises les véhicules d'intérêt général
 prioritaires et les véhicules et matériels agricoles définis par voie réglementaire, ainsi que les véhicules militaires. 
@@ -33,7 +33,7 @@ découlent pour le loueur.
 III. ― Le fait générateur intervient et la taxe devient exigible lors du franchissement, par un véhicule de transport de
 marchandises défini au 3 du I, d'un point de tarification mentionné au troisième alinéa du 2 du I. 
 
-IV. ― 1.L'assiette de la taxe due est constituée par la longueur des sections de tarification empruntées par le véhicule,
+IV. ― 1. L'assiette de la taxe due est constituée par la longueur des sections de tarification empruntées par le véhicule,
 exprimée en kilomètres, après arrondissement à la centaine de mètres la plus proche. 
 
 2. Pour chaque section de tarification, le taux kilométrique de la taxe est fonction de la catégorie du véhicule. Les
@@ -46,9 +46,8 @@ tarification.
 
 Un décret précise les conditions dans lesquelles le niveau de congestion de la section de tarification est pris en compte. 
 
-En cas de défaut de justification par le redevable de la classe d'émission EURO ou du nombre d'essieux du véhicule, le taux
-kilométrique est déterminé en retenant respectivement la classe ou la catégorie à laquelle correspond le taux kilométrique le
-plus élevé. 
+En cas de défaut de justification par le redevable de la classe d'émission EURO du véhicule, le taux kilométrique est
+déterminé en retenant la classe à laquelle correspond le taux kilométrique le plus élevé. 
 
 3. Le taux de la taxe est compris entre 0, 015 € et 0, 2 € par kilomètre. 
 
@@ -66,19 +65,19 @@ le réseau mentionné au 2 du I.
 
 2. La taxe due au titre des trajets effectués est liquidée à partir des informations collectées automatiquement au moyen de
 l'équipement électronique embarqué mentionné au 1 du présent V, des informations déclarées lors de l'enregistrement du
-véhicule et des données  paramétrées dans l'équipement électronique embarqué. 
+véhicule et des données paramétrées dans l'équipement électronique embarqué. 
 
 Les informations collectées au moyen des équipements électroniques embarqués, mis en œuvre dans une chaîne de collecte
-homologuée,  font foi jusqu'à preuve du contraire.
+homologuée, font foi jusqu'à preuve du contraire.
 
-3.Lorsque le redevable passe un contrat avec une société habilitée lui fournissant  un service de télépéage, il lui donne
-mandat pour déclarer son véhicule et  acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
+3.Lorsque le redevable passe un contrat avec une société habilitée lui fournissant un service de télépéage, il lui donne
+mandat pour déclarer son véhicule et acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
 communiqué à cette société au plus tard le dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables
 réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé l'équipement électronique embarqué fourni
 par la société habilitée.
 
-A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans  les cas et selon les modalités définis par
-décret en Conseil d'Etat.  
+A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans les cas et selon les modalités définis par
+décret en Conseil d'Etat. 
 
 4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur taxe.
 
@@ -108,6 +107,14 @@ embarqués et d'acquitter la taxe pour leur compte.
 VI. ― 1. Lorsque le redevable a passé un contrat avec une société habilitée lui fournissant un service de télépéage, la taxe
 est acquittée par cette société au plus tard le dixième jour du mois suivant la liquidation. 
 
+A  titre dérogatoire, la taxe est acquittée par anticipation par la  société habilitée fournissant un service de télépéage
+dans les cas et  selon les modalités définis par décret en Conseil d'Etat.
+
+1 bis. Le redevable ayant passé un contrat avec une société habilitée  lui fournissant un service de télépéage bénéficie,
+dans la limite fixée  par la directive 1999/62/CE du Parlement européen et du Conseil du 17  juin 1999 précitée, d'une
+réduction sur le montant de la taxe due, afin  de tenir compte de l'économie de gestion résultant de ce contrat. Les
+réductions applicables sont déterminées par un arrêté conjoint des  ministres chargés des transports et du budget.
+
 2. Dans les cas prévus au 4 du V, la taxe est acquittée par le redevable lors de la liquidation. 
 
 Le paiement s'effectue par imputation de l'avance.
@@ -118,26 +125,26 @@ particuliers pour les redevables occasionnels.
 3. La taxe est recouvrée par l'administration des douanes et droits indirects selon les règles, garanties, privilèges et
 sanctions prévus par le présent code. 
 
-VII. ― 1. Les manquements au regard de la taxe sont réprimés, les poursuites sont effectuées et les instances sont instruites
-et jugées comme en matière de douane. 
-
-Est constitutive d'un manquement toute irrégularité ayant pour but ou pour résultat d'éluder ou de compromettre le
-recouvrement de la taxe.
-
-La circulation du redevable sur le réseau taxable, alors que l'avance sur taxe est insuffisante, est constitutive d'un
-manquement. 
+VII. ― 1. Les infractions aux dispositions relatives à la taxe sont réprimées, les poursuites sont effectuées et les
+instances sont instruites et jugées comme en matière de douane. 
 
 Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à première réquisition, aux agents des
 douanes, de la police nationale, de la gendarmerie nationale et du contrôle des transports terrestres, tous les éléments et
 documents susceptibles de justifier la régularité de la circulation desdits véhicules sur le réseau taxable. 
 
-2. Lorsqu'il est constaté un manquement, le redevable fait l'objet d'une taxation forfaitaire égale au produit du taux défini
+2. Est constitutive d'un manquement toute irrégularité ayant pour but ou pour résultat d'éluder ou de compromettre le
+recouvrement de la taxe. 
+
+La circulation du redevable sur le réseau taxable, alors que l'avance sur taxe est insuffisante, est constitutive d'un
+manquement. 
+
+Lorsqu'il est constaté un manquement, le redevable fait l'objet d'une taxation forfaitaire égale au produit du taux défini
 aux 2 à 4 du IV par une distance forfaitaire de 130 kilomètres ou d'une taxation au réel, lorsque les éléments de liquidation
 sont connus. Le montant de la taxe forfaitaire ou au réel est doublé en cas d'existence d'un autre manquement au cours des
-trente derniers jours.  
+trente derniers jours. 
 
-Le montant de la taxe forfaitaire ou au réel prévue au premier alinéa est communiqué au redevable selon les modalités fixées
-par arrêté conjoint des ministres chargés des transports et du budget. Elle est exigible dès sa communication au redevable. 
+Le montant de la taxe forfaitaire ou au réel prévue au troisième alinéa est communiqué au redevable selon les modalités
+fixées par décret en Conseil d'Etat. Elle est exigible dès sa communication au redevable. 
 
 Lorsque l'irrégularité est constatée par des agents de la police nationale, de la gendarmerie nationale ou du contrôle des
 transports terrestres, ces derniers en informent les services des douanes qui mettent en œuvre la procédure de taxation
@@ -146,15 +153,31 @@ forfaitaire ou au réel.
 Le redevable dispose de la possibilité d'apporter la preuve de la distance réellement parcourue sur le réseau taxable par le
 véhicule en manquement. Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour une taxation au réel. 
 
-3. Sans préjudice des dispositions du 2, tout manquement mentionné au 1 est passible d'une amende maximale de 750 EUR.
+3.  Le fait de détenir ou de transporter un appareil, dispositif ou produit  de nature ou présenté comme étant de nature à
+déceler la présence, à  perturber le fonctionnement ou à avertir ou informer de la localisation  d'appareils, instruments ou
+systèmes servant à la constatation des  manquements mentionnés au 2 ou de permettre de se soustraire à la  constatation de
+ces manquements est constitutif d'une infraction.
+
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est constitutif d'une infraction.
+
+Indépendamment des sanctions prévues à  l'article 413, cet appareil, ce dispositif ou ce produit est saisi.  Lorsque
+l'appareil, le dispositif ou le produit est placé, adapté ou  appliqué sur un véhicule, ce véhicule peut également être
+saisi.
 
 4. Les agents mentionnés au deuxième alinéa du 1 et habilités par les textes particuliers qui leur sont applicables disposent
-des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même alinéa. Ces
-agents peuvent immobiliser le véhicule en manquement pour mettre en œuvre et percevoir l'amende mentionnée au 3 dans les
-conditions fixées par décret en Conseil d'Etat. 
+des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même alinéa. 
+
+La constatation des infractions mentionnées au même 1 est faite par procès-verbal établi selon des modalités fixées par
+décret en Conseil d'Etat. 
+
+Les agents mentionnés au deuxième alinéa dudit 1 sont habilités à transiger avec les personnes poursuivies dans les
+conditions prévues à l'article 350. 
+
+Ces agents peuvent immobiliser le véhicule en infraction dans les conditions fixées au chapitre V du titre II du livre III du
+code de la route afin d'assurer la perception de l'amende mentionnée à l'article 413 du présent code. 
 
 5. Les constatations d'irrégularités effectuées par des appareils de contrôle automatique ou manuel, mis en œuvre dans une
-chaîne de contrôle homologuée,  font foi jusqu'à preuve du contraire. 
+chaîne de contrôle homologuée, font foi jusqu'à preuve du contraire. 
 
 VIII. ― Aux fins d'établissement de l'assiette de la taxe, de son recouvrement et des contrôles nécessaires, un dispositif de
 traitement automatisé des données à caractère personnel sera mis en œuvre, conformément aux modalités prévues par la loi n°
@@ -166,21 +189,19 @@ affectée.
 
 Par ailleurs, l'Etat rétrocède aux collectivités territoriales le produit de la taxe correspondant aux sommes perçues pour
 l'usage du réseau routier dont elles sont propriétaires, déduction faite des coûts exposés y afférents. Un arrêté conjoint
-des ministres chargés des transports, du budget et des collectivités territoriales fixe le montant de cette retenue.
-
-**Nota:**
-
-Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 article 153 I C : L'article 285 septies entre en vigueur à une
-date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010. 
-
-Article 153 II C 2 : L'article 285 septies du code des douanes est abrogé à compter de la date d'entrée en vigueur de la taxe
-prévue au A du II de l'article 153.
+des ministres chargés des transports, du budget et des collectivités territoriales fixe le montant de cette retenue dont le
+produit est affecté à l'Agence de financement des infrastructures de transport de France.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
 
 	**Cité par**:
 
@@ -196,7 +217,6 @@ prévue au A du II de l'article 153.
 	  - Code des transports - art. L3221-2 (V)
 	  - Code des transports - art. L3222-3 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+	  - Loi n°2013-431 du 28 mai 2013 - art. 12 (V)

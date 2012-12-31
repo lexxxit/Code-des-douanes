@@ -10,9 +10,10 @@ les transferts de déchets ou, à défaut de document de suivi, à la date de so
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
-méthaniques, solvants et autres composés organiques volatils ainsi que de poussières totales en suspension ;
+méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils,
+d'arsenic, de mercure, de sélénium ainsi que de poussières totales en suspension ;
 
-3. (alinéa abrogé) ;
+3. (Alinéa abrogé) ;
 
 4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ; 
 
@@ -27,16 +28,15 @@ sexies ;
 
 b) La première utilisation de ces matériaux ;
 
-7. Alinéa abrogé ;
+7. (Alinéa abrogé) ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
-9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les
-conditions mentionnées au 9 du I de l'article 266 sexies ;
+9. (Alinéa abrogé) ;
 
-10. La première livraison ou la première utilisation des sacs de caisse à usage  unique en matière plastique mentionnés au 10
+10. La première livraison ou la première utilisation des sacs de caisse à usage unique en matière plastique mentionnés au 10
 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
@@ -68,4 +68,5 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 18
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20

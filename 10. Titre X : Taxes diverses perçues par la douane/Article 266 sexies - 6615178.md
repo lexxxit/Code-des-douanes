@@ -24,13 +24,13 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise de
 autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ; 
 
 c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
-moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ; 
+usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/CPL) : huiles pour
+moteur deux-temps (1C/D. dt), graisses utilisées en système ouvert (3A1/J1 et 3A2/J2), huiles pour scies à chaînes (6B/B2),
+huiles de démoulage/décoffrage (6C/K. 4a) ; 
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
 utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
-produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à
+produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à
 38099100 du tarif douanier ; 
 
 6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
@@ -51,13 +51,7 @@ b. Tout exploitant d'un établissement mentionné au a dont les activités, figu
 d'Etat après avis du Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
 volume, des risques particuliers à l'environnement ; 
 
-9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
-émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue ; 
-
-A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
-l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
-mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
+9. Alinéa abrogé ; 
 
 10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
 fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
@@ -80,7 +74,7 @@ arrêté, entre la date de début de sinistre et soixante jours après la fin du
 l'objet d'une comptabilité matière séparée ; 
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
-30 juillet 2003  relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
+30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ; 
@@ -93,7 +87,7 @@ destination d'un Etat membre de la Communauté européenne ou en une exportation
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005/360/CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants ; 
 
@@ -177,10 +171,6 @@ de l'environnement ou de nuire à la santé humaine.
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
 
-	**Cite**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 84 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 22
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20

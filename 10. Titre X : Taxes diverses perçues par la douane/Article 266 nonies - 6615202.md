@@ -5,256 +5,218 @@
 A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 sexies : 
 
 a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou
-transférés vers une telle installation située dans un autre Etat :
+transférés vers une telle installation située dans un autre Etat : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td rowspan="2">
 
-</th>
-        <th>
-
-</th>
-        <th colspan="7">
-
-QUOTITÉ EN EUROS
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-DÉSIGNATION DES MATIÈRES
+DÉSIGNATION DES MATIÈRES 
 
 ou opérations imposables
 
-</th>
-        <th>
+</td>
+      <td rowspan="2">
 
-UNITÉ
+UNITÉ 
 
 de perception
 
-</th>
-        <th>
+</td>
+      <td colspan="7">
+
+QUOTITÉ EN EUROS
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 2009
 
-</th>
-        <th>
+</td>
+      <td>
 
 2010
 
-</th>
-        <th>
+</td>
+      <td>
 
 2011
 
-</th>
-        <th>
+</td>
+      <td>
 
 2012
 
-</th>
-        <th>
+</td>
+      <td>
 
 2013
 
-</th>
-        <th>
+</td>
+      <td>
 
 2014
 
-</th>
-        <th>
+</td>
+      <td>
 
-A COMPTER
+A COMPTER 
 
 de 2015
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée en application du titre
 Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un
 autre Etat.
 
 </td>
-        <td align="center">
-
-Tonne
+      <td align="center">Tonne
 
 </td>
-        <td align="center">
-
-50
+      <td align="center">50
 
 </td>
-        <td align="center">
-
-60
+      <td align="center">60
 
 </td>
-        <td align="center">
-
-70
+      <td align="center">70
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-150
+      <td align="center">150
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier
 du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre
 Etat et autorisée en vertu d'une réglementation d'effet équivalent :
 
 </td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
 A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
 (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
 management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 13
 
 </td>
-        <td align="center">
+      <td align="center">
 
 17
 
 </td>
-        <td align="center">
+      <td align="center">
 
 17
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 22
 
 </td>
-        <td align="center">
+      <td align="center">
 
 24
 
 </td>
-        <td align="center">
+      <td align="center">
 
 32
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 C. ― Stockés et traités selon la méthode d'exploitation du bioréacteur : dans un casier équipé dès sa construction des
 équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier étant inférieure à dix-
@@ -262,96 +224,96 @@ huit mois et l'installation étant équipée d'un dispositif de valorisation du 
 d'autorisation.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 0
 
 </td>
-        <td align="center">
+      <td align="center">
 
 0
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 14
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 D. ― Autre.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 40
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée aux A, B ou C du tableau du
 présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation
@@ -367,279 +329,261 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 installation située dans un autre Etat :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td rowspan="2">
 
-</th>
-        <th>
-
-</th>
-        <th colspan="5">
-
-QUOTITÉ EN EUROS
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-DÉSIGNATION DES MATIÈRES
+DÉSIGNATION DES MATIÈRES 
 
 ou opérations imposables
 
-</th>
-        <th>
+</td>
+      <td rowspan="2">
 
-UNITÉ
+UNITÉ 
 
 de perception
 
-</th>
-        <th>
+</td>
+      <td colspan="5">
+
+QUOTITÉ EN EUROS
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 2009
 
-</th>
-        <th>
+</td>
+      <td>
 
 2010
 
-</th>
-        <th>
+</td>
+      <td>
 
 2011
 
-</th>
-        <th>
+</td>
+      <td>
 
 2012
 
-</th>
-        <th>
+</td>
+      <td>
 
-A COMPTER
+A COMPTER 
 
 de 2013
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle
 installation située dans un autre Etat :
 
 </td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
 A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
 (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
 management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 6,40
 
 </td>
-        <td align="center">
+      <td align="center">
 
 8
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 B. ― Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des
 ministres chargés du budget et de l'environnement, est élevé.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4,55
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4,55
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 E. ― Autre.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 14
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du
 tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison
@@ -649,7 +593,7 @@ l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de
 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
-tranche de l'impôt sur le revenu.
+tranche de l'impôt sur le revenu. 
 
 c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date
 d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la
@@ -671,7 +615,7 @@ Le tarif visé au C du tableau du a s'applique aux tonnages de déchets récepti
 casier dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et le 31 décembre de l'année au
 titre de laquelle la taxe est due. En cas de non-respect de la condition de durée de comblement du casier inférieure à dix-
 huit mois, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif visé aux A ou
-D du tableau du a.
+D du tableau du a. 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -680,27 +624,21 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
     <tr>
       <td>
 
-**
+DÉSIGNATION DES MATIÈRES
 
-DÉSIGNATION DES MATIÈRES **
-
-**ou opérations imposables **
+ou opérations imposables 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
-**
-
-UNITÉ DE PERCEPTION **
+UNITÉ DE PERCEPTION
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5">
 
-**
+QUOTITÉ
 
-QUOTITÉ **
-
-**(en euros) **
+(en euros) 
 
 </td>
     </tr>
@@ -711,14 +649,14 @@ Déchets industriels spéciaux réceptionnés dans une installation d'éliminati
 vers une telle installation située dans un autre Etat. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-10, 03 (10,32 en 2009)
+10,03 (10,32 en 2009)
 
 </td>
     </tr>
@@ -729,14 +667,14 @@ Déchets réceptionnés dans une installation de stockage de déchets industriel
 installation située dans un autre Etat. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-20, 01 (20,59 en 2009)
+20,01 (20,59 en 2009)
 
 </td>
     </tr>
@@ -748,14 +686,14 @@ Substances émises dans l'atmosphère :
 - oxydes de soufre et autres composés soufrés 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-43, 24 (44,49 en 2009)
+136,02
 
 </td>
     </tr>
@@ -765,14 +703,14 @@ Tonne
 - acide chlorhydrique 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-43, 24 (44,49 en 2009)
+43,24 (44,49 en 2009)
 
 </td>
     </tr>
@@ -782,65 +720,150 @@ Tonne
 - protoxyde d'azote 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" width="79">
 
-64, 86 (66,74 en 2009)
+64,86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td colspan="2">
+      <td colspan="3" align="left" valign="top">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" valign="top" align="left">
 
-51, 89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
+51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" valign="top">
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td colspan="2">
+      <td align="center" valign="top" colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" valign="top" align="center">
 
-43, 24 (44,49 en 2009)
+136,02 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+- poussières totales en suspension 
+
+</td>
+      <td align="left" colspan="3" valign="top">
+
+Tonne 
+
+</td>
+      <td valign="top" align="left" colspan="5">
+
+259,86 
 
 </td>
     </tr>
     <tr>
       <td>
 
-- poussières totales en suspension 
+Arsenic
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
-Tonne 
+Kilogramme
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5">
 
-64, 86 en 2009 et 85 à compter de 2010 
+500
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Sélénium
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+500
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mercure
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+1 000
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Benzène
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hydrocarbures aromatiques polycycliques
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+50
 
 </td>
     </tr>
@@ -850,14 +873,14 @@ Tonne
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-44, 02 (45,30 en 2009)
+44,02 (45,30 en 2009)
 
 </td>
     </tr>
@@ -870,14 +893,14 @@ le linge :
 - dont la teneur en phosphate est inférieure à 5 % du poids 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" width="79">
 
-39, 51(40,66 en 2009)
+39,51(40,66 en 2009)
 
 </td>
     </tr>
@@ -887,31 +910,31 @@ Tonne
 - dont la teneur en phosphate est comprise entre 5 % et 30 % du poids 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-170, 19 (175,13 en 2009)
+170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
 </td>
-      <td colspan="2">
+      <td align="left" colspan="3" valign="top">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td valign="top" colspan="5" align="left">
 
-283, 65 (291,88 en 2009)
+283,65 (291,88 en 2009)
 
 </td>
     </tr>
@@ -921,19 +944,19 @@ Tonne
 Matériaux d'extraction. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-0, 20 
+0,20 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 Installations classées : 
 
@@ -942,12 +965,12 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td colspan="2">
+      <td colspan="3" align="left" valign="top">
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" align="left" valign="top">
 
-501, 61 (516,16 en 2009)
+501,61 (516,16 en 2009)
 
 </td>
     </tr>
@@ -957,12 +980,12 @@ Délivrance d'autorisation :
 - autres entreprises inscrites au répertoire des métiers 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-1 210, 78 (1 245,89 en 2009)
+1 210,78 (1 245,89 en 2009)
 
 </td>
     </tr>
@@ -972,17 +995,17 @@ Délivrance d'autorisation :
 - autres entreprises 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-2 525, 35 (2 598,59 en 2009)
+2 525,35 (2 598,59 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 Exploitation au cours d'une année civile (tarifs de base) : 
 
@@ -991,113 +1014,68 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td colspan="2">
+      <td align="left" colspan="3" valign="top">
 
 </td>
-      <td colspan="2" width="79">
+      <td valign="top" align="left" colspan="5">
 
-339, 37 (349,21 en 2009)
+339,37 (349,21 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 - autres installations 
 
 </td>
-      <td colspan="2">
+      <td valign="top" colspan="3" align="left">
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" align="left" valign="top">
 
-380, 44 (391,47 en 2009)
+380,44 (391,47 en 2009)
 
 </td>
     </tr>
     <tr>
       <td>
 
-Imprimés papiers émis à destination des utilisateurs finaux
+Sacs de caisse à usage unique en matière plastique
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Kilogramme
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5">
 
-0,12
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte
-d'utilisateurs finaux
-
-</td>
-      <td>
-
-Kilogramme
-
-</td>
-      <td width="39">
-
-2010 
-
-</td>
-      <td width="38">
-
-0,06
+10
 
 </td>
     </tr>
-    <tr>
-      <td colspan="2">
-      </td><td>
-      </td><td width="39">
-
-2011 
-
-</td>
-      <td width="38">
-
-0,12
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">Sacs de caisse à usage unique en matière plastique</td>
-      <td>Kilogramme</td>
-      <td>10</td>
-      <td>
-    </td></tr>
   </tbody>
 </table>
 
-1 bis. A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la
-limite supérieure de la première tranche du barème de l'impôt sur le revenu. 
+1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au
+taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. 
 
-Toutefois, l'alinéa précédent ne s'applique : 
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter : 
 
-a) Qu'à compter du 1er janvier 2010 aux tarifs applicables aux poussières totales en suspension et aux matériaux
-d'extraction ; 
+a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
 
-b) Qu'à compter du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
+b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ; 
 
-c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1 ;
+c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de
+l'article 266 sexies. 
 
-d) Qu'à compter du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au
-10 du I de l'article 266 sexies. 
+. 
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
 266 sexies est de 450 € par installation. 
 
-3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000
-kilogrammes. 
+3. (Alinéa abrogé). 
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
@@ -1122,7 +1100,7 @@ montant de la taxe effectivement perçue chaque année par établissement au tit
 produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur. 
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies
-est fixé à 50 tonnes par an.
+est fixé à 5 tonnes par an.
 
 **Nota:**
 
@@ -1165,10 +1143,9 @@ pas aux émissions mentionnées au I du  présent article au titre des années 2
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 45
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 46 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 18
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 19
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 	**Cite**:
 

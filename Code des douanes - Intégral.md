@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -2635,31 +2635,51 @@ identité.
 
 ###### Article 67 bis-1
 
-Sans préjudice des dispositions de l'article 67 bis, et aux seules fins de constater l'infraction de détention de produits
-stupéfiants, d'en identifier les auteurs et complices et d'effectuer les saisies prévues par le présent code, les agents des
-douanes habilités par le ministre chargé des douanes dans les conditions fixées par décret peuvent, sur l'ensemble du
-territoire national, avec l'autorisation du procureur de la République et sans être pénalement responsables de ces actes : 
+Sans préjudice des dispositions de l'article 67 bis, et aux seules fins de constater l'infraction d'importation,
+d'exportation ou de détention de produits stupéfiants, d'en identifier les auteurs et complices et d'effectuer les saisies
+prévues par le présent code, les agents des douanes habilités par le ministre chargé des douanes dans les conditions fixées
+par décret peuvent, sur l'ensemble du territoire national, avec l'autorisation du procureur de la République et sans être
+pénalement responsables de ces actes : 
 
 1° Acquérir des produits stupéfiants ; 
 
 2° En vue de l'acquisition des produits stupéfiants, mettre à la disposition des personnes se livrant à ces infractions des
 moyens de caractère juridique ou financier ainsi que des moyens de transport, de dépôt, d'hébergement, de conservation et de
-télécommunication.
+télécommunication ;
+
+3° Lorsque l'infraction est commise en ayant recours à un moyen de communication électronique, faire usage d'une identité
+d'emprunt en vue de l'acquisition des produits stupéfiants. Dans ce cadre, les agents des douanes habilités peuvent
+également : 
+
+a) Participer sous un pseudonyme à des échanges électroniques ; 
+
+b) Etre en contact sous ce pseudonyme avec les personnes susceptibles d'être les auteurs de l'infraction ; 
+
+c) Extraire, acquérir sous ce pseudonyme ou conserver des données sur les personnes susceptibles d'être les auteurs de
+l'infraction ainsi que sur les comptes bancaires utilisés. 
+
+L'exonération de responsabilité prévue au premier alinéa du présent article est également applicable, pour les actes commis à
+seule fin de procéder à l'opération d'acquisition des produits stupéfiants, aux personnes requises par les agents des douanes
+pour permettre la réalisation de cette opération. 
 
 A peine de nullité, l'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou
 versée au dossier de la procédure et les actes autorisés ne peuvent constituer une incitation à commettre une infraction. 
 
-Le présent article est applicable aux fins de constatation de l'infraction de détention de marchandises présentées sous une
-marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article L. 513-4 du code de la propriété
-intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12 décembre 2001, précité, sur des
-marchandises contrefaisant un droit d'auteur, des droits voisins ou un brevet tels que mentionnés aux articles L. 335-2 à L.
-335-4, L. 613-3 et L. 613-5 du code de la propriété intellectuelle.
+La révélation de l'identité d'emprunt des agents des douanes ayant effectué l'acquisition est passible des peines prévues au
+V de l'article 67 bis du présent code.
+
+Le présent article est applicable aux fins de constatation de l'infraction d'importation, d'exportation ou de détention
+illicite de tabac manufacturé et de marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle
+tel que mentionné à l'article L. 513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement
+(CE) n° 6/2002 du Conseil, du 12 décembre 2001, précité, sur des marchandises contrefaisant un droit d'auteur, des droits
+voisins ou un brevet tels que mentionnés aux articles L. 335-2 à L. 335-4, L. 613-3 et L. 613-5 du code de la propriété
+intellectuelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 108
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 13
 
 	**Cité par**:
 
@@ -2891,6 +2911,31 @@ le jour et l'heure du début et de la fin de la retenue provisoire ; ces mention
 	**Modifié par**:
 
 	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+
+
+## Chapitre IV bis : Consultation des traitements automatisés de données aux fins de contrôles douaniers
+
+###### Article 67 quinquies
+
+Pour rechercher et constater les infractions prévues par le présent code en matière de tabac, les agents de l'administration
+des douanes des catégories A et B ont accès aux informations contenues dans les traitements prévus à l'
+article 564 duodecies du code général des impôts
+, dans les conditions prévues à l'article L. 80 N du livre des procédures fiscales
+. 
+
+En cas de constatation d'une infraction, le résultat de la consultation des informations mentionnées au premier alinéa du
+présent article est indiqué sur tout document, quel qu'en soit le support, annexé au procès-verbal constatant l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 13
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 564 duodecies
+	  - Livre des procédures fiscales - art. L80 N
 
 
 ## Chapitre V : Procédure préalable à la prise de décision :  le droit d'être entendu. 
@@ -4145,22 +4190,17 @@ délais spécialement accordés par le service des douanes.
 1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant
 liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée.
 
-1 bis. Sont dispensés, pour la taxe sur la valeur ajoutée, sur leur demande, de fournir la caution mentionnée au 1, les
-personnes qui :
+1 bis. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution
+mentionnée au 1.
 
-a) Satisfont, pour l'application de cette disposition, à certaines de leurs obligations comptables, dont la liste est
-déterminée par décret en Conseil d'Etat ;
-
-b) Et ne font l'objet ni d'une inscription non contestée du privilège du Trésor ou de la sécurité sociale, ni d'une procédure
-de redressement ou de liquidation judiciaire.
-
-1 ter. Les conditions de l'octroi et de l'abrogation de la dispense mentionnée au premier alinéa du 1 bis sont fixées par
-décret en Conseil d'Etat.
+1 ter. La présentation d'une caution peut toutefois être exigée par le comptable des douanes des personnes qui font l'objet
+d'une inscription non contestée du privilège du Trésor ou de la sécurité sociale, ainsi que d'une procédure de redressement
+ou de liquidation judiciaire, dans les conditions fixées par décret en Conseil d'Etat.
 
 2. (Abrogé).
 
-3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 50000 euros doit être fait par
-virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ;
+3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 5 000 euros doit être effectué
+par télérèglement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des
 sommes dont le versement a été effectué selon un autre moyen de paiement.
@@ -4193,7 +4233,7 @@ Cette majoration est recouvrée selon les règles, garanties et sanctions prévu
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 67
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 56
 
 
 ### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.
@@ -4363,14 +4403,12 @@ doivent être couvertes par un acquit-à-caution.
 solvable à l'égard des marchandises non prohibées, la garantie de la caution peut être remplacée par la consignation des
 droits et taxes.
 
-3.  Sont dispensées, sur leur demande, de fournir la caution mentionnée au 2  pour le paiement de la taxe sur la valeur
-ajoutée, les personnes qui : 
+3. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution mentionnée au
+2.
 
-a) Satisfont, pour l'application de cette disposition, aux obligations  comptables qui leur incombent et dont la liste est
-déterminée par décret  en Conseil d'Etat ; 
-
-b) Et ne font l'objet ni  d'une inscription non contestée du privilège du Trésor ou de la sécurité  sociale, ni d'une
-procédure de redressement judiciaire ou de  liquidation judiciaire. 
+4.  La présentation d'une caution peut être exigée par le comptable des  douanes des personnes qui font l'objet d'une
+inscription non contestée  du privilège du Trésor ou de la sécurité sociale, ainsi que d'une  procédure de redressement ou de
+liquidation judiciaire.
 
 Un décret en Conseil d'Etat fixe les conditions de l'octroi et de l'abrogation de cette dispense.
 
@@ -4395,7 +4433,7 @@ Un décret en Conseil d'Etat fixe les conditions de l'octroi et de l'abrogation 
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 52
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 56
 
 
 ###### Article 121
@@ -6307,10 +6345,10 @@ recommandée restée sans effet.
 ###### Article 186
 
 1. Les marchandises qui n'ont pas été enlevées dans le délai de quatre mois à dater de leur inscription au registre de dépôt
-sont vendues aux enchères publiques.
+sont vendues aux enchères publiques. 
 
 2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
-juge d'instance.
+président du tribunal de grande instance. 
 
 3. Les marchandises d'une valeur inférieure à 152 euros qui ne sont pas enlevées à l'expiration du délai de quatre mois visé
 au 1 ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en
@@ -6324,8 +6362,7 @@ faire don à des hôpitaux, hospices ou autres établissements de bienfaisance.
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 ###### Article 187
@@ -6345,23 +6382,24 @@ disposer pour toutes les destinations autorisées par la législation et la rég
 
 ###### Article 188
 
-1. Le produit de la vente est affecté, par ordre de priorité et à due concurrence :
+1. Le produit de la vente est affecté, par ordre de priorité et à due concurrence : 
 
 a) au règlement des frais et autres dépenses accessoires de toute nature engagés par la douane ou sur son ordre pour la
-constitution et le séjour en dépôt ainsi que pour la vente des marchandises ;
+constitution et le séjour en dépôt ainsi que pour la vente des marchandises ; 
 
-b) au recouvrement des droits et taxes dont sont passibles les marchandises en raison de la destination qui leur est donnée.
+b) au recouvrement des droits et taxes dont sont passibles les marchandises en raison de la destination qui leur est donnée. 
 
 2. Lorsque le produit de la vente est suffisant, il est procédé au règlement de tous autres frais pouvant grever les
-marchandises.
+marchandises. 
 
 Le reliquat éventuel est versé à la caisse des dépôts et consignations où il reste pendant deux ans à la disposition du
 propriétaire des marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 3
-euros, le reliquat est pris sans délai en recette au budget.
+euros, le reliquat est pris sans délai en recette au budget. 
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances énumérées au 2 ci-dessus, les sommes obtenues sont
 versées à la caisse des dépôts et consignations et réparties, s'il y a lieu, selon la procédure de distribution par
-contribution, à la diligence de l'administration. Le juge compétent est le juge d'instance du lieu de dépôt.
+contribution, à la diligence de l'administration. Le juge compétent est le   président du tribunal de grande instance du lieu
+de dépôt.
 
 **Liens relatifs à cet article**
 
@@ -6371,8 +6409,7 @@ contribution, à la diligence de l'administration. Le juge compétent est le jug
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 # Titre VII : Opérations privilégiées
@@ -6977,9 +7014,25 @@ douanier communautaire.
 
 ###### Article 216
 
-Les dispositions du présent chapitre sont applicables aux navires et autres bâtiments de mer.
+Les dispositions du présent chapitre sont applicables aux navires et autres bâtiments de mer. 
+
+Le présent chapitre est également applicable aux véhicules nautiques à moteur définis au 5 de l'article 240-1.02 de la
+division 240 annexée à l'arrêté du 23 novembre 1987 relatif à la sécurité des navires. 
+
+Pour l'application des sections 1 à 5 du présent chapitre, les véhicules nautiques à moteur sont assimilés à des navires de
+plaisance ou de sport.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 23 novembre 1987
+	  - Code des douanes - art. 240 (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
 
 	**Codifié par**:
 
@@ -6987,12 +7040,7 @@ Les dispositions du présent chapitre sont applicables aux navires et autres bâ
 
 	**Modifié par**:
 
-	  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 12 () JORF 31 décembre 1958
-
-	**Cité par**:
-
-	  - Loi n°67-5 du 3 janvier 1967 - art. 72 (VT)
-	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 70 (V)
 
 
 ### Section 2 : Francisation des navires
@@ -7030,8 +7078,9 @@ Cette opération administrative est constatée par l'acte de francisation.
 1. Tout navire français qui prend la mer doit avoir à son bord son acte de francisation.
 
 2. Toutefois, les navires et bateaux de plaisance ou de sport d'une longueur de coque inférieure à sept mètres et dont la
-puissance administrative des moteurs est inférieure à 22 CV sont dispensés de l'obligation de la formalité de francisation.
-Une carte de circulation leur est délivrée par les services déconcentrés des affaires maritimes.
+puissance administrative des moteurs est inférieure à 22 CV et les véhicules nautiques à moteur dont la puissance réelle des
+moteurs est inférieure à 90 kW sont dispensés de l'obligation de la formalité de francisation. Une carte de circulation leur
+est délivrée par les services déconcentrés des affaires maritimes.
 
 **Liens relatifs à cet article**
 
@@ -7042,7 +7091,7 @@ Une carte de circulation leur est délivrée par les services déconcentrés des
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 70 (V)
 
 
 #### Paragraphe 2 : Conditions requises pour obtenir la francisation.
@@ -7233,34 +7282,6 @@ de plus de cinq ans.
 	**Cité par**:
 
 	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
-
-
-#### Paragraphe 3 : Jaugeage des navires.
-
-###### Article 222
-
-Le service des douanes procède au jaugeage des navires dont on demande la francisation et il établit le certificat de jauge.
-
-Le jaugeage des navires de plaisance dont la longueur, au sens de la Convention internationale du 23 juin 1969 sur le
-jaugeage des navires, est inférieure à 24 mètres n'est pas obligatoire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Convention 1969-06-23
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 100 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 61 (V)
 
 
 #### Paragraphe 4 : Droit de francisation et de navigation.
@@ -11983,256 +12004,218 @@ acquitter la taxe, la garantir et, le cas échéant, acquitter les majorations e
 A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 sexies : 
 
 a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou
-transférés vers une telle installation située dans un autre Etat :
+transférés vers une telle installation située dans un autre Etat : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td rowspan="2">
 
-</th>
-        <th>
-
-</th>
-        <th colspan="7">
-
-QUOTITÉ EN EUROS
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-DÉSIGNATION DES MATIÈRES
+DÉSIGNATION DES MATIÈRES 
 
 ou opérations imposables
 
-</th>
-        <th>
+</td>
+      <td rowspan="2">
 
-UNITÉ
+UNITÉ 
 
 de perception
 
-</th>
-        <th>
+</td>
+      <td colspan="7">
+
+QUOTITÉ EN EUROS
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 2009
 
-</th>
-        <th>
+</td>
+      <td>
 
 2010
 
-</th>
-        <th>
+</td>
+      <td>
 
 2011
 
-</th>
-        <th>
+</td>
+      <td>
 
 2012
 
-</th>
-        <th>
+</td>
+      <td>
 
 2013
 
-</th>
-        <th>
+</td>
+      <td>
 
 2014
 
-</th>
-        <th>
+</td>
+      <td>
 
-A COMPTER
+A COMPTER 
 
 de 2015
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée en application du titre
 Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un
 autre Etat.
 
 </td>
-        <td align="center">
-
-Tonne
+      <td align="center">Tonne
 
 </td>
-        <td align="center">
-
-50
+      <td align="center">50
 
 </td>
-        <td align="center">
-
-60
+      <td align="center">60
 
 </td>
-        <td align="center">
-
-70
+      <td align="center">70
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-100
+      <td align="center">100
 
 </td>
-        <td align="center">
-
-150
+      <td align="center">150
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier
 du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre
 Etat et autorisée en vertu d'une réglementation d'effet équivalent :
 
 </td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
 A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
 (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
 management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 13
 
 </td>
-        <td align="center">
+      <td align="center">
 
 17
 
 </td>
-        <td align="center">
+      <td align="center">
 
 17
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 22
 
 </td>
-        <td align="center">
+      <td align="center">
 
 24
 
 </td>
-        <td align="center">
+      <td align="center">
 
 32
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 C. ― Stockés et traités selon la méthode d'exploitation du bioréacteur : dans un casier équipé dès sa construction des
 équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier étant inférieure à dix-
@@ -12240,96 +12223,96 @@ huit mois et l'installation étant équipée d'un dispositif de valorisation du 
 d'autorisation.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 0
 
 </td>
-        <td align="center">
+      <td align="center">
 
 0
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 10
 
 </td>
-        <td align="center">
+      <td align="center">
 
 14
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 D. ― Autre.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 15
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 30
 
 </td>
-        <td align="center">
+      <td align="center">
 
 40
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée aux A, B ou C du tableau du
 présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation
@@ -12345,279 +12328,261 @@ b) Déchets ménagers et assimilés réceptionnés dans une installation d'incin
 installation située dans un autre Etat :
 
 <table>
-    <tbody>
-      <tr>
-        <th>
+  <tbody>
+    <tr>
+      <td rowspan="2">
 
-</th>
-        <th>
-
-</th>
-        <th colspan="5">
-
-QUOTITÉ EN EUROS
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-DÉSIGNATION DES MATIÈRES
+DÉSIGNATION DES MATIÈRES 
 
 ou opérations imposables
 
-</th>
-        <th>
+</td>
+      <td rowspan="2">
 
-UNITÉ
+UNITÉ 
 
 de perception
 
-</th>
-        <th>
+</td>
+      <td colspan="5">
+
+QUOTITÉ EN EUROS
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 2009
 
-</th>
-        <th>
+</td>
+      <td>
 
 2010
 
-</th>
-        <th>
+</td>
+      <td>
 
 2011
 
-</th>
-        <th>
+</td>
+      <td>
 
 2012
 
-</th>
-        <th>
+</td>
+      <td>
 
-A COMPTER
+A COMPTER 
 
 de 2013
 
-</th>
-      </tr>
-      <tr>
-        <td align="center">
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle
 installation située dans un autre Etat :
 
 </td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
 
 A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
 (EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
 management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 6,40
 
 </td>
-        <td align="center">
+      <td align="center">
 
 8
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 B. ― Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des
 ministres chargés du budget et de l'environnement, est élevé.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4,55
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,50
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4,55
 
 </td>
-        <td align="center">
+      <td align="center">
 
 5,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2
 
 </td>
-        <td align="center">
+      <td align="center">
 
 2,60
 
 </td>
-        <td align="center">
+      <td align="center">
 
 3,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 4
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 E. ― Autre.
 
 </td>
-        <td align="center">
+      <td align="center">
 
 Tonne
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 7
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 11,20
 
 </td>
-        <td align="center">
+      <td align="center">
 
 14
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du
 tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison
@@ -12627,7 +12592,7 @@ l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de
 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
-tranche de l'impôt sur le revenu.
+tranche de l'impôt sur le revenu. 
 
 c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date
 d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la
@@ -12649,7 +12614,7 @@ Le tarif visé au C du tableau du a s'applique aux tonnages de déchets récepti
 casier dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et le 31 décembre de l'année au
 titre de laquelle la taxe est due. En cas de non-respect de la condition de durée de comblement du casier inférieure à dix-
 huit mois, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif visé aux A ou
-D du tableau du a.
+D du tableau du a. 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -12658,27 +12623,21 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
     <tr>
       <td>
 
-**
+DÉSIGNATION DES MATIÈRES
 
-DÉSIGNATION DES MATIÈRES **
-
-**ou opérations imposables **
+ou opérations imposables 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
-**
-
-UNITÉ DE PERCEPTION **
+UNITÉ DE PERCEPTION
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5">
 
-**
+QUOTITÉ
 
-QUOTITÉ **
-
-**(en euros) **
+(en euros) 
 
 </td>
     </tr>
@@ -12689,14 +12648,14 @@ Déchets industriels spéciaux réceptionnés dans une installation d'éliminati
 vers une telle installation située dans un autre Etat. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-10, 03 (10,32 en 2009)
+10,03 (10,32 en 2009)
 
 </td>
     </tr>
@@ -12707,14 +12666,14 @@ Déchets réceptionnés dans une installation de stockage de déchets industriel
 installation située dans un autre Etat. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-20, 01 (20,59 en 2009)
+20,01 (20,59 en 2009)
 
 </td>
     </tr>
@@ -12726,14 +12685,14 @@ Substances émises dans l'atmosphère :
 - oxydes de soufre et autres composés soufrés 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-43, 24 (44,49 en 2009)
+136,02
 
 </td>
     </tr>
@@ -12743,14 +12702,14 @@ Tonne
 - acide chlorhydrique 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-43, 24 (44,49 en 2009)
+43,24 (44,49 en 2009)
 
 </td>
     </tr>
@@ -12760,65 +12719,150 @@ Tonne
 - protoxyde d'azote 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" width="79">
 
-64, 86 (66,74 en 2009)
+64,86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td colspan="2">
+      <td colspan="3" align="left" valign="top">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" valign="top" align="left">
 
-51, 89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
+51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="center" valign="top">
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td colspan="2">
+      <td align="center" valign="top" colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" valign="top" align="center">
 
-43, 24 (44,49 en 2009)
+136,02 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+- poussières totales en suspension 
+
+</td>
+      <td align="left" colspan="3" valign="top">
+
+Tonne 
+
+</td>
+      <td valign="top" align="left" colspan="5">
+
+259,86 
 
 </td>
     </tr>
     <tr>
       <td>
 
-- poussières totales en suspension 
+Arsenic
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
-Tonne 
+Kilogramme
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5">
 
-64, 86 en 2009 et 85 à compter de 2010 
+500
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Sélénium
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+500
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mercure
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+1 000
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Benzène
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hydrocarbures aromatiques polycycliques
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">
+
+50
 
 </td>
     </tr>
@@ -12828,14 +12872,14 @@ Tonne
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" width="79">
 
-44, 02 (45,30 en 2009)
+44,02 (45,30 en 2009)
 
 </td>
     </tr>
@@ -12848,14 +12892,14 @@ le linge :
 - dont la teneur en phosphate est inférieure à 5 % du poids 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td colspan="5" width="79">
 
-39, 51(40,66 en 2009)
+39,51(40,66 en 2009)
 
 </td>
     </tr>
@@ -12865,31 +12909,31 @@ Tonne
 - dont la teneur en phosphate est comprise entre 5 % et 30 % du poids 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-170, 19 (175,13 en 2009)
+170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
 </td>
-      <td colspan="2">
+      <td align="left" colspan="3" valign="top">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td valign="top" colspan="5" align="left">
 
-283, 65 (291,88 en 2009)
+283,65 (291,88 en 2009)
 
 </td>
     </tr>
@@ -12899,19 +12943,19 @@ Tonne
 Matériaux d'extraction. 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Tonne 
 
 </td>
-      <td width="79" colspan="2">
+      <td width="79" colspan="5">
 
-0, 20 
+0,20 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 Installations classées : 
 
@@ -12920,12 +12964,12 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td colspan="2">
+      <td colspan="3" align="left" valign="top">
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" align="left" valign="top">
 
-501, 61 (516,16 en 2009)
+501,61 (516,16 en 2009)
 
 </td>
     </tr>
@@ -12935,12 +12979,12 @@ Délivrance d'autorisation :
 - autres entreprises inscrites au répertoire des métiers 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-1 210, 78 (1 245,89 en 2009)
+1 210,78 (1 245,89 en 2009)
 
 </td>
     </tr>
@@ -12950,17 +12994,17 @@ Délivrance d'autorisation :
 - autres entreprises 
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 </td>
-      <td colspan="2" width="79">
+      <td width="79" colspan="5">
 
-2 525, 35 (2 598,59 en 2009)
+2 525,35 (2 598,59 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td align="left" valign="top">
 
 Exploitation au cours d'une année civile (tarifs de base) : 
 
@@ -12969,113 +13013,68 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td colspan="2">
+      <td align="left" colspan="3" valign="top">
 
 </td>
-      <td colspan="2" width="79">
+      <td valign="top" align="left" colspan="5">
 
-339, 37 (349,21 en 2009)
+339,37 (349,21 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
 - autres installations 
 
 </td>
-      <td colspan="2">
+      <td valign="top" colspan="3" align="left">
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5" align="left" valign="top">
 
-380, 44 (391,47 en 2009)
+380,44 (391,47 en 2009)
 
 </td>
     </tr>
     <tr>
       <td>
 
-Imprimés papiers émis à destination des utilisateurs finaux
+Sacs de caisse à usage unique en matière plastique
 
 </td>
-      <td colspan="2">
+      <td colspan="3">
 
 Kilogramme
 
 </td>
-      <td width="79" colspan="2">
+      <td colspan="5">
 
-0,12
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">
-
-Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte
-d'utilisateurs finaux
-
-</td>
-      <td>
-
-Kilogramme
-
-</td>
-      <td width="39">
-
-2010 
-
-</td>
-      <td width="38">
-
-0,06
+10
 
 </td>
     </tr>
-    <tr>
-      <td colspan="2">
-      </td><td>
-      </td><td width="39">
-
-2011 
-
-</td>
-      <td width="38">
-
-0,12
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2">Sacs de caisse à usage unique en matière plastique</td>
-      <td>Kilogramme</td>
-      <td>10</td>
-      <td>
-    </td></tr>
   </tbody>
 </table>
 
-1 bis. A compter du 1er janvier 2009, les tarifs mentionnés au 1 sont relevés, chaque année, dans la même proportion que la
-limite supérieure de la première tranche du barème de l'impôt sur le revenu. 
+1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au
+taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. 
 
-Toutefois, l'alinéa précédent ne s'applique : 
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter : 
 
-a) Qu'à compter du 1er janvier 2010 aux tarifs applicables aux poussières totales en suspension et aux matériaux
-d'extraction ; 
+a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
 
-b) Qu'à compter du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
+b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ; 
 
-c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1 ;
+c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de
+l'article 266 sexies. 
 
-d) Qu'à compter du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au
-10 du I de l'article 266 sexies. 
+. 
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
 266 sexies est de 450 € par installation. 
 
-3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000
-kilogrammes. 
+3. (Alinéa abrogé). 
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
@@ -13100,7 +13099,7 @@ montant de la taxe effectivement perçue chaque année par établissement au tit
 produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur. 
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies
-est fixé à 50 tonnes par an.
+est fixé à 5 tonnes par an.
 
 **Nota:**
 
@@ -13143,10 +13142,9 @@ pas aux émissions mentionnées au I du  présent article au titre des années 2
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 45
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 46 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 18
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 19
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 	**Cite**:
 
@@ -13163,7 +13161,7 @@ l'article 266 sexies ;
 
 2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ; 
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ; 
+3. (Alinéa abrogé à compter du 1er janvier 2005) ; 
 
 4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ; 
 
@@ -13172,11 +13170,9 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ; 
 
-7. Alinéa abrogé ; 
+7. (Alinéa abrogé) ; 
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers et des papiers à usage graphique, respectivement
-mentionnés au I et au III de l'article L. 541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même
-article n'a pas été acquittée ; 
+8. (Alinéa abrogé) ; 
 
 9. Le poids des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
 
@@ -13192,7 +13188,7 @@ article n'a pas été acquittée ;
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 	**Cite**:
 
@@ -13384,38 +13380,52 @@ de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 	  - Code des douanes - art. 265 (M)
 
 
-###### Article 266 quaterdecies
+###### Article 266 quater A
 
-I. - L'organisme agréé par les ministères chargés de l'environnement, des collectivités territoriales, de l'économie et de
-l'industrie mentionné au premier alinéa du IV de l'article L. 541-10-1 du code de l'environnement communique chaque année à
-l'administration chargée du recouvrement la liste des personnes qui ont acquitté la contribution.
+1. Il est institué, dans le département de la Guyane, une taxe additionnelle à la taxe spéciale de consommation prévue à
+l'article 266 quater. 
 
-II. - Les redevables mentionnés au 9 du I de l'article 266 sexies liquident et acquittent la taxe due au titre d'une année
-civile sur une déclaration annuelle, qui doit être transmise à l'administration chargée du recouvrement au plus tard le 30
-avril de l'année qui suit celle au cours de laquelle le fait générateur est intervenu.
+2. Le tarif de la taxe est fixé par arrêté du ministre chargé du budget. Il est compris entre 4 et 8 euros par hectolitre. 
 
-La déclaration est accompagnée du paiement de la taxe.
+3. La taxe est assise, recouvrée, contrôlée et sanctionnée selon les mêmes règles et dans les mêmes conditions que la taxe
+prévue à l'article 266 quater. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette
+même taxe. 
 
-La déclaration comporte tous les éléments nécessaires au contrôle et à l'établissement de la taxe. La forme de cette
-déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95.
+4. Le produit de la taxe est affecté à l'Agence française de développement. Cet établissement crée un fonds à comptabilité
+distincte auquel est rattaché ce produit. Ce fonds a pour objet de rembourser la facilité de trésorerie consentie par
+l'Agence française de développement pour financer l'étalement de la hausse des prix résultant de la mise aux normes
+communautaires des carburants distribués en Guyane.
 
-III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la première fois au titre de l'année 2005.
+**Nota:**
+
+Loi n° 2007-1824 du 25 décembre 2007 art. 88 III : L'article 266 quater A du code des douanes entre en vigueur à compter du
+1er janvier 2009 et cesse de s'appliquer à compter du complet remboursement du principal et des intérêts de cette facilité et
+au plus tard le 1er janvier 2018 .
+
+Loi n° 2008-1443 du 30 décembre 2008 article 139 : la date : 1er janvier 2009 est remplacée par la date : 1er avril 2009 à
+l'article 88 III de la loi n° 2007-1824 du 25 décembre 2007.
+
+Loi n° 2009-431 du 20 avril 2009 article 28 : la date : 1er avril 2009 est remplacée par la date : 1er janvier 2010.
+
+Loi n° 2009-1673 du 30 décembre 2009, article 65 : la date : 1er janvier 2010 est remplacée par la date : 1er janvier 2011.
+
+Loi n° 2010-1657 du 29 décembre 2010, article 174 : la date : 1er janvier 2011 est remplacée par la date : 1er janvier 2012.
+
+loi n° 2011-1977 du 28 décembre 2011, article 104 : la date : 1er janvier 2012 est remplacée par la date : 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 88 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 88 (V)
 
 	**Abrogé par**:
 
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
-
-	**Cite**:
-
-	  - Code des douanes - art. 266 sexies
-	  - Code des douanes - art. 95
-	  - Code de l'environnement - art. L541-10-1
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 74
 
 
 ###### Article 266 quindecies
@@ -13459,7 +13469,7 @@ V.-Le prélèvement supplémentaire est déclaré et liquidé en une seule fois,
 la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
 du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
-VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2013. 
+VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2016. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies. 
@@ -13503,11 +13513,11 @@ privilèges que ceux prévus par le présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 5
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 59
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L661-3 (V)
+	  - Code de l'énergie - art. L661-3
 
 
 ###### Article 266 quinquies
@@ -13988,9 +13998,10 @@ les transferts de déchets ou, à défaut de document de suivi, à la date de so
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
-méthaniques, solvants et autres composés organiques volatils ainsi que de poussières totales en suspension ;
+méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils,
+d'arsenic, de mercure, de sélénium ainsi que de poussières totales en suspension ;
 
-3. (alinéa abrogé) ;
+3. (Alinéa abrogé) ;
 
 4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ; 
 
@@ -14005,16 +14016,15 @@ sexies ;
 
 b) La première utilisation de ces matériaux ;
 
-7. Alinéa abrogé ;
+7. (Alinéa abrogé) ;
 
 8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
-9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les
-conditions mentionnées au 9 du I de l'article 266 sexies ;
+9. (Alinéa abrogé) ;
 
-10. La première livraison ou la première utilisation des sacs de caisse à usage  unique en matière plastique mentionnés au 10
+10. La première livraison ou la première utilisation des sacs de caisse à usage unique en matière plastique mentionnés au 10
 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
@@ -14046,7 +14056,8 @@ du I de l'article 266 sexies.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 18
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 
 ###### Article 266 sexies
@@ -14075,13 +14086,13 @@ b) Toute personne qui, pour les besoins de son activité économique, utilise de
 autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ; 
 
 c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
-moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ; 
+usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/CPL) : huiles pour
+moteur deux-temps (1C/D. dt), graisses utilisées en système ouvert (3A1/J1 et 3A2/J2), huiles pour scies à chaînes (6B/B2),
+huiles de démoulage/décoffrage (6C/K. 4a) ; 
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
 utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
-produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à
+produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090, 34029090 et 38091010 à
 38099100 du tarif douanier ; 
 
 6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
@@ -14102,13 +14113,7 @@ b. Tout exploitant d'un établissement mentionné au a dont les activités, figu
 d'Etat après avis du Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
 volume, des risques particuliers à l'environnement ; 
 
-9. Toute personne mentionnée au I de l'article L. 541-10-1 du code de l'environnement qui, au titre d'une année civile, a
-émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
-contribution financière ou en nature qui y est prévue ; 
-
-A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
-l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
-mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
+9. Alinéa abrogé ; 
 
 10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
 fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
@@ -14131,7 +14136,7 @@ arrêté, entre la date de début de sinistre et soixante jours après la fin du
 l'objet d'une comptabilité matière séparée ; 
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
-30 juillet 2003  relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
+30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
 produit sec d'au moins 97 % d'oxyde de silicium ; 
@@ -14144,7 +14149,7 @@ destination d'un Etat membre de la Communauté européenne ou en une exportation
 5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
-écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
+écologique communautaire des lubrifiants dans la décision n° 2005/360/CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants ; 
 
@@ -14228,13 +14233,9 @@ de l'environnement ou de nuire à la santé humaine.
 	  - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
 	  - PILOTE_SUIVEUR: Code de l'environnement - art. L151-1 (V)
 
-	**Cite**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 84 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 22
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 
 ###### Article 266 terdecies
@@ -14314,12 +14315,11 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 ###### Article 266 undecies
 
-A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
-à cet article due à compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font
-l'objet d'un paiement au plus tard les 30 avril, 31 juillet et 31 octobre de l'année au titre de laquelle la taxe est due.
-Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4,
-5, 6 et 10 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au
-titre de laquelle la taxe est due. 
+Les assujettis liquident et acquittent la taxe mentionnée à cet article due à compter de l'année 2009 sous la forme d'une
+déclaration annuelle et de trois acomptes. Ces acomptes font l'objet d'un paiement au plus tard les 30 avril, 31 juillet et
+31 octobre de l'année au titre de laquelle la taxe est due. Chaque acompte est égal à un tiers du montant obtenu en
+appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5, 6 et 10 de l'article 266 septies réalisées l'année
+précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre de laquelle la taxe est due. 
 
 Les redevables déposent, au plus tard le 30 avril de chaque année, la déclaration de la taxe due au titre de l'année
 précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration
@@ -14388,8 +14388,7 @@ aux sommes dont le paiement a été différé.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 	**Cite**:
 
@@ -14697,8 +14696,8 @@ la date d'exigibilité donne lieu à application d'une majoration de 10 %.
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
 
-4. Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de
-la Banque de France, lorsque son montant excède 7600 euros. 
+4. Le paiement de la taxe doit être effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les
+écritures de la Banque de France, lorsque son montant excède 5 000 euros. 
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -14706,15 +14705,9 @@ sanctions prévues en matière de droits de douane.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°52-401 du 14 avril 1952
-	  - Loi n°52-401 du 14 avril 1952 - art. 25 (Ab)
-	  - Code de la route.
-
 	**Modifié par**:
 
-	  - Décret n°2009-136 du 9 février 2009 - art. 12 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
 
 
 ###### Article 284 quinquies
@@ -15459,9 +15452,9 @@ tarification est associé un point de tarification. Ces sections de tarification
 sont définis par arrêté conjoint des ministres chargés des transports et du budget. La longueur maximale des sections de
 tarification est de quinze kilomètres. 
 
-3. Les véhicules de transport de marchandises mentionnés au 1 s'entendent des véhicules seuls ou tractant une remorque, dont
-le poids total en charge autorisé, ou dont le poids total roulant autorisé pour les ensembles articulés, est égal ou
-supérieur à douze tonnes. 
+3. Les  véhicules de transport de marchandises mentionnés au 1 s'entendent des  véhicules à moteur dont le poids total
+autorisé en charge est supérieur à  douze tonnes ainsi que des ensembles de véhicules dont le véhicule  tracteur a un poids
+total autorisé en charge supérieur à douze tonnes.
 
 Ne sont toutefois pas considérés comme des véhicules de transport de marchandises les véhicules d'intérêt général
 prioritaires et les véhicules et matériels agricoles définis par voie réglementaire, ainsi que les véhicules militaires. 
@@ -15477,7 +15470,7 @@ découlent pour le loueur.
 III. ― Le fait générateur intervient et la taxe devient exigible lors du franchissement, par un véhicule de transport de
 marchandises défini au 3 du I, d'un point de tarification mentionné au troisième alinéa du 2 du I. 
 
-IV. ― 1.L'assiette de la taxe due est constituée par la longueur des sections de tarification empruntées par le véhicule,
+IV. ― 1. L'assiette de la taxe due est constituée par la longueur des sections de tarification empruntées par le véhicule,
 exprimée en kilomètres, après arrondissement à la centaine de mètres la plus proche. 
 
 2. Pour chaque section de tarification, le taux kilométrique de la taxe est fonction de la catégorie du véhicule. Les
@@ -15490,9 +15483,8 @@ tarification.
 
 Un décret précise les conditions dans lesquelles le niveau de congestion de la section de tarification est pris en compte. 
 
-En cas de défaut de justification par le redevable de la classe d'émission EURO ou du nombre d'essieux du véhicule, le taux
-kilométrique est déterminé en retenant respectivement la classe ou la catégorie à laquelle correspond le taux kilométrique le
-plus élevé. 
+En cas de défaut de justification par le redevable de la classe d'émission EURO du véhicule, le taux kilométrique est
+déterminé en retenant la classe à laquelle correspond le taux kilométrique le plus élevé. 
 
 3. Le taux de la taxe est compris entre 0, 015 € et 0, 2 € par kilomètre. 
 
@@ -15510,19 +15502,19 @@ le réseau mentionné au 2 du I.
 
 2. La taxe due au titre des trajets effectués est liquidée à partir des informations collectées automatiquement au moyen de
 l'équipement électronique embarqué mentionné au 1 du présent V, des informations déclarées lors de l'enregistrement du
-véhicule et des données  paramétrées dans l'équipement électronique embarqué. 
+véhicule et des données paramétrées dans l'équipement électronique embarqué. 
 
 Les informations collectées au moyen des équipements électroniques embarqués, mis en œuvre dans une chaîne de collecte
-homologuée,  font foi jusqu'à preuve du contraire.
+homologuée, font foi jusqu'à preuve du contraire.
 
-3.Lorsque le redevable passe un contrat avec une société habilitée lui fournissant  un service de télépéage, il lui donne
-mandat pour déclarer son véhicule et  acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
+3.Lorsque le redevable passe un contrat avec une société habilitée lui fournissant un service de télépéage, il lui donne
+mandat pour déclarer son véhicule et acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
 communiqué à cette société au plus tard le dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables
 réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé l'équipement électronique embarqué fourni
 par la société habilitée.
 
-A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans  les cas et selon les modalités définis par
-décret en Conseil d'Etat.  
+A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans les cas et selon les modalités définis par
+décret en Conseil d'Etat. 
 
 4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur taxe.
 
@@ -15552,6 +15544,14 @@ embarqués et d'acquitter la taxe pour leur compte.
 VI. ― 1. Lorsque le redevable a passé un contrat avec une société habilitée lui fournissant un service de télépéage, la taxe
 est acquittée par cette société au plus tard le dixième jour du mois suivant la liquidation. 
 
+A  titre dérogatoire, la taxe est acquittée par anticipation par la  société habilitée fournissant un service de télépéage
+dans les cas et  selon les modalités définis par décret en Conseil d'Etat.
+
+1 bis. Le redevable ayant passé un contrat avec une société habilitée  lui fournissant un service de télépéage bénéficie,
+dans la limite fixée  par la directive 1999/62/CE du Parlement européen et du Conseil du 17  juin 1999 précitée, d'une
+réduction sur le montant de la taxe due, afin  de tenir compte de l'économie de gestion résultant de ce contrat. Les
+réductions applicables sont déterminées par un arrêté conjoint des  ministres chargés des transports et du budget.
+
 2. Dans les cas prévus au 4 du V, la taxe est acquittée par le redevable lors de la liquidation. 
 
 Le paiement s'effectue par imputation de l'avance.
@@ -15562,26 +15562,26 @@ particuliers pour les redevables occasionnels.
 3. La taxe est recouvrée par l'administration des douanes et droits indirects selon les règles, garanties, privilèges et
 sanctions prévus par le présent code. 
 
-VII. ― 1. Les manquements au regard de la taxe sont réprimés, les poursuites sont effectuées et les instances sont instruites
-et jugées comme en matière de douane. 
-
-Est constitutive d'un manquement toute irrégularité ayant pour but ou pour résultat d'éluder ou de compromettre le
-recouvrement de la taxe.
-
-La circulation du redevable sur le réseau taxable, alors que l'avance sur taxe est insuffisante, est constitutive d'un
-manquement. 
+VII. ― 1. Les infractions aux dispositions relatives à la taxe sont réprimées, les poursuites sont effectuées et les
+instances sont instruites et jugées comme en matière de douane. 
 
 Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à première réquisition, aux agents des
 douanes, de la police nationale, de la gendarmerie nationale et du contrôle des transports terrestres, tous les éléments et
 documents susceptibles de justifier la régularité de la circulation desdits véhicules sur le réseau taxable. 
 
-2. Lorsqu'il est constaté un manquement, le redevable fait l'objet d'une taxation forfaitaire égale au produit du taux défini
+2. Est constitutive d'un manquement toute irrégularité ayant pour but ou pour résultat d'éluder ou de compromettre le
+recouvrement de la taxe. 
+
+La circulation du redevable sur le réseau taxable, alors que l'avance sur taxe est insuffisante, est constitutive d'un
+manquement. 
+
+Lorsqu'il est constaté un manquement, le redevable fait l'objet d'une taxation forfaitaire égale au produit du taux défini
 aux 2 à 4 du IV par une distance forfaitaire de 130 kilomètres ou d'une taxation au réel, lorsque les éléments de liquidation
 sont connus. Le montant de la taxe forfaitaire ou au réel est doublé en cas d'existence d'un autre manquement au cours des
-trente derniers jours.  
+trente derniers jours. 
 
-Le montant de la taxe forfaitaire ou au réel prévue au premier alinéa est communiqué au redevable selon les modalités fixées
-par arrêté conjoint des ministres chargés des transports et du budget. Elle est exigible dès sa communication au redevable. 
+Le montant de la taxe forfaitaire ou au réel prévue au troisième alinéa est communiqué au redevable selon les modalités
+fixées par décret en Conseil d'Etat. Elle est exigible dès sa communication au redevable. 
 
 Lorsque l'irrégularité est constatée par des agents de la police nationale, de la gendarmerie nationale ou du contrôle des
 transports terrestres, ces derniers en informent les services des douanes qui mettent en œuvre la procédure de taxation
@@ -15590,15 +15590,31 @@ forfaitaire ou au réel.
 Le redevable dispose de la possibilité d'apporter la preuve de la distance réellement parcourue sur le réseau taxable par le
 véhicule en manquement. Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour une taxation au réel. 
 
-3. Sans préjudice des dispositions du 2, tout manquement mentionné au 1 est passible d'une amende maximale de 750 EUR.
+3.  Le fait de détenir ou de transporter un appareil, dispositif ou produit  de nature ou présenté comme étant de nature à
+déceler la présence, à  perturber le fonctionnement ou à avertir ou informer de la localisation  d'appareils, instruments ou
+systèmes servant à la constatation des  manquements mentionnés au 2 ou de permettre de se soustraire à la  constatation de
+ces manquements est constitutif d'une infraction.
+
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est constitutif d'une infraction.
+
+Indépendamment des sanctions prévues à  l'article 413, cet appareil, ce dispositif ou ce produit est saisi.  Lorsque
+l'appareil, le dispositif ou le produit est placé, adapté ou  appliqué sur un véhicule, ce véhicule peut également être
+saisi.
 
 4. Les agents mentionnés au deuxième alinéa du 1 et habilités par les textes particuliers qui leur sont applicables disposent
-des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même alinéa. Ces
-agents peuvent immobiliser le véhicule en manquement pour mettre en œuvre et percevoir l'amende mentionnée au 3 dans les
-conditions fixées par décret en Conseil d'Etat. 
+des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même alinéa. 
+
+La constatation des infractions mentionnées au même 1 est faite par procès-verbal établi selon des modalités fixées par
+décret en Conseil d'Etat. 
+
+Les agents mentionnés au deuxième alinéa dudit 1 sont habilités à transiger avec les personnes poursuivies dans les
+conditions prévues à l'article 350. 
+
+Ces agents peuvent immobiliser le véhicule en infraction dans les conditions fixées au chapitre V du titre II du livre III du
+code de la route afin d'assurer la perception de l'amende mentionnée à l'article 413 du présent code. 
 
 5. Les constatations d'irrégularités effectuées par des appareils de contrôle automatique ou manuel, mis en œuvre dans une
-chaîne de contrôle homologuée,  font foi jusqu'à preuve du contraire. 
+chaîne de contrôle homologuée, font foi jusqu'à preuve du contraire. 
 
 VIII. ― Aux fins d'établissement de l'assiette de la taxe, de son recouvrement et des contrôles nécessaires, un dispositif de
 traitement automatisé des données à caractère personnel sera mis en œuvre, conformément aux modalités prévues par la loi n°
@@ -15610,21 +15626,19 @@ affectée.
 
 Par ailleurs, l'Etat rétrocède aux collectivités territoriales le produit de la taxe correspondant aux sommes perçues pour
 l'usage du réseau routier dont elles sont propriétaires, déduction faite des coûts exposés y afférents. Un arrêté conjoint
-des ministres chargés des transports, du budget et des collectivités territoriales fixe le montant de cette retenue.
-
-**Nota:**
-
-Loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 article 153 I C : L'article 285 septies entre en vigueur à une
-date fixée par arrêté conjoint des ministres chargés des transports et du budget et au plus tard le 31 décembre 2010. 
-
-Article 153 II C 2 : L'article 285 septies du code des douanes est abrogé à compter de la date d'entrée en vigueur de la taxe
-prévue au A du II de l'article 153.
+des ministres chargés des transports, du budget et des collectivités territoriales fixe le montant de cette retenue dont le
+produit est affecté à l'Agence de financement des infrastructures de transport de France.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
 
 	**Cité par**:
 
@@ -15640,10 +15654,9 @@ prévue au A du II de l'article 153.
 	  - Code des transports - art. L3221-2 (V)
 	  - Code des transports - art. L3222-3 (V)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+	  - Loi n°2013-431 du 28 mai 2013 - art. 12 (V)
 
 
 ###### Article 285 sexies
@@ -16669,7 +16682,7 @@ droit commun, l'autorisation de prendre toutes mesures conservatoires utiles à 
 civilement responsables, à l'effet de garantir les créances douanières de toute nature résultant desdits procès-verbaux.
 
 2. Le juge compétent pour connaître de la procédure, y compris les demandes en validité, en mainlevée, en réduction ou
-cantonnement des saisies est le juge d'instance du lieu de rédaction du procès-verbal.
+cantonnement des saisies est le juge de l'exécution du lieu de rédaction du procès-verbal.
 
 **Liens relatifs à cet article**
 
@@ -16677,13 +16690,9 @@ cantonnement des saisies est le juge d'instance du lieu de rédaction du procès
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°63-1351 1963-12-31 art. 17 JORF 3 janvier 1964
-
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 ## Chapitre II : Poursuites et recouvrement
@@ -16778,10 +16787,10 @@ d'enfreindre les dispositions soit législatives, soit réglementaires se rattac
 ###### Article 344
 
 Lorsque l'auteur d'une infraction douanière vient à décéder avant intervention d'un jugement définitif ou d'une transaction,
-l'Administration est fondée à exercer contre la succession une action tendant à faire prononcer par le tribunal d'instance la
-confiscation des objets passibles de cette sanction ou, si ceux-ci n'ont pu être saisis, la condamnation au paiement d'une
-somme égale à la valeur desdits objets et calculée d'après le cours du marché intérieur à l'époque où la fraude a été
-commise.
+l'Administration est fondée à exercer contre la succession une action tendant à faire prononcer par le   président du
+tribunal de grande instance la confiscation des objets passibles de cette sanction ou, si ceux-ci n'ont pu être saisis, la
+condamnation au paiement d'une somme égale à la valeur desdits objets et calculée d'après le cours du marché intérieur à
+l'époque où la fraude a été commise.
 
 **Liens relatifs à cet article**
 
@@ -16791,7 +16800,7 @@ commise.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 ### Section 2 : Recouvrement.
@@ -16902,7 +16911,7 @@ l'administration des douanes de la décision de celle-ci.
 ###### Article 347
 
 Dans le délai de deux mois suivant la réception de la réponse du directeur régional des douanes ou, à défaut de réponse, à
-l'expiration du délai de six mois prévu à l'article précédent, le redevable peut saisir le tribunal d'instance.
+l'expiration du délai de six mois prévu à l'article précédent, le redevable peut saisir le tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
@@ -16912,7 +16921,7 @@ l'expiration du délai de six mois prévu à l'article précédent, le redevable
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 ###### Article 348
@@ -16968,23 +16977,20 @@ douanes sollicitent des mesures conservatoires du juge compétent, dès la const
 
 Toute contestation des décisions du comptable des douanes relatives aux garanties exigées du redevable peut être portée, dans
 un délai de quinze jours à compter de la notification de la réponse du comptable des douanes ou de l'expiration du délai
-imparti pour répondre, devant le juge d'instance, statuant en référé. Le juge, saisi par simple demande écrite, statue dans
-un délai d'un mois. Dans un délai de quinze jours suivant la décision du juge ou l'expiration du délai laissé à ce dernier
-pour statuer, le redevable et le comptable des douanes peuvent faire appel devant la cour d'appel.
+imparti pour répondre, devant le président du tribunal de grande instance, statuant en référé. Le président, saisi par simple
+demande écrite, statue dans un délai d'un mois. Dans un délai de quinze jours suivant la décision du président ou
+l'expiration du délai laissé à ce dernier pour statuer, le redevable et le comptable des douanes peuvent faire appel devant
+la cour d'appel.
 
 Lorsque des garanties suffisantes n'ont pas été constituées et que le comptable des douanes a mis en place des mesures
-conservatoires, le redevable peut, par simple demande écrite, demander au juge d'instance, statuant en référé, de prononcer
-dans un délai d'un mois la limitation ou l'abandon de ces mesures. Les délais de saisine du juge d'instance et du juge
-d'appel sont les mêmes que ceux définis à l'alinéa précédent.
+conservatoires, le redevable peut, par simple demande écrite, demander au président du tribunal de grande instance, statuant
+en référé, de prononcer dans un délai d'un mois la limitation ou l'abandon de ces mesures. Les délais de saisine du président
+du tribunal de grande instance et de la cour d'appel sont les mêmes que ceux définis à l'alinéa précédent.
 
 Les recours dirigés contre la régularité des mesures conservatoires relèvent du juge de l'exécution, dans les conditions de
 droit commun.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
 
 	**Cité par**:
 
@@ -16994,7 +17000,11 @@ droit commun.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 349 bis
@@ -17320,10 +17330,10 @@ les mêmes conditions que l'action publique en matière de délits de droit comm
 
 ###### Article 352
 
-1. Aucune personne n'est recevable à former, contre l'administration des douanes, des demandes en restitution de droits et de
-marchandises et paiements de loyers, trois ans après l'époque que les réclamateurs donnent aux paiements des droits, dépôts
-des marchandises et échéances des loyers, à l'exclusion des demandes formulées en application des articles 236 à 239 du code
-des douanes communautaire. 
+1.  Les demandes en restitution de droits et taxes perçus par l'administration des douanes, les demandes en paiement de
+loyers et les demandes en restitution de marchandises, à l'exclusion des demandes formulées en application des articles 236 à
+239 du code des douanes communautaire, sont présentées à l'administration dans les délais et conditions fixées par décret en
+Conseil d'Etat.  
 
 La réclamation mentionnée à l'alinéa précédent doit être présentée au directeur régional des douanes du lieu de paiement ou
 du lieu où se situent les marchandises. Le directeur régional des douanes statue sur cette demande dans un délai de quatre
@@ -17367,11 +17377,11 @@ conditions prévues à l'article 450 du présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 60
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 26 (VD)
 
 	**Cite**:
 
-	  - Code des douanes - art. 450 (V)
+	  - Code des douanes - art. 450
 
 
 ###### Article 352 bis
@@ -17404,25 +17414,39 @@ peut en obtenir le remboursement, à moins que les droits et taxes n'aient été
 	  - Loi - art. 44 (V) JORF décembre 2002
 
 
+###### Article 352 quater
+
+L'action en réparation du préjudice subi fondée sur la non-conformité de la règle de droit dont il a été fait application à
+une règle de droit supérieure ou la demande de dommages et intérêts résultant de la faute commise dans la détermination de
+l'assiette, le contrôle et le recouvrement de l'impôt ne peut porter que sur une période postérieure au 1er janvier de la
+deuxième année précédant celle au cours de laquelle l'existence de la créance a été révélée au demandeur.
+
+**Nota:**
+
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 26 III : Ces dispositions s'appliquent aux
+actions en réparation relatives à des créances dont l'existence a été révélée au demandeur à compter du 1er janvier 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 26 (V)
+
+
 ###### Article 352 ter
 
 Lorsque le défaut de validité d'un texte fondant la perception d'une taxe recouvrée par les agents de la direction générale
 des douanes et des droits indirects a été révélé par une décision juridictionnelle, l'action en restitution mentionnée à
 l'article 352 ne peut porter, sans préjudice des dispositions de l'article 352 bis, que sur la période postérieure au 1er
-janvier de la troisième année précédant celle au cours de laquelle cette décision est intervenue.
+janvier de la deuxième année précédant celle au cours de laquelle cette décision est intervenue.
 
-Les dispositions du précédent alinéa sont applicables aux litiges engagés par des réclamations présentées après le 20
-novembre 1991.
+**Nota:**
+
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 26 III : Ces dispositions s'appliquent aux
+réclamations et demandes fondées sur une décision juridictionnelle ou un avis rendu au contentieux prononcés à compter du 1er
+janvier 2013.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Créé par**:
-
-	  - Loi - art. 37 () JORF 31 décembre 1991
 
 	**Cité par**:
 
@@ -17431,12 +17455,16 @@ novembre 1991.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 26 (V)
 
 	**Cite**:
 
 	  - Code des douanes - art. 352 (V)
 	  - Code des douanes - art. 352 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 353
@@ -17564,9 +17592,9 @@ de droit commun.
 
 ###### Article 357 bis
 
-Les tribunaux d'instance connaissent des contestations concernant le paiement, la garantie ou le remboursement des créances
-de toute nature recouvrées par l'administration des douanes et des autres affaires de douane n'entrant pas dans la compétence
-des juridictions répressives.
+Les tribunaux de grande instance connaissent des contestations concernant le paiement, la garantie ou le remboursement des
+créances de toute nature recouvrées par l'administration des douanes et des autres affaires de douane n'entrant pas dans la
+compétence des juridictions répressives.
 
 **Liens relatifs à cet article**
 
@@ -17574,14 +17602,14 @@ des juridictions répressives.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
 	**Cité par**:
 
 	  - Décret n°2011-991 du 23 août 2011 - art. 22 (V)
 	  - Code des douanes - art. 389 bis (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 #### Paragraphe 2 : Compétence "ratione loci".
@@ -17589,11 +17617,11 @@ des juridictions répressives.
 ###### Article 358
 
 1. Les instances résultant d'infractions douanières constatées par procès-verbal de saisie sont portées devant le tribunal
-dans le ressort duquel est situé le bureau de douane le plus proche du lieu de constatation de l'infraction.
+dans le ressort duquel est situé le bureau de douane le plus proche du lieu de constatation de l'infraction. 
 
 2. Les litiges relatifs à la créance, aux demandes formulées en application de l'article 352 et ceux relatifs aux décisions
-en matière de garantie sont portés devant le tribunal d'instance dans le ressort duquel est situé le bureau de douane ou la
-direction régionale des douanes où la créance a été constatée.
+en matière de garantie sont portés devant le tribunal de grande instance dans le ressort duquel est situé le bureau de
+douane, le service spécialisé ou la direction régionale des douanes où la créance a été constatée. 
 
 3. Les règles ordinaires de compétence en vigueur sur le territoire sont applicables aux autres instances.
 
@@ -17606,33 +17634,10 @@ direction régionale des douanes où la créance a été constatée.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 57
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
 
 
 ### Section 2 : Procédure devant les juridictions civiles
-
-#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.
-
-###### Article 361
-
-Tous jugements rendus par les juges d'instance en matière douanière sont susceptibles, quelle que soit l'importance du
-litige, d'appel devant la cour d'appel, conformément aux règles du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Décret n°59-625 1959-05-12 art. 2 JORF 16 mai 1959
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
-
 
 #### Paragraphe 4 : Notification des jugements et autres actes de procédure.
 
@@ -17863,16 +17868,18 @@ Dans toute action sur une saisie, les preuves de non-contravention sont à la ch
 
 ###### Article 374
 
-1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants sans que
-l'administration des douanes soit tenue de mettre en cause les propriétaires quand même ils lui seraient indiqués.
+1. La confiscation des marchandises saisies peut être poursuivie contre les conducteurs ou déclarants.
 
-2. Toutefois, si les propriétaires intervenaient ou étaient appelés en garantie par ceux sur lesquels les saisies ont été
-faites, les tribunaux statueront, ainsi que de droit, sur les interventions ou sur les appels en garantie.
+2. Lorsque leur propriétaire est connu, la  confiscation des marchandises saisies, à l'exception de celles qui sont
+prohibées au titre de la réglementation douanière, ne peut être  poursuivie qu'en cas de mise en cause de ce dernier devant
+la  juridiction répressive appelée à se prononcer sur l'instance.
 
 **Nota:**
 
-Dans sa décision n° 2011-208 QPC du 13 janvier 2012 (NOR : CSCX1201292S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article 374 du code des douanes. La déclaration d'insconstitutionnalité prend effet le 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012, article 57 II A, l'article 374 est applicable sur tout le territoire de la République.
+Conformément au B du II du même article, pour l'application à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Polynésie
+française et en Nouvelle-Calédonie de l'article 374 les mots : "du tribunal de grande instance" sont remplacés par les mots :
+"du tribunal de première instance".
 
 **Liens relatifs à cet article**
 
@@ -17880,11 +17887,11 @@ Constitution l'article 374 du code des douanes. La déclaration d'insconstitutio
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
-
 	**Cité par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
+
+	**Modifié par**:
 
 	  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
@@ -17893,9 +17900,9 @@ Constitution l'article 374 du code des douanes. La déclaration d'insconstitutio
 
 ###### Article 375
 
-1. L'administration des douanes peut demander au tribunal d'instance sur simple requête la confiscation en nature des objets
-saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu d'importance de la
-fraude.
+1. L'administration des douanes peut demander au tribunal de grande instance sur simple requête la confiscation en nature des
+objets saisis sur des inconnus ou sur des individus qui n'ont pas fait l'objet de poursuites en raison du peu d'importance de
+la fraude.
 
 2. Il est statué sur ladite demande par une seule ordonnance, même si la requête se rapporte à plusieurs saisies faites
 séparément.
@@ -17908,7 +17915,7 @@ séparément.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1576 du 30 décembre 2002 - art. 44 (V)
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
 ##### D. - Revendication des objets saisis.
@@ -18386,44 +18393,42 @@ sociétés pour les dettes de ces sociétés constituant une créance douanière
 
 ###### Article 389
 
-1. En cas de saisie de moyens de transport dont la remise sous caution aura été offerte par procès-verbal et n'aura pas été
-acceptée par la partie ainsi qu'en cas de saisie d'objets qui ne pourront être conservés sans courir le risque de
-détérioration, il sera, à la diligence de l'administration des douanes et en vertu de la permission du juge d'instance le
-plus voisin ou du juge d'instruction, procédé à la vente par enchère des objets saisis.
+1.  En cas de saisie de moyens de transport dont la remise sous caution ou  consignation a été offerte par procès-verbal et
+n'a pas été acceptée par  la partie, ainsi qu'en cas de saisie d'objets qui ne peuvent être  conservés sans courir le risque
+de détérioration, le juge des libertés  et de la détention du tribunal de grande instance dans le ressort duquel  sont situés
+les biens ou le juge d'instruction saisi de l'affaire  peuvent, à la requête de l'administration des douanes, autoriser la
+vente par enchères des objets saisis.
 
-2. L'ordonnance portant permis de vendre sera notifiée dans le jour à la partie adverse, conformément aux dispositions de
-l'article 362-2 ci-dessus, avec déclaration qu'il sera immédiatement procédé à la vente, tant en l'absence qu'en sa présence,
-attendu le péril en la demeure.
+2. Les décisions prises en application du présent article font l'objet d'une ordonnance motivée.
 
-3. L'ordonnance du juge d'instance ou du juge d'instruction sera exécutée nonobstant opposition ou appel.
+3. L'ordonnance portant autorisation de vente  est notifiée au propriétaire des biens s'il est connu, qui peut la  déférer à
+la chambre de l'instruction par déclaration au greffe du  tribunal dans les dix jours qui suivent la notification de la
+décision.  Cet appel est suspensif. Le propriétaire peut être entendu par la  chambre de l'instruction.
 
-4. Le produit de la vente sera déposé dans la caisse de la douane pour en être disposé ainsi qu'il sera statué en définitive
-par le tribunal chargé de se prononcer sur la saisie.
+4. Le produit de la vente est consigné par le  comptable des douanes. Lorsque la confiscation des biens n'est pas  prononcée,
+ce produit est restitué à leur propriétaire.
 
 **Nota:**
 
-Dans sa décision n° 2011-203 QPC du 2 décembre 2011 (NOR : CSCX11322871S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article 389 du code des douanes. La déclaration d'inconstitutionnalité prend effet à compter du 1er janvier
-2013.
+Loi n° 2012-1510 du 29 décembre 2012, article 57 II A, l'article 389 est applicable sur tout le territoire de la République.
+Conformément au B du II du même article, pour l'application à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en Polynésie
+française et en Nouvelle-Calédonie de l'article 389 les mots : "du tribunal de grande instance" sont remplacés par les mots :
+"du tribunal de première instance".
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
+
 	**Cité par**:
 
 	  - Décret n°2013-750 du 14 août 2013 (V)
 	  - Code des douanes - art. 389 bis (V)
-
-	**Cite**:
-
-	  - Code des douanes 362-2
 
 
 ##### B. - Destruction avant jugement de certaines catégories de marchandises.
@@ -18436,17 +18441,23 @@ la Constitution l'article 389 du code des douanes. La déclaration d'inconstitut
 
 - ainsi que de marchandises destinées à l'alimentation humaine ou animale mais qui ne peuvent être vendues en application de
 l'article 389 parce qu'elles sont impropres à la consommation, ou qui ne peuvent être conservées sans risque de
-détérioration ;
+détérioration ; le juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les
+biens ou le juge d'instruction saisi de l'affaire peuvent, à la requête de l'administration des douanes, sous réserve d'un
+prélèvement préalable d'échantillons et selon des modalités fixées par décret en Conseil d'Etat, autoriser la destruction des
+objets saisis.
 
-il est, à la diligence de l'administration des douanes, sous réserve d'un prélèvement préalable d'échantillons selon des
-modalités fixées par décret en Conseil d'Etat, et en vertu de l'autorisation du juge d'instance compétent en application de
-l'article 357 bis, ou du juge d'instruction, procédé à la destruction des objets saisis.
+2. Les décisions prises en application du présent article font l'objet d'une ordonnance motivée.
 
-2. L'ordonnance portant autorisation de destruction est notifiée à l'autre partie conformément aux dispositions du 2 de
-l'article 362, avec déclaration qu'il sera immédiatement procédé à la destruction, tant en son absence qu'en sa présence.
+3. L'ordonnance portant autorisation de destruction est notifiée au propriétaire des biens s'il est connu, qui peut la
+déférer à la chambre de l'instruction par déclaration au greffe du tribunal dans les dix jours qui suivent la notification de
+la décision. Cet appel est suspensif. Le propriétaire peut être entendu par la chambre de l'instruction.
 
-3. L'ordonnance du juge d'instance ou du juge d'instruction est exécutée nonobstant opposition ou appel. La destruction est
-constatée par procès-verbal de constat.
+**Nota:**
+
+Loi n° 2012-1510 du 29 décembre 2012, article 57 II A, l'article 389 bis est applicable sur tout le territoire de la
+République. Conformément au B du II du même article, pour l'application à Saint-Pierre-et-Miquelon, à Wallis-et-Futuna, en
+Polynésie française et en Nouvelle-Calédonie de l'article 389 bis les mots : "du tribunal de grande instance" sont remplacés
+par les mots : "du tribunal de première instance".
 
 **Liens relatifs à cet article**
 
@@ -18462,6 +18473,7 @@ constatée par procès-verbal de constat.
 	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 3 (V)
 	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°2002-1110 du 30 août 2002 - art. 5 (V)
+	  - RECTIFICATION: Loi n°2012-1510 du 29 décembre 2012, v. init.
 
 	**Cité par**:
 
@@ -18472,13 +18484,11 @@ constatée par procès-verbal de constat.
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 	**Cite**:
 
-	  - Code des douanes - art. 357 bis (M)
-	  - Code des douanes - art. 362 (M)
-	  - Code des douanes - art. 389 (M)
+	  - Code des douanes - art. 389
 
 
 ##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.
@@ -18491,14 +18501,10 @@ jugement par défaut, lorsque l'exécution provisoire a été ordonnée par le j
 l'abandon consenti par transaction.
 
 2. Toutefois, les jugements et ordonnances portant confiscation de marchandises saisies sur des particuliers inconnus, et par
-eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle de
-l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétition n'est recevable.
+eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle du
+tribunal de grande instance ; passé ce délai, aucune demande en répétition n'est recevable.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 4 mars 2013 (V)
 
 	**Codifié par**:
 
@@ -18506,7 +18512,11 @@ l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétitio
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF 31 décembre 2002
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
+
+	**Cité par**:
+
+	  - Arrêté du 4 mars 2013 (V)
 
 
 ### Section 3 : Droit de remise.
@@ -19131,6 +19141,32 @@ non autorisées.
 	**Cite**:
 
 	  - Code des douanes - art. 259 (V)
+
+
+##### D. - Quatrième classe.
+
+###### Article 413
+
+Sans préjudice des dispositions de l'article 282 et du 2 du VII de l'article 285 septies, est passible d'une amende maximale
+de 750 euros toute infraction aux dispositions légales et réglementaires régissant la taxe nationale sur les véhicules de
+transport de marchandises prévue aux articles 269 à 283 quinquies et la taxe prévue à l'article 285 septies.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 269 (V)
+	  - Code des douanes - art. 282 (V)
+	  - Code des douanes - art. 285 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 283 (V)
+	  - Code des douanes - art. 283 bis (V)
 
 
 ##### E. - Cinquième classe.
@@ -20998,36 +21034,36 @@ pour la taxe sur la valeur ajoutée.
 ###### Article 468
 
 Lorsqu'une présentation en douane est prévue pour les marchandises visées au 4 et au 5 de l'article 38, le service des
-douanes effectue le contrôle de ces marchandises en présence du détenteur.
+douanes effectue le contrôle de ces marchandises en présence du détenteur. 
 
 Lorsque le détenteur refuse d'assister au contrôle, le service notifie, par lettre recommandée, au destinataire ou à
 l'exportateur des produits selon le cas, son intention de commencer les opérations de contrôle ; si, à l'expiration d'un
-délai de quarante-huit heures après cette notification, celle-ci est restée sans effet, le tribunal d'instance dans le
-ressort duquel est situé le bureau de douane désigne d'office, à la requête du receveur des douanes, une personne pour
-représenter le destinataire ou l'exportateur des marchandises, défaillant.
+délai de quarante-huit heures après cette notification, celle-ci est restée sans effet, le président du tribunal de grande
+instance dans le ressort duquel est situé le bureau de douane désigne d'office, à la requête du receveur des douanes, une
+personne pour représenter le destinataire ou l'exportateur des marchandises, défaillant. 
 
 Lorsque la marchandise fait l'objet, par ailleurs, d'une mesure de consignation, dans les conditions prévues à l'article 322
 bis, celle-ci ne peut être prononcée qu'une fois que les opérations de contrôle ont été effectivement entreprises.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°48-1985 1948-12-08
+	  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 	**Cite**:
 
-	  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 16, art. 19
-	  - Code des douanes - art. 322 bis (M)
-
-	**Modifié par**:
-
-	  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
+	  - Code des douanes - art. 322 bis
+	  - Code des douanes - art. 38
 
 	**Cité par**:
 
 	  - Code des douanes - art. 469 (V)
 	  - Code des douanes - art. 65 A bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 469

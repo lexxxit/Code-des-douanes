@@ -39,7 +39,7 @@ V.-Le prélèvement supplémentaire est déclaré et liquidé en une seule fois,
 la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
 du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
-VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2013. 
+VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2016. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies. 
@@ -83,8 +83,8 @@ privilèges que ceux prévus par le présent code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1105 du 14 septembre 2011 - art. 5
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 59
 
 	**Cite**:
 
-	  - Code de l'énergie - art. L661-3 (V)
+	  - Code de l'énergie - art. L661-3

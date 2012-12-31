@@ -1,11 +1,10 @@
 # Article 266 undecies
 
-A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
-à cet article due à compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font
-l'objet d'un paiement au plus tard les 30 avril, 31 juillet et 31 octobre de l'année au titre de laquelle la taxe est due.
-Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4,
-5, 6 et 10 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au
-titre de laquelle la taxe est due. 
+Les assujettis liquident et acquittent la taxe mentionnée à cet article due à compter de l'année 2009 sous la forme d'une
+déclaration annuelle et de trois acomptes. Ces acomptes font l'objet d'un paiement au plus tard les 30 avril, 31 juillet et
+31 octobre de l'année au titre de laquelle la taxe est due. Chaque acompte est égal à un tiers du montant obtenu en
+appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5, 6 et 10 de l'article 266 septies réalisées l'année
+précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre de laquelle la taxe est due. 
 
 Les redevables déposent, au plus tard le 30 avril de chaque année, la déclaration de la taxe due au titre de l'année
 précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration
@@ -74,8 +73,7 @@ aux sommes dont le paiement a été différé.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 47
+	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 	**Cite**:
 
