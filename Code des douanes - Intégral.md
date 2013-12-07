@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2013-09-21
+Version Consolidée au 2013-12-08
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1872,7 +1872,8 @@ domicile privé.
 1. Pour la recherche et la constatation des délits douaniers, visés aux articles 414 à 429 et 459, les agents des douanes
 habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
 marchandises et documents se rapportant à ces délits ainsi que les biens et avoirs en provenant directement ou indirectement
-sont susceptibles d'être détenus. Ils sont accompagnés d'un officier de police judiciaire. 
+sont susceptibles d'être détenus ou d'être accessibles ou disponibles. Ils sont accompagnés d'un officier de police
+judiciaire. 
 
 Les agents des douanes habilités peuvent procéder, à l'occasion de la visite, à la saisie des marchandises et des documents,
 quel qu'en soit le support, se rapportant aux délits précités. Si, à l'occasion d'une visite autorisée en application du 2 du
@@ -1881,22 +1882,22 @@ précités, ils peuvent procéder à leur saisie après en avoir informé par to
 peut s'y opposer. 
 
 2. a) Hormis le cas de flagrant délit, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la
-détention du tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure.
+détention du tribunal de grande instance du lieu de la direction des douanes dont dépend le service chargé de la procédure. 
 
 L'ordonnance comporte :
 
 - l'adresse des lieux à visiter ;
 
 - le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
-visite.
+visite ;
 
 - la mention de la faculté pour l'occupant des lieux ou son représentant, ainsi que l'auteur présumé des infractions
-mentionnées au 1, de faire appel à un conseil de son choix.
+mentionnées au 1, de faire appel à un conseil de son choix. 
 
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.  Il se prononce par une mention expresse sur
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. Il se prononce par une mention expresse sur
 la saisie de biens et avoirs pouvant provenir directement ou indirectement des délits dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
@@ -1908,7 +1909,7 @@ verbal prévu au b du 2.
 Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
 ou avoirs se rapportant aux agissements visés au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
 pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette
-autorisation est portée au procès-verbal prévu au b du présent 2.
+autorisation est portée au procès-verbal prévu au b du présent 2. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -1919,22 +1920,22 @@ La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a
 grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la détention du
 tribunal de grande instance dans le ressort duquel s'effectue la visite. 
 
-Le juge peut se rendre dans les locaux pendant l'intervention.
+Le juge peut se rendre dans les locaux pendant l'intervention. 
 
-A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+A tout moment, il peut décider la suspension ou l'arrêt de la visite. 
 
-L'ordonnance est exécutoire au seul vu de la minute.
+L'ordonnance est exécutoire au seul vu de la minute. 
 
 L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou à son représentant qui en
 reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au b du 2. En l'absence de l'occupant des lieux
 ou de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La
 notification est réputée faite à la date de réception figurant sur l'avis. Une copie est également adressée par lettre
 recommandée avec demande d'avis de réception à l'auteur présumé des délits douaniers mentionnés au 1, nonobstant les
-dispositions de l'article 59 bis.
+dispositions de l'article 59 bis. 
 
 A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice. 
 
-Le délai et la voie de recours sont mentionnés dans l'ordonnance.
+Le délai et la voie de recours sont mentionnés dans l'ordonnance. 
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
 constituer avocat. 
@@ -1945,7 +1946,7 @@ quinze jours. Ce délai court à compter soit de la remise, soit de la réceptio
 appel n'est pas suspensif. 
 
 Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
-parties peuvent le consulter.
+parties peuvent le consulter. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai de pourvoi en cassation est de quinze jours. 
@@ -1954,8 +1955,9 @@ b) La visite ne peut être commencée avant six heures ni après vingt et une he
 l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
 choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des douanes. 
 
-Les agents des douanes mentionnés au 1 ci-dessus, l'occupant des lieux ou son représentant et l'officier de police judiciaire
-peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+Les agents des douanes mentionnés au 1 ci-dessus, les personnes auxquelles ils ont éventuellement recours en application de
+l'article 67 quinquies A, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls prendre
+connaissance des pièces et documents avant leur saisie. 
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
@@ -1965,9 +1967,9 @@ provenant directement ou indirectement des délits dont la preuve est recherché
 l'officier de police judiciaire et par les personnes mentionnées au premier alinéa du présent b ; en cas de refus de signer,
 mention en est faite au procès-verbal. 
 
-Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous
-scellés.L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en
-présence de l'officier de police judiciaire ; l'inventaire est alors établi. 
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
+l'officier de police judiciaire ; l'inventaire est alors établi. 
 
 Une copie du procès-verbal et de l'inventaire est remise à l'occupant des lieux ou à son représentant. Une copie est
 également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des délits douaniers mentionnés
@@ -1984,10 +1986,35 @@ la voie de recours. Les parties ne sont pas tenues de constituer avocat.
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
 de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire. Ce
-recours n'est pas suspensif.
+recours n'est pas suspensif. 
 
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
+
+c) Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux pièces ou documents présents sur un support
+informatique, à leur lecture ou à leur saisie, mention en est portée au procès-verbal. 
+
+Les agents des douanes peuvent alors procéder à la copie de ce support et saisir ce dernier, qui est placé sous scellés. Ils
+disposent de quinze jours à compter de la date de la visite pour accéder aux pièces ou documents présents sur le support
+informatique placé sous scellés, à leur lecture et à leur saisie ainsi qu'à la restitution de ce dernier et de sa copie. Ce
+délai est prorogé sur autorisation délivrée par le juge des libertés et de la détention. 
+
+A la seule fin de permettre la lecture des pièces ou documents présents sur le support informatique placé sous scellés, les
+agents des douanes procèdent aux opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont réalisées
+sur la copie du support. 
+
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés, à la lecture et à la saisie
+des pièces et documents présents sur ce support informatique, qui ont lieu en présence de l'officier de police judiciaire. 
+
+Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et documents, à leur mise au clair et à leur
+lecture est dressé par les agents des douanes. Un inventaire des pièces et documents saisis lui est annexé, s'il y a lieu. 
+
+Le procès-verbal et l'inventaire sont signés par les agents des douanes et par un officier de police judiciaire ainsi que par
+l'occupant des lieux ou son représentant ; en l'absence de celui-ci ou en cas de refus de signer, mention en est faite au
+procès-verbal. 
+
+Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux
+ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer. 
 
 3. Les agents des douanes peuvent intervenir sans l'assistance d'un officier de police judiciaire : 
 
@@ -1997,7 +2024,7 @@ titre de pacage ;
 b) pour la recherche des marchandises qui, poursuivies à vue sans interruption dans les conditions prévues par l'article 332
 ci-après, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon. 
 
-4.S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
+4. S'il y a refus d'ouverture des portes, les agents des douanes peuvent les faire ouvrir en présence d'un officier de police
 judiciaire.
 
 **Nota:**
@@ -2030,14 +2057,17 @@ compter de la date d'entrée en vigueur de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
 
 	**Cite**:
 
-	  - Code des douanes - art. 414
-	  - Code des douanes - art. 459
+	  - Code des douanes - art. 332 (V)
+	  - Code des douanes - art. 414 (V)
+	  - Code des douanes - art. 459 (V)
 	  - Code des douanes - art. 58
 	  - Code des douanes - art. 59 bis
+	  - Code des douanes - art. 67 quinquies A
 
 
 ### Section 3 : Droit de communication
@@ -2909,6 +2939,39 @@ incidentes.
 	  - Code de l'entrée et du séjour des étrangers et du droit d'asile. - art. L611-1
 
 
+### Section 10 : Emploi de personnes qualifiées
+
+###### Article 67 quinquies A
+
+Les agents des douanes peuvent recourir à toute personne qualifiée pour effectuer des expertises techniques nécessaires à
+l'accomplissement de leurs missions et peuvent leur soumettre les objets et documents utiles à ces expertises. 
+
+Les personnes ainsi appelées rédigent un rapport qui contient la description des opérations d'expertise ainsi que leurs
+conclusions. Ce rapport est communiqué aux agents des douanes et est annexé à la procédure. En cas d'urgence, leurs
+conclusions peuvent être recueillies par les agents des douanes, qui les consignent dans un procès-verbal de douane ou dans
+le document prévu à l'article 247 du règlement (CE) n° 2454/93 de la Commission du 2 juillet 1993 fixant certaines
+dispositions d'application du règlement (CEE) n° 2913/92 du Conseil établissant le code des douanes communautaire. Les
+personnes qualifiées effectuent les opérations d'expertise technique sous le contrôle des agents des douanes et sont soumises
+au secret professionnel prévu à l'article 59 bis du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
+
+	**Cité par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 72 (V)
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 1 (V)
+	  - Décret n°2016-1443 du 26 octobre 2016 - art. 6 (V)
+	  - Code des douanes - art. 64 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 59 bis
+
+
 ## Chapitre IV bis : Consultation des traitements automatisés de données aux fins de contrôles douaniers
 
 ###### Article 67 quinquies
@@ -3033,6 +3096,30 @@ des végétaux.
 	  - Code des douanes - art. 12 (Ab)
 	  - Code des douanes - art. 20
 	  - Code des douanes - art. 345
+
+
+## Chapitre VI : Sécurisation des contrôles et enquêtes
+
+###### Article 67 E
+
+Dans le cadre des contrôles et enquêtes prévus au présent code, à l'exception de ceux prévus à l'article 64, ne peuvent être
+écartés au seul motif de leur origine les documents, pièces ou informations que les agents des douanes utilisent et qui sont
+régulièrement portés à leur connaissance dans les conditions prévues aux articles 59 quater à 59 sexies, 64 A à 65 ter, 343
+bis et 455 ou en application des droits de communication qui leur sont dévolus par d'autres textes ou en application des
+dispositions relatives à l'assistance administrative par les autorités compétentes des Etats étrangers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 39
+
+	**Cite**:
+
+	  - Code des douanes - art. 343 bis
+	  - Code des douanes - art. 455
+	  - Code des douanes - art. 59 quater
+	  - Code des douanes - art. 64 A
 
 
 # Titre III : Conduite des marchandises en douane
@@ -18927,6 +19014,24 @@ l'autorisation de dédouaner ceux qui en auraient été atteints.
 	  - Code des douanes - art. 93
 
 
+###### Article 413 ter
+
+Est passible d'une amende égale à 1 500 euros le fait de faire obstacle à l'accès aux pièces ou documents sur support
+informatique, à leur lecture ou à leur saisie, mentionné au c du 2 de l'article 64, dans les cas autres que ceux sanctionnés
+à l'article 416.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
+
+	**Cite**:
+
+	  - Code des douanes - art. 416 (V)
+	  - Code des douanes - art. 64 (V)
+
+
 #### Paragraphe 3 : Délits douaniers
 
 ##### A. - Première classe.
@@ -19090,6 +19195,35 @@ classées comme stupéfiants.
 	**Modifié par**:
 
 	  - Loi n°2011-267 du 14 mars 2011 - art. 109
+
+
+##### C. ― Troisième classe
+
+###### Article 416
+
+Est passible d'une amende égale à 10 000 euros, ou de 5 % des droits et taxes éludés ou compromis ou de la valeur de l'objet
+de la fraude lorsque ce montant est plus élevé, le fait pour l'occupant des lieux de faire obstacle à l'accès aux pièces ou
+documents sur support informatique, à leur lecture ou à leur saisie, mentionné au c du 2 de l'article 64, lorsque cet
+obstacle est constaté dans les locaux occupés par la personne susceptible d'avoir commis les délits mentionnés aux articles
+414 à 429 et 459. 
+
+L'amende est égale à 10 000 euros lorsque cet obstacle est constaté dans les locaux occupés par le représentant en droit ou
+en fait de la personne susceptible d'avoir commis les délits mentionnés aux mêmes articles 414 à 429 et 459.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
+
+	**Cité par**:
+
+	  - Code des douanes - art. 413 ter (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 414
+	  - Code des douanes - art. 459
 
 
 #### Paragraphe 4 : Contrebande.
@@ -20512,7 +20646,8 @@ visées à l'article 350 a du présent code.
 
 2. Ce comité est composé, sous la présidence d'un conseiller d'Etat, de conseillers d'Etat, de conseillers à la Cour de
 cassation et de conseillers maîtres à la Cour des comptes, choisis parmi ces magistrats et ces fonctionnaires en activité ou
-à la retraite.
+à la retraite ainsi que de deux personnalités qualifiées désignées par le président de l'Assemblée nationale et de deux
+personnalités qualifiées désignées par le président du Sénat.
 
 3. Le président et les membres du comité ainsi que leurs suppléants sont nommés par décret pour trois ans.
 
@@ -20520,21 +20655,18 @@ cassation et de conseillers maîtres à la Cour des comptes, choisis parmi ces m
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des douanes - art. 350 (V)
-
 	**Cité par**:
 
+	  - Code des douanes - art. 350 (V)
 	  - Code des douanes - art. 463 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 18
 
 
 ###### Article 461
