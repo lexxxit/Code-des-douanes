@@ -2,10 +2,10 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit : 
 
-A.-Pour les déchets ménagers et assimilés mentionnés au 1 de l'article 266 sexies : 
+A.-Pour les déchets non dangereux mentionnés au 1 du I de l'article 266 sexies : 
 
-a) Déchets ménagers et assimilés réceptionnés dans une installation de stockage de déchets ménagers et assimilés ou
-transférés vers une telle installation située dans un autre Etat : 
+a) Déchets non dangereux réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle
+installation située dans un autre Etat : 
 
 <table>
   <tbody>
@@ -19,7 +19,7 @@ ou opérations imposables
 </td>
       <td rowspan="2">
 
-UNITÉ 
+UNITÉ
 
 de perception
 
@@ -63,18 +63,15 @@ QUOTITÉ EN EUROS
 </td>
       <td>
 
-A COMPTER 
-
-de 2015
+à compter de 2015
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés non autorisée en application du titre
-Ier du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un
-autre Etat.
+Déchets réceptionnés dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du
+livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat.
 
 </td>
       <td align="center">Tonne
@@ -105,9 +102,9 @@ autre Etat.
     <tr>
       <td align="center">
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée en application du titre Ier
-du livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre
-Etat et autorisée en vertu d'une réglementation d'effet équivalent :
+Déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du
+livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat
+et autorisée en vertu d'une réglementation d'effet équivalent :
 
 </td>
       <td align="center">
@@ -315,17 +312,27 @@ Tonne
   </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée aux A, B ou C du tableau du
-présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation
-d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le
-site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale,
-lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
+Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
+accessible par voies terrestres, le tarif de la taxe est fixé à 10 € par tonne de 2013 à 2018 et, pour les déchets
+réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voies terrestres, le tarif de la
+taxe est fixé à 3 € par tonne de 2013 à 2018. 
+
+Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le
+tarif de la taxe est fixé à 0 € par tonne de 2014 à 2017, puis à 10 € par tonne pour 2018. 
+
+A compter de 2019, les tarifs fixés au tableau du présent a sont applicables en Guyane et à Mayotte. 
+
+Les déchets réceptionnés dans une installation de stockage de déchets non dangereux visée aux A, B ou C du tableau du présent
+a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet
+équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de
+traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle
+est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par
 tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016,
 revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
 
-b) Déchets ménagers et assimilés réceptionnés dans une installation d'incinération de déchets ou transférés vers une telle
+b) Déchets non dangereux réceptionnés dans une installation de traitement thermique de déchets ou transférés vers une telle
 installation située dans un autre Etat :
 
 <table>
@@ -374,16 +381,14 @@ QUOTITÉ EN EUROS
 </td>
       <td>
 
-A COMPTER 
-
-de 2013
+à compter de 2013
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Déchets réceptionnés dans une installation d'incinération de déchets ménagers et assimilés ou transférés vers une telle
+Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
 installation située dans un autre Etat :
 
 </td>
@@ -585,11 +590,11 @@ Tonne
   </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation d'incinération de déchets ménagers ou assimilés visée aux A, B, C ou D du
-tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à raison
-des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie ferroviaire
-ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de
-l'itinéraire global.
+Les déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux mentionnée aux A, B, C ou D
+du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à
+raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie
+ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du
+kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de
 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
@@ -645,8 +650,8 @@ QUOTITÉ
     <tr>
       <td>
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés
-vers une telle installation située dans un autre Etat. 
+Déchets dangereux réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux
+ou transférés vers une telle installation située dans un autre Etat. 
 
 </td>
       <td colspan="3">
@@ -654,7 +659,7 @@ vers une telle installation située dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 10,03 (10,32 en 2009)
 
@@ -663,8 +668,8 @@ Tonne
     <tr>
       <td>
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle
-installation située dans un autre Etat. 
+Déchets réceptionnés dans une installation de stockage de déchets dangereux ou transférés vers une telle installation située
+dans un autre Etat. 
 
 </td>
       <td colspan="3">
@@ -672,7 +677,7 @@ installation située dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 20,01 (20,59 en 2009)
 
@@ -691,7 +696,7 @@ Substances émises dans l'atmosphère :
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 136,02
 
@@ -708,7 +713,7 @@ Tonne
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 43,24 (44,49 en 2009)
 
@@ -725,7 +730,7 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 64,86 (66,74 en 2009)
 
@@ -737,36 +742,36 @@ Tonne
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td colspan="3" align="left" valign="top">
+      <td align="left" valign="top" colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="5" valign="top" align="left">
+      <td align="left" valign="top" colspan="5">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td valign="top" align="center">
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td align="center" valign="top" colspan="3">
+      <td valign="top" align="center" colspan="3">
 
 Tonne 
 
 </td>
-      <td colspan="5" valign="top" align="center">
+      <td valign="top" colspan="5" align="center">
 
 136,02 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - poussières totales en suspension 
 
@@ -776,7 +781,7 @@ Tonne
 Tonne 
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td valign="top" colspan="5" align="left">
 
 259,86 
 
@@ -870,6 +875,97 @@ Kilogramme
     <tr>
       <td>
 
+Plomb
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">10</td>
+    </tr>
+    <tr>
+      <td>
+
+Zinc
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">5</td>
+    </tr>
+    <tr>
+      <td>
+
+Chrome
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">20</td>
+    </tr>
+    <tr>
+      <td>
+
+Cuivre
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">5</td>
+    </tr>
+    <tr>
+      <td>
+
+Nickel
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">100</td>
+    </tr>
+    <tr>
+      <td>
+
+Cadmium
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">500</td>
+    </tr>
+    <tr>
+      <td>
+
+Vanadium
+
+</td>
+      <td colspan="3">
+
+Kilogramme
+
+</td>
+      <td colspan="5">5</td>
+    </tr>
+    <tr>
+      <td>
+
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
 
 </td>
@@ -878,7 +974,7 @@ Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère de
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 44,02 (45,30 en 2009)
 
@@ -898,7 +994,7 @@ le linge :
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 39,51(40,66 en 2009)
 
@@ -915,14 +1011,14 @@ Tonne
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
@@ -932,7 +1028,7 @@ Tonne
 Tonne 
 
 </td>
-      <td valign="top" colspan="5" align="left">
+      <td align="left" colspan="5" valign="top">
 
 283,65 (291,88 en 2009)
 
@@ -965,7 +1061,7 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td colspan="3" align="left" valign="top">
+      <td colspan="3" valign="top" align="left">
 
 </td>
       <td colspan="5" align="left" valign="top">
@@ -998,7 +1094,7 @@ Délivrance d'autorisation :
       <td colspan="3">
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 2 525,35 (2 598,59 en 2009)
 
@@ -1014,10 +1110,10 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td align="left" colspan="3" valign="top">
+      <td valign="top" align="left" colspan="3">
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td valign="top" colspan="5" align="left">
 
 339,37 (349,21 en 2009)
 
@@ -1029,7 +1125,7 @@ système de management environnemental a été certifié conforme à la norme IS
 - autres installations 
 
 </td>
-      <td valign="top" colspan="3" align="left">
+      <td valign="top" align="left" colspan="3">
 
 </td>
       <td colspan="5" align="left" valign="top">
@@ -1077,19 +1173,19 @@ l'article 266 sexies.
 
 3. (Alinéa abrogé). 
 
-4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
-s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
+4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets dangereux ne s'applique pas aux
+résidus de traitement des installations de traitement thermique ou de tout autre traitement de déchets assujetties à la taxe.
 
-4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés ne
-s'applique pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les
-activités polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par
-décret ; à défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre
-2010 de finances pour 2011, la taxe ne s'applique pas auxdits résidus. 
+4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets non dangereux ne s'applique
+pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités
+polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à
+défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de
+finances pour 2011, la taxe ne s'applique pas auxdits résidus. 
 
-5. Les déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés autorisée à ce titre en
-application du titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans
-l'arrêté préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non
-autorisées en application du même titre Ier. 
+5. Les déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée à ce titre en application du
+titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté
+préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en
+application du même titre Ier. 
 
 6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote. 
@@ -1104,8 +1200,9 @@ est fixé à 5 tonnes par an.
 
 **Nota:**
 
-Loi n°  2010-1658 du 29 décembre 2010 de finances rectificative pour 2010 article 46 II : Le 1 bis de l'article ne s'applique
-pas aux émissions mentionnées au I du  présent article au titre des années 2011 et 2012.
+Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
+des douanes conformes à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -1143,11 +1240,10 @@ pas aux émissions mentionnées au I du  présent article au titre des années 2
 
 	**Modifié par**:
 
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 18
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 19
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 24
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 33 (V)
 
 	**Cite**:
 
 	  - Code des douanes - art. 266 sexies
-	  - Code de l'environnement

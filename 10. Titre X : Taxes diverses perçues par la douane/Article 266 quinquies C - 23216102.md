@@ -6,7 +6,7 @@ douanière, fournie ou consommée sous une puissance souscrite supérieure à 25
 2. Le fait générateur de la taxe intervient lors de la livraison de l'électricité par un fournisseur à chaque point de
 livraison situé en France d'un utilisateur final. La taxe est exigible au moment de la livraison. Toutefois, lorsque la
 livraison donne lieu à des décomptes ou à des encaissements successifs et que le redevable a exercé l'option prévue au second
-alinéa du a du 2 de l'article 269 du code général des impôts, l'exigibilité intervient au moment du débit.
+alinéa du a du 2 de l'article 269 du code général des impôts, l'exigibilité intervient au moment du débit. 
 
 L'exigibilité intervient, en tout état de cause, dès la perception d'acomptes financiers lorsqu'il en est demandé avant
 l'intervention du fait générateur. 
@@ -26,7 +26,7 @@ factures qu'ils émettent ou qui sont émises pour leur compte ;
 
 2° Les personnes qui produisent de l'électricité et l'utilisent pour leurs propres besoins. 
 
-4.L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas suivants : 
+4. L'électricité n'est pas soumise à la taxe mentionnée au 1 dans les cas suivants : 
 
 1° Lorsqu'elle est principalement utilisée dans des procédés métallurgiques, d'électrolyse ou de réduction chimique. Le
 bénéfice de la présente mesure ne s'applique pas aux quantités d'électricité utilisées pour des besoins autres que ceux de
@@ -42,7 +42,7 @@ dans la Communauté européenne ;
 la production des produits énergétiques eux-mêmes ou pour ceux de la production de tout ou partie de l'énergie nécessaire à
 leur fabrication. 
 
-5.L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est : 
+5. L'électricité est exonérée de la taxe mentionnée au 1 lorsqu'elle est : 
 
 1° Utilisée pour la production de l'électricité et pour le maintien de la capacité de production de l'électricité ; 
 
@@ -95,8 +95,11 @@ La comptabilité des livraisons doit être présentée à toute réquisition de 
 
 Les fournisseurs d'électricité non établis en France désignent une personne qui y est établie et a été enregistrée auprès de
 l'administration des douanes et droits indirects pour effectuer en leur lieu et place les obligations qui leur incombent et
-acquitter la taxe intérieure sur la consommation finale d'électricité.A défaut, la taxe est due par le destinataire du
+acquitter la taxe intérieure sur la consommation finale d'électricité. A défaut, la taxe est due par le destinataire du
 produit soumis à accise. 
+
+Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon
+les modalités définies par arrêté du ministre chargé du budget. 
 
 9. La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et des droits
 indirects. 
@@ -110,16 +113,19 @@ la déclaration.
 La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du
 budget. 
 
+La déclaration d'acquittement peut être effectuée par voie électronique. 
+
+10. Lorsque l'électricité a été normalement soumise à la taxe intérieure de consommation alors qu'elle a été employée en tout
+ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 du présent article,
+l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à
+l'article 352. 
+
 Un décret détermine les modalités d'application de l'assiette de la taxe lorsque les livraisons d'électricité donnent lieu,
 de la part des fournisseurs, à des décomptes ou à des encaissements successifs ou à la perception d'acomptes financiers. Il
 détermine également les modalités du contrôle et de la destination de l'électricité et de son affectation aux usages
 mentionnés aux 4 à 6.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
 
 	**Cité par**:
 
@@ -151,10 +157,16 @@ mentionnés aux 4 à 6.
 	  - Code général des collectivités territoriales - art. R3333-1-2 (V)
 	  - Code général des collectivités territoriales - art. R3333-1-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1586 sexies
 	  - Code général des impôts, CGI. - art. 269
 	  - Code des douanes - art. 265
 	  - Code des douanes - art. 266 quinquies
+	  - Code des douanes - art. 352 (V)
 	  - Code de l'environnement - art. L229-5
