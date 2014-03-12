@@ -23,8 +23,9 @@ de la Communauté européenne en matière de réglementation douanière ou agric
 mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
 les autres Etats membres de la Communauté européenne.
 
-Le présent article ne s'applique pas à la partie des locaux et lieux cités au premier alinéa qui est également affectée au
-domicile privé.
+Le présent article s'applique à la partie affectée à usage privatif des locaux et lieux mentionnés au premier alinéa lorsque
+leur occupant ou son représentant en donne l'assentiment exprès. Cet assentiment fait l'objet d'une déclaration signée par
+l'intéressé et recueillie sur place, annexée au procès-verbal mentionné au troisième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -57,10 +58,10 @@ domicile privé.
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2014-315 du 11 mars 2014 - art. 15

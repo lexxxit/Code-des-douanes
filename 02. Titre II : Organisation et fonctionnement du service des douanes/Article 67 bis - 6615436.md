@@ -1,6 +1,6 @@
 # Article 67 bis
 
-I.-Sans préjudice de l'application des dispositions des articles 60, 61, 62, 63, 63 bis, 63 ter et 64, afin de constater les
+I.-Sans préjudice de l'application des dispositions des articles 60,61,62,63,63 bis, 63 ter et 64, afin de constater les
 délits douaniers, si la peine encourue est égale ou supérieure à deux ans d'emprisonnement, les agents des douanes habilités
 par le ministre chargé des douanes dans des conditions fixées par décret procèdent sur l'ensemble du territoire national,
 après en avoir informé le procureur de la République et sauf opposition de ce magistrat, à la surveillance de personnes
@@ -15,19 +15,22 @@ République près le tribunal de grande instance dans le ressort duquel les opé
 débuter ou au procureur de la République saisi en application des dispositions de l'article 706-76 du code de procédure
 pénale. 
 
-II.-Lorsque les investigations le justifient et afin de constater les infractions douanières d'importation, d'exportation ou
-de détention de substances ou plantes classées comme stupéfiants, de contrebande de tabac manufacturé, d'alcool et
-spiritueux, ainsi que celles prévues à l'article 415 du présent code, d'identifier les auteurs et complices de ces
-infractions ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399 du présent code et d'effectuer les
-saisies prévues par le présent code, le procureur de la République peut autoriser qu'il soit procédé, sous son contrôle, à
-une opération d'infiltration dans les conditions prévues par le présent article. 
+II.-Lorsque les investigations le justifient, le procureur de la République peut autoriser qu'il soit procédé, sous son
+contrôle, à une opération d'infiltration dans les conditions prévues par le présent article afin : 
 
-Le premier alinéa est applicable aux fins de constatation des infractions visées à l'article 414 lorsqu'elles portent sur des
-marchandises présentées sous une marque contrefaisante ou incorporant un dessin ou modèle tel que mentionné à l'article L.
-513-4 du code de la propriété intellectuelle et tel que visé par l'article 19 du règlement (CE) n° 6/2002 du Conseil, du 12
-décembre 2001, sur les dessins ou modèles communautaires, sur des marchandises contrefaisant un droit d'auteur, des droits
-voisins ou un brevet tels que mentionnés aux articles L. 335-2 à L. 335-4, L. 613-3 et L. 613-5 du code de la propriété
-intellectuelle ainsi que des infractions prévues aux articles L. 716-9 à L. 716-11 du même code. 
+1° De constater les infractions suivantes :
+
+- les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées comme
+stupéfiants, de contrebande de tabac manufacturé, d'alcool et spiritueux ;
+
+- les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes ;
+
+- les infractions prévues à l'article 415 ; 
+
+2° D'identifier les auteurs et complices de ces infractions ainsi que ceux qui y ont participé comme intéressés au sens de
+l'article 399 ;
+
+3° D'effectuer les saisies prévues par le présent code. 
 
 L'infiltration consiste, pour un agent des douanes spécialement habilité dans des conditions fixées par décret, agissant sous
 la responsabilité d'un agent de catégorie A chargé de coordonner l'opération, à surveiller des personnes suspectées de
@@ -120,10 +123,6 @@ identité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
 	**Cité par**:
 
 	  - Loi n°96-542 du 19 juin 1996 - art. 10-1 (V)
@@ -148,17 +147,17 @@ identité.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 108
+	  - Loi n°2014-315 du 11 mars 2014 - art. 9
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L335-2 (V)
-	  - Code de la propriété intellectuelle - art. L513-4 (V)
-	  - Code de la propriété intellectuelle - art. L613-3 (V)
-	  - Code de la propriété intellectuelle - art. L613-5 (V)
-	  - Code de la propriété intellectuelle - art. L716-9 (V)
 	  - Code de procédure pénale - art. 706-61
 	  - Code de procédure pénale - art. 706-76
-	  - Code des douanes - art. 399 (V)
-	  - Code des douanes - art. 414 (V)
-	  - Code des douanes - art. 415 (V)
+	  - Code des douanes - art. 399
+	  - Code des douanes - art. 414
+	  - Code des douanes - art. 415
+	  - Code des douanes - art. 60
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
