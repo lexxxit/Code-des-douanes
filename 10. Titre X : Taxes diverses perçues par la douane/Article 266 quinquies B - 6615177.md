@@ -45,7 +45,7 @@ producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code g
 
 2° Pour les besoins de leur extraction et de leur production ; 
 
-3° Pour la consommation des particuliers, y compris sous forme collective ; 
+3° (Abrogé) ; 
 
 4° Par les entreprises de valorisation de la biomasse dont les achats de combustibles et d'électricité utilisés pour cette
 valorisation représentent au moins 3 % de leur chiffre d'affaires, sous réserve qu'elles soient soumises au régime des quotas
@@ -53,8 +53,82 @@ d'émission de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 d
 des accords volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux
 équivalents ou d'accroître leur rendement énergétique. 
 
-6. La taxe intérieure de consommation est assise sur la quantité d'énergie livrée, exprimée en mégawattheures, après
-arrondissement au mégawattheure le plus voisin. Le tarif de la taxe est fixé à 1,19 par mégawattheure. 
+6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée. Elle est déterminée
+conformément au tableau ci-dessous : 
+
+<table>
+    <tbody>
+      <tr>
+        <th>
+
+</th>
+        <th>
+
+</th>
+        <th colspan="3">
+
+TARIF (EN EUROS) 
+
+</th>
+      </tr>
+      <tr>
+        <th>
+
+DÉSIGNATION DES PRODUITS 
+
+</th>
+        <th>
+
+UNITÉ DE PERCEPTION 
+
+</th>
+        <th>
+
+2014 
+
+</th>
+        <th>
+
+2015 
+
+</th>
+        <th>
+
+2016 
+
+</th>
+      </tr>
+      <tr>
+        <td align="center">
+
+2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme combustibles 
+
+</td>
+        <td align="center">
+
+Mégawattheure 
+
+</td>
+        <td align="center">
+
+2,29 
+
+</td>
+        <td align="center">
+
+4,75 
+
+</td>
+        <td align="center">
+
+7,21 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+Le montant du tarif total est arrondi au mégawattheure le plus voisin. 
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -113,7 +187,7 @@ prévues à l'article 352.
 	**Modifié par**:
 
 	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 32
 
 	**Cite**:
 
