@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-06-02
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3235,6 +3235,31 @@ dispositions relatives à l'assistance administrative par les autorités compét
 	  - Code des douanes - art. 455
 	  - Code des douanes - art. 59 quater
 	  - Code des douanes - art. 64 A
+
+
+###### Article 67 F
+
+La personne à l'égard de laquelle il existe des raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre une
+infraction et qui n'est pas placée en retenue douanière ne peut être entendue sur ces faits qu'après la notification des
+informations prévues à l'article 61-1 du code de procédure pénale. 
+
+S'il apparaît au cours de l'audition d'une personne des raisons plausibles de soupçonner qu'elle a commis ou tenté de
+commettre une infraction, ces informations lui sont communiquées sans délai.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64 (VD)
+	  - Décret n°2015-271 du 11 mars 2015 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-535 du 27 mai 2014 - art. 12
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 61-1 (V)
 
 
 # Titre III : Conduite des marchandises en douane
@@ -16956,14 +16981,14 @@ douanes.
 
 Lorsque la personne est retenue pour un délit douanier mentionné au dernier alinéa de l'article 414 ou à l'article 415 du
 présent code ou pour un délit connexe à une infraction mentionnée à l'article 706-73 du code de procédure pénale,
-l'intervention de l'avocat peut être différée dans les conditions prévues aux sixième à dernier alinéas de l'article 706-88
-du même code.
+l'intervention de l'avocat peut être différée dans les conditions prévues aux sixième à avant-dernier alinéas de l'article
+706-88 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+	  - Loi n°2014-535 du 27 mai 2014 - art. 4
 
 	**Cite**:
 
@@ -16985,25 +17010,40 @@ l'article 63-1 du code de procédure pénale :
 
 1° De son placement en retenue ainsi que de la durée de la mesure et de la prolongation dont celle-ci peut faire l'objet ; 
 
-2° De la nature et de la date présumée de l'infraction qu'elle est soupçonnée d'avoir commise ou tenté de commettre ; 
+2° De la qualification, de la date et du lieu présumés de l'infraction qu'elle est soupçonnée d'avoir commise ou tenté de
+commettre ainsi que des motifs justifiant son placement en retenue douanière en application de l'article 323-1 ; 
 
 3° Du fait qu'elle bénéficie des droits énoncés à l'article 323-5 du présent code ; 
 
 4° Du fait qu'elle a le choix, après avoir décliné son identité, de faire des déclarations, de répondre aux questions qui lui
-sont posées ou de se taire. 
+sont posées ou de se taire ; 
+
+5° S'il y a lieu, du droit d'être assistée par un interprète ; 
+
+6° Du droit de consulter, au plus tard avant l'éventuelle prolongation de la retenue douanière, les documents mentionnés à
+l'article 63-4-1 du code de procédure pénale ; 
+
+7° De la possibilité de demander au procureur de la République, lorsque ce magistrat se prononce sur l'éventuelle
+prolongation de la retenue douanière, que cette mesure soit levée. 
 
 Mention de l'information donnée en application du présent article est portée au procès-verbal et émargée par la personne
-retenue. En cas de refus d'émargement, il en est fait mention.
+retenue. En cas de refus d'émargement, il en est fait mention. 
+
+En application de l'article 803-6 du code de procédure pénale, un document énonçant ces droits est remis à la personne lors
+de la notification de sa retenue douanière.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-392 du 14 avril 2011 - art. 19
+	  - Loi n°2014-535 du 27 mai 2014 - art. 12
 
 	**Cite**:
 
 	  - Code de procédure pénale - art. 63-1
+	  - Code de procédure pénale - art. 63-4-1 (V)
+	  - Code de procédure pénale - art. 803-6 (V)
+	  - Code des douanes - art. 323-1 (V)
 	  - Code des douanes - art. 323-5
 
 	**Cité par**:
