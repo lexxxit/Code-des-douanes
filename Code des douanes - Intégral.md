@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-09-17
+Version Consolidée au 2014-10-15
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -763,6 +763,10 @@ Conseil, du 11 février 2004, relatif aux précurseurs de drogues ;
 
 8° Aux médicaments à usage vétérinaire mentionnés à l'article L. 5142-7 du même code ; 
 
+8° bis Aux produits phytopharmaceutiques mentionnés au paragraphe 1 de l'article 2 du règlement (CE) n° 1107/2009 du
+Parlement européen et du Conseil, du 21 octobre 2009, concernant la mise sur le marché des produits phytopharmaceutiques et
+abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil ;
+
 9° Aux marchandises contrefaisantes ; 
 
 10° Aux produits sanguins labiles et aux pâtes plasmatiques mentionnés aux 1° et 2° de l'article L. 1221-8 du code de la
@@ -932,7 +936,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-315 du 11 mars 2014 - art. 8
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 50
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
