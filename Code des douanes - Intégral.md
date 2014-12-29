@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-12-30
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -788,7 +788,10 @@ du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts
 l'Union européenne prises en application de ce règlement ; 
 
 15° Aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique
-mentionnées à l'article 227-23 du code pénal. 
+mentionnées à l'article 227-23 du code pénal ;
+
+16° Aux produits du tabac manufacturé ayant fait l'objet d'une opération mentionnée au I de l'article 568 ter du code général
+des impôts. 
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -936,7 +939,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2014-1170 du 13 octobre 2014 - art. 50
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 93
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
@@ -15401,14 +15404,15 @@ du droit est déterminé par application du taux fixé par le conseil général 
 supérieur à 66 % et au plus égal à 110 % du prix de vente au détail en France continentale correspondant à la moyenne
 pondérée des prix homologués.
 
-Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs aux taux prévus à l'article
-575 A du code général des impôts qui frappent les produits de même catégorie en France continentale.
+Les taux des droits de consommation fixés par chaque conseil général ne peuvent être supérieurs à la charge fiscale globale,
+exprimée en pourcentage du prix de vente au détail, qui frappe les produits de même catégorie vendus au prix moyen pondéré en
+France continentale en application des articles 575 et 575 A du code général des impôts.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un minimum de perception spécifique fixé
 pour 1000 unités, tel que mentionné aux articles 575 et 575 A du code général des impôts, pour le droit de consommation sur
 les cigarettes dans leur circonscription administrative. Ce minimum de perception ne peut être supérieur au droit de
-consommation résultant de l'application du taux fixé par le conseil général au prix de vente au détail en France continentale
-des cigarettes de la classe de prix de référence.
+consommation résultant de l'application du taux fixé par le conseil général au prix moyen pondéré de vente au détail des
+cigarettes en France continentale.
 
 Les conseils généraux des départements d'outre-mer peuvent également établir un minimum de perception fixé pour 1 000 grammes
 pour les tabacs fine coupe destinés à rouler les cigarettes. Ce minimum de perception ne peut excéder les deux tiers du
@@ -15440,20 +15444,19 @@ département de destination.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 31
-
 	**Cité par**:
 
 	  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
 	  - Code des douanes - art. 268 ter (M)
 
+	**Modifié par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 98
+
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 575
-	  - Code général des impôts, CGI. - art. 575 A
 
 
 ###### Article 268 ter
@@ -16424,6 +16427,34 @@ de douane.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+
+###### Article 285 nonies
+
+I.-Une redevance est perçue lors de l'importation sur le territoire douanier, sous tous les régimes douaniers, de denrées
+alimentaires d'origine non animale mentionnées dans les règlements et décisions pris en application de l'article 53 du
+règlement (CE) n° 178/2002 du Parlement européen et du Conseil, du 28 janvier 2002, établissant les principes généraux et les
+prescriptions générales de la législation alimentaire, instituant l'Autorité européenne de sécurité des aliments et fixant
+des procédures relatives à la sécurité des denrées alimentaires. 
+
+II.-La redevance est due par l'importateur ou son représentant, au sens de l'article 5 du code des douanes communautaire. 
+
+Elle est recouvrée par le service des douanes, selon les mêmes règles et sous les mêmes garanties et privilèges qu'en matière
+de droits de douane. 
+
+III.-Les infractions sont constatées et réprimées, les poursuites sont effectuées et les instances sont instruites et jugées
+conformément au présent code. 
+
+IV.-La redevance est due pour chaque lot importé, défini dans les règlements et décisions pris en application de l'article 53
+du règlement (CE) n° 178/2002 du Parlement européen et du Conseil, du 28 janvier 2002, précité. Son montant est fixé entre 21
+€ et 2 950 € pour chaque type de produit, selon la nature des analyses en cause ainsi que le risque sanitaire et la fréquence
+de contrôle définis dans les mêmes règlements et décisions, par arrêté des ministres chargés des douanes et de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 84
 
 
 ###### Article 285 octies
