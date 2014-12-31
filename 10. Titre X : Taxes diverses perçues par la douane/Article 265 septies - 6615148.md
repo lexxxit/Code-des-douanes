@@ -17,7 +17,7 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé, au choix du demandeur :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
-région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est
+région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est
 applicable en application des articles 265 et 265 A bis ;
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
@@ -89,10 +89,10 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 36 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (VT)
-	  - Code des douanes - art. 284 bis A (V)
-	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 284 bis A
+	  - Code des douanes - art. 352

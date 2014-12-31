@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-12-31
+Version Consolidée au 2015-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -9700,12 +9700,12 @@ Hectolitre
 </td>
       <td align="center">
 
-44,82 
+46,82 
 
 </td>
       <td align="center">
 
-46,81
+48,81
 
 </td>
     </tr>
@@ -11142,6 +11142,14 @@ Pour le paiement du montant différentiel de taxe et des pénalités afférentes
 indirects peut demander une caution. Les obligations déclaratives des opérateurs concernés sont fixées par arrêté du ministre
 chargé du budget.
 
+**Nota:**
+
+Conformément à l'article 36 III de la loi n° 2014-1654 du 29 décembre 2014 de finances pour 2015, une part du produit de la
+taxe intérieure de consommation sur les produits énergétiques prévue à l'article 265 du code des douanes revenant à l'Etat
+est affectée à l'Agence de financement des infrastructures de transport de France à compter de 2015. 
+
+Cette part est fixée à 1 139 millions d'euros pour l'année 2015.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11463,7 +11471,7 @@ chargé du budget.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 32
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 36
 
 
 ###### Article 265 A
@@ -12231,7 +12239,7 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé, au choix du demandeur :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
-région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est
+région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est
 applicable en application des articles 265 et 265 A bis ;
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
@@ -12303,13 +12311,13 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2014-1654 du 29 décembre 2014 - art. 36 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (VT)
-	  - Code des douanes - art. 284 bis A (V)
-	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 265
+	  - Code des douanes - art. 284 bis A
+	  - Code des douanes - art. 352
 
 
 ###### Article 265 sexies
@@ -16333,37 +16341,31 @@ autorisé défini ci-dessus.
 
 ###### Article 285
 
-1. L'administration des douanes est également chargée de recouvrer ou de faire garantir la perception des taxes sur le
-chiffre d'affaires, des taxes intérieures prévues par la législation des contributions indirectes et de tous autres droits et
-taxes exigibles à l'importation ou à l'exportation.
+1. L'administration des douanes est également chargée, sans préjudice du II de l'article 1695 du code général des impôts, de
+recouvrer ou de faire garantir la perception des taxes sur le chiffre d'affaires, des taxes intérieures prévues par la
+législation des contributions indirectes et de tous autres droits et taxes exigibles à l'importation ou à l'exportation. 
 
 2. S'il s'agit d'importations dépourvues de tout caractère commercial, l'administration des douanes peut percevoir
 forfaitairement les taxes sur le chiffre d'affaires, les taxes intérieures et tous autres droits et taxes exigibles à
 l'importation sur les marchandises faisant l'objet de petits envois adressés à des particuliers ou contenues dans les bagages
-personnels des voyageurs.
+personnels des voyageurs. 
 
 La taxe forfaitaire est recouvrée par le service des douanes suivant les mêmes règles, sous les mêmes garanties et les mêmes
-sanctions qu'en matière de droit de douane.
+sanctions qu'en matière de droit de douane. 
 
 Les conditions d'application de ladite taxe, et notamment ses taux et son assiette, sont fixées par un arrêté du ministre de
-l'économie et des finances.
+l'économie et des finances. 
 
 3. Conformément aux dispositions des articles L. 211-1 et suivants du code des ports maritimes, il peut être perçu dans les
-ports maritimes un droit de port en raison des opérations commerciales ou des séjours qui y sont effectués.
+ports maritimes un droit de port en raison des opérations commerciales ou des séjours qui y sont effectués. 
 
 4. Les taxes et redevances composant le droit de port sont perçues comme en matière de douane ; les infractions sont
-constatées et punies, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane.
+constatées et punies, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane. 
 
 Les frais de perception et de procédure incombant à l'administration sont prélevés sur le produit des taxes et redevances
 dans les conditions fixées par arrêté du ministre du budget.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
-	  - Loi n°68-1247 1968-12-31 art. 12 JORF 3 janvier 1969
-	  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 	**Cité par**:
 
@@ -16394,14 +16396,13 @@ dans les conditions fixées par arrêté du ministre du budget.
 	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 4 (V)
 	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. Annexe (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code pénal 280
-	  - Code des ports maritimes - art. L211-1 (M)
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 52 (V)
 
 	**Cite**:
 
-	  - Code des ports maritimes - art. L211-1 (M)
+	  - Code des ports maritimes - art. L211-1
 
 	**Codifié par**:
 
