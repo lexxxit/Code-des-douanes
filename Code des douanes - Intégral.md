@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-12-31
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -15536,23 +15536,81 @@ Il en est de même pour les échanges réalisés entre ces départements sauf en
 
 ### Section 1 : Champ d'application.
 
+###### Article 269
+
+Les véhicules de transport de marchandises qui empruntent le réseau routier sont  soumis à une taxe.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°83-392 du 18 mai 1983 - art. 4 (V)
+	  - Loi n°95-96 du 1 février 1995 - art. 24 (VT)
+	  - Décret n°2011-991 du 23 août 2011 - art. 1 (V)
+	  - Décret n°2011-991 du 23 août 2011 - art. 31 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 1 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 3 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 4 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 5 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 6 (V)
+	  - Décret n°2012-670 du 4 mai 2012 - art. 7 (V)
+	  - Décret n°2013-559 du 26 juin 2013 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 1 (V)
+	  - Décret n°2013-560 du 26 juin 2013 - art. 1 (V)
+	  - Arrêté du 3 juillet 2013 (V)
+	  - Arrêté du 3 juillet 2013 - art. (V)
+	  - Arrêté du 4 juillet 2013 (V)
+	  - Décret n°2013-618 du 11 juillet 2013 - art. 1 (V)
+	  - Décret n°2013-618 du 11 juillet 2013 - art. 3 (V)
+	  - Arrêté du 12 juillet 2013 (V)
+	  - Arrêté du 30 juillet 2013 (V)
+	  - Arrêté du 30 septembre 2014 (V)
+	  - Arrêté du 30 septembre 2014 - art. 1 (V)
+	  - Arrêté du 30 septembre 2014 - art. 2 (V)
+	  - Arrêté du 30 septembre 2014 - art. 3 (V)
+	  - Arrêté du 30 septembre 2014 - art. 4 (V)
+	  - Arrêté du 30 septembre 2014 - art. 6 (V)
+	  - Code de la route. - art. L325-1 (V)
+	  - Code de la route. - art. L330-2 (V)
+	  - Code des douanes - art. 270 (VD)
+	  - Code des douanes - art. 271 (VD)
+	  - Code des douanes - art. 272 (VD)
+	  - Code des douanes - art. 276 (VD)
+	  - Code des douanes - art. 413 (V)
+	  - Code des transports - art. L3221-2 (V)
+	  - Code des transports - art. L3222-3 (Ab)
+	  - Code des transports - art. L3223-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 265
+
+
 ###### Article 270
 
-I. ― Le réseau routier mentionné à l'article 269 est constitué par : 
+I.-Le réseau routier mentionné à l'article 269 est constitué par : 
 
-1° Les autoroutes et routes situées sur le territoire métropolitain et appartenant au domaine public routier national défini
-à l'article L. 121-1 du code de la voirie routière, à l'exception : 
-
-a) D'une part, des sections d'autoroutes et routes soumises à péages ; 
-
-b) D'autre part, des itinéraires n'appartenant pas au réseau transeuropéen au sens de la décision n° 1692/96/ CE du Parlement
-européen et du Conseil, du 23 juillet 1996, sur les orientations communautaires pour le développement du réseau transeuropéen
-de transport et sur lesquels le niveau de trafic des véhicules assujettis, antérieur à l'entrée en vigueur de la taxe, est
-particulièrement bas ; 
+1° Les autoroutes et routes situées sur le territoire métropolitain intégrées à des itinéraires supportant un trafic moyen
+journalier excédant 2 500 véhicules assujettis, et appartenant au domaine public routier national défini à l'article L. 121-1
+du code de la voirie routière, à l'exception des sections d'autoroutes et routes soumises à péages ; 
 
 2° Les routes appartenant à des collectivités territoriales, lorsque ces routes supportent ou sont susceptibles de supporter
-un report significatif de trafic en provenance des autoroutes à péages, des routes mentionnées au 1° ou des autoroutes ou
-routes situées hors du territoire métropolitain et soumises à péages, redevances ou taxation. 
+un report significatif de trafic en provenance des routes mentionnées au 1° du présent I. 
 
 II. ― Les routes et autoroutes mentionnées au I sont découpées en sections de tarification correspondant aux portions de voie
 situées entre deux intersections successives avec des voies publiques. Lorsque ces intersections sont très proches l'une de
@@ -15562,20 +15620,27 @@ tarification est associé à chaque section de tarification.
 Les sections de tarification et les points de tarification qui y sont associés sont définis par arrêté conjoint du ministre
 chargé des transports et du ministre chargé du budget. 
 
-III. ― Un décret en Conseil d'Etat fixe la liste des itinéraires qui relèvent de l'exception mentionnée au b du 1° du I. 
+III.-Un décret fixe la liste des routes et autoroutes mentionnées au 1° du I. 
 
-IV. ― Un décret en Conseil d'Etat, pris après avis des assemblées délibérantes des collectivités territoriales, fixe la liste
-des routes mentionnées au 2° du I. 
+IV.-Un décret fixe la liste des routes mentionnées au 2° du I, après avis des assemblées délibérantes des collectivités
+territoriales qui en sont propriétaires. 
 
 Cette liste est révisée selon la même procédure, sur demande des collectivités territoriales, en cas d'évolution du trafic en
 provenance du réseau taxable.
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 	**Cité par**:
 
@@ -15587,9 +15652,9 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 	  - Code des douanes - art. 274 (Ab)
 	  - Code des douanes - art. 276 (VD)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 18
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 	**Cite**:
 
@@ -15606,14 +15671,23 @@ poids total autorisé en charge supérieur à trois tonnes et demie.
 Ne sont toutefois pas considérés comme des véhicules de transport de marchandises les véhicules d'intérêt général
 prioritaires, les véhicules, propriété de l'Etat ou d'une collectivité locale, affectés à l'entretien et à l'exploitation des
 routes et les véhicules et matériels agricoles définis par voie réglementaire, les véhicules à citerne à produits
-alimentaires exclusivement utilisés pour la collecte du lait dans les fermes ainsi que les véhicules militaires.
+alimentaires exclusivement utilisés pour la collecte du lait dans les fermes, les véhicules exclusivement affectés au
+transport de matériel de cirque ou de fêtes foraines, les véhicules dédiés au transport de déchets d'animaux ou des carcasses
+non destinés à la consommation humaine ainsi que les véhicules militaires.
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 	**Cité par**:
 
@@ -15625,17 +15699,126 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 	  - Code des douanes - art. 273 (VD)
 	  - Code des douanes - art. 279 (Ab)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 13
-	  - Loi n°2013-431 du 28 mai 2013 - art. 14
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 	**Cite**:
 
 	  - Code des douanes - art. 269
 
 
+### Section 2 : Redevables.
+
+###### Article 272
+
+La taxe mentionnée à l'article 269 est due solidairement par le propriétaire, le conducteur ou tout utilisateur du véhicule
+de transport de marchandises. 
+
+Toutefois, lorsque le véhicule de transport de marchandises fait l'objet soit d'un contrat de crédit-bail, soit d'un contrat
+de location, la taxe est due solidairement par le locataire ou le sous-locataire, le conducteur ou tout utilisateur. Le
+propriétaire est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration de retard
+applicable. Un décret précise les conditions particulières qui en découlent pour le loueur.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 32 (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-559 du 26 juin 2013 - art. 1 (V)
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+	  - Code des douanes - art. 275 (MMN)
+	  - Code des douanes - art. 279 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 269
+
+
+### Section 3 : Fait générateur et exigibilité de la taxe.
+
+###### Article 273
+
+Le fait générateur intervient et la taxe est exigible lors du franchissement, par un véhicule de transport de marchandises
+mentionné à l'article 271, d'un point de tarification mentionné au II de l'article 270.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 2014 - art. 1 (V)
+	  - Arrêté du 30 septembre 2014 - art. 2 (V)
+	  - Arrêté du 30 septembre 2014 - art. 3 (V)
+	  - Arrêté du 30 septembre 2014 - art. 4 (V)
+	  - Arrêté du 30 septembre 2014 - art. 6 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
+	  - Code des douanes - art. 279 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 270 (VD)
+	  - Code des douanes - art. 271 (VD)
+
+
 ### Section 4 : Assiette, taux et barème.
+
+###### Article 274
+
+L'assiette de la taxe due est constituée par la longueur des sections de  tarification empruntées par le véhicule, exprimée
+en kilomètres, après  arrondissement à la centaine de mètres la plus proche.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Cité par**:
+
+	  - Décret n°2011-233 du 2 mars 2011 (V)
+	  - Décret n°2011-234 du 2 mars 2011 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
 
 ###### Article 275
 
@@ -15646,14 +15829,14 @@ Les catégories de véhicules sont déterminées, par décret en Conseil d'Etat,
 suivants : le nombre d'essieux, le poids total autorisé en charge, le poids total roulant autorisé du véhicule soumis à la
 taxe. 
 
-Le taux est modulé en fonction de la classe d'émission EURO du véhicule au sens de l'annexe 0 à la directive 1999/62/ CE du
+Le taux est modulé en fonction de la classe d'émission euro du véhicule au sens de l'annexe 0 à la directive 1999/62/ CE du
 Parlement européen et du Conseil, du 17 juin 1999, relative à la taxation des poids lourds pour l'utilisation de certaines
 infrastructures et, le cas échéant, en fonction du niveau de congestion de la section de tarification. 
 
 Un décret précise les conditions dans lesquelles le niveau de congestion de la section de tarification est pris en compte. 
 
-En cas de défaut de justification par le redevable de la classe d'émission EURO du véhicule, le taux kilométrique est
-déterminé en retenant la classe à laquelle correspond le taux kilométrique le plus élevé. 
+En cas de défaut de justification par le redevable de la classe d'émission euro du véhicule ou du poids total autorisé en
+charge, les valeurs les plus défavorables sont retenues. 
 
 2. Par exception, les taux kilométriques sont minorés de 30 % pour les régions comportant au moins un département
 métropolitain classé dans le décile le plus défavorisé selon leur périphéricité au sein de l'espace européen, appréciée au
@@ -15675,10 +15858,17 @@ tarification empruntée par le taux kilométrique déterminé conformément aux 
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 	**Cité par**:
 
@@ -15691,9 +15881,9 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 	  - Code des douanes - art. 279 (Ab)
 	  - Code des douanes - art. 282 (VD)
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 15
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 	**Cite**:
 
@@ -15704,52 +15894,49 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 
 ###### Article 276
 
-1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 et
-immatriculés en France métropolitaine doivent disposer d'un équipement électronique embarqué permettant l'enregistrement
-automatique, à chaque franchissement d'un point de tarification, des éléments nécessaires à la liquidation de ladite taxe.
-
-A compter de la même date, les véhicules de transport de marchandises mentionnés à l'article 269 et immatriculés hors de
-France métropolitaine sont tenus de disposer d'un tel équipement lorsqu'ils circulent sur le réseau mentionné à l'article
-270. 
+1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 doivent
+disposer d'un équipement électronique embarqué permettant l'enregistrement automatique, à chaque franchissement d'un point de
+tarification, des éléments nécessaires à la liquidation de ladite taxe lorsqu'ils circulent sur le réseau mentionné à
+l'article 270.
 
 2. La taxe due au titre des trajets effectués est liquidée à partir des informations collectées automatiquement au moyen de
 l'équipement électronique embarqué mentionné au 1, des informations déclarées lors de l'enregistrement du véhicule et des
 données paramétrées dans l'équipement électronique embarqué. 
 
 Les informations collectées au moyen des équipements électroniques embarqués, mis en œuvre dans une chaîne de collecte
-homologuée, font foi jusqu'à preuve du contraire.
+homologuée, font foi jusqu'à preuve du contraire. 
+
+En cas de mise en œuvre de la procédure de secours définie par décret en Conseil d'Etat, la liquidation est effectuée sur la
+base des points de tarification situés sur l'itinéraire convenu, à partir des informations déclarées lors de l'enregistrement
+du véhicule et des informations déclarées lors de la mise en œuvre de la procédure. 
 
 3. Lorsque le redevable passe un contrat avec une société habilitée lui fournissant un service de télépéage, il lui donne
 mandat pour déclarer son véhicule et acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
 communiqué à cette société au plus tard le dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables
 réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé l'équipement électronique embarqué fourni
-par la société habilitée.
+par la société habilitée. 
 
 A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans les cas et selon les modalités définis par
 décret en Conseil d'Etat. 
 
-4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur taxe.
+4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur
+taxe. 
 
 La taxe est liquidée et son montant est communiqué au redevable au plus tard le dixième jour de chaque mois, sur le fondement
 de l'ensemble des trajets taxables réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé
-l'équipement électronique embarqué.
+l'équipement électronique embarqué. 
 
 La liquidation de la taxe et la communication du montant dû par le redevable sont effectuées lors de la restitution de
-l'équipement électronique embarqué, ou dès que l'avance est insuffisante pour couvrir les trajets taxables réalisés.
+l'équipement électronique embarqué, ou dès que l'avance est insuffisante pour couvrir les trajets taxables réalisés. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+	  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 	**Cité par**:
 
@@ -15770,13 +15957,344 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 	  - Code des douanes - art. 277 (VD)
 	  - Code des douanes - art. 279 (VD)
 
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
 	**Cite**:
 
 	  - Code des douanes - art. 269
 	  - Code des douanes - art. 270
 
 
+###### Article 277
+
+1. Un décret en Conseil d'Etat définit les modalités de communication du montant aux sociétés habilitées fournissant un
+service de télépéage mentionnées au 3 de l'article 276 ainsi que les conditions dans lesquelles le redevable peut avoir accès
+à l'état récapitulatif des trajets et au détail de la tarification retenue dans les cas visés au 4 du même article. 
+
+2. Un décret en Conseil d'Etat fixe les modalités, y compris financières, selon lesquelles les équipements électroniques
+embarqués mentionnés au 1 de l'article 276 sont mis à disposition des redevables soumis aux dispositions du 4 du même
+article. 
+
+3. Un arrêté conjoint des ministres chargés des transports et du budget fixe les caractéristiques techniques des équipements
+électroniques embarqués mentionnés au 1 de l'article 276. 
+
+4. Un arrêté conjoint des ministres mentionnés au 3 définit les conditions dans lesquelles une société fournissant un service
+de télépéage peut être habilitée en vue de mettre à disposition des redevables visés au 3 de l'article 276 les équipements
+électroniques embarqués et d'acquitter la taxe pour leur compte.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Cité par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Arrêté du 28 septembre 2011 (V)
+	  - Arrêté du 21 janvier 2013 (V)
+	  - Code des douanes - art. 275 (Ab)
+	  - Code des douanes - art. 279 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 276 (VD)
+
+
+### Section 6 : Paiement de la taxe.
+
+###### Article 278
+
+Lorsque le redevable a passé un contrat avec une société habilitée fournissant  un service de télépéage, la taxe est
+acquittée par cette société pour le compte  du redevable au plus tard le dixième jour du mois suivant la liquidation.  
+
+A  titre dérogatoire, la taxe est acquittée par anticipation par la  société habilitée fournissant un service de télépéage
+dans les cas et  selon les modalités définis par décret en Conseil d'Etat.
+
+Le redevable ayant passé un contrat avec une société  habilitée lui fournissant un service de télépéage bénéficie, dans la
+limite  fixée par la directive n° 1999 / 62 / CE du Parlement européen et du Conseil, du  17 juin 1999, précitée, d'une
+réduction sur le montant de la taxe due pour tenir compte de  l'économie de gestion engendrée du fait de ce contrat. Les
+réductions  applicables sont déterminées par un arrêté conjoint des ministres  chargés des transports et du budget.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+	  - Arrêté du 14 mai 2013 (V)
+	  - Arrêté du 14 mai 2013 - art. 1 (V)
+	  - Code des douanes - art. 275 (Ab)
+	  - Code des douanes - art. 279 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+###### Article 279
+
+Dans les cas prévus au 4 de l'article 276, la taxe est acquittée par le redevable lors de la liquidation. 
+
+Le paiement s'effectue par imputation de l'avance.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles la taxe est acquittée. Il peut prévoir des mécanismes
+particuliers pour les redevables occasionnels.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 276
+
+
+###### Article 280
+
+La taxe est recouvrée par l'administration des douanes et droits indirects selon  les règles, garanties, privilèges et
+sanctions prévus par le présent code.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cité par**:
+
+	  - Code des ports maritimes - art. L211-4 (M)
+
+
 ### Section 7 : Recherche, constatation, sanction et poursuite.
+
+###### Article 281
+
+Les infractions aux dispositions relatives à  la taxe sont  réprimées, les poursuites sont effectuées et les instances sont
+instruites et jugées comme en matière de douane. 
+
+Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à première réquisition, aux agents des
+douanes, de la police nationale, de la gendarmerie nationale ou du contrôle des transports terrestres tous les éléments et
+documents susceptibles de justifier la régularité de la circulation desdits véhicules sur le réseau taxable.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+	**Cité par**:
+
+	  - Décret n°2011-991 du 23 août 2011 - art. 14 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 41 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 42 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 48 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 49 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 50 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 51 (V)
+	  - Décret n°2013-956 du 24 octobre 2013 - art. 2 (V)
+	  - Code des douanes - art. 283 (V)
+	  - Code des douanes - art. 283 bis (VD)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+###### Article 282
+
+Est  constitutive d'un manquement toute irrégularité ayant pour but ou pour  résultat d'éluder ou de compromettre le
+recouvrement de la taxe. 
+
+La circulation du redevable sur le réseau taxable, alors que l'avance  sur taxe est insuffisante, est constitutive d'un
+manquement. 
+
+Lorsqu'il est constaté un manquement, le redevable fait l'objet  d'une taxation forfaitaire égale au produit du taux défini
+aux 1 à 4 de l'article 275 par une distance forfaitaire de 500 kilomètres ou d'une taxation au réel, lorsque les éléments de
+liquidation sont connus. Le montant de la taxe forfaitaire ou au réel est doublé en cas d'existence d'un autre manquement au
+cours des trente derniers jours.  
+
+Le montant de la taxation forfaitaire ou au réel prévue au troisième alinéa est communiqué au redevable selon les modalités
+fixées par décret en Conseil d'Etat. Elle est exigible dès sa communication au redevable. 
+
+Lorsque l'irrégularité est constatée par des agents de la police nationale, de la gendarmerie nationale ou du contrôle des
+transports terrestres, ces derniers en informent les services des douanes qui mettent en œuvre la procédure de taxation
+forfaitaire ou au réel. 
+
+Le redevable dispose de la possibilité d'apporter la preuve de la distance réellement parcourue sur le réseau taxable par le
+véhicule en manquement. Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour une taxation au réel.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+	**Cité par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+	  - Décret n°2011-991 du 23 août 2011 - art. 37 (V)
+	  - Décret n°2013-559 du 26 juin 2013 - art. 39 (V)
+	  - Code des douanes - art. 283 quater (V)
+	  - Code des douanes - art. 413 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 275
+
+
+###### Article 283
+
+Le fait de détenir ou de transporter un appareil, dispositif ou produit de nature ou présenté comme étant de nature à déceler
+la présence, à perturber le fonctionnement ou à avertir ou informer de la localisation d'appareils, instruments ou systèmes
+servant à la constatation des manquements mentionnés à l'article 281, ou de permettre de se soustraire à la constatation de
+ces manquements est constitutif d'une infraction. 
+
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est constitutif d'une infraction. 
+
+Indépendamment des sanctions prévues à l'article 413, cet appareil, ce dispositif ou ce produit est saisi. Lorsque
+l'appareil, le dispositif ou le produit est placé, adapté ou appliqué sur un véhicule, ce véhicule peut également être saisi.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 281 (V)
+	  - Code des douanes - art. 413 (V)
+
+
+###### Article 283 bis
+
+Les agents mentionnés au deuxième alinéa de l'article 281 et habilités par les textes particuliers qui leur sont applicables
+disposent des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même
+alinéa. 
+
+La constatation des infractions mentionnées au même article 281 est faite par procès-verbal établi selon des modalités fixées
+par décret en Conseil d'Etat. 
+
+Les agents mentionnés au deuxième alinéa dudit article 281 sont habilités à transiger avec les personnes poursuivies dans les
+conditions prévues à l'article 350. 
+
+Ces agents peuvent immobiliser le véhicule en infraction dans les conditions fixées au chapitre V du titre II du livre III du
+code de la route afin d'assurer la perception de l'amende mentionnée à l'article 413 du présent code.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-559 du 26 juin 2013 - art. 52 (V)
+	  - Décret n°2013-956 du 24 octobre 2013 - art. 1 (V)
+	  - Code de la route. - art. R325-3 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 281
+	  - Code des douanes - art. 350 (V)
+	  - Code des douanes - art. 413 (V)
+
 
 ###### Article 283 ter
 
@@ -15801,6 +16319,82 @@ par arrêté conjoint  des ministres chargés des transports et du budget (arrê
 	**Cité par**:
 
 	  - Décret n°2011-845 du 15 juillet 2011 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+### Section 8 : Affectation du produit de la taxe.
+
+
+
+###### Article 283 quater
+
+Le produit de la taxe correspondant aux sommes perçues pour l'usage du réseau routier national est affecté à l'Agence de
+financement des infrastructures de transport de France. La taxe forfaitaire due au titre de l'article 282 lui est également
+affectée. 
+
+L'Etat rétrocède aux collectivités territoriales le produit de la taxe correspondant aux sommes perçues pour l'usage du
+réseau routier dont elles sont propriétaires, déduction faite des coûts exposés y afférents. Un arrêté conjoint des ministres
+chargés des transports et du budget fixe le montant de cette retenue qui est affectée à l'Agence de financement des
+infrastructures de transport de France.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+	**Cité par**:
+
+	  - Arrêté du 9 août 2013 (V)
+	  - Arrêté du 9 août 2013 - art. 1 (V)
+	  - Code des transports - art. L3222-3 (Ab)
+	  - Code des transports - art. L3223-3 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+	**Cite**:
+
+	  - Code des douanes - art. 282 (V)
+
+
+### Section 9 : Dispositions diverses.
+
+
+
+###### Article 283 quinquies
+
+Aux fins d'établissement de l'assiette de la taxe, de son recouvrement et des  contrôles nécessaires, un dispositif de
+traitement automatisé des données à  caractère personnel sera mis en œuvre, conformément aux modalités prévues par la  loi n°
+78-17  du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 
 	**Abrogé par**:
 
