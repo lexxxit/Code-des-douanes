@@ -1,44 +1,43 @@
 # Article 266 septies
 
-Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
+Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par : 
 
-1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ;
+1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ; 
 
 1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays
 d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant
-les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
+les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ; 
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils,
 d'arsenic, de mercure, de sélénium, de plomb, de zinc, de chrome, de cuivre, de nickel, de cadmium, de vanadium ainsi que de
-poussières totales en suspension ;
+poussières totales en suspension ; 
 
-3. (Alinéa abrogé) ;
+3. (Alinéa abrogé) ; 
 
 4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ; 
 
-b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
+b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ; 
 
-c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies. 
 
 5. La première livraison ou la première utilisation des préparations ou produits mentionnés au 5 du I de l'article 266
-sexies ;
+sexies ; 
 
-6. a) La première livraison des matériaux d'extraction mentionnés au a du 6 du I de l'article 266 sexies ;
+6. a) La première livraison des matériaux d'extraction mentionnés au a du 6 du I de l'article 266 sexies ; 
 
-b) La première utilisation de ces matériaux ;
+b) La première utilisation de ces matériaux ; 
 
-7. (Alinéa abrogé) ;
+7. (Alinéa abrogé) ; 
 
-8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ;
+8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ; 
 
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
+b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ; 
 
-9. (Alinéa abrogé) ;
+9. (Alinéa abrogé) ; 
 
-10. La première livraison ou la première utilisation des sacs de caisse à usage unique en matière plastique mentionnés au 10
-du I de l'article 266 sexies.
+10. (Abrogé)
 
 **Nota:**
 
@@ -70,8 +69,13 @@ Loi n° 2013-1278 du 29 décembre 2013, article 33 (III) : Ces dispositions s'ap
 	  - Code des douanes - art. 266 nonies (V)
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 sexies (V)
-	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 266 undecies (VD)
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 33 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1 (V)
+	  - Code de l'environnement - art. L512-8 (V)

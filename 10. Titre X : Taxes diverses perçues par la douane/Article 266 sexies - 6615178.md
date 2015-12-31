@@ -54,9 +54,7 @@ volume, des risques particuliers à l'environnement ;
 
 9. Alinéa abrogé ; 
 
-10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
-fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
-les caractéristiques sont définies par décret. 
+10. (Abrogé)
 
 II.-La taxe ne s'applique pas : 
 
@@ -97,8 +95,7 @@ destination d'un Etat membre de la Communauté européenne ou en une exportation
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants ; 
 
-7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret,
-d'un minimum de 40 % de matières végétales en masse. 
+7. (Abrogé)
 
 III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
 installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
@@ -156,7 +153,7 @@ de l'environnement ou de nuire à la santé humaine.
 	  - Code des douanes - art. 266 quaterdecies (Ab)
 	  - Code des douanes - art. 266 septies (V)
 	  - Code des douanes - art. 266 terdecies (V)
-	  - Code des douanes - art. 266 undecies (M)
+	  - Code des douanes - art. 266 undecies (VD)
 	  - Code des douanes - art. 268 ter (M)
 	  - Code des douanes - art. 285 sexies (V)
 	  - Code général des collectivités territoriales - art. L2333-92 (V)
@@ -179,8 +176,8 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Cite**:
 
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 84 (V)
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 84
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)

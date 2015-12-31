@@ -53,70 +53,47 @@ d'émission de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 d
 des accords volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux
 équivalents ou d'accroître leur rendement énergétique. 
 
-6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée. Elle est déterminée
-conformément au tableau ci-dessous : 
+6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
+mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous : 
 
 <table>
     <tbody>
       <tr>
-        <th>
+        <th rowspan="2">DÉSIGNATION DES PRODUITS 
 
 </th>
-        <th>
-
-</th>
-        <th colspan="3">
-
-TARIF (EN EUROS) 
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-DÉSIGNATION DES PRODUITS 
-
-</th>
-        <th>
+        <th rowspan="2">
 
 UNITÉ DE PERCEPTION 
 
 </th>
-        <th>
+        <th colspan="2">
 
-2014 
-
-</th>
-        <th>
-
-2015 
+TARIF 
 
 </th>
+      </tr>
+      <tr>
         <th>
 
 2016 
 
 </th>
+        <th>
+
+2017 
+
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td>
 
 2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme combustibles 
 
 </td>
-        <td align="center">
+        <td align="left">
 
 Mégawattheure 
-
-</td>
-        <td align="center">
-
-2,29 
-
-</td>
-        <td align="center">
-
-4,75 
 
 </td>
         <td align="center">
@@ -124,11 +101,14 @@ Mégawattheure
 7,21 
 
 </td>
+        <td align="center">
+
+9,99 </td>
       </tr>
     </tbody>
   </table>
 
-Le montant du tarif total est arrondi au mégawattheure le plus voisin. 
+Le montant de la taxe est arrondi à l'euro le plus proche. 
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -145,28 +125,39 @@ acquitter la taxe intérieure de consommation.
 3° La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et droits indirects. 
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
-final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration déposée dans un
-délai de deux mois suivant le trimestre concerné. La taxe correspondante est acquittée lors du dépôt de la déclaration. 
-
-La forme de la déclaration d'acquittement et les modalités déclaratives sont définies par arrêté du ministre chargé du
-budget. 
+final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration, conforme à un
+modèle fixé par l'administration, déposée avant le 25 du mois suivant le trimestre concerné. La taxe correspondante est
+acquittée dans le même délai. 
 
 La déclaration d'acquittement peut être effectuée par voie électronique ; 
 
 4° Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon
 les modalités définies par arrêté du ministre chargé du budget. 
 
+5° Par dérogation au 3°, les fournisseurs des produits mentionnés au 1 qui, au cours de l'année civile précédente, ont
+effectué des livraisons uniquement à des clients domestiques, dans la limite de 1 000 mégawattheures, peuvent déclarer et
+acquitter la taxe auprès de l'administration des douanes et droits indirects, selon une périodicité annuelle. Les quantités
+d'énergie livrées au cours de l'année civile sont portées sur une déclaration conforme à un modèle fixé par l'administration
+et déposée avant le 31 janvier suivant l'année concernée. La taxe correspondante est acquittée dans le même délai. Lorsque,
+au cours d'une année, le redevable ne remplit plus les conditions ouvrant droit au bénéfice de ce régime simplifié, il
+déclare et acquitte la taxe conformément au 3°. 
+
 8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits soient soumis à la taxe intérieure de
-consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 sont tenues,
-sans préjudice des pénalités applicables, au paiement de la taxe lorsque ces produits n'ont pas été affectés à la destination
-ou à l'utilisation ayant justifié l'absence de taxation ou l'exonération. 
+consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 ou qui ont
+bénéficié d'un taux réduit prévu à l'article 265 nonies sont tenues, sans préjudice des pénalités applicables, au paiement de
+la taxe lorsque ces produits n'ont pas été affectés à la destination ou à l'utilisation ayant justifié l'absence de taxation
+ou l'exonération. 
 
 9. Abrogé (à compter du 1er janvier 2008). 
 
 10. Lorsque les houilles, lignites et cokes ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont
-été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 du
-présent article, l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions
-prévues à l'article 352.
+été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou
+à un usage permettant l'application d'un taux réduit conformément à l'article 265 nonies, l'utilisateur final peut demander
+le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
 
 **Liens relatifs à cet article**
 
@@ -186,13 +177,15 @@ prévues à l'article 352.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 32
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 14
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L3333-2
 	  - Code des douanes - art. 265 C
+	  - Code des douanes - art. 265 nonies (V)
 	  - Code des douanes - art. 266 quinquies A
-	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 352
 	  - Code de l'environnement - art. L229-5
+	  - Code de l'énergie - art. L121-27 (V)
+	  - Code de l'énergie - art. L314-1 (V)

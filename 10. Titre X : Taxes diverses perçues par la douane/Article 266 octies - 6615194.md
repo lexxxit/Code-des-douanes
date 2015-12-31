@@ -20,7 +20,7 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 8. (Alinéa abrogé) ; 
 
-9. Le poids des sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de l'article 266 sexies.
+9. (Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -34,7 +34,7 @@ assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
 
 	**Modifié par**:
 
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
 
 	**Cite**:
 

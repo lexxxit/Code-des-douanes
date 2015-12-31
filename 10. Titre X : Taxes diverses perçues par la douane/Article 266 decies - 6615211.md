@@ -9,14 +9,15 @@ lubrifiants sont expédiés à destination d'un Etat membre de l'Union européen
 prévus par l'article 3 de la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie, sont
 autorisées à déduire des cotisations de taxe dues par elles au titre de leurs installations situées dans la zone surveillée
 par le réseau de mesure de ces organismes les contributions ou dons de toute nature qu'elles ont versés à ceux-ci dans les
-douze mois précédant la date limite de dépôt de la déclaration. Cette déduction s'exerce dans la limite de 171000 euros ou à
-concurrence de 25 % des cotisations de taxe dues. 
+douze mois précédant la date limite de dépôt de la déclaration. Cette déduction, qui s'entend par installation, s'exerce dans
+la limite de 171 000 euros ou à concurrence de 25 % des cotisations de taxe dues. Pour les personnes disposant de plusieurs
+installations, cette limite ou ce plafond est déterminé par installation.
 
 3. Les préparations pour lessives, y compris les préparations auxiliaires de lavage, les produits adoucissants ou
-assouplissants pour le linge, les matériaux d'extraction, les sacs de caisse à usage unique en matière plastique, mentionnés
-respectivement aux 5,6 et 10 du I de l'article 266 sexies donnent lieu, sur demande du redevable de la taxe générale sur les
-activités polluantes ou de celui qui l'a supportée, à remboursement de la taxe acquittée, dans les conditions prévues à
-l'article 352, lorsqu'ils sont expédiés à destination d'un Etat membre de l'Union européenne ou exportés. 
+assouplissants pour le linge, les matériaux d'extraction, mentionnés respectivement aux 5 et 6 du I de l'article 266 sexies
+donnent lieu, sur demande du redevable de la taxe générale sur les activités polluantes ou de celui qui l'a supportée, à
+remboursement de la taxe acquittée, dans les conditions prévues à l'article 352, lorsqu'ils sont expédiés à destination d'un
+Etat membre de l'Union européenne ou exportés. 
 
 4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes
@@ -25,7 +26,7 @@ physiques ou morales une copie des éléments d'assiette et de tarifs déclarés
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
 avec les personnes physiques ou morales auxquelles elles vendent les produits correspondants. 
 
-6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5,6 et 10 du I de l'article 266 sexies
+6. Les personnes qui acquièrent ou importent des produits mentionnés au a du 4 et aux 5 et 6 du I de l'article 266 sexies
 sont autorisées à acquérir ou importer, en suspension de la taxe générale sur les activités polluantes, ces mêmes produits
 qu'elles destinent à une livraison à l'exportation ou vers un autre Etat membre de l'Union européenne, dans la limite de la
 taxe générale sur les activités polluantes qui aurait été acquittée au cours de l'année précédente si les livraisons avaient
@@ -45,9 +46,9 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Cite**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 3 (Ab)
-	  - Code des douanes - art. 266 sexies (V)
-	  - Code des douanes - art. 352 (V)
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 3
+	  - Code des douanes - art. 266 sexies
+	  - Code des douanes - art. 352
 
 	**Cité par**:
 
@@ -73,4 +74,5 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 29 (V)
