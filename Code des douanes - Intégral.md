@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-01-28
+Version Consolidée au 2016-05-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -19418,10 +19418,15 @@ subsistantes pour les instructions et jugements desquelles lesdits registres et 
 
 ###### Article 354
 
-Le droit de reprise de l'administration s'exerce pendant un délai de trois ans, à compter du fait générateur, à l'exclusion
-des droits communiqués en application du 3 de l'article 221 du code des douanes communautaire. 
+Sous réserve de l'article 354 bis, le droit de reprise de l'administration s'exerce pendant un délai de trois ans, à compter
+du fait générateur. 
 
 La prescription est interrompue par la notification d'un procès-verbal de douane.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux faits générateurs intervenant après le 1er mai 2016 et à ceux non encore prescrits à cette
+date.
 
 **Liens relatifs à cet article**
 
@@ -19438,39 +19443,118 @@ La prescription est interrompue par la notification d'un procès-verbal de douan
 
 	**Modifié par**:
 
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 92 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 354 bis (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 354 bis
+
+Le droit de reprise prévu par le 1 de l'article 103 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9
+octobre 2013 établissant le code des douanes de l'Union, applicable à la dette douanière définie par les 18, 20 et 21 de
+l'article 5 du même règlement, est porté à cinq ans dans les cas prévus au 2 de l'article 103 dudit règlement. 
+
+Outre les cas de suspension mentionnés au 3 de l'article 103 du même règlement, le droit de reprise mentionné au premier
+alinéa du présent article est interrompu par la notification d'un procès-verbal de douane, jusqu'à la dixième année qui suit
+celle au titre de laquelle les droits sont dus.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux faits générateurs intervenant après le 1er mai 2016 et à ceux non encore prescrits à cette
+date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 92 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 354 (V)
+	  - Code des douanes - art. 354 ter (V)
+
+
+###### Article 354 quater
+
+Pour l'application des articles 354 à 354 ter, les agents des douanes mettent en œuvre les pouvoirs prévus par le présent
+code, même si la prescription prévue par l'article 351 est écoulée.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux faits générateurs intervenant après le 1er mai 2016 et à ceux non encore prescrits à cette
+date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 92 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 351 (V)
+	  - Code des douanes - art. 354 (V)
+
+
+###### Article 354 ter
+
+Même si les délais prévus aux articles 354 et 354 bis sont écoulés, les omissions ou insuffisances d'imposition constitutives
+d'infractions ayant pour objet ou résultat le non recouvrement de droit ou de taxes, révélées par une procédure judiciaire ou
+par une procédure devant les juridictions administratives, peuvent être réparées par l'administration des douanes jusqu'à la
+fin de l'année suivant celle de la décision qui a clos l'instance et, au plus tard, jusqu'à la fin de la dixième année qui
+suit celle au titre de laquelle l'imposition est due.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux faits générateurs intervenant après le 1er mai 2016 et à ceux non encore prescrits à cette
+date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 92 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 354 bis (V)
+
+
 ##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.
 
 ###### Article 355
 
-1. Les prescriptions visées par le 1 de l'article 352 et les articles, 353 et 354 ci-dessus n'ont pas lieu et deviennent
+1. Les prescriptions visées par le 1 de l'article 352 et les articles 353,354 et 354 bis n'ont pas lieu et deviennent
 trentenaires quand il y a, avant les termes prévus, demande formée en justice, condamnation, promesse, convention ou
-obligation particulière et spéciale relative à l'objet qui est répété.
+obligation particulière et spéciale relative à l'objet qui est répété. 
 
-2. Il en est de même à l'égard de la prescription visée à l'article 354 lorsque c'est par un acte frauduleux du redevable que
-l'administration a ignoré l'existence du fait générateur de son droit et n'a pu exercer l'action qui lui compétait pour en
-poursuivre l'exécution.
+2. Abrogé. 
 
 3. A compter de la notification de l'avis de mise en recouvrement, l'administration des douanes dispose d'un délai de quatre
 ans pour recouvrer la créance.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux faits générateurs intervenant après le 1er mai 2016 et à ceux non encore prescrits à cette
+date.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 57
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 92
 
 	**Cite**:
 
-	  - Code des douanes - art. 352
-	  - Code des douanes - art. 353
-	  - Code des douanes - art. 354
+	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 353 (V)
 
 
 ## Chapitre III : Procédure devant les tribunaux
