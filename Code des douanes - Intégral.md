@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-05-21
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -3109,8 +3109,8 @@ au secret professionnel prévu à l'article 59 bis du présent code.
 ###### Article 67 quinquies
 
 Pour rechercher et constater les infractions prévues par le présent code en matière de tabac, les agents de l'administration
-des douanes des catégories A et B ont accès aux informations contenues dans les traitements prévus à l'article 569 du code
-général des impôts, dans les conditions prévues à l'article L. 80 N du livre des procédures fiscales. 
+des douanes des catégories A et B ont accès aux informations contenues dans les traitements prévus à l'article L. 3512-24 du
+code de la santé publique, dans les conditions prévues à l'article L. 80 N du livre des procédures fiscales. 
 
 En cas de constatation d'une infraction, le résultat de la consultation des informations mentionnées au premier alinéa du
 présent article est indiqué sur tout document, quel qu'en soit le support, annexé au procès-verbal constatant l'infraction.
@@ -3119,12 +3119,12 @@ présent article est indiqué sur tout document, quel qu'en soit le support, ann
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 2
+	  - Ordonnance n°2016-623 du 19 mai 2016 - art. 4
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 569
-	  - Livre des procédures fiscales - art. L80 N
+	  - Livre des procédures fiscales - art. L80 N (V)
+	  - Code de la santé publique - art. L3512-24 (V)
 
 
 ###### Article 67 sexies
