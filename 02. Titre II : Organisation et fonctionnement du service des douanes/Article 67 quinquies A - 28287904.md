@@ -1,7 +1,7 @@
 # Article 67 quinquies A
 
 Les agents des douanes peuvent recourir à toute personne qualifiée pour effectuer des expertises techniques nécessaires à
-l'accomplissement de leurs missions et peuvent leur soumettre les objets et documents utiles à ces expertises. 
+l'accomplissement de leurs missions et peuvent leur soumettre les objets, échantillons et documents utiles à ces expertises. 
 
 Les personnes ainsi appelées rédigent un rapport qui contient la description des opérations d'expertise ainsi que leurs
 conclusions. Ce rapport est communiqué aux agents des douanes et est annexé à la procédure. En cas d'urgence, leurs
@@ -13,16 +13,16 @@ au secret professionnel prévu à l'article 59 bis du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
-
 	**Cité par**:
 
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 72 (V)
 	  - Décret n°2016-1443 du 26 octobre 2016 - art. 1 (V)
 	  - Décret n°2016-1443 du 26 octobre 2016 - art. 6 (V)
 	  - Code des douanes - art. 64 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
 
 	**Cite**:
 

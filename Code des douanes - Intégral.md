@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-05-21
+Version Consolidée au 2016-06-05
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1918,24 +1918,23 @@ Afin de procéder aux investigations nécessaires à la recherche et à la const
 les agents des douanes de catégorie A ou B et les agents de catégorie C pour autant qu'ils soient accompagnés de l'un des
 agents précités ont accès aux locaux et lieux à usage professionnel, ainsi qu'aux terrains et aux entrepôts où les
 marchandises et documents se rapportant à ces infractions sont susceptibles d'être détenus quel qu'en soit le support. Aux
-mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement.
+mêmes fins, ils ont accès aux moyens de transport à usage professionnel et à leur chargement. 
 
 Cet accès a lieu entre 8 heures et 20 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé, ou lorsque
 sont en cours des activités de production, de fabrication, de conditionnement, de transport, de manutention, d'entreposage ou
-de commercialisation.
+de commercialisation. 
 
 Le procureur de la République est préalablement informé des opérations visées au premier alinéa et peut s'y opposer. Un
 procès-verbal de constat relatant le déroulement des opérations de contrôle lui est transmis dans les cinq jours suivant son
-établissement. Une copie en est transmise à l'intéressé dans le même délai.
+établissement. Une copie en est transmise à l'intéressé dans le même délai. 
 
-Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent effectuer un prélèvement
-d'échantillons, dans des conditions fixées par décret en Conseil d'Etat, et procéder à la retenue de documents pour les
-besoins de l'enquête ou en prendre copie quel qu'en soit le support.
+Au cours de leurs investigations, les agents des douanes mentionnés au premier alinéa peuvent                    procéder à
+la retenue de documents pour les besoins de l'enquête ou en prendre copie quel qu'en soit le support. 
 
 Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats membres
 de la Communauté européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à
 mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
-les autres Etats membres de la Communauté européenne.
+les autres Etats membres de la Communauté européenne. 
 
 Le présent article s'applique à la partie affectée à usage privatif des locaux et lieux mentionnés au premier alinéa lorsque
 leur occupant ou son représentant en donne l'assentiment exprès. Cet assentiment fait l'objet d'une déclaration signée par
@@ -1972,13 +1971,13 @@ l'intéressé et recueillie sur place, annexée au procès-verbal mentionné au 
 	  - Code rural et  de la pêche maritime - art. L236-6 (V)
 	  - Code rural et de la pêche maritime - art. L251-18-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
+
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°2014-315 du 11 mars 2014 - art. 15
 
 
 ###### Article 64
@@ -2432,34 +2431,33 @@ Les dispositions du présent code relatives aux sommes éludées ou compromises 
 1° Au titre des dispositions dérogatoires de l'article 2 bis, l'administration des douanes est habilitée à contrôler la
 quantité, la qualité, les marquages, les emballages, la destination ou l'utilisation des marchandises ayant le statut
 national ou communautaire, pour lesquelles un avantage quelconque alloué par le fonds européen d'orientation et de garantie
-agricole, section garantie, ou par le fonds européen agricole de garantie, est sollicité.
+agricole, section garantie, ou par le fonds européen agricole de garantie, est sollicité. 
 
 En outre, elle est habilitée à délivrer les agréments conformément à la réglementation communautaire en vigueur, lorsque
 ceux-ci sont nécessaires pour l'attribution des avantages sollicités, quelle qu'en soit la nature, auprès du fonds européen
-d'orientation et de garantie agricole, section garantie ou du fonds européen agricole de garantie.
+d'orientation et de garantie agricole, section garantie ou du fonds européen agricole de garantie. 
 
 2° Les marchandises ayant le statut national ou communautaire, exportées vers un autre Etat membre de la Communauté
 européenne, importées d'un autre Etat membre de la Communauté européenne ou faisant l'objet d'une opération sur le territoire
 douanier et pour lesquelles l'utilisation ou la destination sont contrôlées conformément à la réglementation communautaire,
 sont présentées au service des douanes. Les agents des douanes sont chargés de viser les documents de contrôle relatifs à ces
-marchandises.
+marchandises. 
 
 Les catégories de marchandises visées à l'alinéa précédent ainsi que les modalités de la présentation en douane sont fixées
-par un arrêté du ministre chargé des douanes.
+par un arrêté du ministre chargé des douanes. 
 
 3° Les contrôles visés au 1, lorsqu'ils portent sur des marchandises faisant l'objet d'opérations à l'intérieur du territoire
 douanier de la Communauté européenne, et les contrôles visés au 2 sont effectués conformément aux dispositions prévues par
-les articles 1er, 2, 3, 322 bis, 468 et 469 ainsi que par le présent titre.
+les articles 1er, 2,3,322 bis, 468 et 469 ainsi que par le présent titre. 
 
 4° Dans tous les cas, les agents des douanes ont accès aux locaux et aux terrains à usage professionnel, à l'exclusion des
 domiciles ou de la partie des locaux qui sert de domicile, entre 8 heures et 20 heures, ou, en dehors de ces heures,
-lorsqu'une activité est en cours.
+lorsqu'une activité est en cours. 
 
-5° Dans le cadre de leurs contrôles, les agents des douanes peuvent procéder à des prélèvements d'échantillons aux fins
-d'analyse ou d'expertise.
+5° (abrogé) 
 
-6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412, 414 à 430, et au titre XV sont applicables lorsque
-les agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
+6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412,414 à 430, et au titre XV sont applicables lorsque les
+agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus. 
 
 7° Les dispositions du titre XII à l'exclusion des articles 410 à 430, les sanctions figurant au premier alinéa de l'article
 414 et les dispositions du titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet d'obtenir, en tout
@@ -2469,16 +2467,17 @@ territoire douanier de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
+
 	**Cite**:
 
 	  - Code des douanes - art. 1 (V)
-	  - Code des douanes - art. 2 (V)
 	  - Code des douanes - art. 2 bis (V)
-	  - Code des douanes - art. 3 (V)
-	  - Code des douanes - art. 322 bis (M)
-	  - Code des douanes - art. 468 (M)
-	  - Code des douanes - art. 469 (V)
-	  - Code des douanes 1, 2, 2 bis, 3, 322 bis, 410 à 412, 414 à 430, 468, 469
+	  - Code des douanes - art. 322 bis (V)
+	  - Code des douanes - art. 410 (V)
+	  - Code des douanes - art. 468 (V)
 
 	**Codifié par**:
 
@@ -2639,6 +2638,8 @@ Les résultats de cette vérification d'identité sont communiqués sans délai 
 
 ### Section 7 : Livraisons surveillées.
 
+### Section 7 : Procédures spéciales d'enquête douanière
+
 ###### Article 67 bis
 
 I.-Sans préjudice de l'application des dispositions des articles 60,61,62,63,63 bis, 63 ter et 64, afin de constater les
@@ -2664,7 +2665,8 @@ contrôle, à une opération d'infiltration dans les conditions prévues par le 
 - les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées comme
 stupéfiants, de contrebande de tabac manufacturé, d'alcool et spiritueux ;
 
-- les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes ;
+- les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes, des armes ou leurs
+éléments, des munitions ou des explosifs ;
 
 - les infractions prévues à l'article 415 ; 
 
@@ -2774,7 +2776,7 @@ identité.
 	  - Code de procédure pénale - art. D15-1-1 (V)
 	  - Code de procédure pénale - art. D15-1-2 (V)
 	  - Code de procédure pénale - art. D15-1-4 (V)
-	  - Code des douanes - art. 67 bis-1 (M)
+	  - Code des douanes - art. 67 bis-1 (V)
 	  - Code des douanes - art. 67 bis-1 A (V)
 
 	**Liens**:
@@ -2788,7 +2790,7 @@ identité.
 
 	**Modifié par**:
 
-	  - Loi n°2014-315 du 11 mars 2014 - art. 9
+	  - Loi n°2016-731 du 3 juin 2016 - art. 27
 
 	**Cite**:
 
@@ -2824,10 +2826,13 @@ d'emprunt en vue de l'acquisition des produits stupéfiants. Dans ce cadre, les 
 
 a) Participer sous un pseudonyme à des échanges électroniques ; 
 
-b) Etre en contact sous ce pseudonyme avec les personnes susceptibles d'être les auteurs de l'infraction ; 
+b) Etre en contact par le moyen mentionné au a avec les personnes susceptibles d'être les auteurs de ces infractions ;
 
-c) Extraire, acquérir sous ce pseudonyme ou conserver des données sur les personnes susceptibles d'être les auteurs de
-l'infraction ainsi que sur les comptes bancaires utilisés. 
+c) Extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d'être
+les auteurs de ces infractions ainsi que sur les comptes bancaires utilisés ;
+
+d) Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites, dans des conditions
+fixées par décret. 
 
 L'exonération de responsabilité prévue au premier alinéa du présent article est également applicable, pour les actes commis à
 seule fin de procéder à l'opération d'acquisition des produits stupéfiants, aux personnes requises par les agents des douanes
@@ -2840,13 +2845,13 @@ La révélation de l'identité d'emprunt des agents des douanes ayant effectué 
 V de l'article 67 bis du présent code. 
 
 Le présent article est applicable aux fins de constatation de l'infraction d'importation, d'exportation ou de détention
-illicite de tabac manufacturé et de marchandises contrefaisantes.
+illicite de tabac manufacturé, d'armes ou de leurs éléments, de munitions ou d'explosifs et de marchandises contrefaisantes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-315 du 11 mars 2014 - art. 10
+	  - Loi n°2016-731 du 3 juin 2016 - art. 27
 
 	**Cité par**:
 
@@ -2858,7 +2863,43 @@ illicite de tabac manufacturé et de marchandises contrefaisantes.
 	**Cite**:
 
 	  - Code des douanes - art. 399
-	  - Code des douanes - art. 67 bis
+	  - Code des douanes - art. 67 bis (V)
+
+
+###### Article 67 bis-1 A
+
+Dans le but de constater les délits mentionnés aux articles 414, 415 et 459 et, lorsque ceux-ci sont commis par un moyen de
+communication électronique, d'en rassembler les preuves et d'en rechercher les auteurs, les complices ainsi que ceux qui y
+ont participé comme intéressés au sens de l'article 399, les agents des douanes habilités par le ministre chargé des douanes
+dans des conditions fixées par décret peuvent, après information du procureur de la République et sauf opposition de ce
+magistrat, procéder aux actes suivants sans être pénalement responsables : 
+
+1° Participer sous un pseudonyme aux échanges électroniques ; 
+
+2° Etre en contact par le moyen mentionné au 1° du présent article avec les personnes susceptibles d'être les auteurs, les
+complices ou les intéressés à la fraude de ces infractions ; 
+
+3° Extraire, acquérir ou conserver par ce moyen les éléments de preuve et les données sur les personnes susceptibles d'être
+les auteurs, les complices ou les intéressés à la fraude de ces infractions. 
+
+Si les nécessités de l'enquête douanière l'exigent, les agents des douanes habilités peuvent faire usage d'une identité
+d'emprunt. La révélation de l'identité de ces agents est passible des peines prévues au V de l'article 67 bis. 
+
+A peine de nullité, ces actes ne peuvent constituer une incitation à commettre ces infractions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 39
+
+	**Cite**:
+
+	  - Code des douanes - art. 399 (V)
+	  - Code des douanes - art. 414 (V)
+	  - Code des douanes - art. 415 (V)
+	  - Code des douanes - art. 459 (V)
+	  - Code des douanes - art. 67 bis (V)
 
 
 ###### Article 67 bis-2
@@ -3076,7 +3117,7 @@ incidentes.
 ###### Article 67 quinquies A
 
 Les agents des douanes peuvent recourir à toute personne qualifiée pour effectuer des expertises techniques nécessaires à
-l'accomplissement de leurs missions et peuvent leur soumettre les objets et documents utiles à ces expertises. 
+l'accomplissement de leurs missions et peuvent leur soumettre les objets, échantillons et documents utiles à ces expertises. 
 
 Les personnes ainsi appelées rédigent un rapport qui contient la description des opérations d'expertise ainsi que leurs
 conclusions. Ce rapport est communiqué aux agents des douanes et est annexé à la procédure. En cas d'urgence, leurs
@@ -3088,10 +3129,6 @@ au secret professionnel prévu à l'article 59 bis du présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
-
 	**Cité par**:
 
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 72 (V)
@@ -3099,9 +3136,32 @@ au secret professionnel prévu à l'article 59 bis du présent code.
 	  - Décret n°2016-1443 du 26 octobre 2016 - art. 6 (V)
 	  - Code des douanes - art. 64 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
+
 	**Cite**:
 
 	  - Code des douanes - art. 59 bis
+
+
+### Section 11 : Prélèvement d'échantillons
+
+###### Article 67 quinquies B
+
+En cas de vérification des marchandises prévue par la réglementation douanière européenne ou dans le cadre de l'application
+du présent code, les agents des douanes peuvent procéder ou faire procéder à des prélèvements d'échantillons, aux fins
+d'analyse ou d'expertise, dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
+
+	**Cité par**:
+
+	  - Décret n°2016-1443 du 26 octobre 2016 (V)
 
 
 ## Chapitre IV bis : Consultation des traitements automatisés de données aux fins de contrôles douaniers
@@ -4271,31 +4331,6 @@ conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appl
 
 
 ## Chapitre II : Vérification des marchandises
-
-### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.
-
-###### Article 101
-
-En  cas de vérification des marchandises prévue au titre IV du règlement  (CEE) n° 2913/92 du Conseil du 12 octobre 1992
-établissant le code des douanes communautaire  et au titre VIII de la partie I du règlement (CEE) n° 2454/93 de la
-Commission du 2 juillet 1993 fixant certaines dispositions d'application  du règlement (CEE) n° 2913/92 du Conseil
-établissant le code des douanes communautaire, les modalités de prélèvement des échantillons sont définies par décret en
-Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 61
-
-	**Abrogé par**:
-
-	  - Loi n°2016-731 du 3 juin 2016 - art. 38
-
 
 ### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.
 
@@ -17854,9 +17889,8 @@ d'appartenir à l'une des catégories de marchandises énumérées dans ces mêm
 qui les transportent, dans les locaux professionnels ou dans tout autre lieu autorisé par le service, aux frais du
 propriétaire, du destinataire, de l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération
 d'importation ou d'exportation, pendant une durée de dix jours, renouvelable sur autorisation du procureur de la République
-dans la limite de vingt et un jours au total, aux fins de vérification pour laquelle ils peuvent procéder ou faire procéder
-au prélèvement d'échantillons pour analyse. Ils peuvent, le cas échéant, contraindre le transporteur à se rendre sur un lieu
-approprié.
+dans la limite de vingt et un jours au total, aux fins de vérification. Ils peuvent, le cas échéant, contraindre le
+transporteur à se rendre sur un lieu approprié. 
 
 Les marchandises et les véhicules consignés sont confiés à la garde du détenteur ou de toute autre personne sur les lieux de
 la consignation.
@@ -17880,12 +17914,11 @@ la consignation.
 
 	**Modifié par**:
 
-	  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
-	  - Loi - art. 44 (V) JORF décembre 2002
+	  - Loi n°2016-731 du 3 juin 2016 - art. 38
 
 	**Cite**:
 
-	  - Code des douanes - art. 38 (M)
+	  - Code des douanes - art. 38 (VT)
 
 	**Codifié par**:
 
@@ -20993,6 +21026,21 @@ Toute tentative de délit douanier est considérée comme le délit même.
 	  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
+###### Article 409-1
+
+L'article 707-6 du code de procédure pénale est applicable aux amendes douanières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 82
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 707-6 (V)
+
+
 #### Paragraphe 2 : Contraventions douanières
 
 ##### A. - Première classe.
@@ -21401,6 +21449,24 @@ classées comme stupéfiants.
 	**Modifié par**:
 
 	  - Loi n°2011-267 du 14 mars 2011 - art. 109
+
+
+###### Article 415-1
+
+Pour l'application de l'article 415, les fonds sont présumés être le produit direct ou indirect d'un délit prévu au présent
+code ou d'une infraction à la législation sur les substances ou plantes vénéneuses classées comme stupéfiants lorsque les
+conditions matérielles, juridiques ou financières de l'opération d'exportation, d'importation, de transfert ou de
+compensation ne paraissent obéir à d'autre motif que de dissimuler que les fonds ont une telle origine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 35
+
+	**Cite**:
+
+	  - Code des douanes - art. 415 (V)
 
 
 ##### C. ― Troisième classe
