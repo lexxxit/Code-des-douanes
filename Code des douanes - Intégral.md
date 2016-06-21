@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-06-05
+Version Consolidée au 2016-06-22
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1498,6 +1498,19 @@ intervenir dans l'application de la législation des douanes.
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
+###### Article 59 nonies
+
+Les agents des douanes et les agents placés sous l'autorité du ministre chargé de l'énergie sont autorisés à se communiquer,
+sur demande ou spontanément, tous les renseignements et documents détenus ou recueillis dans l'exercice de leurs missions
+relatives aux produits pétroliers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 60
+
+
 ###### Article 59 octies
 
 Les agents des douanes et les agents de la direction générale de la prévention des risques et de ses services déconcentrés
@@ -2635,8 +2648,6 @@ Les résultats de cette vérification d'identité sont communiqués sans délai 
 
 	  - Code de procédure pénale - art. 78-3
 
-
-### Section 7 : Livraisons surveillées.
 
 ### Section 7 : Procédures spéciales d'enquête douanière
 
@@ -7451,59 +7462,78 @@ est délivrée par les services déconcentrés des affaires maritimes.
 I. - Pour être francisé, un navire armé au commerce ou à la plaisance, qui a fait l'objet d'un contrôle de sécurité
 conformément à la réglementation en vigueur, doit répondre aux conditions suivantes :
 
-1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
-taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour infractions
-aux lois françaises ;
+1° Avoir été construit dans le territoire d'un Etat membre de l'Union européenne ou y avoir acquitté les droits et taxes
+d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour infractions aux
+lois françaises ;
 
-2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
-partie à l'accord sur l'Espace économique européen qui, s'ils résident sur le territoire de la République française moins de
-six mois par an, doivent y faire élection de domicile pour toutes les affaires administratives ou judiciaires se rapportant à
-la propriété et à l'état du navire ;
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie
+à l'accord sur l'Espace économique européen qui, s'ils résident sur le territoire de la République française moins de six
+mois par an, doivent y faire élection de domicile pour toutes les affaires administratives ou judiciaires se rapportant à la
+propriété et à l'état du navire. Si le navire est détenu en copropriété, chacun des gérants doit résider en France ou, s'il y
+réside moins de six mois par an, y faire élection de domicile ;
 
 B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
-territoire de la République française ou d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que le navire soit dirigé et contrôlé à
-partir d'un établissement stable situé sur le territoire français.
+territoire de la République française ou d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que le navire soit dirigé et contrôlé à partir
+d'un établissement stable situé sur le territoire français.
 
-Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne ou n'étant pas partie à
+Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à l'Union européenne ou n'étant pas partie à
 l'accord sur l'Espace économique européen lorsque, en application d'une convention conclue entre la France et cet Etat, une
 société constituée conformément à la loi française peut régulièrement exercer son activité sur le territoire dudit Etat et y
 avoir son siège social. Le navire doit alors être également dirigé et contrôlé à partir d'un établissement stable situé sur
 le territoire français ;
 
-C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
-partie à l'accord sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à
+l'accord sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les
 conditions prévues au B ;
 
 D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
 crédit-bail :
 
-a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
-sur l'Espace économique européen remplissant les conditions prévues au A ;
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen remplissant les conditions prévues au A ;
 
 b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
 
-c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
-sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les conditions prévues
-au B ;
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les conditions prévues au
+B ;
+
+E. - Soit être affrété coque nue par : 
+
+a) Une personne physique remplissant les conditions de nationalité et de résidence définies au A ; 
+
+b) Ou une société remplissant les conditions de nationalité, de siège social ou d'établissement stable définies au B ;
+
+F. - Soit être un navire dont la gestion nautique remplit les critères suivants : 
+
+a) Elle est effectivement exercée depuis la France par un établissement stable de la société propriétaire ou d'une société
+française liée contractuellement avec le propriétaire pour en assurer la gestion nautique ; 
+
+b) Le gestionnaire de navire, responsable de son exploitation, est détenteur d'un document de conformité en application du
+code international de gestion de la sécurité et remplit les conditions de nationalité, de résidence, de siège social ou de
+principal établissement définies aux A ou B ; 
 
 3° Indépendamment des cas prévus au 2°, la francisation d'un navire de commerce ou de plaisance peut être accordée par
-agrément spécial dans des conditions fixées par décret :
-
-A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
-conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
-s'étendent pas à la moitié mais au quart au moins du navire et, en outre, à la condition que la gestion du navire soit
-assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant les conditions prévues au 2° A
-ou au 2° B ;
-
-B. - Lorsqu'un navire de commerce ou de plaisance a été affrété, coque nue, par une personne physique ou par une personne
-morale répondant aux conditions prévues respectivement au 2° A ou au 2° B, qui en assure le contrôle, l'armement,
-l'exploitation et, le cas échéant, la gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse,
-l'abandon du pavillon étranger.
+agrément spécial dans des conditions fixées par décret lorsque, dans l'une des hypothèses prévues au même 2°, les droits des
+personnes physiques ou morales remplissant les conditions de nationalité, de résidence, de siège social ou de principal
+établissement définies audit 2° ne s'étendent pas à la moitié mais au quart au moins du navire et, en outre, à la condition
+que la gestion du navire soit assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant
+les conditions prévues aux A ou B du même 2°.
 
 II. - Lorsqu'il est frété coque nue, un navire de commerce ou de plaisance francisé ne peut conserver le pavillon français
 qu'à la condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable
 situé sur le territoire français.
+
+III. - La francisation d'un navire affrété coque nue peut être suspendue par gel du pavillon français à la demande de
+l'affréteur qui souhaite faire naviguer ce navire sous pavillon étranger pendant la durée du contrat d'affrètement. 
+
+La francisation ne peut être suspendue qu'avec l'accord préalable des créanciers hypothécaires et à condition que la
+législation de l'Etat qui serait pour la durée du contrat l'Etat du pavillon ne permette pas dans de tels cas l'inscription
+sur ses registres de nouvelles hypothèques. 
+
+L'hypothèque consentie sur un navire dont la francisation est suspendue demeure inscrite au siège de la conservation
+hypothécaire.
 
 **Liens relatifs à cet article**
 
@@ -7534,58 +7564,71 @@ situé sur le territoire français.
 
 	**Modifié par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
+	  - Loi n°2016-816 du 20 juin 2016 - art. 3
 
 
 ###### Article 219 bis
 
 I. - Pour être francisé, un navire armé à la pêche doit répondre aux conditions suivantes :
 
-1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
-taxes d'importation exigibles, à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour
-infractions aux lois françaises ;
+1° Avoir été construit dans le territoire d'un Etat membre de l'Union européenne ou y avoir acquitté les droits et taxes
+d'importation exigibles, à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour infractions aux
+lois françaises ;
 
-2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne qui, s'ils
-résident sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour
-toutes les affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire ;
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne qui, s'ils résident
+sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour toutes les
+affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire. Si le navire est détenu en
+copropriété, chacun des gérants doit résider en France ou, s'il y réside moins de six mois par an, y faire élection de
+domicile ;
 
 B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
-territoire de la République française ou d'un autre Etat membre de la Communauté européenne sous réserve, dans ce dernier
-cas, que le navire soit dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français.
+territoire de la République française ou d'un autre Etat membre de l'Union européenne sous réserve, dans ce dernier cas, que
+le navire soit dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français.
 
-Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne lorsque, en application
-d'une convention conclue entre la France et cet Etat, une société constituée conformément à la loi française peut
-régulièrement exercer son activité sur le territoire dudit Etat et y avoir son siège social. Le navire doit alors être
-également dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français ;
+Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à l'Union européenne lorsque, en application d'une
+convention conclue entre la France et cet Etat, une société constituée conformément à la loi française peut régulièrement
+exercer son activité sur le territoire dudit Etat et y avoir son siège social. Le navire doit alors être également dirigé et
+contrôlé à partir d'un établissement stable situé sur le territoire français ;
 
-C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne remplissant les
 conditions prévues au A et à des sociétés remplissant les conditions prévues au B ;
 
 D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
 crédit-bail :
 
-a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
-prévues au A ;
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne remplissant les conditions prévues au
+A ;
 
 b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
 
-c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
-prévues au A et à des sociétés remplissant les conditions prévues au B ;
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de l'Union européenne remplissant les conditions prévues au
+A et à des sociétés remplissant les conditions prévues au B ;
+
+E. - Soit être affrété coque nue par : 
+
+a) Une personne physique remplissant les conditions de nationalité et de résidence définies au A ; 
+
+b) Ou une société remplissant les conditions de nationalité, de siège social ou d'établissement stable définies au B ;
 
 3° Indépendamment des cas prévus au 2°, la francisation d'un navire armé à la pêche peut être accordée par agrément spécial
-dans des conditions fixées par décret :
-
-A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
-conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
-s'étendent pas à la moitié mais au quart au moins du navire ;
-
-B. - Lorsqu'un navire a été affrété coque nue, en vue d'être armé à la pêche, par une personne physique ou par une personne
-morale répondant aux conditions prévues respectivement au 2° A ou au 2° B et si la loi de l'Etat du pavillon permet, en
-pareille hypothèse, l'abandon du pavillon étranger.
+dans des conditions fixées par décret lorsque, dans l'une des hypothèses prévues au même 2°, les droits des personnes
+physiques ou morales remplissant les conditions de nationalité, de résidence, de siège social ou de principal établissement
+définies audit 2° ne s'étendent pas à la moitié mais au quart au moins du navire.
 
 II. - Lorsqu'il est frété coque nue, un navire francisé et armé à la pêche ne peut conserver le pavillon français qu'à la
 condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable situé sur le
 territoire français.
+
+II bis. - La francisation d'un navire affrété coque nue peut être suspendue par gel du pavillon français à la demande de
+l'affréteur qui souhaite faire naviguer ce navire sous pavillon étranger pendant la durée du contrat d'affrètement. 
+
+La francisation ne peut être suspendue qu'avec l'accord préalable des créanciers hypothécaires et à condition que la
+législation de l'Etat qui serait pour la durée du contrat l'Etat du pavillon ne permette pas dans de tels cas l'inscription
+sur ses registres de nouvelles hypothèques. 
+
+L'hypothèque consentie sur un navire dont la francisation est suspendue demeure inscrite au siège de la conservation
+hypothécaire.
 
 III. - Le navire francisé et armé à la pêche doit avoir un lien économique réel avec le territoire français.
 
@@ -7611,9 +7654,9 @@ Le mandataire social de l'armement ou son représentant doit résider sur le ter
 
 	  - TXT_SOURCE: Loi n°67-5 du 3 janvier 1967 - art. 3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
 
 
 ###### Article 220
@@ -7632,6 +7675,32 @@ de plus de cinq ans.
 	**Cité par**:
 
 	  - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
+
+
+###### Article 221
+
+Un navire ne remplissant plus l'une des conditions requises pour obtenir la francisation mentionnées aux articles 219 ou 219
+bis est radié d'office du registre du pavillon français par l'autorité compétente. 
+
+Un navire ne peut pas être radié d'office s'il fait l'objet d'une hypothèque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Cité par**:
+
+	  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 5
+
+	**Cite**:
+
+	  - Code des douanes - art. 219 (V)
 
 
 #### Paragraphe 4 : Droit de francisation et de navigation.
@@ -7997,8 +8066,8 @@ lorsque son montant excède 8 euros.
 
 3. Sont exonérés du droit de francisation et de navigation :
 
-- les embarcations appartenant à des écoles de sports nautiques qui relèvent d'associations agréées par le ministre chargé
-des sports ;
+- les embarcations appartenant à des écoles de sports nautiques qui relèvent d'associations agréées par le représentant de
+l'Etat dans le département ;
 
 - les embarcations mues principalement par l'énergie humaine dont les caractéristiques sont fixées par décret ;
 
@@ -8036,19 +8105,15 @@ euros.
 
 	**Cite**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
 	  - Code des douanes - art. 223
 	  - Code de l'environnement - art. L541-10-10 (V)
 	  - Code du patrimoine - art. L122-1
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
-	  - Loi n°2015-992 du 17 août 2015 - art. 89
-
-	**Liens**:
-
-	  - RECTIFICATION: Loi n°2015-992 du 17 août 2015 - art., v. init.
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
+	  - Loi n°2016-816 du 20 juin 2016 - art. 13
 
 
 ###### Article 225
@@ -8201,17 +8266,20 @@ de l'arrivée.
 
 ###### Article 231
 
-1. Tout acte de vente de navire ou de partie de navire doit contenir :
+1. Tout acte de vente de navire ou de part de navire doit indiquer :
 
-a) le nom et la désignation du navire ;
+a) le nom, le type et le modèle du navire ;
 
 b) la date et le numéro de l'acte de francisation ;
 
-c) la copie in extenso des extraits dudit acte relatifs au port d'attache, à l'immatriculation, au tonnage, à l'identité, à
-la construction et à l'âge du navire.
+c) Le bureau des douanes du port d'attache ;
 
-2. L'acte de vente doit être présenté dans le délai d'un mois au service des douanes du port d'attache du navire, lequel
-annote en conséquence l'acte de francisation.
+d) La date et le numéro d'immatriculation ;
+
+e) L'année de construction du navire et le type de construction, en précisant si la construction a été réalisée par un non-
+professionnel ou par un professionnel. 
+
+2. L'acte de vente doit être présenté dans le délai d'un mois au service des douanes du port d'attache du navire.
 
 **Liens relatifs à cet article**
 
@@ -8222,6 +8290,10 @@ annote en conséquence l'acte de francisation.
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 6
 
 
 ### Section 4 : Dispositions diverses relatives à la francisation et aux congés.
@@ -8269,7 +8341,9 @@ ne sont plus satisfaites.
 
 ###### Article 237
 
-Tout navire étranger qui prend la mer doit avoir à bord un passeport délivré par le service de douanes.
+Tout navire étranger de plaisance ou de sport dont des personnes physiques ou morales, quelle que soit leur nationalité,
+ayant leur résidence principale ou leur siège social en France, sont propriétaires ou ont la jouissance et qui prend la mer
+doit avoir à bord un passeport délivré par le service de douanes.
 
 **Liens relatifs à cet article**
 
@@ -8284,20 +8358,23 @@ Tout navire étranger qui prend la mer doit avoir à bord un passeport délivré
 
 	  - Décret n°48-1985 1948-12-08
 
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 4
+
 
 ###### Article 238
 
-Le passeport délivré aux navires de plaisance ou de sport appartenant à des personnes physiques ou morales, quelle que soit
-leur nationalité, ayant leur résidence principale ou leur siège social en France, ou dont ces mêmes personnes ont la
-jouissance, donne lieu à la perception d'un droit de passeport. 
+Le passeport délivré aux navires mentionnés à l'article 237 donne lieu à la perception d'un droit de passeport. 
 
 Ce droit est à la charge du propriétaire ou de l'utilisateur du navire. Il est calculé dans les mêmes conditions, selon la
 même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu à
 l'article 223 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
-sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en
-vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit de passeport est perçu à un taux triple du droit
-de francisation et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux quintuple de ce
-droit pour les navires d'une longueur de coque supérieure ou égale à 15 mètres. 
+sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention fiscale comportant une clause
+d'échange de renseignements ou d'accord d'échange de renseignements ou qui figure sur la liste mentionnée au second alinéa du
+1 de l'article 238-0 A du code général des impôts, le droit de passeport est perçu à un taux triple du droit de francisation
+et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux quintuple de ce droit pour les
+navires d'une longueur de coque supérieure ou égale à 15 mètres. 
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
@@ -8305,7 +8382,7 @@ l'année écoulée, au profit de la collectivité territoriale de Corse. Sont ex
 propriétaires d'un navire de plaisance ou de sport faisant l'objet d'un contrat de location avec option d'achat ou de crédit-
 bail conclu avec une personne physique n'ayant pas sa résidence principale en France ou avec une personne morale ne disposant
 pas d'établissement en France, à l'exclusion de celles qui seraient contrôlées directement ou indirectement par une personne
-physique ayant sa résidence principale en France.
+physique ayant sa résidence principale en France. 
 
 L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
 pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
@@ -8320,11 +8397,13 @@ pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 44
+	  - Loi n°2016-816 du 20 juin 2016 - art. 4
 
 	**Cite**:
 
-	  - Code des douanes - art. 223 (V)
+	  - Code général des impôts, CGI. - art. 238-0 A (V)
+	  - Code des douanes - art. 223
+	  - Code des douanes - art. 237 (V)
 
 
 ###### Article 239
@@ -8374,12 +8453,22 @@ d'outre-mer et dans les ports fluviaux ouverts au trafic par bâtiments de mer.
 
 ###### Article 241
 
-Les navires et autres bâtiments de mer francisés sont susceptibles d'hypothèques. Ils ne peuvent être grevés que
-d'hypothèques conventionnelles.
+Les navires et autres bâtiments de mer francisés sont susceptibles d'hypothèques, sauf s'ils ont été francisés parce qu'ils
+remplissent les conditions définies au E du 2° du I des articles 219 ou 219 bis. 
+
+Ils ne peuvent être grevés que d'hypothèques conventionnelles. 
 
 L'hypothèque doit, à peine de nullité, être constituée par écrit.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 219 (V)
 
 	**Codifié par**:
 
@@ -8387,11 +8476,7 @@ L'hypothèque doit, à peine de nullité, être constituée par écrit.
 
 	**Modifié par**:
 
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
-
-	**Cité par**:
-
-	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
 
 
 ###### Article 242
@@ -8486,9 +8571,9 @@ Les conditions dans lesquelles l'hypothèque est rendue publique et conservée s
 ###### Article 247
 
 1. S'il y a deux ou plusieurs hypothèques sur le même bâtiment ou sur la même part de propriété du bâtiment, le rang est
-déterminé par l'ordre de priorité des dates d'inscription.
+déterminé par l'ordre de priorité des dates, heures et minutes d'inscription.
 
-2. Les hypothèques inscrites le même jour viennent en concurrence, quelle que soit la différence des heures de l'inscription.
+2. Les hypothèques inscrites le même jour, à la même heure et la même minute viennent en concurrence.
 
 **Liens relatifs à cet article**
 
@@ -8498,7 +8583,7 @@ déterminé par l'ordre de priorité des dates d'inscription.
 
 	**Modifié par**:
 
-	  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+	  - Loi n°2016-816 du 20 juin 2016 - art. 7
 
 
 ###### Article 248
@@ -8560,47 +8645,45 @@ justice passée en force de chose jugée.
 
 ###### Article 251
 
-1. Toute opération volontaire qui entraîne la perte de la francisation d'un bâtiment grevé d'une hypothèque est interdite.
+1. Toute opération volontaire qui entraîne la perte de la francisation d'un bâtiment grevé d'une hypothèque est interdite, à
+l'exception de la suspension de la francisation mentionnée au III de l'article 219 et au II bis de l'article 219 bis. 
 
 2. Si cette opération est en outre commise dans l'intention de violer cette interdiction, l'auteur est passible des peines de
-l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal.
+l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal. 
 
 3. Les hypothèques consenties par l'acheteur avant la francisation sur un bâtiment acheté ou construit à l'étranger sont
 valables et produisent effet à condition d'être publiées en France.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 157 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 2
+
 	**Cite**:
 
-	  - Code pénal - art. 314-1 (M)
+	  - Code pénal - art. 314-1 (V)
 	  - Code pénal - art. 314-10 (V)
+	  - Code des douanes - art. 219 (V)
+	  - Code des douanes - art. 219 bis (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.
+#### Paragraphe 6 : Contribution de sécurité de la propriété maritime et responsabilité en matière d'hypothèque maritime.
 
 ###### Article 252
 
-1. Les attributions conférées à l'administration des douanes en matière d'hypothèque maritime sont exercées par les receveurs
-principaux régionaux des douanes. En cas de déclassement des recettes principales régionales, ces attributions sont exercées
-par les nouveaux titulaires desdites recettes.
+Les attributions conférées à l'administration des douanes et droits indirects en matière d'hypothèque maritime sont exercées
+par le service comptable des douanes territorialement compétent, dans des conditions définies par décret en Conseil d'Etat. 
 
-2. La responsabilité de l'administration des douanes du fait de ses agents ne s'applique pas aux attributions visées à
-l'alinéa ci-dessus.
-
-3. Le tarif des droits à percevoir par les receveurs principaux régionaux des douanes, ainsi que le cautionnement spécial à
-leur imposer en raison des actes visés à la présente section, sont fixés par des décrets pris après avis du conseil d'Etat.
+La liste des conservations des hypothèques maritimes est fixée par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
 
@@ -8610,16 +8693,59 @@ leur imposer en raison des actes visés à la présente section, sont fixés par
 
 	**Modifié par**:
 
-	  - Décret n°57-985 1957-08-30 art. 6 JORF 1er septembre 1957
-	  - Loi n°46-2294 1946-09-19 art. 2 JORF 20 octobre 1946
+	  - Loi n°2016-816 du 20 juin 2016 - art. 8
 
 	**Cité par**:
 
 	  - Décret n°2017-974 du 10 mai 2017 (V)
 
-	**Anciens textes**:
 
-	  - Loi n°46-2294 1946-09-19 art. 2
+###### Article 253
+
+L'Etat est responsable du préjudice résultant des fautes commises par chaque service chargé des hypothèques maritimes dans
+l'exécution de ses attributions. 
+
+L'action en responsabilité de l'Etat est exercée devant le juge administratif et, à peine de forclusion, dans un délai de
+quatre ans à compter du jour où la faute a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 8
+
+
+###### Article 254
+
+La conservation des hypothèques maritimes territorialement compétente perçoit la contribution de sécurité de la propriété
+maritime lors de l'inscription hypothécaire ou de son renouvellement. 
+
+Cette contribution est fixée à 0,05 % du capital des créances donnant lieu à l'hypothèque, quel que soit le nombre de navires
+sur lesquels il est pris inscription. Toutefois, dans le cas où les navires affectés à la garantie d'une même créance sont
+immatriculés dans des ports dépendant de conservations des hypothèques maritimes différentes, la contribution de sécurité de
+la propriété maritime est due au conservateur de chacun des ports. 
+
+Un bordereau d'inscription hypothécaire ne peut être délivré que pour un seul navire. En cas de changement de domicile du
+requérant, de subrogation du créancier ou de radiation de l'hypothèque, le requérant fait une déclaration distincte par
+inscription hypothécaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
 ## Chapitre II : Dispositions particulières.
@@ -17318,8 +17444,8 @@ sanctions qu'en matière de droit de douane.
 Les conditions d'application de ladite taxe, et notamment ses taux et son assiette, sont fixées par un arrêté du ministre de
 l'économie et des finances. 
 
-3. Conformément aux dispositions des articles L. 211-1 et suivants du code des ports maritimes, il peut être perçu dans les
-ports maritimes un droit de port en raison des opérations commerciales ou des séjours qui y sont effectués. 
+3. En application du titre II du livre III de la cinquième partie du code des transports, il peut être perçu dans les ports
+maritimes un droit de port en raison des opérations commerciales ou des séjours qui y sont effectués. 
 
 4. Les taxes et redevances composant le droit de port sont perçues comme en matière de douane ; les infractions sont
 constatées et punies, les poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane. 
@@ -17358,17 +17484,17 @@ dans les conditions fixées par arrêté du ministre du budget.
 	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. 4 (V)
 	  - TXT_SOURCE: Arrêté du 27 février 1987 - art. Annexe (V)
 
-	**Modifié par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 52 (V)
-
-	**Cite**:
-
-	  - Code des ports maritimes - art. L211-1
-
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2016-816 du 20 juin 2016 - art. 9
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1695 (V)
 
 
 ###### Article 285 bis
