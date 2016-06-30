@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-06-22
+Version Consolidée au 2016-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -16895,13 +16895,19 @@ opérations pour le compte des maisons établies en France.
 ###### Article 284 bis
 
 Les véhicules immatriculés en France circulant sur la voie publique et désignés à l'article 284 ter, à l'exclusion de ceux
-qui sont spécialement conçus pour le transport des personnes, sont soumis à une taxe spéciale.
+qui sont spécialement conçus pour le transport des personnes et de ceux mentionnés à l'article 284 bis B, sont soumis à une
+taxe spéciale. 
 
 Les dispositions de l'alinéa précédent sont applicables aux véhicules immatriculés dans un autre Etat qu'un Etat membre de la
-Communauté européenne.
+Communauté européenne. 
 
 Cette taxe est assise sur le poids total autorisé en charge de ces véhicules ou sur leur poids total roulant autorisé
 lorsqu'il est supérieur. Elle est exigible dès leur mise en circulation.
+
+**Nota:**
+
+Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -16924,13 +16930,13 @@ lorsqu'il est supérieur. Elle est exigible dès leur mise en circulation.
 	  - Code des douanes - art. 284 sexies bis (V)
 	  - Code des douanes - art. 284 ter (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 87 IV, V (dispositions transitoires)
-
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+
+	**Cite**:
+
+	  - Code des douanes - art. 284 bis B (V)
 
 
 ###### Article 284 bis A
@@ -16957,6 +16963,59 @@ de retard applicable.
 	  - Décret n°48-1985 1948-12-08
 
 
+###### Article 284 bis B
+
+La taxe spéciale sur certains véhicules routiers n'est pas applicable aux véhicules suivants :
+
+1° Engins spéciaux, véhicules et matériels agricoles, tels que les tracteurs agricoles, les machines agricoles automotrices,
+les remorques et semi-remorques agricoles, les machines ou les instruments agricoles, ainsi que les matériels forestiers et
+les matériels de travaux publics, définis au chapitre Ier du titre Ier du livre III du code de la route ;
+
+2° Véhicules exclusivement affectés aux transports intérieurs dans les chantiers ou les entreprises même si, à l'occasion de
+ces transports, ces véhicules traversent la voie publique ;
+
+3° Véhicules destinés à la vente ou effectuant des essais, mis en circulation par les fabricants, les marchands ou les
+réparateurs, faisant l'objet d'une immatriculation particulière, à condition qu'ils n'effectuent pas de transports de
+marchandises ou d'objets de charge utile ;
+
+4° Véhicules de la défense nationale, de la protection civile, des services publics de lutte contre les incendies, des autres
+services publics de secours et des forces responsables du maintien de l'ordre ;
+
+5° Jusqu'au 31 décembre 2019, lorsqu'ils sont utilisés dans le cadre de travaux publics et industriels :
+
+a) Les engins de levage et de manutention automoteurs, tels que les grues installées sur un châssis routier ;
+
+b) Les pompes ou stations de pompage mobiles installées à demeure sur un châssis routier ;
+
+c) Les groupes moto-compresseurs mobiles installés à demeure sur un châssis routier ;
+
+d) Les bétonnières et pompes à béton installées à demeure sur un châssis routier, à l'exception des bétonnières à tambour
+utilisées pour le transport de béton ;
+
+e) Les groupes générateurs mobiles installés à demeure sur un châssis routier ;
+
+f) Les engins de forage mobiles installés à demeure sur un châssis routier.
+
+**Nota:**
+
+Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er juillet 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 284 bis (V)
+
+	**Cite**:
+
+	  - Code de la route.
+
+
 ###### Article 284 quater
 
 1. L'assiette et le recouvrement de la taxe sont assurés par les services de la direction générale des douanes et droits
@@ -16968,8 +17027,8 @@ et de l'article R. 238 du code de la route.
 
 2. Le montant de la taxe est exigible d'avance. 
 
-3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant
-la date d'exigibilité donne lieu à application d'une majoration de 10 %. 
+3. Toute somme non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à application d'une majoration
+de 10 %. 
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
 
@@ -16980,11 +17039,19 @@ Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 eu
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
 sanctions prévues en matière de droits de douane.
 
+6. Toute liquidation résultant d'une réduction du tarif ou de l'application d'une quote-part du tarif semestriel est arrondie
+à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+
+**Nota:**
+
+Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er juillet 2016.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
 
 
 ###### Article 284 quinquies
@@ -17105,307 +17172,428 @@ particulier les traités instituant les communautés européennes.
 
 ###### Article 284 ter
 
-I.-1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par trimestre ou par fraction de trimestre
+I.-1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par semestre ou par fraction de semestre
 civil : 
 
 <table>
-  <tbody>
-    <tr>
-      <td align="center" rowspan="2">CATÉGORIE DE VÉHICULES 
+    <tbody>
+      <tr>
+        <th rowspan="2">
 
-</td>
-      <td colspan="2" align="center">POIDS TOTAL AUTORISÉ 
+CATÉGORIE DE VÉHICULES 
 
-en charge ou poids 
+</th>
+        <th colspan="2">
 
-total roulant autorisé 
+POIDS TOTAL AUTORISÉ 
+
+en charge ou poids total 
+
+roulant autorisé 
 
 (en tonnes) 
 
-</td>
-      <td align="center" colspan="2">TARIFS PAR TRIMESTRE 
+</th>
+        <th colspan="2">
+
+TARIFS PAR SEMESTRE 
 
 (en euros) 
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">Egal ou 
+</th>
+      </tr>
+      <tr>
+        <th>
 
-supérieur à 
+Egal ou supérieur à 
 
-</td>
-      <td align="center">Inférieur à 
+</th>
+        <th>
 
-</td>
-      <td align="center">Suspension 
+Et inférieur à 
+
+</th>
+        <th>
+
+Suspension 
 
 pneumatique 
 
-de l'(des) 
-
-essieu (x) 
+de l'(des) essieu (x) 
 
 moteur (s) 
 
-</td>
-      <td align="center">
+</th>
+        <th>
 
-Autres systèmes
+Autres systèmes 
 
 de suspension 
 
-de l'(des) 
-
-essieu (x) 
+de l'(des) essieu (x) 
 
 moteur (s) 
 
-</td>
-    </tr>
-    <tr>
-      <td>I.-Véhicules automobiles 
+</th>
+      </tr>
+      <tr>
+        <td colspan="5" align="left">
 
-porteurs : 
-
-</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td>a) A deux essieux ; 
+I.-Véhicules automobiles porteurs 
 
 </td>
-      <td align="center">12 
+      </tr>
+      <tr>
+        <td align="left">
+
+a) A deux essieux 
 
 </td>
-      <td align="center">
-      </td><td align="center">31 
+        <td align="center">
+
+12
 
 </td>
-      <td align="center">69 
+        <td align="center">
+
+-
 
 </td>
-    </tr>
-    <tr>
-      <td>b) A trois essieux ; 
+        <td align="center">
+
+62 
 
 </td>
-      <td align="center">12 
+        <td align="center">
+
+138 
 
 </td>
-      <td align="center">
-      </td><td align="center">56 
+      </tr>
+      <tr>
+        <td align="left">
+
+b) A trois essieux 
 
 </td>
-      <td align="center">87 
+        <td align="center">
+
+12
 
 </td>
-    </tr>
-    <tr>
-      <td>c) A quatre essieux et 
+        <td align="center">
 
-plus. 
+-
 
 </td>
-      <td align="center">12 
+        <td align="center">
+
+112 
 
 </td>
-      <td align="center">27 
+        <td align="center">
+
+174 
 
 </td>
-      <td align="center">37 
+      </tr>
+      <tr>
+        <td rowspan="2" align="left">
+
+c) A quatre essieux et plus 
 
 </td>
-      <td align="center">57 
+        <td align="center">
+
+12 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">27 
+        <td align="center">
+
+27 
 
 </td>
-      <td align="center">
-      </td><td align="center">91 
+        <td align="center">
+
+74 
 
 </td>
-      <td align="center">135 
+        <td align="center">
+
+114 
 
 </td>
-    </tr>
-    <tr>
-      <td>II.-Véhicules articulés 
+      </tr>
+      <tr>
+        <td align="center">
 
-composés d'un tracteur et 
-
-d'une semi-remorque : 
+27
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td>a) Semi-remorque à un 
+        <td align="center">
 
-essieu ; 
+-
 
 </td>
-      <td align="center">12 
+        <td align="center">
+
+182 
 
 </td>
-      <td align="center">20 
+        <td align="center">
+
+270 
 
 </td>
-      <td align="center">4 
+      </tr>
+      <tr>
+        <td colspan="5" align="left">
+
+II.-Véhicules articulés composés d'un tracteur et d'une semi-remorque 
 
 </td>
-      <td align="center">8 
+      </tr>
+      <tr>
+        <td align="left" rowspan="2">
+
+a) Semi-remorque à un essieu 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">20 
+        <td align="center">
+
+12 
 
 </td>
-      <td align="center">
-      </td><td align="center">44 
+        <td align="center">
+
+20 
 
 </td>
-      <td align="center">77 
+        <td align="center">
+
+8 
 
 </td>
-    </tr>
-    <tr>
-      <td>b) Semi-remorque à deux 
+        <td align="center">
 
-essieux ; 
+16 
 
 </td>
-      <td align="center">12 
+      </tr>
+      <tr>
+        <td align="center">
+
+20
 
 </td>
-      <td align="center">27 
+        <td align="center">
+
+-
 
 </td>
-      <td align="center">29 
+        <td align="center">
+
+88 
 
 </td>
-      <td align="center">43 
+        <td align="center">
+
+154 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">27 
+      </tr>
+      <tr>
+        <td rowspan="4" align="left">
+
+b) Semi-remorque à deux essieux 
 
 </td>
-      <td align="center">33 
+        <td align="center">
+
+12 
 
 </td>
-      <td align="center">84 
+        <td align="center">
+
+27 
 
 </td>
-      <td align="center">117 
+        <td align="center">
+
+58 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">33 
+        <td align="center">
+
+86 
 
 </td>
-      <td align="center">39 
+      </tr>
+      <tr>
+        <td align="center">
+
+27 
 
 </td>
-      <td align="center">117 
+        <td align="center">
+
+33 
 
 </td>
-      <td align="center">177 
+        <td align="center">
+
+168 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">39 
+        <td align="center">
+
+234 
 
 </td>
-      <td align="center">
-      </td><td align="center">157 
+      </tr>
+      <tr>
+        <td align="center">
+
+33 
 
 </td>
-      <td align="center">233 
+        <td align="center">
+
+39 
 
 </td>
-    </tr>
-    <tr>
-      <td>c) Semi-remorque à trois 
+        <td align="center">
 
-essieux et plus. 
+234 
 
 </td>
-      <td align="center">12 
+        <td align="center">
+
+354 
 
 </td>
-      <td align="center">38 
+      </tr>
+      <tr>
+        <td align="center">
+
+39
 
 </td>
-      <td align="center">93 
+        <td align="center">
+
+-
 
 </td>
-      <td align="center">129 
+        <td align="center">
+
+314 
 
 </td>
-    </tr>
-    <tr>
-      <td>
-      </td><td align="center">38 
+        <td align="center">
+
+466 
 
 </td>
-      <td align="center">
-      </td><td align="center">129 
+      </tr>
+      <tr>
+        <td rowspan="2" align="left">
+
+c) Semi-remorque à trois essieux et plus 
 
 </td>
-      <td align="center">175 
+        <td align="center">
+
+12 
 
 </td>
-    </tr>
-    <tr>
-      <td>III.-Remorques : 
+        <td align="center">
+
+38 
 
 </td>
-      <td align="center">16 
+        <td align="center">
+
+186 
 
 </td>
-      <td align="center">
-      </td><td align="center">30 
+        <td align="center">
+
+258 
 
 </td>
-      <td align="center">30 
+      </tr>
+      <tr>
+        <td align="center">
+
+38
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
+
+-
+
+</td>
+        <td align="center">
+
+258 
+
+</td>
+        <td align="center">
+
+350 
+
+</td>
+      </tr>
+      <tr>
+        <td align="justify">
+
+III.-Remorques (quel que soit le nombre d'essieux) 
+
+</td>
+        <td align="center" valign="bottom">
+
+16
+
+</td>
+        <td align="center" valign="bottom">
+
+-
+
+</td>
+        <td align="center" valign="bottom">
+
+60 
+
+</td>
+        <td valign="bottom" align="center">
+
+60 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Les tarifs prévus pour les véhicules équipés de suspension pneumatique de l'essieu moteur sont applicables aux véhicules dont
 l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92 / 7 /
 CEE du Conseil du 10 février 1992, modifiant la directive 85 / 3 / CEE relative aux poids, aux dimensions et à certaines
 autres caractéristiques techniques de certains véhicules routiers. 
 
-La taxe peut être payée sur la base d'un tarif journalier égal au vingt-cinquième du tarif trimestriel. 
-
 2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route. 
+
+3. Si un véhicule assujetti circule seulement pendant une partie du semestre, le redevable peut solliciter une régularisation
+sur la base du tarif semestriel à proportion du temps de circulation, calculé en mois. Chaque fraction de mois est comptée
+pour un mois entier. 
 
 II.-Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge
 maximal de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils
 ont acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
 autorisé défini ci-dessus.
+
+**Nota:**
+
+Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -17414,15 +17602,14 @@ autorisé défini ci-dessus.
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 (V)
 	  - Décret n°70-1285 du 23 décembre 1970 - art. 2 bis (V)
 	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
-	  - Code des douanes - art. 284 bis (V)
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 28 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - RECTIFICATION: Loi n°2008-1425 du 27 décembre 2008, (rectificatif)
+	  - Code des douanes - art. 284 bis (VD)
 
 
 ## Chapitre VI : Droits et taxes divers.

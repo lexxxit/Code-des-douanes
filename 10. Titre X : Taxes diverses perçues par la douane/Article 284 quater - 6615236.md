@@ -9,8 +9,8 @@ et de l'article R. 238 du code de la route.
 
 2. Le montant de la taxe est exigible d'avance. 
 
-3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant
-la date d'exigibilité donne lieu à application d'une majoration de 10 %. 
+3. Toute somme non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à application d'une majoration
+de 10 %. 
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
 
@@ -21,8 +21,16 @@ Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 eu
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
 sanctions prévues en matière de droits de douane.
 
+6. Toute liquidation résultant d'une réduction du tarif ou de l'application d'une quote-part du tarif semestriel est arrondie
+à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
+
+**Nota:**
+
+Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
+exigible à compter du 1er juillet 2016.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
