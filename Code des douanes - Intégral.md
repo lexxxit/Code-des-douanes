@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-09
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1496,6 +1496,22 @@ intervenir dans l'application de la législation des douanes.
 	**Modifié par**:
 
 	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 59 decies
+
+Les agents des douanes et les agents chargés de la mise en œuvre du code du patrimoine peuvent se communiquer, sur demande ou
+spontanément, tous les renseignements et documents détenus ou recueillis à l'occasion de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 98
+
+	**Cite**:
+
+	  - Code du patrimoine
 
 
 ###### Article 59 nonies
