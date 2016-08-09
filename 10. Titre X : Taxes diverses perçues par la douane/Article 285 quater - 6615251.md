@@ -29,8 +29,10 @@ la gratuité selon les diverses catégories d'usagers pour tenir compte soit d'u
 l'espace protégé, soit de la situation particulière de certains usagers, et notamment de ceux qui ont leur domicile ou leur
 lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé. 
 
-La taxe est perçue au profit de la personne publique qui assure la gestion de l'espace naturel protégé ou, à défaut, de la
-commune sur le territoire de laquelle se trouve le site et est affectée à sa préservation. 
+La taxe est perçue au profit de la personne publique qui assure la gestion de l'espace naturel protégé et est affectée à la
+préservation de celui-ci. A défaut, elle peut être perçue par le Conservatoire de l'espace littoral et des rivages lacustres
+pour les sites qui le concernent et, pour les autres espaces naturels protégés, par les communes sur le territoire desquelles
+ils se trouvent. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -77,13 +79,14 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 	  - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000
 	  - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000 - art. 1 ()
-	  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-12 (M)
+	  - PILOTE_SUIVEUR: Code de l'environnement - art. L321-12 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 56
+	  - Loi n°2016-1087 du 8 août 2016 - art. 104
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L322-1 (V)
-	  - Code de l'environnement - art. L331-1 (V)
+	  - Code de l'environnement - art. L331-1
+	  - Code de l'environnement - art. L332-1 (V)
