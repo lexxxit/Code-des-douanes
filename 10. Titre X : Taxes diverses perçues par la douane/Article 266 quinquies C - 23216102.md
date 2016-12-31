@@ -160,11 +160,11 @@ Est considérée comme hyperélectro-intensive une installation qui vérifie les
 - son activité appartient à un secteur dont l'intensité des échanges avec des pays tiers, telle que déterminée par la
 Commission européenne aux fins de l'article 10 bis de la directive 2003/87/ CE du Parlement européen et du Conseil du 13
 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la
-directive 96/61/ CE du Conseil, est supérieure à 25 %. 
+directive 96/61/ CE du Conseil, est supérieure à 25 %.
 
-c. Pour les personnes qui exercent une activité de transport de personnes et de marchandises par train, métro, tramway, câble
-et trolleybus, le tarif de la taxe intérieure de consommation applicable aux consommations finales d'électricité effectuées
-pour les besoins de ces activités est fixé à 0,5 € par mégawattheure. 
+c. Pour les personnes qui exercent une activité de transport de personnes et de marchandises par train, métro, tramway,
+câble, autobus hybride rechargeable ou électrique et trolleybus, le tarif de la taxe intérieure de consommation applicable
+aux consommations finales d'électricité effectuées pour les besoins de ces activités est fixé à 0,5 € par mégawattheure. 
 
 d. Le tarif de la taxe intérieure de consommation applicable aux consommations finales d'électricité des installations
 mentionnées au a qui sont exposées à un risque important de fuite de carbone en raison des coûts des émissions indirectes est
@@ -201,7 +201,7 @@ produit soumis à accise.
 Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon
 les modalités définies par arrêté du ministre chargé du budget. 
 
-9. La taxe est déclarée et acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et des
+9. A. - La taxe est déclarée et acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et des
 droits indirects. 
 
 A l'exception de ceux mentionnés au 3 qui ont fourni ou consommé au cours de l'année civile précédente moins de 40
@@ -230,6 +230,23 @@ Les déclarations mensuelles estimatives et les déclarations trimestrielles peu
 
 Si le montant de la taxe exigible au titre d'un mois est supérieur de plus de 20 % au montant versé sur la base de la
 déclaration estimative, une majoration de 5 % est appliquée aux sommes dont le paiement a été différé. 
+
+Les petits producteurs mentionnés au 4° du 5 sont dispensés de l'obligation d'établir la déclaration.
+
+B. - Par dérogation au premier alinéa du A, les personnes mentionnées au 1° du 3 qui fournissent de l'électricité dans les
+îles Wallis et Futuna peuvent déclarer et acquitter la taxe relative à ces fournitures auprès de l'administration des douanes
+et droits indirects selon une périodicité annuelle. 
+
+La déclaration annuelle, conforme à un modèle fixé par l'administration, est déposée avant le 31 janvier de l'année suivant
+celle au cours de laquelle l'imposition est due. 
+
+La taxe correspondante est acquittée dans les mêmes délais. 
+
+La déclaration mentionne les quantités d'électricité fournies à un utilisateur final ou consommées par un utilisateur final,
+pour lesquelles la taxe est devenue exigible, au titre de l'année civile, ainsi que le montant de la taxe due. 
+
+La même déclaration précise les quantités non taxables d'électricité, au sens du 4, fournies à un utilisateur final ou
+consommées par un utilisateur final au titre de la période. 
 
 Les petits producteurs mentionnés au 4° du 5 sont dispensés de l'obligation d'établir la déclaration.
 
@@ -265,7 +282,7 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 	  - Décret n°2011-1996 du 28 décembre 2011 (V)
 	  - Arrêté du 6 février 2015 - art. 1 (V)
 	  - Arrêté du 14 avril 2015 - art. (V)
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
 	  - Arrêté du 18 décembre 2015 (V)
 	  - Arrêté du 29 mars 2016 (V)
 	  - Arrêté du 29 mars 2016 - art. 1 (V)
@@ -281,13 +298,10 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 14
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 54 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 27
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1586 sexies
 	  - Code général des impôts, CGI. - art. 269
-	  - Code des douanes - art. 265 (V)
-	  - Code des douanes - art. 266 quinquies (M)
 	  - Code des douanes - art. 352
-	  - Code de l'environnement - art. L229-5

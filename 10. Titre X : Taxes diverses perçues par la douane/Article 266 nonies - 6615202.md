@@ -11,304 +11,407 @@ située dans un autre Etat :
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
+      <th rowspan="2">DÉSIGNATION 
 
-DÉSIGNATION DES MATIÈRES 
+des opérations imposables 
 
-ou opérations imposables
+</th>
+      <th rowspan="2">
+
+Unité 
+
+de perception 
+
+</th>
+      <th colspan="9">
+
+QUOTITÉ EN EUROS 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+2017 
+
+</th>
+      <th>
+
+2018 
+
+</th>
+      <th>
+
+2019 
+
+</th>
+      <th>
+
+2020 
+
+</th>
+      <th>
+
+2021 
+
+</th>
+      <th>
+
+2022 
+
+</th>
+      <th>
+
+2023 
+
+</th>
+      <th>
+
+2024 
+
+</th>
+      <th>
+
+A compter 
+
+de 2025 
+
+</th>
+    </tr>
+    <tr>
+      <td valign="middle">
+
+Réception de déchets dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du
+livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat. 
 
 </td>
-      <td rowspan="2">
+      <td align="left" valign="middle">
 
-UNITÉ
-
-de perception
+tonne 
 
 </td>
-      <td colspan="7">
+      <td valign="middle" align="center">
 
-QUOTITÉ EN EUROS
+150 
+
+</td>
+      <td align="center" valign="middle">
+
+151 
+
+</td>
+      <td valign="middle" align="center">
+
+151 
+
+</td>
+      <td valign="middle" align="center">
+
+152 
+
+</td>
+      <td valign="middle" align="center">
+
+152 
+
+</td>
+      <td align="center" valign="middle">
+
+155 
+
+</td>
+      <td align="center" valign="middle">
+
+155 
+
+</td>
+      <td align="center" valign="middle">
+
+157 
+
+</td>
+      <td align="center" valign="middle">
+
+158 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="middle">
 
-2009
-
-</td>
-      <td>
-
-2010
+Réception de déchets dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du
+livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat
+et autorisée en vertu d'une réglementation d'effet équivalent : 
 
 </td>
-      <td>
-
-2011
-
-</td>
-      <td>
-
-2012
-
-</td>
-      <td>
-
-2013
-
-</td>
-      <td>
-
-2014
-
-</td>
-      <td>
-
-à compter de 2015
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Déchets réceptionnés dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du
-livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat.
-
-</td>
-      <td align="center">Tonne
-
-</td>
-      <td align="center">50
-
-</td>
-      <td align="center">60
-
-</td>
-      <td align="center">70
-
-</td>
-      <td align="center">100
-
-</td>
-      <td align="center">100
-
-</td>
-      <td align="center">100
-
-</td>
-      <td align="center">150
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du
-livre V du code de l'environnement pour ladite réception ou transférés vers une telle installation située dans un autre Etat
-et autorisée en vertu d'une réglementation d'effet équivalent :
-
-</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
+      <td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
     </td></tr>
     <tr>
-      <td align="center">
+      <td valign="middle">
 
-A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
-(EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
-management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
-
-</td>
-      <td align="center">
-
-Tonne
+A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
+accrédité ; 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="left">
 
-13
-
-</td>
-      <td align="center">
-
-17
+tonne 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-17
-
-</td>
-      <td align="center">
-
-20
+32 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-22
-
-</td>
-      <td align="center">
-
-24
+33 
 
 </td>
-      <td align="center">
+      <td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+    </td></tr>
+    <tr>
+      <td valign="middle" align="left">
 
-32
+B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ; 
+
+</td>
+      <td align="left" valign="middle">
+
+tonne 
+
+</td>
+      <td align="center" valign="middle">
+
+23 
+
+</td>
+      <td align="center" valign="middle">
+
+24 
+
+</td>
+      <td align="center" valign="middle">
+
+24 
+
+</td>
+      <td align="center" valign="middle">
+
+25 
+
+</td>
+      <td valign="middle" align="center">
+
+25 
+
+</td>
+      <td align="center" valign="middle">
+
+28 
+
+</td>
+      <td valign="middle" align="center">
+
+28 
+
+</td>
+      <td valign="middle" align="center">
+
+30 
+
+</td>
+      <td align="center" valign="middle">
+
+31 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle">
 
-B. ― Faisant l'objet d'une valorisation énergétique du biogaz de plus de 75 %.
-
-</td>
-      <td align="center">
-
-Tonne
+C.-Dans un casier, ou une subdivision de casier, exploitée selon la méthode du bioréacteur équipé dès sa construction des
+équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier ou de la subdivision du
+casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ; 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="left">
 
-10
-
-</td>
-      <td align="center">
-
-11
+tonne 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-11
-
-</td>
-      <td align="center">
-
-15
+32 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-15
-
-</td>
-      <td align="center">
-
-20
+33 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-20
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-C. ― Stockés et traités selon la méthode d'exploitation du bioréacteur : dans un casier équipé dès sa construction des
-équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier étant inférieure à dix-
-huit mois et l'installation étant équipée d'un dispositif de valorisation du biogaz mentionné dans l'arrêté préfectoral
-d'autorisation.
+34 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Tonne
-
-</td>
-      <td align="center">
-
-0
+35 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-0
-
-</td>
-      <td align="center">
-
-7
+35 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-10
-
-</td>
-      <td align="center">
-
-10
+38 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-10
+39 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-14
+41 
+
+</td>
+      <td align="center" valign="middle">
+
+42 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="left">
 
-D. ― Autre.
-
-</td>
-      <td align="center">
-
-Tonne
+D.-Relevant à la fois des B et C ; 
 
 </td>
-      <td align="center">
+      <td align="left" valign="middle">
 
-15
-
-</td>
-      <td align="center">
-
-20
+tonne 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-20
-
-</td>
-      <td align="center">
-
-30
+15 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-30
-
-</td>
-      <td align="center">
-
-30
+16 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-40
+17 
 
 </td>
+      <td valign="middle" align="center">
+
+18 
+
+</td>
+      <td align="center" valign="middle">
+
+18 
+
+</td>
+      <td valign="middle" align="center">
+
+21 
+
+</td>
+      <td align="center" valign="middle">
+
+22 
+
+</td>
+      <td align="center" valign="middle">
+
+24 
+
+</td>
+      <td valign="middle" align="center">
+
+25 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+E.-Autre. 
+
+</td>
+      <td align="left" valign="middle">
+
+tonne 
+
+</td>
+      <td valign="middle" align="center">
+
+40 
+
+</td>
+      <td align="center" valign="middle">
+
+41 
+
+</td>
+      <td valign="middle" align="center">
+
+41 
+
+</td>
+      <td valign="middle" align="center">
+
+42 
+
+</td>
+      <td align="center" valign="middle">
+
+42 
+
+</td>
+      <td align="center" valign="middle">
+
+45 
+
+</td>
+      <td valign="middle" align="center">
+
+45 
+
+</td>
+      <td valign="middle" align="center">
+
+47 
+
+</td>
+      <td valign="middle" align="center">
+
+48 </td>
     </tr>
   </tbody>
 </table>
@@ -327,306 +430,222 @@ tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2017, puis �
 A compter de 2019, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont
 multipliés par un coefficient égal à 0,4. 
 
-Les déchets réceptionnés dans une installation de stockage de déchets non dangereux visée aux A, B ou C du tableau du présent
-a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet
-équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de
-traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle
-est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
-
-Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par
-tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016,
-revalorisée chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac
-de l'avant-dernière année ;
+Le tarif mentionné à la troisième ligne du tableau du second alinéa du B du présent 1 est applicable à la réception de
+matériaux de construction contenant de l'amiante dans une installation de stockage de déchets non dangereux autorisée à cet
+effet, en application du titre Ier du livre V du code de l'environnement. 
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
 installation située dans un autre Etat :
 
 <table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
+    <tbody>
+      <tr>
+        <th rowspan="2">
 
-DÉSIGNATION DES MATIÈRES 
+Désignation des opérations imposables 
 
-ou opérations imposables
+</th>
+        <th rowspan="2">
 
-</td>
-      <td rowspan="2">
+Unité de perception 
 
-UNITÉ 
+</th>
+        <th>
 
-de perception
+Quotité en euros 
 
-</td>
-      <td colspan="5">
+</th>
+      </tr>
+      <tr>
+        <th>
 
-QUOTITÉ EN EUROS
+À compter de 2017 
 
-</td>
-    </tr>
-    <tr>
-      <td>
+</th>
+      </tr>
+      <tr>
+        <td valign="middle">
 
-2009
-
-</td>
-      <td>
-
-2010
-
-</td>
-      <td>
-
-2011
+Réception de déchets dans une installation de traitement thermique de déchets non dangereux ou transfert vers une
+installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent : 
 
 </td>
-      <td>
+        <td align="left" valign="middle">
+        </td><td valign="middle" align="left">
+      </td></tr>
+      <tr>
+        <td valign="middle">
 
-2012
+A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
+accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ; 
 
-</td>
-      <td>
-
-à compter de 2013
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
-installation située dans un autre Etat :
+- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
+accrédité ; 
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+        <td align="center" valign="middle">
 
-A. ― Ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et d'audit
-(EMAS) défini par le règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le système de
-management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme accrédité.
+tonne 
 
 </td>
-      <td align="center">
+        <td align="center" valign="middle">
 
-Tonne
-
-</td>
-      <td align="center">
-
-4
+12 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
-4
-
-</td>
-      <td align="center">
-
-5,20
+B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ; 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="center">
 
-6,40
-
-</td>
-      <td align="center">
-
-8
+tonne 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center" valign="middle">
 
-B. ― Présentant une performance énergétique dont le niveau, apprécié dans des conditions fixées par un arrêté conjoint des
-ministres chargés du budget et de l'environnement, est élevé.
+12 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
-Tonne
-
-</td>
-      <td align="center">
-
-3,50
+C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ; 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="center">
 
-3,50
-
-</td>
-      <td align="center">
-
-4,55
+tonne 
 
 </td>
-      <td align="center">
+        <td align="center" valign="middle">
 
-5,60
-
-</td>
-      <td align="center">
-
-7
+9 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-C. ― Dont les valeurs d'émission de NOx sont inférieures à 80 mg/Nm³.
-
-</td>
-      <td align="center">
-
-Tonne
+D.-Relevant à la fois des A et B ; 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="center">
 
-3,50
-
-</td>
-      <td align="center">
-
-3,50
+tonne 
 
 </td>
-      <td align="center">
+        <td align="center" valign="middle">
 
-4,55
-
-</td>
-      <td align="center">
-
-5,60
+9 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-7
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-D. ― Relevant à la fois des A et B, des A et C, des B et C ou des A, B et C qui précèdent.
+E.-Relevant à la fois des A et C ; 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="center">
 
-Tonne
-
-</td>
-      <td align="center">
-
-2
+tonne 
 
 </td>
-      <td align="center">
+        <td align="center" valign="middle">
 
-2
-
-</td>
-      <td align="center">
-
-2,60
+6 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-3,20
-
-</td>
-      <td align="center">
-
-4
+F.-Relevant à la fois des B et C ; 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center" valign="middle">
 
-E. ― Autre.
+tonne 
 
 </td>
-      <td align="center">
+        <td align="center" valign="middle">
 
-Tonne
-
-</td>
-      <td align="center">
-
-7
+5 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-7
-
-</td>
-      <td align="center">
-
-11,20
+G.-Relevant à la fois des A, B et C ; 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="center">
 
-11,20
-
-</td>
-      <td align="center">
-
-14
+tonne 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center" valign="middle">
 
-Les déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux mentionnée aux A, B, C ou D
-du tableau du présent b ou transférés vers une telle installation située dans un autre Etat bénéficient d'une réduction à
-raison des tonnages dont le transfert entre le site de regroupement et le site de traitement final est effectué par voie
-ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle est nécessaire, n'excède pas 20 % du
-kilométrage de l'itinéraire global.
+3 
 
-Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de
-2013. Elle est, à compter du 1er janvier 2016, revalorisée chaque année, dans une proportion égale au taux de croissance de
-l'indice des prix à la consommation hors tabac de l'avant-dernière année.
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
-c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date
-d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la
-taxe est due.
+H.-Autre. 
 
-Le tarif visé au B du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de
-la date de mise en service effective des équipements assurant la valorisation du biogaz à plus de 75 % et le 31 décembre de
-l'année au titre de laquelle la taxe est due.
+</td>
+        <td valign="middle" align="center">
 
-Le tarif visé au B du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de
-la date de mise en service effective des équipements assurant une performance énergétique de niveau élevé et le 31 décembre
-de l'année au titre de laquelle la taxe est due.
+tonne 
 
-Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté
-préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au
-titre de laquelle la taxe est due.
+</td>
+        <td align="center" valign="middle">
 
-Le tarif visé au C du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de début d'exploitation du
-casier dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et le 31 décembre de l'année au
-titre de laquelle la taxe est due. En cas de non-respect de la condition de durée de comblement du casier inférieure à dix-
-huit mois, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif visé aux A ou
-D du tableau du a. 
+15 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
+s'applique à l'assiette concernée ; 
+
+d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
+date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+
+e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
+en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
+novembre 2008 relative aux déchets et abrogeant certaines directives, réceptionnés à compter de la date de notification au
+préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz capté à plus de 75 %.
+
+Le tarif mentionné au C du tableau du même a s'applique aux tonnages de déchets susceptibles de produire du biogaz,
+mentionnés en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du
+Conseil du 19 novembre 2008 précitée, réceptionnés à compter de la date de début d'exploitation du casier ou, le cas échéant,
+de la subdivision de casier, dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et la
+valorisation du biogaz. En cas de non-respect de la condition de durée de comblement du casier ou de la subdivision de casier
+inférieure à deux ans, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif
+pertinent mentionné au tableau dudit a ;
+
+f) Le tarif mentionné au B du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de
+notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm3.
+
+Le tarif réduit mentionné au C du tableau du même b s'applique aux tonnages de déchets réceptionnés à compter de la date de
+notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des
+déchets, au sens de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée ;
+
+g) Un arrêté conjoint des ministres chargés du budget et de l'environnement précise les modalités d'application des tarifs
+réduits mentionnés aux B et C du tableau du a et au B du tableau du b ainsi que la liste des déchets, parmi ceux de la liste
+mentionnée à l'article 7 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée,
+susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités. 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -656,8 +675,8 @@ QUOTITÉ
     <tr>
       <td>
 
-Déchets réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux ou
-transférés vers une telle installation située dans un autre Etat. 
+Déchets réceptionnés dans une installation de traitement thermique de déchets dangereux ou transférés vers une telle
+installation située dans un autre Etat. 
 
 </td>
       <td colspan="3">
@@ -667,7 +686,7 @@ Tonne
 </td>
       <td width="79" colspan="5">
 
-10,03 (10,32 en 2009)
+12,78
 
 </td>
     </tr>
@@ -683,9 +702,9 @@ dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td colspan="5" width="79" align="center">
 
-20,01 (20,59 en 2009)
+25,57
 
 </td>
     </tr>
@@ -702,7 +721,7 @@ Substances émises dans l'atmosphère :
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 136,02
 
@@ -719,7 +738,7 @@ Tonne
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 43,24 (44,49 en 2009)
 
@@ -736,19 +755,19 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 64,86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td align="left" colspan="3" valign="top">
+      <td valign="top" colspan="3" align="left">
 
 Tonne 
 
@@ -760,29 +779,29 @@ Tonne
 </td>
     </tr>
     <tr>
-      <td valign="top" align="center">
+      <td align="center" valign="top">
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td colspan="3" valign="top" align="center">
+      <td colspan="3" align="center" valign="top">
 
 Tonne 
 
 </td>
-      <td colspan="5" align="center" valign="top">
+      <td valign="top" colspan="5" align="center">
 
 136,02 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - poussières totales en suspension 
 
 </td>
-      <td valign="top" colspan="3" align="left">
+      <td valign="top" align="left" colspan="3">
 
 Tonne 
 
@@ -1017,14 +1036,14 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
@@ -1034,7 +1053,7 @@ Tonne
 Tonne 
 
 </td>
-      <td valign="top" colspan="5" align="left">
+      <td align="left" valign="top" colspan="5">
 
 283,65 (291,88 en 2009)
 
@@ -1051,14 +1070,14 @@ Matériaux d'extraction.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 0,20 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Installations classées : 
 
@@ -1067,10 +1086,10 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td align="left" valign="top" colspan="3">
+      <td valign="top" colspan="3" align="left">
 
 </td>
-      <td colspan="5" align="left" valign="top">
+      <td align="left" colspan="5" valign="top">
 
 501,61 (516,16 en 2009)
 
@@ -1100,7 +1119,7 @@ Délivrance d'autorisation :
       <td colspan="3">
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 2 525,35 (2 598,59 en 2009)
 
@@ -1116,10 +1135,10 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td valign="top" colspan="3" align="left">
 
 </td>
-      <td colspan="5" valign="top" align="left">
+      <td valign="top" colspan="5" align="left">
 
 339,37 (349,21 en 2009)
 
@@ -1131,10 +1150,10 @@ système de management environnemental a été certifié conforme à la norme IS
 - autres installations 
 
 </td>
-      <td align="left" colspan="3" valign="top">
+      <td valign="top" align="left" colspan="3">
 
 </td>
-      <td align="left" colspan="5" valign="top">
+      <td valign="top" colspan="5" align="left">
 
 380,44 (391,47 en 2009)
 
@@ -1148,9 +1167,9 @@ taux de croissance de l'indice des prix à la consommation hors tabac de l'avant
 
 Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter : 
 
-a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ; 
+a) Du 1er janvier 2026 aux tarifs mentionnés au tableau du a du A du 1 ; 
 
-b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ; 
+b) Du 1er janvier 2018 aux tarifs mentionnés au tableau du b du même A ;
 
 c) (Abrogé) 
 
@@ -1160,7 +1179,7 @@ c) (Abrogé)
 3. (Alinéa abrogé). 
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets dangereux ne s'applique pas aux
-résidus de traitement des installations de traitement thermique ou de tout autre traitement de déchets assujetties à la taxe.
+résidus de traitement des installations de traitement thermique de déchets assujetties à la taxe.
 
 4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets non dangereux ne s'applique
 pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités
@@ -1226,8 +1245,8 @@ des douanes conformes à la Constitution.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 266 sexies
+	  - Code des douanes - art. 266 sexies (V)

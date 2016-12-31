@@ -3,12 +3,16 @@
 I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes : 
 
-1. Tout exploitant d'une installation de stockage ou de traitement thermique de déchets non dangereux soumise à autorisation
-en application du titre Ier du livre V du code de l'environnement, tout exploitant d'une installation de stockage, de
-traitement thermique ou de tout autre traitement de déchets dangereux soumise à autorisation en application du même titre Ier
-et non exclusivement utilisée pour les déchets que l'entreprise produit ou toute personne qui transfère ou fait transférer
+1. Tout exploitant d'une installation soumise à autorisation, en application du titre Ier du livre V du code de
+l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative :
+
+a) Au stockage ou au traitement thermique de déchets non dangereux ;
+
+b) Ou au stockage ou au traitement thermique de déchets dangereux,
+
+et non exclusivement utilisée pour les déchets que l'exploitant produit, ou toute personne qui transfère ou fait transférer
 des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin
-2006 concernant les transferts de déchets ; 
+2006 concernant les transferts de déchets ;
 
 2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
 la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
@@ -58,9 +62,8 @@ volume, des risques particuliers à l'environnement ;
 
 II.-La taxe ne s'applique pas : 
 
-1. Aux installations de traitement thermique ou de tout autre traitement de déchets dangereux exclusivement affectées à la
-valorisation comme matière par incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à
-la vente de matériaux ; 
+1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par
+incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
 
 1 bis. Aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme
 matière ; 
@@ -72,10 +75,14 @@ relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchet
 1 quater. (Abrogé) ; 
 
 1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par
-arrêté, entre la date de début de sinistre et soixante jours après la fin du sinistre. Les quantités non taxables font
+arrêté, entre la date de début de sinistre et cent vingt jours après la fin du sinistre. Les quantités non taxables font
 l'objet d'une comptabilité matière séparée ; 
 
-1 sexies. Aux installations de co-incinération pour les déchets non dangereux qu'elles réceptionnent ; 
+1 sexies. Aux installations de co-incinération de déchets non dangereux pour les déchets non dangereux qu'elles
+réceptionnent ; 
+
+1 septies. Aux installations de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme
+de combustibles solides de récupération, mentionnées au 9° du I de l'article L. 541-1 du code de l'environnement ; 
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
@@ -97,11 +104,16 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé)
 
-III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
-installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
-décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
-détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
-de l'environnement ou de nuire à la santé humaine.
+III. - Sont exonérées de la taxe mentionnée au I :
+
+1. Les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent
+pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent
+pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de
+l'environnement ou de nuire à la santé humaine.
+
+2. Les quantités de déchets de produits mentionnés au second alinéa du 3 de l'article 265, utilisées comme combustible dans
+les phases de démarrage ou de maintien de la température d'une installation de traitement thermique de déchets dangereux,
+lorsque cette utilisation est mentionnée dans l'arrêté préfectoral d'autorisation de l'installation.
 
 **Liens relatifs à cet article**
 
@@ -148,12 +160,12 @@ de l'environnement ou de nuire à la santé humaine.
 	  - Code de l'environnement - art. R543-228 (V)
 	  - Code des douanes - art. 266 decies (V)
 	  - Code des douanes - art. 266 duodecies (V)
-	  - Code des douanes - art. 266 nonies (M)
+	  - Code des douanes - art. 266 nonies (VD)
 	  - Code des douanes - art. 266 octies (V)
 	  - Code des douanes - art. 266 quaterdecies (Ab)
 	  - Code des douanes - art. 266 septies (V)
 	  - Code des douanes - art. 266 terdecies (V)
-	  - Code des douanes - art. 266 undecies (VD)
+	  - Code des douanes - art. 266 undecies (M)
 	  - Code des douanes - art. 268 ter (M)
 	  - Code des douanes - art. 285 sexies (V)
 	  - Code général des collectivités territoriales - art. L2333-92 (V)
@@ -180,4 +192,4 @@ de l'environnement ou de nuire à la santé humaine.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)

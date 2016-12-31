@@ -10,9 +10,7 @@ sauf dans les départements d'outre-mer.
 
 Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité
 territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants
-concernés après application éventuelle de la modulation décidée par les conseils régionaux ou l'Assemblée de Corse dans les
-conditions prévues au 2 de l'article 265 et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le
-supercarburant.
+concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
 
 **Liens relatifs à cet article**
 
@@ -62,9 +60,13 @@ supercarburant.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 	**Cite**:
 
 	  - Code des douanes - art. 265
-	  - Code des douanes - art. 352 (V)
+	  - Code des douanes - art. 352

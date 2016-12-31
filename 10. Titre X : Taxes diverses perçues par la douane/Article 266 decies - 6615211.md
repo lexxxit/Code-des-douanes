@@ -19,8 +19,8 @@ donnent lieu, sur demande du redevable de la taxe générale sur les activités 
 remboursement de la taxe acquittée, dans les conditions prévues à l'article 352, lorsqu'ils sont expédiés à destination d'un
 Etat membre de l'Union européenne ou exportés. 
 
-4. Les personnes mentionnées au 1 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
-avec les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes
+4. Les personnes mentionnées au 1 du I de l'article 266 sexies  répercutent  la taxe afférente dans les contrats conclus avec
+les personnes physiques ou morales dont ils réceptionnent les déchets. Elles adressent chaque année auxdites personnes
 physiques ou morales une copie des éléments d'assiette et de tarifs déclarés à l'administration des douanes. 
 
 5. Les personnes mentionnées au 5 du I de l'article 266 sexies peuvent répercuter la taxe afférente dans les contrats conclus
@@ -48,7 +48,7 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	  - Loi n°96-1236 du 30 décembre 1996 - art. 3
 	  - Code des douanes - art. 266 sexies
-	  - Code des douanes - art. 352
+	  - Code des douanes - art. 352 (V)
 
 	**Cité par**:
 
@@ -74,5 +74,4 @@ les conditions auxquelles est subordonné l'octroi de cette suspension ne sont p
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 29 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)

@@ -2,7 +2,7 @@
 
 Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par : 
 
-1. La réception des déchets par les exploitants mentionnés au 1 du I de l'article 266 sexies ; 
+1. La réception des déchets dans une installation mentionnée au 1 du I de l'article 266 sexies ;
 
 1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays
 d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant
@@ -39,11 +39,6 @@ b. L'exploitation au cours d'une année civile d'un établissement mentionné au
 
 10. (Abrogé)
 
-**Nota:**
-
-Loi n° 2013-1278 du 29 décembre 2013, article 33 (III) : Ces dispositions s'appliquent aux émissions constatées à compter du
-1er janvier 2014.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -69,13 +64,13 @@ Loi n° 2013-1278 du 29 décembre 2013, article 33 (III) : Ces dispositions s'ap
 	  - Code des douanes - art. 266 nonies (V)
 	  - Code des douanes - art. 266 octies (M)
 	  - Code des douanes - art. 266 sexies (V)
-	  - Code des douanes - art. 266 undecies (VD)
+	  - Code des douanes - art. 266 undecies (M)
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L512-1 (V)
-	  - Code de l'environnement - art. L512-8 (V)
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-8
