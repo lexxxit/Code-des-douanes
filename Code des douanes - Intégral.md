@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-03-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -18893,19 +18893,17 @@ c) après jugement définitif, les sanctions fiscales prononcées par les tribun
 
 ###### Article 351
 
-L'action de l'administration des douanes en répression des infractions douanières se prescrit dans les mêmes délais et dans
-les mêmes conditions que l'action publique en matière de délits de droit commun.
+L'action de l'administration des douanes en répression des délits douaniers se prescrit dans les mêmes délais et dans les
+mêmes conditions que l'action publique en matière de délits de droit commun.
+
+En matière de contravention, l'action de l'administration des douanes se prescrit par trois années révolues, selon les mêmes
+modalités.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1238 1958-12-17 art. 9 JORF 18 décembre 1958
-	  - Loi - art. 44 (V) JORF décembre 2002
 
 	**Cité par**:
 
@@ -18918,6 +18916,10 @@ les mêmes conditions que l'action publique en matière de délits de droit comm
 	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978
 	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-242 du 27 février 2017 - art. 3
 
 
 #### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables
