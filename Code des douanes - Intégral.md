@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -1306,28 +1306,44 @@ leur prestation de serment ; ils sont tenus de l'exhiber à la première réquis
 	  - Décret n°48-1985 1948-12-08
 
 
-###### Article 56
+###### Article 55 bis
 
-1. Les agents des douanes ont, pour l'exercice de leurs fonctions, le droit au port d'armes.
-
-2. Outre le cas de légitime défense, ils peuvent en faire usage :
-
-a) lorsque des violences ou voies de fait sont exercées contre eux ou lorsqu'ils sont menacés par des individus armés ;
-
-b) lorsqu'ils ne peuvent immobiliser autrement les véhicules, embarcations et autres moyens de transport dont les conducteurs
-n'obtempèrent pas à l'ordre d'arrêt ;
-
-c) lorsqu'ils ne peuvent autrement s'opposer au passage d'une réunion de personnes qui ne s'arrêtent pas aux sommations qui
-leur sont adressées ;
-
-d) lorsqu'ils ne peuvent capturer vivants les chiens, les chevaux et autres animaux employés pour la fraude ou que l'on tente
-d'importer ou d'exporter frauduleusement ou qui circulent irrégulièrement.
+Par dérogation au chapitre IV du présent titre et au titre XII du présent code, les agents des douanes peuvent, sur
+autorisation d'un responsable hiérarchique d'un niveau suffisant, défini par décret, être identifiés dans les actes de
+procédure, déposer, être désignés, comparaître comme témoins ou se constituer parties civiles en utilisant le numéro de leur
+commission d'emploi, leur qualité et leur service ou unité d'affectation, dans les conditions prévues à l'article 15-4 du
+code de procédure pénale.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 15-4 (V)
+
+
+###### Article 56
+
+1. Les agents des douanes ont, pour l'exercice de leurs fonctions, le droit au port d'armes. 
+
+2. Ils peuvent faire usage de leurs armes dans les conditions prévues à l'article L. 435-1 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L435-1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°48-1985 1948-12-08
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 1
 
 
 ###### Article 57
@@ -1708,10 +1724,11 @@ d'emprisonnement d'un an et d'une amende de 3750 euros.
 
 ###### Article 61
 
-1. Tout conducteur de moyen de transport doit se soumettre aux injonctions des agents des douanes.
+1. Tout conducteur de moyen de transport doit se soumettre aux injonctions des agents des douanes. 
 
-2. Ces derniers peuvent faire usage de tous engins appropriés pour immobiliser les moyens de transport quand les conducteurs
-ne s'arrêtent pas à leurs injonctions.
+2. Ces derniers peuvent faire usage de matériels appropriés, conformes à des normes techniques définies par arrêté du
+ministre chargé des douanes, pour immobiliser les moyens de transport dans les cas prévus à l'article L. 214-2 du code de la
+sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -1734,6 +1751,14 @@ ne s'arrêtent pas à leurs injonctions.
 	  - Code rural ancien - art. 363-1 (Ab)
 	  - Code rural ancien - art. 364 (M)
 	  - Livre des procédures fiscales - art. L80 J (V)
+
+	**Modifié par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L214-2 (V)
 
 	**Codifié par**:
 
