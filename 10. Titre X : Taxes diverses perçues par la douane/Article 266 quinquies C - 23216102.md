@@ -53,7 +53,11 @@ leur fabrication.
 
 4° Produite par de petits producteurs d'électricité qui la consomment pour les besoins de leur activité. Sont considérées
 comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la
-production annuelle n'excède pas 240 millions de kilowattheures par site de production ; 
+production annuelle n'excède pas 240 millions de kilowattheures par site de production. Cette disposition s'applique
+également à la part, consommée sur le site,  de l'électricité produite par les producteurs d'électricité pour  lesquels la
+puissance de production installée sur le site est inférieure  à 1 000 kilowatts. Pour les installations de production
+d'électricité  utilisant l'énergie solaire photovoltaïque, la puissance installée  s'entend de la puissance crête
+installée ; 
 
 5° (Abrogé). 
 
@@ -262,7 +266,9 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies C tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -282,7 +288,7 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 	  - Décret n°2011-1996 du 28 décembre 2011 (V)
 	  - Arrêté du 6 février 2015 - art. 1 (V)
 	  - Arrêté du 14 avril 2015 - art. (V)
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
 	  - Arrêté du 18 décembre 2015 (V)
 	  - Arrêté du 29 mars 2016 (V)
 	  - Arrêté du 29 mars 2016 - art. 1 (V)
@@ -298,8 +304,7 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 54 (V)
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 27
+	  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 	**Cite**:
 

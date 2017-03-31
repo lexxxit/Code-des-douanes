@@ -41,7 +41,7 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de
 l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ; 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ; 
 
 2° Pour les besoins de leur extraction et de leur production ; 
 
@@ -157,7 +157,9 @@ le remboursement de la taxe ou de la fraction de taxe, dans les conditions prév
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies B tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -177,15 +179,15 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 14
+	  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L3333-2
+	  - Code général des collectivités territoriales - art. L3333-2 (VD)
 	  - Code des douanes - art. 265 C
-	  - Code des douanes - art. 265 nonies (V)
+	  - Code des douanes - art. 265 nonies
 	  - Code des douanes - art. 266 quinquies A
 	  - Code des douanes - art. 352
 	  - Code de l'environnement - art. L229-5
-	  - Code de l'énergie - art. L121-27 (V)
-	  - Code de l'énergie - art. L314-1 (V)
+	  - Code de l'énergie - art. L121-27
+	  - Code de l'énergie - art. L314-1

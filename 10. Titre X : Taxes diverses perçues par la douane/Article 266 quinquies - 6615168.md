@@ -39,7 +39,7 @@ dans les conditions prévues au III de l'article 265 C.
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés : 
 
 a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales. 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C. 
 
 Cette exonération ne s'applique pas aux produits mentionnés au 1 destinés à être utilisés dans les installations visées à
 l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1
@@ -164,7 +164,9 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies  tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -196,7 +198,7 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 	  - Arrêté du 6 février 2015 - art. 1 (V)
 	  - Arrêté du 14 avril 2015 - art. (V)
 	  - Décret n°2015-568 du 22 mai 2015 - art. 1 (V)
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
 	  - Décret n°2016-397 du 31 mars 2016 (V)
 	  - Décret n°2016-397 du 31 mars 2016 - art. 1 (V)
 	  - Code de l'énergie - art. D461-2 (V)
@@ -222,4 +224,4 @@ Ces dispositions s'appliquent aux opérations dont le fait générateur intervie
 
 	**Modifié par**:
 
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 26
+	  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
