@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-07-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -711,7 +711,7 @@ Conseil, du 11 février 2004, relatif aux précurseurs de drogues ;
 
 8° bis Aux produits phytopharmaceutiques mentionnés au paragraphe 1 de l'article 2 du règlement (CE) n° 1107/2009 du
 Parlement européen et du Conseil, du 21 octobre 2009, concernant la mise sur le marché des produits phytopharmaceutiques et
-abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil ; 
+abrogeant les directives 79/117/CEE et 91/414/CEE du Conseil ;
 
 9° Aux marchandises contrefaisantes ; 
 
@@ -726,7 +726,7 @@ préparations de thérapie cellulaire et aux échantillons biologiques mentionn�
 12° Aux tissus ou cellules embryonnaires ou fœtaux mentionnés à l'article L. 2151-6 du même code ; 
 
 13° Aux sources artificielles et naturelles de radionucléides définies à l'article L. 1333-1 dudit code et relevant des
-articles L. 1333-2 et L. 1333-4 du même code ; 
+articles L. 1333-4 et L. 1333-8 du même code ; 
 
 14° Aux déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le transit
 sont régis par la section 4 du chapitre Ier du titre IV du livre V du même code ainsi que par le règlement (CE) n° 1013/2006
@@ -734,10 +734,10 @@ du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts
 l'Union européenne prises en application de ce règlement ; 
 
 15° Aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique
-mentionnées à l'article 227-23 du code pénal ; 
+mentionnées à l'article 227-23 du code pénal ;
 
 16° Aux produits du tabac manufacturé ayant fait l'objet d'une opération mentionnée au I de l'article 568 ter du code général
-des impôts ; 
+des impôts ;
 
 17° Aux produits cosmétiques mentionnés à l'article L. 5131-1 du code de la santé publique contenant des substances
 interdites ou soumises à restrictions au titre du règlement (CE) n° 1223/2009 du Parlement européen et du Conseil du 30
@@ -839,24 +839,18 @@ chargé des douanes et du ou des ministres concernés.
 	**Cite**:
 
 	  - Loi n°92-1477 du 31 décembre 1992 - art. 2
-	  - Code général des impôts, CGI. - art. 568 ter (V)
 	  - Code pénal - art. 227-13
 	  - Code de la défense. - art. L2335-10
 	  - Code de la défense. - art. L2335-18
 	  - Code de la défense. - art. L2342-8
 	  - Code de la défense. - art. L2352-1
-	  - Code de la santé publique - art. L1221-12 (V)
 	  - Code de la santé publique - art. L1221-8
 	  - Code de la santé publique - art. L1235-1
 	  - Code de la santé publique - art. L1243-1
 	  - Code de la santé publique - art. L1245-5
-	  - Code de la santé publique - art. L1333-1
-	  - Code de la santé publique - art. L1333-2
-	  - Code de la santé publique - art. L1333-4
 	  - Code de la santé publique - art. L2141-11-1
 	  - Code de la santé publique - art. L2151-6
-	  - Code de la santé publique - art. L5124-13 (VT)
-	  - Code de la santé publique - art. L5131-1 (V)
+	  - Code de la santé publique - art. L5124-13
 	  - Code de la santé publique - art. L5132-9
 	  - Code de la santé publique - art. L5139-1
 	  - Code de la santé publique - art. L5142-7
@@ -892,7 +886,7 @@ chargé des douanes et du ou des ministres concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 167
+	  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.
@@ -4501,43 +4495,6 @@ les marchandises abandonnées par transaction.
 	**Cité par**:
 
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-### Section 3 : Crédit des droits et taxes.
-
-###### Article 112
-
-1. Les redevables peuvent être admis à présenter des obligations dûment cautionnées, à quatre mois d'échéance, pour le
-paiement des droits et taxes recouvrés par l'administration des douanes.
-
-2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 762 euros.
-
-3. Elles donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont fixés par des arrêtés
-du ministre de l'économie et des finances.
-
-4. La remise spéciale ne peut dépasser un tiers d'euro pour cent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°48-1985 1948-12-08
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Loi n°2001-1275 du 28 décembre 2001 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-	  - Arrêté du 16 juillet 1982 - art. 1 (V)
-	  - Code des douanes - art. 448 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ## Chapitre IV : Enlèvement des marchandises
