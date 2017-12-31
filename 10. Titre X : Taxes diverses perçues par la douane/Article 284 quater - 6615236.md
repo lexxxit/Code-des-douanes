@@ -14,8 +14,8 @@ de 10 %.
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
 
-4. Le paiement de la taxe doit être effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les
-écritures de la Banque de France, lorsque son montant excède 5 000 euros. 
+4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -33,4 +33,4 @@ exigible à compter du 1er juillet 2016.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)

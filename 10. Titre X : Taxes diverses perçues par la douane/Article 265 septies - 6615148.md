@@ -17,14 +17,14 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé, au choix du demandeur :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
-région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est
-applicable en application des articles 265, 265 A bis et 265 A ter ;
+région et dans la collectivité de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est applicable en
+application des articles 265,265 A bis et 265 A ter ;
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
-au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé
-en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les
-volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le
-montant de ce taux moyen pondéré est fixé par arrêté. 
+au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en pondérant
+les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les volumes de
+gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de
+ce taux moyen pondéré est fixé par arrêté. 
 
 Le remboursement est également accordé aux personnes établies dans un autre Etat membre de l'Union européenne qui sont en
 mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et que ce
@@ -89,11 +89,12 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
 
 	**Cite**:
 
 	  - Code des douanes - art. 265
+	  - Code des douanes - art. 265 A bis (V)
 	  - Code des douanes - art. 284 bis A
 	  - Code des douanes - art. 352

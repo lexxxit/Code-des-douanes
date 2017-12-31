@@ -1,7 +1,7 @@
 # Article 158 terdecies
 
-I. ― La circulation des produits en suspension de droits en provenance ou à destination d'un autre Etat membre de la
-Communauté européenne s'effectue soit :
+I. ― La circulation des produits en suspension de droits en France et dans les échanges entre les Etats membres de l'Union
+européenne s'effectue soit :
 
 1° Entre entrepositaires agréés ;
 
@@ -9,20 +9,26 @@ Communauté européenne s'effectue soit :
 
 3° Lorsque les produits sont exportés au sens de l'article 158 sexies.
 
-II. ― L'expédition de produits dans un autre Etat membre de la Communauté européenne par un entrepositaire agréé ou par un
+II. ― L'expédition de produits dans un autre Etat membre de l'Union européenne par un entrepositaire agréé ou par un
 expéditeur enregistré à la suite de leur mise en libre pratique s'effectue en suspension de droits lorsqu'elle est réalisée :
 
 1° Vers un destinataire enregistré ;
 
-2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 793 du règlement (CEE) n°
-2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
-Conseil établissant le code des douanes communautaire, qui n'est pas situé en France.
+2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 329 du règlement d'exécution
+(UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d'application de certaines dispositions du
+règlement (UE) n° 952/2013 du Parlement européen et du Conseil établissant le code des douanes de l'Union, qui n'est pas
+situé en France.
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 	**Cite**:
 
@@ -30,4 +36,4 @@ Conseil établissant le code des douanes communautaire, qui n'est pas situé en 
 
 	**Cité par**:
 
-	  - Code des douanes - art. 158 quaterdecies (V)
+	  - Code des douanes - art. 158 quaterdecies (VD)

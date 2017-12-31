@@ -8,9 +8,9 @@ activité professionnelle.
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
 sauf dans les départements d'outre-mer. 
 
-Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité
-territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants
-concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
+Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité de
+Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20
+euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
 
 **Liens relatifs à cet article**
 
@@ -60,10 +60,7 @@ concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hecto
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-
-	**Abrogé par**:
-
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 	**Cite**:

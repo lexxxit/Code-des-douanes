@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2018-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -5299,27 +5299,32 @@ produits en suspension de droits.
 
 II. - L'entrepositaire agréé est tenu :
 
-a) De fournir une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation et à la
-détention des produits soumis à accise et garantissant le paiement des droits ;
+a) Lorsqu'il est titulaire d'une autorisation d'exploiter un entrepôt mentionné aux articles 158 A, 158 D ou 163, de fournir
+une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation, à la détention et à
+l'expédition des produits soumis à accise et garantissant le paiement des droits ; 
+
+a bis) Lorsqu'il n'est pas titulaire d'une autorisation d'exploiter un entrepôt mentionné aux mêmes articles 158 A, 158 D ou
+163, de fournir une caution solidaire afin de couvrir les risques inhérents à l'expédition des produits soumis à accise ;
 
 b) De tenir, pour chaque entrepôt fiscal, une comptabilité des stocks et des mouvements de produits soumis à accise ;
 
 c) D'introduire dans son entrepôt fiscal et d'inscrire dans sa comptabilité, dès leur réception, tous les produits soumis à
 accise circulant sous un régime de suspension de droits ;
 
-d) De se prêter à tout contrôle et à toute vérification de ses stocks.
+d) De se prêter à tout contrôle et à toute vérification des stocks de l'entrepôt faisant l'objet du contrôle.
 
 III. - Le directeur général des douanes et droits indirects accorde la qualité d'entrepositaire agréé à la personne qui
 justifie être en mesure de remplir les obligations prévues au II. En cas de violation par l'entrepositaire de ses
 obligations, de défaillance de la caution ou de dénonciation par cette caution de son engagement, le directeur général des
 douanes et droits indirects peut retirer l'agrément.
 
-IV. - Les entrepositaires agréés redevables d'un montant annuel de taxe intérieure de consommation inférieur à un seuil fixé
-par arrêté du ministre chargé du budget sont dispensés de caution solidaire. 
+IV. - Lorsque le montant total des garanties prévues au II, demandées à l'ensemble des entrepôts pour lesquels une société
+dispose du statut d'entrepositaire agréé, est inférieur, pour l'ensemble de la société, à un seuil fixé par arrêté du
+ministre chargé du budget, cette société est dispensée de fournir la caution solidaire prévue au même II. La société adresse
+à l'autorité compétente une demande de dispense de caution solidaire conforme à un modèle établi par l'administration. 
 
-Le montant annuel de la taxe intérieure de consommation est constaté par année civile. Toutefois, la caution solidaire est
-fournie sans délai par les entrepositaires agréés dès que, au cours d'une année civile, ils deviennent redevables d'un
-montant égal ou supérieur au seuil mentionné au premier alinéa.
+Toutefois, l'entrepositaire agréé conserve l'obligation de fournir la caution solidaire au titre des mouvements de produits
+qui n'ont pas entièrement lieu sur le territoire métropolitain.
 
 **Liens relatifs à cet article**
 
@@ -5331,7 +5336,7 @@ montant égal ou supérieur au seuil mentionné au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 85
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ###### Article 158 octodecies
@@ -5406,71 +5411,73 @@ Dhekelia.
 
 ###### Article 158 quaterdecies
 
-I. ― Pour l'application de l'article 158 terdecies, les produits en suspension de droits en provenance ou à destination d'un
-autre Etat membre de la Communauté européenne circulent, lorsqu'ils ne sont pas placés sous une procédure douanière
-suspensive ou sous un régime suspensif douanier, sous couvert d'un document d'accompagnement établi par l'expéditeur et
-permettant de vérifier leur situation au regard de l'impôt. 
-
-Le modèle et les conditions d'utilisation de ce document d'accompagnement sont fixés par le règlement (CEE) n° 2719/92 de la
-Commission du 11 septembre 1992 relatif au document administratif d'accompagnement lors de la circulation en régime de
-suspension des produits soumis à accise, modifié par le règlement (CEE) n° 2225/93 de la Commission du 27 juillet 1993. 
+I.-Pour l'application de l'article 158 terdecies, les mouvements de produits en suspension de droits en France, en provenance
+ou à destination d'un autre Etat membre de l'Union européenne, lorsque ces produits ne sont pas placés sous une procédure
+douanière suspensive ou sous un régime suspensif douanier, sont effectués sous le couvert d'un document administratif
+électronique établi par l'expéditeur conformément à l'article 158 septdecies.
 
 Ce document d'accompagnement est également requis pour les produits qui circulent en suspension de droits entre deux
 entrepôts suspensifs des droits d'accise situés en France via le territoire d'un autre Etat membre. 
 
 II. ― Les produits soumis à accise mis à la consommation conformément au a du I de l'article 158 quinquies ou qui sont
 exonérés ou exemptés des droits et les produits qui ont déjà été mis à la consommation en provenance ou à destination d'un
-autre Etat membre de la Communauté européenne dont le destinataire est une personne mentionnée au I de l'article 158
-unvicies, circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les
-conditions d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au
-document d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
+autre Etat membre de l'Union européenne dont le destinataire est une personne mentionnée au I de l'article 158 unvicies,
+circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les conditions
+d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au document
+d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
 consommation dans l'Etat membre de départ ; il en est de même pour les produits qui ont été mis à la consommation en France
-et qui sont expédiés en France via le territoire d'un autre Etat membre. 
+et qui sont expédiés en France via le territoire d'un autre Etat membre.
 
-III. ― Les documents d'accompagnement prévus aux I et II peuvent être établis au moyen du service de suivi informatique des
-mouvements de marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects. 
+Ce document peut être établi au moyen du service de suivi informatique des mouvements de marchandises soumises à accises, sur
+autorisation du directeur général des douanes et droits indirects.
 
-Les dispositions mentionnées à l'article 158 septdecies sont applicables aux entrepositaires agréés ou aux expéditeurs
-enregistrés qui souhaitent utiliser ce service en France.
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 	**Cité par**:
 
 	  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
 	  - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
 	  - Arrêté du 14 janvier 2011 (V)
-	  - Code des douanes - art. 158 quindecies (V)
+	  - Code des douanes - art. 158 quindecies (VD)
 	  - Code des douanes - art. 158 sexdecies (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 158 septdecies (V)
-	  - Code des douanes - art. 158 terdecies (V)
+	  - Code des douanes - art. 158 septdecies
+	  - Code des douanes - art. 158 terdecies (VD)
 
 
 ###### Article 158 quindecies
 
 I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le
-document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer au verso soit un nouveau destinataire
-qui doit être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
+document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer soit un nouveau destinataire qui doit
+être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
 
-II. ― L'entrepositaire agréé expéditeur ou l'expéditeur enregistré doit aviser immédiatement l'administration des douanes et
-droits indirects de ces changements.
+II. - (abrogé)
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 	**Cite**:
 
-	  - Code des douanes - art. 158 quaterdecies (V)
+	  - Code des douanes - art. 158 quaterdecies (VD)
 
 
 ###### Article 158 quinquies
@@ -5503,17 +5510,18 @@ cette dette à titre solidaire.
 
 ###### Article 158 septdecies
 
-Dans les échanges intracommunautaires, les mouvements de produits soumis à accise sont effectués en suspension de droits
-s'ils sont réalisés sous le couvert d'un document administratif électronique établi par l'expéditeur dans les conditions
-prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en œuvre la directive 2008/118/CE du
-Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en suspension de droits de produits soumis
-à accise et selon des modalités fixées par voie réglementaire.
+En France et dans les échanges entre les Etats membres de l'Union européenne, les mouvements de produits soumis à accise
+effectués en suspension de droits sont réalisés sous le couvert d'un document administratif électronique établi par
+l'expéditeur dans les conditions prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en
+œuvre la directive 2008/118/CE du Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en
+suspension de droits de produits soumis à accise et selon des modalités fixées par voie réglementaire.
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 	**Cité par**:
 
@@ -5521,6 +5529,10 @@ Conseil en ce qui concerne les procédures informatisées applicables aux mouvem
 	  - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
 	  - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
 	  - Code des douanes - art. 158 quaterdecies (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 	**Cite**:
 
@@ -5565,30 +5577,6 @@ Commission du 10 janvier 1996 relatif au certificat d'exonération des droits d'
 	**Cite**:
 
 	  - règlement CE n°31/96
-
-
-###### Article 158 sexdecies
-
-Dans les quinze premiers jours du mois suivant la réception, l'entrepositaire agréé ou le destinataire enregistré qui reçoit
-des produits en suspension de droits d'accise adresse à l'expéditeur l'exemplaire prévu à cet effet, dûment annoté et visé en
-tant que de besoin par l'administration des douanes et droits indirects, du document d'accompagnement mentionné au I de
-l'article 158 quaterdecies. 
-
-Il adresse un autre exemplaire de ce document à l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
-
-	**Cite**:
-
-	  - Code des douanes - art. 158 quaterdecies
 
 
 ###### Article 158 sexies
@@ -5646,8 +5634,8 @@ combustible.
 
 ###### Article 158 terdecies
 
-I. ― La circulation des produits en suspension de droits en provenance ou à destination d'un autre Etat membre de la
-Communauté européenne s'effectue soit :
+I. ― La circulation des produits en suspension de droits en France et dans les échanges entre les Etats membres de l'Union
+européenne s'effectue soit :
 
 1° Entre entrepositaires agréés ;
 
@@ -5655,20 +5643,26 @@ Communauté européenne s'effectue soit :
 
 3° Lorsque les produits sont exportés au sens de l'article 158 sexies.
 
-II. ― L'expédition de produits dans un autre Etat membre de la Communauté européenne par un entrepositaire agréé ou par un
+II. ― L'expédition de produits dans un autre Etat membre de l'Union européenne par un entrepositaire agréé ou par un
 expéditeur enregistré à la suite de leur mise en libre pratique s'effectue en suspension de droits lorsqu'elle est réalisée :
 
 1° Vers un destinataire enregistré ;
 
-2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 793 du règlement (CEE) n°
-2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
-Conseil établissant le code des douanes communautaire, qui n'est pas situé en France.
+2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 329 du règlement d'exécution
+(UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d'application de certaines dispositions du
+règlement (UE) n° 952/2013 du Parlement européen et du Conseil établissant le code des douanes de l'Union, qui n'est pas
+situé en France.
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 	**Cite**:
 
@@ -5676,7 +5670,7 @@ Conseil établissant le code des douanes communautaire, qui n'est pas situé en 
 
 	**Cité par**:
 
-	  - Code des douanes - art. 158 quaterdecies (V)
+	  - Code des douanes - art. 158 quaterdecies (VD)
 
 
 ###### Article 158 undecies
@@ -5816,8 +5810,7 @@ des produits pétroliers peuvent faire l'objet.
 
 3. L'entrepositaire agréé, titulaire de l'autorisation d'exploiter, est responsable auprès de l'administration des douanes de
 toutes les opérations résultant du stockage des produits pétroliers et de l'application de la réglementation douanière et
-fiscale qui s'y rapporte. A ce titre, il est redevable de l'impôt lors de la constatation des manquants. Il est tenu de
-présenter une caution solvable.
+fiscale qui s'y rapporte. A ce titre, il est redevable de l'impôt lors de la constatation des manquants. 
 
 4. Il doit dans ce cadre :
 
@@ -5836,14 +5829,14 @@ l'entrepositaire cédant sont transférées à l'entrepositaire cessionnaire.
 
 	  - Décret n°48-1985 1948-12-08
 
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 	  - Code des douanes - art. 158 D (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ###### Article 158 C
@@ -7716,14 +7709,14 @@ L'assiette, le taux et les modalités d'application de ce droit sont fixés comm
 <table>
   <tbody>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 TONNAGE BRUT
 
 du navire ou longueur de coque
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 QUOTITÉ DU DROIT
 
@@ -7731,7 +7724,7 @@ QUOTITÉ DU DROIT
     </tr>
     <tr>
       <td width="307" valign="top">
-      </td><td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 I.-Navires de commerce
 
@@ -7758,12 +7751,12 @@ II.-Navires de pêche
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De tout tonnage
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
@@ -7778,8 +7771,8 @@ III.-Navires de plaisance ou de sport
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
-      </td><td width="307" valign="top">
+      <td valign="top" width="307">
+      </td><td valign="top" width="307">
 
 a) Droit sur la coque
 
@@ -7791,7 +7784,7 @@ a) Droit sur la coque
 De moins de 7 mètres
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
@@ -7810,12 +7803,12 @@ De 7 mètres inclus à 8 mètres exclus
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 8 mètres inclus à 9 mètres exclus
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 105 euros
 
@@ -7827,14 +7820,14 @@ De 8 mètres inclus à 9 mètres exclus
 De 9 mètres inclus à 10 mètres exclus
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 178 euros
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 10 mètres inclus à 11 mètres exclus
 
@@ -7846,19 +7839,19 @@ De 10 mètres inclus à 11 mètres exclus
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 11 mètres inclus à 12 mètres exclus
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 274 euros
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 12 mètres inclus à 15 mètres exclus
 
@@ -7882,7 +7875,7 @@ De 15 mètres et plus
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
       </td><td valign="top" width="307">
 
 b) Droit sur le moteur des navires (puissance administrative)
@@ -7895,7 +7888,7 @@ b) Droit sur le moteur des navires (puissance administrative)
 Jusqu'à 5 CV inclusivement
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
@@ -7907,7 +7900,7 @@ Exonération
 De 6 à 8 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 14 euros par CV au-dessus du cinquième
 
@@ -7919,19 +7912,19 @@ De 6 à 8 CV
 De 9 à 10 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 16 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 11 à 20 CV
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 35 euros par CV au-dessus du cinquième
 
@@ -7943,7 +7936,7 @@ De 11 à 20 CV
 De 21 à 25 CV
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 40 euros par CV au-dessus du cinquième
 
@@ -7955,7 +7948,7 @@ De 21 à 25 CV
 De 26 à 50 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 44 euros par CV au-dessus du cinquième
 
@@ -7967,7 +7960,7 @@ De 26 à 50 CV
 De 51 à 99 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 50 euros par CV au-dessus du cinquième
 
@@ -7975,15 +7968,15 @@ De 51 à 99 CV
     </tr>
     <tr>
       <td valign="top" width="307">
-      </td><td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 c) Taxe spéciale
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
-      </td><td valign="top" width="307">
+      <td valign="top" width="307">
+      </td><td width="307" valign="top">
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
 taxe spéciale de 64 euros par CV. 
@@ -8010,8 +8003,8 @@ taxe spéciale de 64 euros par CV.
 </table>
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
-port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
-et doit être compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité de Corse et doit être
+compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
 
 **Nota:**
 
@@ -8028,25 +8021,25 @@ de l'article 223 ainsi que le
 	  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 	  - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
 	  - Code des douanes - art. 224 (VT)
-	  - Code des douanes - art. 238 (V)
+	  - Code des douanes - art. 238 (VD)
 	  - Code des ports maritimes - art. L221-1 (VT)
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 70 (V)
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 
 ###### Article 224
 
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans
-la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au
-Conservatoire de l'espace littoral et des rivages lacustres. 
+de la collectivité de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans la limite du
+plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Conservatoire de
+l'espace littoral et des rivages lacustres. 
 
-L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
-Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
-affecté au budget général. 
+L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité de Corse un
+prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au
+budget général. 
 
 En complément de l'éco-contribution versée par les metteurs sur le marché de navires de plaisance ou de sport à un éco-
 organisme dans le cadre de la filière définie à l'article L. 541-10-10 du code de l'environnement, une quote-part du produit
@@ -8086,14 +8079,6 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
 euros.
 
-6. Le montant de la quote-part du produit brut du droit annuel de francisation et de navigation mentionnée au troisième
-alinéa du 1 est fixé à 2 % pour les années 2018 et 2019.
-
-Ce montant est affecté aux éco-organismes agréés qui opèrent dans le cadre de la filière définie à l'article L. 541-10-10 du
-code de l'environnement, au prorata des mises sur le marché de leurs adhérents.
-
-Les modalités de versement de ce montant sont fixées par décret.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -8119,12 +8104,7 @@ Les modalités de versement de ce montant sont fixées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 123
-
-	**Abrogé par**:
-
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 123
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 
 ###### Article 225
@@ -8389,14 +8369,14 @@ navires d'une longueur de coque supérieure ou égale à 15 mètres.
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
-l'année écoulée, au profit de la collectivité territoriale de Corse. Sont exonérées de droit de passeport les sociétés
-propriétaires d'un navire de plaisance ou de sport faisant l'objet d'un contrat de location avec option d'achat ou de crédit-
-bail conclu avec une personne physique n'ayant pas sa résidence principale en France ou avec une personne morale ne disposant
-pas d'établissement en France, à l'exclusion de celles qui seraient contrôlées directement ou indirectement par une personne
+l'année écoulée, au profit de la collectivité de Corse. Sont exonérées de droit de passeport les sociétés propriétaires d'un
+navire de plaisance ou de sport faisant l'objet d'un contrat de location avec option d'achat ou de crédit-bail conclu avec
+une personne physique n'ayant pas sa résidence principale en France ou avec une personne morale ne disposant pas
+d'établissement en France, à l'exclusion de celles qui seraient contrôlées directement ou indirectement par une personne
 physique ayant sa résidence principale en France. 
 
-L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
-pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité de Corse un prélèvement pour frais
+d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
 
 **Liens relatifs à cet article**
 
@@ -8408,13 +8388,13 @@ pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit
 
 	**Modifié par**:
 
-	  - Loi n°2016-816 du 20 juin 2016 - art. 4
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 238-0 A (V)
-	  - Code des douanes - art. 223
-	  - Code des douanes - art. 237 (V)
+	  - Code général des impôts, CGI. - art. 238-0 A
+	  - Code des douanes - art. 223 (VD)
+	  - Code des douanes - art. 237
 
 
 ###### Article 239
@@ -10088,21 +10068,6 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="center">----gazole B10 (1) </td>
-      <td align="center">22 bis </td>
-      <td align="center">Hectolitre</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">53,07 </td>
-    </tr>
-    <tr>
       <td>
 
 ----fioul lourd ; 
@@ -10698,7 +10663,7 @@ Gaz naturel à l'état gazeux :
 </td>
       <td>
 
-100 m³ 
+100 m ³ 
 
 </td>
       <td>
@@ -10718,7 +10683,7 @@ Gaz naturel à l'état gazeux :
 </td>
       <td>
 
-5,80
+6,50
 
 </td>
     </tr>
@@ -10735,7 +10700,7 @@ Gaz naturel à l'état gazeux :
 </td>
       <td>
 
-100 m³ 
+100 m ³ 
 
 </td>
       <td>
@@ -11490,34 +11455,6 @@ Hectolitre
 
 </td>
     </tr>
-    <tr>
-      <td align="center">EX 2207-20</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="left">- carburant constitué d'un mélange d'au minimum 90 % d'alcool éthylique d'origine agricole, d'eau et
-d'additifs favorisant l'auto-inflammation et la lubrification, destiné à l'alimentation de moteurs thermiques à allumage par
-compression </td>
-      <td align="center">56
-
-</td>
-      <td align="center">Hectolitre </td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">4,40</td>
-    </tr>
   </tbody>
 </table>
 
@@ -11765,6 +11702,22 @@ Tous produits de la position.
 vendus aux consommateurs finals sur leur territoire de 1,77 € par hectolitre, pour les supercarburants repris aux indices
 d'identification 11 et 11 ter, et de 1,15 € par hectolitre, pour le gazole repris à l'indice d'identification 22.
 
+A compter du 1er janvier 2006, le montant de cette réfaction est de 1,77 euro par hectolitre pour le supercarburant et de
+1,15 euro par hectolitre pour le gazole.
+
+A compter du 1er janvier 2007, les conseils régionaux et l'assemblée de Corse peuvent réduire ou augmenter le montant de la
+réfaction du taux de la taxe intérieure de consommation applicable aux carburants vendus aux consommateurs finals sur leur
+territoire dans la double limite de la fraction de tarif affectée à chaque région et à la collectivité de Corse en vertu du I
+de l'article 40 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006 relatif à la compensation financière des
+transferts de compétences aux régions et de respectivement 1,77 euro par hectolitre pour le supercarburant mentionné aux
+indices d'identification 11 et 11 ter et 1, 15 euro par hectolitre pour le gazole mentionné à l'indice d'identification 22. 
+
+Les délibérations des conseils régionaux et de l'assemblée de Corse ne peuvent intervenir qu'une fois par an et au plus tard
+le 30 novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à la direction générale des
+douanes et droits indirects, qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au
+plus tard à la fin de la première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de
+consommation entrent en vigueur le 1er janvier de l'année suivante. 
+
 3. Tout produit autre que ceux pour lesquels un tarif de taxe intérieure de consommation est prévu au tableau B du 1, destiné
 à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif en vue d'accroître le volume final des
 carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable au carburant équivalent ou au
@@ -11791,9 +11744,6 @@ chargé du budget.
 
 Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016 et s'appliquent
 aux volumes de carburants mis à la consommation à compter du 1er janvier 2016.
-
-(1) Ces dispositions entrent en vigueur le premier jour du mois suivant  l'achèvement des formalités de notification à la
-Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -12026,7 +11976,7 @@ Commission européenne.
 	  - Code général des collectivités territoriales - art. L4425-1 (MMN)
 	  - Code général des impôts, CGI. - art. 1010 A (Ab)
 	  - Code général des impôts, CGI. - art. 1011 bis (V)
-	  - Code général des impôts, CGI. - art. 1599 novodecies A (V)
+	  - Code général des impôts, CGI. - art. 1599 novodecies A (VD)
 	  - Code général des impôts, CGI. - art. 295 (VD)
 	  - Code général des impôts, CGI. - art. 297 (VD)
 	  - Code général des impôts, CGI. - art. 298 (V)
@@ -12116,9 +12066,7 @@ Commission européenne.
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 58 (V)
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 59
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 
@@ -12542,14 +12490,14 @@ titre de l'exploitation de transports publics routiers en commun de voyageurs.
 Ce remboursement est calculé, au choix de l'entreprise :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans
-chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y
-est applicable en application des articles 265, 265 A bis et 265 A ter ;
+chaque région et dans la collectivité de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est
+applicable en application des articles 265, 265 A bis et 265 A ter ;
 
 - soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis
-dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement
-calculé en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter
-par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de
-Corse. Le montant de ce taux moyen pondéré est fixé par arrêté. 
+dans au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en
+pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les
+volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le
+montant de ce taux moyen pondéré est fixé par arrêté. 
 
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
 sauf dans les départements d'outre-mer. 
@@ -12611,8 +12559,8 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
 
 	**Cite**:
 
@@ -12656,7 +12604,7 @@ de commercialisation et d'utilisation de ce produit.
 
 Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
 réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
-territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
+territoire de la Corse ou livrés dans les ports de Corse à l'avitaillement des bâtiments de plaisance et de sport :
 
 <table>
   <tbody>
@@ -12687,12 +12635,12 @@ d'identification
 27.10.00
 
 </td>
-      <td width="237" valign="top">
+      <td valign="top" width="237">
 
 Supercarburants
 
 </td>
-      <td width="202" valign="top">
+      <td valign="top" width="202">
 
 11 et 11 bis
 
@@ -12709,12 +12657,11 @@ Supercarburants
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code des douanes - art. 265 (M)
+	  - Code des douanes - art. 265
 
 
 ###### Article 265 septies
@@ -12736,14 +12683,14 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé, au choix du demandeur :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
-région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est
-applicable en application des articles 265, 265 A bis et 265 A ter ;
+région et dans la collectivité de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est applicable en
+application des articles 265,265 A bis et 265 A ter ;
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
-au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé
-en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les
-volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le
-montant de ce taux moyen pondéré est fixé par arrêté. 
+au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en pondérant
+les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les volumes de
+gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de
+ce taux moyen pondéré est fixé par arrêté. 
 
 Le remboursement est également accordé aux personnes établies dans un autre Etat membre de l'Union européenne qui sont en
 mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et que ce
@@ -12808,12 +12755,13 @@ Les modalités d'application du présent article sont fixées par décret.
 
 	**Modifié par**:
 
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-	  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
 
 	**Cite**:
 
 	  - Code des douanes - art. 265
+	  - Code des douanes - art. 265 A bis (V)
 	  - Code des douanes - art. 284 bis A
 	  - Code des douanes - art. 352
 
@@ -12828,9 +12776,9 @@ activité professionnelle.
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
 sauf dans les départements d'outre-mer. 
 
-Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité
-territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants
-concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
+Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité de
+Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20
+euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
 
 **Liens relatifs à cet article**
 
@@ -12880,10 +12828,7 @@ concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hecto
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-
-	**Abrogé par**:
-
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 	**Cite**:
@@ -16312,8 +16257,8 @@ de 10 %.
 
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
 
-4. Le paiement de la taxe doit être effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les
-écritures de la Banque de France, lorsque son montant excède 5 000 euros. 
+4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -16331,7 +16276,7 @@ exigible à compter du 1er juillet 2016.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ###### Article 284 quinquies
