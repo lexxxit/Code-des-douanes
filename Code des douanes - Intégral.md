@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2019-01-01
 
 # Titre Ier : Principes généraux du régime des douanes
 
@@ -13178,12 +13178,12 @@ Réception de déchets dans une installation de stockage de déchets non dangere
 livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat. 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 tonne 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 150 
 
@@ -13193,7 +13193,7 @@ tonne
 151 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 151 
 
@@ -13208,12 +13208,12 @@ tonne
 152 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 155 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 155 
 
@@ -13237,40 +13237,10 @@ livre V du code de l'environnement pour ladite réception ou transfert vers une 
 et autorisée en vertu d'une réglementation d'effet équivalent : 
 
 </td>
-      <td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-    </td></tr>
-    <tr>
-      <td valign="middle">
-
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ; 
-
-</td>
       <td valign="middle" align="left">
-
-tonne 
-
-</td>
-      <td valign="middle" align="center">
-
-32 
-
-</td>
-      <td valign="middle" align="center">
-
-33 
-
-</td>
-      <td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td align="left" valign="middle">
       </td><td valign="middle" align="left">
       </td><td align="left" valign="middle">
       </td><td valign="middle" align="left">
@@ -13279,17 +13249,34 @@ tonne
       </td><td valign="middle" align="left">
     </td></tr>
     <tr>
-      <td valign="middle" align="left">
+      <td valign="middle">
+
+A.- (Supprimé)
+
+</td>
+      <td align="left" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td align="center" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td valign="middle" align="left">
+      </td><td align="left" valign="middle">
+      </td><td align="left" valign="middle">
+      </td><td valign="middle" align="left">
+      </td><td valign="middle" align="left">
+      </td><td valign="middle" align="left">
+    </td></tr>
+    <tr>
+      <td align="left" valign="middle">
 
 B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ; 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 tonne 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 23 
 
@@ -13299,12 +13286,12 @@ tonne
 24 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 24 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 25 
 
@@ -13329,7 +13316,7 @@ tonne
 30 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 31 
 
@@ -13353,12 +13340,12 @@ tonne
 32 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 33 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 34 
 
@@ -13368,12 +13355,12 @@ tonne
 35 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 35 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 38 
 
@@ -13383,12 +13370,12 @@ tonne
 39 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 41 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 42 
 
@@ -13400,7 +13387,7 @@ tonne
 D.-Relevant à la fois des B et C ; 
 
 </td>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 tonne 
 
@@ -13410,7 +13397,7 @@ tonne
 15 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 16 
 
@@ -13420,7 +13407,7 @@ tonne
 17 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 18 
 
@@ -13430,12 +13417,12 @@ tonne
 18 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 21 
 
 </td>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 22 
 
@@ -13445,14 +13432,14 @@ tonne
 24 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 25 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td valign="middle" align="left">
 
 E.-Autre. 
 
@@ -13462,7 +13449,7 @@ E.-Autre.
 tonne 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 40 
 
@@ -13492,17 +13479,17 @@ tonne
 45 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 45 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 47 
 
 </td>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 48 </td>
     </tr>
@@ -13569,13 +13556,8 @@ installation située dans un autre Etat et autorisée en vertu d'une réglementa
       <tr>
         <td valign="middle">
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ; 
-
-- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ; 
-
-</td>
+A.-Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
+accrédité ; </td>
         <td align="center" valign="middle">
 
 tonne 
@@ -13588,17 +13570,17 @@ tonne
 </td>
       </tr>
       <tr>
-        <td valign="middle" align="left">
+        <td align="left" valign="middle">
 
 B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ; 
 
 </td>
-        <td valign="middle" align="center">
+        <td align="center" valign="middle">
 
 tonne 
 
 </td>
-        <td align="center" valign="middle">
+        <td valign="middle" align="center">
 
 12 
 
@@ -13615,7 +13597,7 @@ C. Réalisant une valorisation énergétique élevée dont le rendement énergé
 tonne 
 
 </td>
-        <td align="center" valign="middle">
+        <td valign="middle" align="center">
 
 9 
 
@@ -13627,7 +13609,7 @@ tonne
 D.-Relevant à la fois des A et B ; 
 
 </td>
-        <td valign="middle" align="center">
+        <td align="center" valign="middle">
 
 tonne 
 
@@ -13639,12 +13621,12 @@ tonne
 </td>
       </tr>
       <tr>
-        <td align="left" valign="middle">
+        <td valign="middle" align="left">
 
 E.-Relevant à la fois des A et C ; 
 
 </td>
-        <td valign="middle" align="center">
+        <td align="center" valign="middle">
 
 tonne 
 
@@ -13656,7 +13638,7 @@ tonne
 </td>
       </tr>
       <tr>
-        <td align="left" valign="middle">
+        <td valign="middle" align="left">
 
 F.-Relevant à la fois des B et C ; 
 
@@ -13666,14 +13648,14 @@ F.-Relevant à la fois des B et C ;
 tonne 
 
 </td>
-        <td align="center" valign="middle">
+        <td valign="middle" align="center">
 
 5 
 
 </td>
       </tr>
       <tr>
-        <td align="left" valign="middle">
+        <td valign="middle" align="left">
 
 G.-Relevant à la fois des A, B et C ; 
 
@@ -13683,7 +13665,7 @@ G.-Relevant à la fois des A, B et C ;
 tonne 
 
 </td>
-        <td align="center" valign="middle">
+        <td valign="middle" align="center">
 
 3 
 
@@ -13712,8 +13694,8 @@ tonne
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ; 
 
-d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
-date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+d) Le tarif réduit mentionné au A du tableau du deuxième alinéa du b s'applique aux tonnages de déchets réceptionnés à
+compter de la date d'obtention de la certification ISO 50001 ; 
 
 e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
 en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
@@ -13795,7 +13777,7 @@ dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79" align="center">
+      <td width="79" align="center" colspan="5">
 
 25,57
 
@@ -13814,7 +13796,7 @@ Substances émises dans l'atmosphère :
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 136,02
 
@@ -13831,7 +13813,7 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 43,24 (44,49 en 2009)
 
@@ -13855,17 +13837,17 @@ Tonne
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td valign="top" colspan="3" align="left">
+      <td colspan="3" align="left" valign="top">
 
 Tonne 
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td colspan="5" align="left" valign="top">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
@@ -13877,29 +13859,29 @@ Tonne
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td colspan="3" align="center" valign="top">
+      <td valign="top" colspan="3" align="center">
 
 Tonne 
 
 </td>
-      <td valign="top" colspan="5" align="center">
+      <td colspan="5" align="center" valign="top">
 
 136,02 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 - poussières totales en suspension 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td align="left" colspan="3" valign="top">
 
 Tonne 
 
 </td>
-      <td align="left" colspan="5" valign="top">
+      <td colspan="5" align="left" valign="top">
 
 259,86 
 
@@ -14141,12 +14123,12 @@ Tonne
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
 </td>
-      <td align="left" colspan="3" valign="top">
+      <td valign="top" colspan="3" align="left">
 
 Tonne 
 
 </td>
-      <td align="left" valign="top" colspan="5">
+      <td align="left" colspan="5" valign="top">
 
 283,65 (291,88 en 2009)
 
@@ -14179,7 +14161,7 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td valign="top" colspan="3" align="left">
+      <td valign="top" align="left" colspan="3">
 
 </td>
       <td align="left" colspan="5" valign="top">
@@ -14212,7 +14194,7 @@ Délivrance d'autorisation :
       <td colspan="3">
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 2 525,35 (2 598,59 en 2009)
 
@@ -14228,7 +14210,7 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td valign="top" colspan="3" align="left">
+      <td align="left" colspan="3" valign="top">
 
 </td>
       <td valign="top" colspan="5" align="left">
@@ -14243,10 +14225,10 @@ système de management environnemental a été certifié conforme à la norme IS
 - autres installations 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td colspan="3" align="left" valign="top">
 
 </td>
-      <td valign="top" colspan="5" align="left">
+      <td align="left" colspan="5" valign="top">
 
 380,44 (391,47 en 2009)
 
